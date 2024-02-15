@@ -1,0 +1,1 @@
+I have become a Junior Security Analyst who is a Triage(a cyber incident response approach to treating attacks) Specialist

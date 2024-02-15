@@ -1,0 +1,12 @@
+
+- Apache
+- Samba 
+- Cronjobs
+- Basic commands like uid and ps
+- SSH
+- OpenSSL
+- Snort
+- Wildfire
+- Zero days
+- Metasploit
+- port security / printer protocols TLS instead of SSL and using SSH instead of Telnet

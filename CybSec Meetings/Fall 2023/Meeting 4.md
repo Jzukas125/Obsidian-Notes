@@ -1,0 +1,42 @@
+```
+- Secretary needs to do more notes and ensure they write everything down
+- Jake needs to do the discord bot for the leaderboard
+- Secretary and COS need to collabroate on notes 
+- Remainders are necessary and a response should be normal
+- Joey doesn't want a reminder and he wants to have some interact with him 
+
+- Need to think about what we're going to do with the password manager and Joey only wants offcial officers to have access to the passwords
+	- Tim proposes we have a password change every 3 months and every password should be changed every semester
+	- Dallas suggestes we use keypasspro
+	- Tim suggests could also use a two key system 
+	- Javier suggests we use password leasing system
+- ***Joey says he should be able to finish the list of workshops, guest speakers, games, and movies which should be Cybersecurity and computer related***
+- Aidan talked to Ujan and Ujan said he was willing to host meetings on blockchain 
+	- ***Jacob and Deven need to remind Joey to email Ujan about the blockchain meetings and get resources on blockchain***
+- Jake wants smaller breakout teams for CCDC 
+- Dallas suggests that we load a default system on a single computer and we all work together on configuring a specifc item for CCDC
+- Dallas suggests we set up a singular server and we all configure it together, simulating what the competition environment will be like
+- B-Sides photos were lack-luster and more should have been taken, Hannah wants the photos to be sent to her immediately so she can upload them during the event
+- 24 hour meeting upload is in-effect 
+- Meetings do not need to be held every week but CCDC is not planning to cancel any meetings
+- The event meeting needs to be deleted if canceled 
+- ***Joey needs to give Jacob his Github account***
+- Saint Leo CTF flyer has been acquired and sent to Angelo, there are only 5 people per team but colleges can have multiple, we will be there in person, we will have an A team, B team and maybe a C team with distrubtions based on skill level
+- ***Carpool is 4 weeks in advance and Joey needs to talk to Isabelle about getting reimburesment***
+- Reimbursement is 3 weeks in advance
+- Programming Club is no longer holding meetings and they are ending the entire club but Joey will talk to other students to see if they can run something similar
+- Logo has been finished but changes are being made
+- ***Joey needs to be reminded to how to figure out how to record meetings***
+- Jake is testing the discord bot that creates a leaderboard for CTF
+- Everyone on old pheonix link did not get emails for presence 
+- ***Joey needs to email all the old members to rejoin the club via Presence***
+- Hannah wants to scan people in on the presence app
+- The ARC lab is open to be reserved
+- ***Joey wants to sign up for the ARC Lab room and needs to figure out how to do it***
+- ***Documentation has been found of the old cybersecurity club and Joey wnats to go through it and find out whats important and how to get assets we used to have and why we're still unable to get a designated room***
+- ***Joey needs to grab another asset that is a document of cybersecurity radio stuff***
+- ***Deven needs to remind Joey to get temporary flyers for our meetings***
+- Javier suggests we do a stand in front of the IST, which we could do once we get marketing items
+	- ***The club can be included during tour days, we need to figure out how to include ourselves in that***
+- ***Joey spoke to Reza and still needs to speak to Reza about Cisco academy***
+```

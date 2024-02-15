@@ -1,0 +1,529 @@
+# Chapter 1
+
+Redundancy adds duplication to critical systems and provides fault tolerance. If a critical component has a fault, the redundancy's duplication allows the service to continue without interruption.
+
+Scalability is increasing the capacity of a service
+	Horizontal scaling is adding more machine or nodes to a system
+	Vertical Scaling involves adding more power such as CPU, RAM, storage, etc
+	Elasticity automates scalability 
+
+Security Controls
+	Technical Controls use tech as hardware, software, and firmware
+	Managerial Controls are primarily admin controls
+	Operational Controls help ensure the day-to-day operations of an organization comply with the security policy
+	Physical controls impact the physical world
+
+Control categories - describe how the control works
+	Technical controls 
+		Encryption
+		Antivirus software
+		Intrusion detection systems and Intrusion prevention systems
+		Firewalls
+		Least privilege
+	Managerial Controls
+		Risk assessments
+		Vulnerability assessments
+	Operational Controls
+		Awareness and Training
+		Configuration management
+		Media protection
+	Physical Controls
+		physical controls are any controls that you can physically touch
+
+Chapter 1 review
+
+CIA triad 
+Basic Risk Concepts 
+Security Controls
+Understanding logs
+
+Chapter 1 Practice Questions
+1. C 
+2. B
+3. A
+4. ~~B~~
+5. D
+6. C
+7. D
+8. A
+9. B
+10. ~~A~~
+11. C
+12. ~~C~~
+13. B
+14. ~~D~~
+15. D
+
+Chapter 1 questions review
+4 A is correct, Elasticity is the best choice because it allows the server to dynamically scale as needed in response to changes in demand. Scalability isn't the best answer because it is done manually; in this case, the high resource usage is random and manually adding resources can't respond to the random spikes quickly enough. Normalization refers to organization tables and columns in a database to reduce redundant data and improve overall database performance. Stored procedures are a group of SQL statements that execute as a whole and help prevent SQL injection attacks.
+
+10 D is correct. 
+Kate’s manager asked her to organize a new process for conducting periodic vulnerability assessments of her organization’s infrastructure. She is working to create a standard operating procedure for this scanning. What category BEST describes the control is she creating? 
+A. Technical B. Detective C. Physical D. Managerial
+Tricky question because there are several possible correct answers but not the BEST answer. Vulnerability assessments are an assessment method used to reduce risk and are an assessment method used to reduce risk and are an example of managerial control. The clues that is managerial is the correct answer here are that there is no mention of the technology being used are that there is no mention of the technology being used to complete the assessments and there is no focus on policy and procedure.
+
+12 D is correct
+You are investigating an active security incident and you
+want to view the contents of network traffic that passed
+between two systems. What data source would BEST
+provide this information?
+A. Operating system log
+B. Application log
+C. Firewall log
+D. Packet capture
+Investigators looking into an active security incident may use a packet capture tool like Wireshark to capture network traffic. Firewall logs may contain records of the systems that communicated with each other, but they would not normally contain the content of the communication. Operating system and application logs are not an ideal source of this type of info because they only pertain to one computer or application and would not have access to all content of network traffic
+
+14 A is correct
+The network time protocol (NTP) is used to synchronize system clocks with a centralized time source. The file transfer protocol (FTP) and secure file transfer protocol (SFTP) are used to transfer files and not synchronize clocks. The hyper text transfer protocol secure (HTTPS) is used to transfer web pages and not to synchronize clocks.
+
+11/15 correct 
+
+
+# Chapter 2 
+
+AAA - Authentication, authorization, and accounting work together with identification to provide a comprehensive access management system.
+
+Authentication - the process or action of proving or showing something to be true
+Authorization - the tight or permission that is granted to a system entity to access a system resource 
+Accounting - measures the resources the user consumes during access
+
+Something you know is like a pin or password
+
+Something you have refers to something you can physically hold such as a smart card, security key, software token, and hardware token
+Soft token is like a google authenticator app
+Hard token is an electronic device that has a one time password displayed on it
+
+Something you are is biometrics such as fingerprints, vein matching, retina imaging, iris scanners, facial recognition, voice recognition, and gait analysis (walking analysis)
+
+Chapter 2 Questions
+1. D,F
+2. ~~B~~
+3. ~~C~~
+4. ~~B~~
+5. B
+6. ~~C~~
+7. C
+8. ~~D~~
+9. ~~B~~
+10. D
+11. ~~A~~
+12. ~~A~~
+13. D
+14. B
+15. C
+
+Chapter 2 Questions review
+
+2 A is correct
+Your organization recently updated an online application
+employees use to log on when working from home.
+Employees enter their username and password into the
+application from their smartphone and the application logs
+their location using GPS. Which type of authentication is
+being used?
+A. One-factor
+B. Dual-factor
+C. Something you are
+D. Something you have
+
+It is asking what type of authentication is being used and it is one-factor as it is only one factor of authentication
+
+3 B is correct
+Management within your organization wants to add 2FA
+security for users working from home. Additionally,
+management wants to ensure that 2FA passwords expire
+after 30 seconds. Which of the following choices BEST
+meets this requirement?
+A. HOTP
+B. TOTP
+C. SMS
+D. Kerberos
+
+A time based one time password (TOTP) meets the requirement of two-factor authentication (2FA) A user logs on with regular credentials and then must enter an additional one-time password. An example of this is google authenticator.
+A HMAC-based One-Time Password (HOTP) creates passwords that do no expire until they are used. Short message service (SMS) is sometimes used to send users a one-time use password via email. Kerberos uses tickets instead of passwords
+
+4 C is Correct 
+ Management within your organization has decided to
+implement a biometric solution for authentication into the
+data center. They have stated that the biometric system
+needs to be highly accurate. Which of the following provides
+the BEST indication of accuracy with a biometric system?
+A. The lowest possible FRR
+B. The highest possible FAR
+C. The lowest possible CER
+D. The highest possible CER
+
+A lower crossover error rate (CER) indicates a more accurate biometric system. False acceptance rate (FAR) and the False rejection rate (FRR) vary based on the sensitivity of the biometric system and don't indicate accuracy by themselves. A higher CER indicates a less accurate biometric system.
+
+6 D is correct
+Users regularly log on with a username and password.
+However, management wants to add a second
+authentication factor for any users who launch the gcga
+application. The method needs to be user-friendly and nondisruptive. Which of the following will BEST meet these
+requirements?
+A. An authentication application
+B. TPM
+C. HSM
+D. Push notifications
+
+Push notifications are user friendly and non disruptive. An authentication application isn't as user-friendly as a push notification. It requires users to log on to the smartphone, find the app, and enter the code. A trusted platform module (TPM) can provide for the implementation of full disk encryption, which would protect the data if someone accessed the laptop, but it doesn't prevent access. A hardware security module (HSM) isn't relevant to the question as well as TPM.
+
+8 A is correct
+You need to provide a junior administrator with appropriate
+credentials to rebuild a domain controller after it suffers a
+catastrophic failure. Of the following choices, what type of
+account would BEST meet this need?
+A. User account
+B. Generic account
+C. Guest account
+D. Service account
+A user account with admin privileges can have the admin add the domain controller. A generic account is shared between two or more users and is not recommended. A guest account is disabled by default and it is not appropriate to grant the guest account admin privileges. A service account is an account created to be used by a service  
+
+9 D is correct 
+ Lisa is reviewing an organization’s account management
+processes. She wants to ensure that security log entries
+accurately report the identity of personnel taking specific
+actions. Which of the following steps would BEST meet this
+requirement?
+A. Implement generic accounts.
+B. Implement role-based privileges.
+C. Use an SSO solution.
+D. Remove all shared accounts.
+Removing all shared accounts is the best answer of the available choices. If two employees are using the same account, and one employee maliciously deletes data in a database, it isn't possible to identify which employee deleted the data. Generic accounts are the same as shared accounts and shouldn't be used. Role-based privileges assign the same permissions to all members of a group, which simplifies administration. A single sign-on (SSO) solution allows a user to log on once and access multiple resources.
+
+11 C is correct
+A software developer is creating an application that must
+access files stored in the user’s Google Drive. What is the
+best way for the user to grant the application access to their
+Google account?
+A. OpenID Connect
+B. Provide their Google password each time they log
+into the application
+C. OAuth
+D. Store their Google password in the application
+The OAuth authorization protocol is explicitly designed for this type of situation. Use of the application can grant the application limited access to resources in their Google account without disclosing their credentials. OpenID connect is used to log into one service with credentials with another service and does not provide the type of authorization required in this scenario.
+
+12 B is correct 
+Web developers in your organization are creating a web
+application that will interact with other applications running
+on the Internet. They want their application to receive user
+credentials from an app running on a trusted partner’s web
+domain. Which of the following is the BEST choice to meet
+this need?
+A. SSO
+B. SAML
+C. Kerberos
+D. RADIUS
+Security Assertion Markup Language (SAML) is a single sign-on (SSO) solution used for web-based applications and would meet the requirement. All SSO are not used on the internet. Kerberos is an SSO solution used on internal networks such as in Microsoft Active Directory domains and Unix realms. Remote Authentication Dial-In User Service (RADIUS) provides AAA services for some remote access, wired, and wireless network solutions.
+7/15 correct
+# Chapter 3 
+
+OSI model, UDP, IP, TCP
+ICMP - Internet Control Message Protocol tests basic connectivity and includes tools like ping and tracert
+
+Address Resolution Protocol (ARP) - Resolves IPv4 addresses to MAC addresses 
+
+Bridge protocol data unit - messages sent by STP in a network to detect loops
+
+Security zones
+	Intranet - internal network, people use the intranet to communicate and share content with each other 
+	Extranet - part of a network that can be accessed authorized entities outside of the network
+
+Screened Subnet ie DMZ - a security zone between a private network and the internet
+
+Network address translation (NAT) - protocol that translates public IP addresses to private IP and private IP addresses back to public 
+
+VLANS can use switches to separate networks 
+
+Control plane vs Data plane
+	control plane - communications used to control and configure the network take place here
+		Core components include the Policy Engine, Policy Administrator, and the Policy Enforcement Point
+	data plane - software used to communicate with each other take place here
+
+Ports to know
+	22 - ssh
+	80 - HTTP
+	443 - HTTPS
+	587 - SMTPS
+
+Chapter 3 Questions 
+1. ~~A~~
+2. B
+3. C - Guess
+4. D
+5. A
+6. ~~C~~
+7. B
+8. A
+9. ~~D~~
+10. A
+11. ~~D~~
+12. ~~C~~
+13. ~~B~~
+14. ~~C~~
+15. ~~A, E~~
+
+Chapter 3 Questions Review 
+
+1 B is correct
+An outside consultant performed an audit of the Municipal
+House of Pancakes network. She identified a legacy protocol
+being used to access browser-based interfaces on switches
+and routers within the network. She recommended
+replacing the legacy protocol with a secure protocol to
+access these network devices using the same interface.
+Which of the following protocols should be implemented?
+A. The newest fully supported version of SSL
+B. The newest fully supported version of TLS
+C. The newest fully supported version of LDAPS
+D. The newest fully supported version of SNMP
+The newest version of Transport Layer Security (TLS) should implemented to access the network devices to access the network devices. SSL has been deprecated and should not be used. Lightweight Directory Access Protocol Secure is used to communicate with directories such as Microsoft Active Directory. Simple Network Management Protocol version 3 (SNMPv3) adds security to SNMP and encrypts the credentials sent to and from the network devices, but it doesn't support access via a browser 
+
+3 C is correct 
+Maggie needs to collect network device configuration
+information and network statistics from devices on the
+network. She wants to protect the confidentiality of
+credentials used to connect to these devices. Which of the
+following protocols would BEST meet this need?
+A. SSH
+B. FTPS
+C. SNMPv3
+D. TLS
+Simple Network Management Protocol version 3 is a secure protocol that can monitor and collect information from network devices. It includes strong authentication mechanisms to protect the confidentiality of credentials.
+
+6 B is correct
+Maggie is examining traffic on a network searching for signs
+of insecure protocol use. She sees communications taking
+place on several different network ports. Which one of these
+ports most likely contains insecure traffic?
+A. 22
+B. 80
+C. 443
+D. 587
+ Port 80 is used by the unencrypted HTTP. Secure web communications should take place using the encrypted HTTPS on port 443. Port 22 is used by SSH for encrypted administrative connections and data transfers. Port 587 is used by the Simple Mail Transfer Protocol Secure (SMTPS) to transfer email messages between servers over an encrypted connection.
+
+9 B is correct
+ Network administrators manage network devices remotely.
+However, a recent security audit discovered they are using a
+protocol that allows them to send credentials over the
+network in cleartext. Which of the following is the best
+method to be adopted to eliminate this vulnerability?
+A. Use SNMPv2c.
+B. Use SSH.
+C. Use SSL.
+D. Use SFTP.
+Secure Shell can be used to connect ot many network devices and is the best answer of the given choices. SSL encrypts but has been deprecated and shouldn't be used. SFTP just transfers files.
+
+11 B is correct
+Your organization’s network looks like the following graphic,
+and you’ve been asked to verify that Firewall 1 has the
+correct settings.
+All firewalls should enforce the following requirements:
+Use only secure protocols for remote management.
+Block cleartext web traffic.
+The following table shows the current rules configured in Firewall
+1.
+You’re asked to verify the rules are configured correctly. Which
+rule, if any, should be changed to ensure Firewall 1 meets the
+stated requirements?
+A. HTTPS Outbound
+B. HTTP Outbound
+C. DNS
+D. Telnet
+E. SSH
+F. None. All rules are correct.
+(Figure not shown)
+HTTP rule should be changed from Allow to Block to block cleartext web traffic. Telnet rule has the incorrect destination address and the incorrect action. It should be 10.0.1.0/24 and set to block because it is not a secure protocol for remote management
+
+12 A is correct
+The Springfield Nuclear Power Plant has several stand-alone
+computers used for monitoring. Employees log on to these
+computers using a local account to verify proper operation
+of various processes. The CIO of the organization has
+mandated that these computers cannot be connected to the
+organization’s network or have access to the Internet.
+Which of the following would BEST meet this requirement?
+A. Air gap the computers.
+B. Place the computers in a screened subnet.
+C. Create a separate isolated network for these
+computers.
+D. Place the computers within a VLAN.
+An air gap provides physical isolation, indicating that there is a gap of air between an isolated system and other systems. A screened subnet provides a buffer between the internet and an internal network. Scenario doesn't indicate the computers need to be connected, so a separeate isolated network is not needed
+
+13 C is correct
+You have added another router in your network. This router
+provides a path to a limited access network that isn’t
+advertised. However, a network administrator needs to
+access this network regularly. Which of the following could
+he do to configure his computer to access this limited
+network?
+A. Implement QoS technologies.
+B. Add a VLAN.
+C. Use the route command.
+D. Open additional ports on the router.
+The route command can be used to display and manipulate the routing table on a Linux computer. Using this you can provide another gateway path through this router to the limited access network. VLAN is used to segment or isolate a network, so configuring one won't grant access to a network. A router doesn't have ports that can be opened for individual users
+
+14 B is correct 
+ Several servers in your organization’s screened subnet were
+recently attacked. After analyzing the logs, you discover that
+many of these attacks used TCP, but the packets were not
+part of an established TCP session. Which of the following
+devices would provide the BEST solution to prevent these
+attacks in the future?
+A. Stateless firewall
+B. Stateful firewall
+C. Network firewall
+D. Web application firewall
+A stateful firewall filters traffic based on the state of the packet within a session. It would filter a packet that isn't part of an established transmission control protocol (TCP) session, which starts with a TCP three-way handshake. A stateless firewall filters traffic based on the IP address, port, or protocol ID. While it's appropriate to place a network firewall in a screened subnet, a network firewall could be either a stateless firewall or a stateful firewall. A WAF (web application firewall) is only to protect web applications.
+
+15 D and E is correct
+Your network currently has a dedicated firewall protecting
+access to a web server. It is currently configured with only
+the following two rules in the ACL:
+PERMIT TCP ANY ANY 443
+PERMIT TCP ANY ANY 80
+You have detected DNS requests and DNS zone transfer
+requests coming through the firewall and you need to block
+them. Which of the following would meet this goal? (Select
+TWO. Each answer is a full solution.)
+A. Add the following rule to the firewall: DENY TCP ALL ALL
+53.
+B. Add the following rule to the firewall: DENY UDP ALL ALL
+53.
+C. Add the following rule to the firewall: DENY TCP ALL ALL
+25.
+D. Add the following rule to the firewall: DENY IP ALL ALL 53.
+E. Add an implicit deny rule at the end of the ACL.
+The easiest way to add an implicit deny rule at the end of the access control list and all firewalls should have this to block all unwanted traffic. You can also deny all IP traffic using port 53 with DENY IP ALL ALL 53. Domain Name System (DNS) requests use UDP port 53, and DNS zone transfers use TCP port 53, so blocking only TCP 53 or UDP 53 does not block all DNS traffic. Port 25 is for SMTP
+
+# Chapter 4
+
+SSID is the name of the wireless network and disabling the broadcast hides a wireless network from casual users
+
+WPA2 uses AES with CCMP and supports open, preshared key and Enterprise modes
+
+Enterprise mode is more secure than personal mode because it adds authentication and it uses an 802.1X authentication server implemented as a RADIUS server.
+
+WPA3 uses simultaneous authentication of equals (SAE) instead of the PSK. WPA3 supports enterprise mode, similar to WPA2 enterprise mode
+
+WPA3 offers a secure open mode
+
+802.1X servers use one of the Extensible Authentication Protocol (EAP) versions, such as Protected EAP, EAP-Tunneled TLS, EAP-TLS, or EAP-Flexible Authentication via Secure Tunneling
+
+Most secure EAP method is EAP-TLS and it requires a certificate
+
+802.1X server provides strong port security using port-based authentication and it prevents rogue devices from connecting to a network by ensuring only authorized clients can connect
+
+802.1X server provides strong port security using port based authentication
+
+Captive portal forces wireless clients to complete a process, such as acknowledging a policy or paying a access.
+
+Disassociation attack removes a wireless client from a wireless network
+
+Wifi protected setup WPS allows users to easily configure a wireless device by pressing a button or entering a short PIN
+
+Rogue Access point is an AP placed without permission an evil twin is a rogue access point with the same or similar SSID as a legitimate access point
+
+Bluejacking is the practice of sending unsolicited messages to a phone
+BlueSnarfing is the unauthorized access to or theft of information from a Bluetooth device
+Faraday cages block Bluetooth signals
+
+In wireless replay attacks, an attacker captures data sent between two entities, modifies it, and then impersonates one of the parties by replaying the data. WPA2 and WPA3 are resistant to wireless replay attacks
+
+Network Access Control (NAC) inspects clients for specific health conditions such as up-to-date antivirus software
+
+Agentless NAC system will scan systems remotely instead of installing an agent on the system
+
+Chapter 4 Questions
+1. ~~C~~
+2. ~~D~~
+3. C
+4. C
+5. ~~D~~
+6. ~~D~~
+7. ~~D~~
+8. C
+9. A
+10. A
+11. ~~C~~
+12. B
+13. B
+14. B
+15. ~~A~~
+
+Chapter 4 Question Review
+
+1 B is correct
+A HIDS reported a vulnerability on a system based on a
+known attack. After researching the alert from the HIDS,
+you identify the recommended solution and begin applying
+it. What type of HIDS is in use?
+A. Network-based
+B. Signature-based
+C. Heuristic-based
+D. Anomaly-based
+If the Host-based Intrusion Detection System (HIDS) identified a known issue, it is using signature-based detection. A HIDS is not network-based but a network-based IDS can also use signature detection. Trend based detection systems identify issues by comparing current activity against a baseline. They can identify issues not currently known.
+
+2 C is correct 
+You are preparing to deploy a trend-based detection system
+to monitor network activity. Which of the following would
+you create first?
+A. BPDU guard
+B. Signatures
+C. Baseline
+D. Honeypot
+A trend based detection system compares current activity with a previously created baseline to detect any anomalies or changes. Signature-based systems use signatures of known attack patterns to detect attacks. A honey pot is a server designed to look valuable to an attacker and can divert attacks
+
+5 B is correct 
+Your organization is planning to upgrade the wireless
+network used by employees. It will provide encrypted
+authentication of wireless users over TLS. Which of the
+following protocols are they MOST likely implementing?
+A. EAP
+B. PEAP
+C. WPA2
+D. WPA3
+Protected Extensible Authentication Protocol can be used for wireless authentication and it uses Transport Layer Security (TLS) to encapsulate and encrypt the authentication conversation within a TLS tunnel. EAP is a basic framework for authentication and can't provide authentication. Neither WPA2 or WPA3 (Wi-fi Protected Access) use TLS.
+
+6 B is correct 
+Lisa is creating a detailed diagram of wireless access points
+and hotspots within your organization. What is another
+name for this?
+A. Remote access VPN
+B. Wireless footprinting
+C. Channel overlap map
+D. Architectural diagram
+Wireless footprinting creates a detailed diagram of wireless access points and hotspots within an organization, it typically displays a heat map and dead spots if they exist. A remote access VPN provides access to a private network and is unrelated to the question. Wi-Fi analyzers provide a graph showing channel overlaps but not a diagram of wireless access points. An architectural diagram is of a building
+
+7 A is correct 
+You are assisting a small business owner in setting up a
+public wireless hotspot for her customers. She wants to
+allow customers to access the hotspot without entering a
+password. Which of the following is MOST appropriate for
+this hotspot?
+A. Use Open mode.
+B. Use a PSK.
+C. Use Enterprise mode.
+D. Disable SSID broadcast.
+Open mode is the best choice of those given for a public wireless hotspot that doesn't require a password. A pre-shared key (PSK) is the same as a password and the scenario says a password isn't desired. Enterprise mode requires each user to authenticate and is typically enabled with a RADIUS server. If you disable service set identifier (SSID) broadcast, it will make it harder for the customers to find the hotspot.
+
+11 A is correct
+An attacker can access email contact lists on your
+smartphone. What type of attack is this?
+A. Bluesnarfing
+B. Bluejacking
+C. Captive portal
+D. WPS
+A successful BlueSnarfing attack allows attackers to access data on a smartphone. Bluejacking is the practice of sending unsolicited messages to other Bluetooth devices.
+
+15 D is correct
+Your organization recently implemented a BYOD policy.
+However, management wants to ensure that mobile devices
+meet minimum standards for security before they can
+access any network resources. Which of the following would
+the NAC MOST likely use?
+A. Permanent
+B. Health
+C. RADIUS
+D. Agentless
+An agentless NAC system is often used on employee-owned devices and would be appropriate if an organization implemented a bring your own device policy. A permanent network access control agent is installed on the device permanently, but this might cause problems for employee-owned devices. Any NAC agent is a health agent. Remote Authentication Dial In Service (RADIUS) is used for AAA, not to inspect clients.
