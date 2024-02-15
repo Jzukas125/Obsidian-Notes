@@ -3,5 +3,6 @@
   "baseFontSize": 18,
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": "Monotype Corsiva,Haettenschweiler,Century Gothic"
+  "textFontFamily": "Century Gothic,Monotype Corsiva,Haettenschweiler",
+  "cssTheme": "Minimal"
 }
