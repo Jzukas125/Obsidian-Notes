@@ -531,4 +531,5 @@ An agentless NAC system is often used on employee-owned devices and would be app
 Chapter 5
 Endpoints are services such as servers, desktops, laptops, mobile devices, or IoT  devices. EDR provides continuous monitoring of endpoints.
 
-TPM - trusted platform module 
+TPM - trusted platform module is a chip included with many desktops, laptops, and some mobile devices and it supports full disk encryption, a secure boot process, and supports remote attestation.
+
