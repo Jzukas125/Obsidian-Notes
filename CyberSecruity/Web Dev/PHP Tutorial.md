@@ -319,3 +319,25 @@ In this example $x is an integer and the PHP var_dump() function returns the dat
 $x = 5985;
 var_dump($x);
 ```
+
+PHP float is a number with a decimal point or a number in exponential form.
+Example:
+```php
+$x = 10.365;
+var_dump($x);
+```
+
+A Boolean represents two possible states: TRUE or FALSE
+
+```php
+$x = true;
+var_dump($x);
+```
+Booleans are using in conditional testing
+
+PHP arrays store multiple values in a single variable
+Example:
+```php
+$cars = array("Volvo", "BMW", "Toyota");
+var_dump($cars);
+```
