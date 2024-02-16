@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP.md",
+                "file": "CyberSecruity/Web Dev/PHP Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP.md",
+                "file": "CyberSecruity/Web Dev/PHP Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP.md",
+                "file": "CyberSecruity/Web Dev/PHP Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP.md"
+                "file": "CyberSecruity/Web Dev/PHP Tutorial.md"
               }
             }
           },
@@ -178,7 +178,7 @@
   "active": "e8a130fd84c8f181",
   "lastOpenFiles": [
     "CyberSecruity/Web Dev/file.php.md",
-    "CyberSecruity/Web Dev/PHP.md",
+    "CyberSecruity/Web Dev/PHP Tutorial.md",
     "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/Web Dev",
     "CybSec Meetings/Spring 2024/Second Meeting with Bobby.md",

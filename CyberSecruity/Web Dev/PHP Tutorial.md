@@ -289,3 +289,21 @@ echo $x + $y;
 ```
 
 print can do all the same with the exact same syntax but it is just slower.
+
+# PHP Data Types
+
+PHP supports the following data types:
+	String
+	Integer
+	Float
+	Boolean
+	Array
+	Object
+	NULL
+	Resource
+	
+var_dump can be used to get the data type of a function.
+
+A string is a sequence of characters
+
+A PHP integer is a non-decimal number between 2,147,483,648 and 2,147,483,647.
