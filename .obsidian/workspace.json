@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/Web Dev/PHP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/Web Dev/PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/Web Dev/PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
+                "file": "CyberSecruity/Web Dev/PHP.md"
               }
             }
           },
@@ -175,11 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22f4243c4c3857e",
+  "active": "e9e2845922235335",
   "lastOpenFiles": [
+    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+    "CyberSecruity/Web Dev/PHP.md",
+    "CyberSecruity/Web Dev",
     "CybSec Meetings/Spring 2024/Second Meeting with Bobby.md",
     "CybSec Meetings/Spring 2024/Scolding from Bobby 2-2-2024.md",
-    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/Security+/General Security Plus Studying.md",
     "CybSec Meetings/Meeting Ideas.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
@@ -215,13 +217,11 @@
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/File Inclusion.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/IDOR.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
-    "CyberSecruity/Security+/Intro and Chapter 1.md",
     "Class/Finals Spring 2023",
     "Class",
     "CyberSecruity/CISCO/Networking Basics",
     "CyberSecruity/CISCO",
     "CyberSecruity/TryHackMe/SOC Level 1",
-    "CyberSecruity/Security+",
-    "CyberSecruity/CCDC"
+    "CyberSecruity/Security+"
   ]
 }
