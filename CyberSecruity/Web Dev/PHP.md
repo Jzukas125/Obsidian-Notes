@@ -1,3 +1,5 @@
+I am taking notes to learn PHP while using the w3schools tutorial found at https://www.w3schools.com/php/default.asp
+
 User https://www.programiz.com/php/online-compiler/ to compile PHP
 # PHP syntax
 basic PHP syntax is 
@@ -176,3 +178,36 @@ With all of them outputting fruit
 
 # Variables Scope
 
+The scope of a variable is the part of the script where the variable can be reference/used
+PHP has three different variable scopes: 
+	Local 
+	Global 
+	Static
+
+Global and Local Scope
+A variable declared outside a function has a GLOBAL SCOPE can can only be accessed outside a function
+
+```php
+$x = 5; // global scope
+
+function myTest() {
+  // using x inside this function will generate an error
+  echo "<p>Variable x inside function is: $x</p>";
+}
+myTest();
+
+echo "<p>Variable x outside function is: $x</p>";
+```
+
+A variable declared within a function has a local scope and can only be accessed within that function
+
+```php
+function myTest() {
+  $x = 5; // local scope
+  echo "<p>Variable x inside function is: $x</p>";
+}
+myTest();
+
+// using x outside the function will generate an error
+echo "<p>Variable x outside function is: $x</p>";
+```
