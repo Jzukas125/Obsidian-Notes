@@ -253,7 +253,39 @@ function myTest() {
 	$x++;
 }
 
-myTest;
-myTest;
-myTest;
+myTest();
+myTest();
+myTest();
 ```
+
+# PHP echo and print statements
+
+echo and print are the two ways to get output for PHP. This chapter contains a little more info about it.
+
+echo and print are more or less the same. They are both used to output data to the screen.
+
+The differences are small: echo has no return value while print has a return value of 1 so it can be used in expressions. eco can take multiple parameters while print can take one argument. echo is marginally faster than print.
+
+The echo statement can be used with or without parentheses: echo or echo()
+
+```php
+echo "<h2>PHP is Fun!</h2>";
+echo "Hello world!<br>";
+echo "I'm about to learn PHP!<br>";
+echo "This ", "string ", "was ", "made ", "with multiple parameters.";
+```
+
+echo can also output text and variables with the echo statement: 
+
+```php
+$txt1 = "Learn PHP";
+$txt2 = "W3Schools.com";
+$x = 5;
+$y = 4;
+
+echo "<h2>" . $txt1 . "</h2>";
+echo "Study PHP at " . $txt2 . "<br>";
+echo $x + $y;
+```
+
+print can do all the same with the exact same syntax but it is just slower.
