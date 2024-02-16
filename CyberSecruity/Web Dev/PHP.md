@@ -1,3 +1,4 @@
+User https://www.programiz.com/php/online-compiler/ to compile PHP
 # PHP syntax
 basic PHP syntax is 
 ```php
@@ -76,6 +77,7 @@ My house is
 My boat is 
 ```
 
+Reminder: every command in PHP needs a ; behind it
 # PHP comments
 
 PHP comments range from
@@ -93,7 +95,44 @@ Variables are containers for storing information
 
 In PHP a variable starts with the $ sign, followed by the name of the variable such as 
 ```php
-$x = 5
-$y = "John"
+$x = 5;
+$y = "John";
 ```
-In this example the v
+In this example the variable $x will hold the value 5, and the variable $y will hold the "john" value.
+
+Outputting variables
+the PHP echo statement is often used to output data to the screen and the following examples will show how to output text and a variable:
+```php
+$txt = "JacobizCul.com";
+echo"I love $txt!";
+```
+
+ This is the same as typing 
+ 
+ ```php
+$txt = "JacobizCul.com";
+echo "I love " . $txt . "!";
+```
+
+This example will output the sum of two variables
+```php
+$x = 5;
+$y = 4;
+echo $x + $y;
+```
+
+PHP does not require to tell what data type a variable is although they can be declared and we will learn about strict and non-strict requirements later on in the PHP functions chapter.
+
+PHP has no command for declaring variable types, and the data type depends on the value of the variable 
+```php
+$x = 5;
+$y = "John";
+echo $x;
+echo $y;
+```
+
+The var_dump() function can return the data type of a variable such as 
+```php
+$x = 5;
+var_dump($x);
+```
