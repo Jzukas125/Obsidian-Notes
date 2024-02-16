@@ -307,3 +307,15 @@ var_dump can be used to get the data type of a function.
 A string is a sequence of characters
 
 A PHP integer is a non-decimal number between 2,147,483,648 and 2,147,483,647.
+
+Rules for an integers:
+- An integer must have at least one digit
+- an integer must not have a decimal point
+- an integer can be either positive or negative
+- Integers can be specified in: decimal (base10), hexadecimal (base16), octal (base 8), or binary (base 2) notation
+
+In this example $x is an integer and the PHP var_dump() function returns the data type and value:
+```php
+$x = 5985;
+var_dump($x);
+```
