@@ -1,6 +1,6 @@
 # PHP syntax
 basic PHP syntax is 
-```
+```php
 <?php
 echo "Hello World!";
 ?>
@@ -20,3 +20,11 @@ PHP can generate dynamic content, it can create, open, read, write, delete, and 
 
 PHP runs on various platforms, is compatible with more servers, supports a wide range of databases, is free, and is easy to learn while running efficiently on the server side 
 
+# Basic syntax
+
+```php
+<?php
+//PHP code goes here
+```
+A PHP script starts with `<?php and ends with ?>` 
+Default file extension is .php
