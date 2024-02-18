@@ -539,3 +539,27 @@ $g = (int) $g;
 This can be done with any data type and only requires to change the int to which ever data type you would like
 
 PHP math includes pi, min, max, abs, sqrt, round, and rand.
+
+A PHP constant is an identifier for a simple value. The value cannot be changed during the script.
+A valid constant name starts with a letter or underscore
+
+To create a constant use the define() function
+
+```php
+define(name, value, case-insensitive);
+```
+Parameters define as:
+	name: specifies the name of the constant
+	value:  specifies the value of the constant
+	case-insensitive: Specifies whether the constant name should be case-insensitive. Default is false 
+
+Example of creating a constant with a case-sensitive name:
+```php
+define("GREETING", "Welcome to W3Schools.com~");
+echo GREETING;
+```
+
+Create a constant with a case-insensitive name:
+```php
+define("G)
+```
