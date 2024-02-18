@@ -499,3 +499,43 @@ echo substr($x, 6, 5);
 ```
 This example starts the index at 6 and ends the slice 5 positions later thus cutting out the word "Hello".
 
+To insert characters that are illegal in a string use an escape character such as 
+
+```php
+$x = "We are the so-called \"Vikings\" from the north.";
+```
+This shows the word Vikings in quotes without destroying the php string
+
+Check if a number in PHP is an integer using var_dump(is_int)($x)) such as:
+
+```php
+$x = 5985;
+var_dump(is_int($x));
+
+$x = 59.85;
+var_dump(is_int($x));
+```
+
+Casting statements from one to another requires it to be declares as so:
+
+```php
+$a = 5;       // Integer
+$b = 5.34;    // Float
+$c = "25 kilometers"; // String
+$d = "kilometers 25"; // String
+$e = "hello"; // String
+$f = true;    // Boolean
+$g = NULL;    // NULL
+
+$a = (int) $a;
+$b = (int) $b;
+$c = (int) $c;
+$d = (int) $d;
+$e = (int) $e;
+$f = (int) $f;
+$g = (int) $g;
+```
+
+This can be done with any data type and only requires to change the int to which ever data type you would like
+
+PHP math includes pi, min, max, abs, sqrt, round, and rand.
