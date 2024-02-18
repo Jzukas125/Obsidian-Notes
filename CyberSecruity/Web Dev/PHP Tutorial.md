@@ -594,3 +594,25 @@ function myTest() {
 
 myTest();
 ```
+
+# PHP Magic Constants
+
+```
+## Magic Constants
+
+Here are the magic constants, with descriptions and examples:
+
+|Constant|Description||
+|---|---|---|
+|__CLASS__|If used inside a class, the class name is returned.|[Try it »](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_const_class)|
+|__DIR__|The directory of the file.|[Try it »](https://www.w3schools.com/php/phpshowit.php?filename=tryphp_const_dir)|
+|__FILE__|The file name including the full path.|[Try it »](https://www.w3schools.com/php/phpshowit.php?filename=tryphp_const_file)|
+|__FUNCTION__|If inside a function, the function name is returned.|[Try it »](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_const_function)|
+|__LINE__|The current line number.|[Try it »](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_const_line)|
+|__METHOD__|If used inside a function that belongs to a class, both class and function name is returned.|[Try it »](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_const_method)|
+|__NAMESPACE__|If used inside a namespace, the name of the namespace is returned.|[Try it »](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_const_namespace)|
+|__TRAIT__|If used inside a trait, the trait name is returned.|[Try it »](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_const_trait)|
+|ClassName::class|Returns the name of the specified class and the name of the namespace, if any.|
+```
+
+PHP arthimetic operators
