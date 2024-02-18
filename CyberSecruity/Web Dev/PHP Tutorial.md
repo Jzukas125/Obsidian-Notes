@@ -378,3 +378,11 @@ $x = "Hello world!";
 $x = null;
 var_dump($x);
 ```
+
+Data type is changed by which ever it was assigned to last, to avoid this you can use casting.
+Casting allows you to change data types on variables
+```php
+$x = 5;
+$x = (string) $x;
+var_dump($x);
+```
