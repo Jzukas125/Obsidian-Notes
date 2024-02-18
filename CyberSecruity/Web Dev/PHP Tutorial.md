@@ -368,3 +368,13 @@ public function __construct($color, $model){
 $myCar = new Car("red","Volvo");
 var_dump($myCar);
 ```
+
+The PHP Null value is a special data type which can have only one value: NULL.
+A variable of data type NULL is a variable that has no value assigned to it.
+Variables can also be emptied by setting the value to NULL:
+
+```php
+$x = "Hello world!";
+$x = null;
+var_dump($x);
+```
