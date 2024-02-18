@@ -453,3 +453,49 @@ The PHP function trim() removes any whitespace from the beginning or the end
 $x = " Hello World! ";
 echo trim($x);
 ```
+
+The PHP function explode() splits a string into an array with the first parameter of the explode() function representing the "separator". The "separator" specifies where to split the string.
+
+```php
+$x = "Hello World!"
+$y = explode(" ", $x);
+
+//have to use print_r to see results
+print_r($y);
+```
+
+To concatenate strings you need to use the . operator 
+
+```php
+$x = "Hello";
+$y = "World";
+$z = $x . $y;
+echo $z;
+```
+
+and adding a space looks like this
+
+```php
+$x = "Hello";
+$y = "World";
+$z = $x . " " . $y;
+echo $z;
+```
+
+An easier way of doing this would be to use the power of double quotes. By surrounding the two variables in double quotes with a white space between them, the white space will also be present in the result:
+
+```php
+$x = "Hello";
+$y = "World";
+$z = "$x $y";
+echo $z;
+```
+
+Slicing can return a range of characters by using the substr() function and you can specify the start index and the number of characters you want to return.
+
+```php
+$x = "Hello World!";
+echo substr($x, 6, 5);
+```
+This example starts the index at 6 and ends the slice 5 positions later thus cutting out the word "Hello".
+
