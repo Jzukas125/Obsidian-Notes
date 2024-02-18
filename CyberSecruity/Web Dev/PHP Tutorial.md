@@ -341,3 +341,7 @@ Example:
 $cars = array("Volvo", "BMW", "Toyota");
 var_dump($cars);
 ```
+
+PHP is an OOP
+with a class being a template for objects, and an object being an instance of a class. 
+When the individual objects are created, they inherit all the properties and behaviors from the class, but each object will have different values for 
