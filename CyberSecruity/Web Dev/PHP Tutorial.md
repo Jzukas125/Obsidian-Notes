@@ -561,5 +561,36 @@ echo GREETING;
 
 Create a constant with a case-insensitive name:
 ```php
-define("G)
+define("GREETING", "Welcome to W3Schools.com!", true);
+echo greeting;
+```
+
+You can also create a constant using the const keyword
+
+```php
+const MYCAR = "Volvo";
+echo MYCAR
+```
+
+From PHP, you can create an array constant by using the define() function
+
+```php
+define("cars", [
+  "Alfa Romeo",
+  "BMW",
+  "Toyota"
+]);
+echo cars[0];
+```
+
+Constants are automatically global and can be used across the entire script
+
+```php
+define("GREETINGS", "Welcome to W3Schools.com!");
+
+function myTest() {
+   echo GREETING;
+}
+
+myTest();
 ```
