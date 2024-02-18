@@ -386,3 +386,24 @@ $x = 5;
 $x = (string) $x;
 var_dump($x);
 ```
+
+The PHP resource type is not an actual data type. It is the storing of a reference to functions and resources external to PHP. 
+A common example of using the resource data type is a database call. Will not be talked about here, as it is an advanced topic.
+
+# PHP strings 
+A string is a sequence of characters, like "Hello World"
+
+Double quotes preform an action on special characters like calling a variable while single quotes do the literal output
+
+```php
+$x = "John";
+echo "Hello $x";
+echo 'Hello $x';
+```
+
+strlen() returns the length of a string
+
+```php
+echo strlength("Hello world");
+	echo st
+```
