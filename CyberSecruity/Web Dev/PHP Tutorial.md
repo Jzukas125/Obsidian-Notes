@@ -421,3 +421,35 @@ Example:
 ```php
 echo strpos("Hello world!", "world");
 ```
+
+# PHP modify strings
+
+strtoupper() function returns everything in the uppercase
+strtolower() function returns the sting in lower case
+
+```php
+$x = "Hello World!";
+echo strtoupper($x);
+echo strtolower($x);
+```
+
+The PHP function str_replace() replaces some characters with other characters in a string
+
+```php
+$x = "Hello World!";
+echo str_replace("World","Wolly", $x);
+```
+
+The PHP function strrev() function reverses a string
+
+```php
+$x = "Hello World!";
+echo strrev($x);
+```
+
+The PHP function trim() removes any whitespace from the beginning or the end
+
+```php
+$x = " Hello World! ";
+echo trim($x);
+```
