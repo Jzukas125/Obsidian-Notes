@@ -615,4 +615,9 @@ Here are the magic constants, with descriptions and examples:
 |ClassName::class|Returns the name of the specified class and the name of the namespace, if any.|
 ```
 
-PHP arthimetic operators
+PHP comparison operators
+PHP comparison operators use three symbols instead of two
+Operator	Name	Example	Result
+Equal	$x == $y	Returns true if $x is equal to $y	
+Identical	$x === $y	Returns true if $x is equal to $y, and they are of the same type
+Everything else works similar to C++ or python
