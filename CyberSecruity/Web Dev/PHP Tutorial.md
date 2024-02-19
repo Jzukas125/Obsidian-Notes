@@ -632,3 +632,36 @@ if ($t == 14) {
 }
 ```
 
+Logical operators also operate the same as they do in C++, with the operators being:
+Operator	Name	Description	
+and And	 True if both conditions are true	
+&&	And	True if both conditions are true	
+or	Or	True if either condition is true	
+||	Or	True if either condition is true	
+xor	Xor	True if either condition is true, but not both	
+!	Not	True if condition is not true
+
+The if ...else statement also functions similarly to C++ but the if ... elseif haing a difference with it looking like:
+
+```php
+$t = date("H");
+
+if ($t < "10") {
+  echo "Have a good morning!";
+} elseif ($t < "20") {
+  echo "Have a good day!";
+} else {
+  echo "Have a good night!";
+}
+```
+
+Short hand if else statments also function similar to C++ with an if else statement being:
+
+```php
+$a = 13;
+
+$b = $a < 10 ? "Hello" : "Good Bye";
+
+echo $b;
+```
+
