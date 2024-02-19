@@ -553,4 +553,8 @@ Chapter 5 Questions
 4. A
 5. D
 6. A
-7. 
+7. C
+8. C
+9. A
+10. D
+11. 
