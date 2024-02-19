@@ -547,7 +547,7 @@ a system on a chip (SoC) is an integrated circuit that includes a full computing
 RTOs is a real time OS that reacts within a specific time 
 
 Chapter 5 Questions
-1. D
+1. ~~D~~
 2. C
 3. D
 4. A
@@ -557,4 +557,23 @@ Chapter 5 Questions
 8. C
 9. A
 10. D
-11. 
+11. A
+12. A
+13. B
+14. D
+15. C
+
+Chapter 5 Questions Review
+
+1 B is correct
+Attackers recently exploited vulnerabilities in a web server
+hosted by your organization. Management has tasked
+administrators with checking the server and eliminating any
+weak configurations on it. Which of the following will meet
+this goal?
+A. Installing a NIDS
+B. Disabling unnecessary services
+C. Enabling root accounts
+D. Implementing SSL encryption
+Unnecessary services and open ports are common elements that contribute to weak configurations. A network-based intrusion detection system (NIDS) helps protect internal systems, but a NIDS would not be installed on the server and admins are tasked with checking the server. If root accounts are disabled, enabling them won't increase security. SSL is a **weak encryption protocol** and should **not be used on servers**
+
