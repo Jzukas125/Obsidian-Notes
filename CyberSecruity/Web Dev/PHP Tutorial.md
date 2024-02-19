@@ -621,3 +621,14 @@ Operator	Name	Example	Result
 Equal	$x == $y	Returns true if $x is equal to $y	
 Identical	$x === $y	Returns true if $x is equal to $y, and they are of the same type
 Everything else works similar to C++ or python
+
+PHP conditional statements such as an if statement is similar to C++ and looks like
+
+```php
+$t = 14;
+
+if ($t == 14) {
+  echo "Have a good day!";
+}
+```
+
