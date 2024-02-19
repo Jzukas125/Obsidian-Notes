@@ -703,3 +703,13 @@ switch ($d) {
 
 Putting the default block at any other place than the end is not suggested such as in the beginning or in the middle
 
+PHP while loops are very similar to C++ and look as such:
+
+```php
+$i = 1;
+while ($i < 6) {
+  echo $i;
+  $i++;
+}
+```
+A break statement can stop the loop even if the condition is still true
