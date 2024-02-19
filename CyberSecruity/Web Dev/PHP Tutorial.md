@@ -665,3 +665,4 @@ $b = $a < 10 ? "Hello" : "Good Bye";
 echo $b;
 ```
 
+PHP switch statement also functions similar to C++ and looks like 
