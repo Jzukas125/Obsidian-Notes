@@ -701,5 +701,4 @@ switch ($d) {
 }
 ```
 
-Putting the default block at the end is not suggested
-
+Putting the default block at any other place than the end is not suggested such as in the beginning or in the middle
