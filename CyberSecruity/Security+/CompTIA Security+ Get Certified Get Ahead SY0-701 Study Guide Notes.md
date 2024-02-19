@@ -551,8 +551,8 @@ Chapter 5 Questions
 2. C
 3. D
 4. A
-5. D
-6. A
+5. D (SED stands for Self-encrypting drives)
+6. ~~A~~
 7. C
 8. C
 9. A
@@ -577,3 +577,13 @@ C. Enabling root accounts
 D. Implementing SSL encryption
 Unnecessary services and open ports are common elements that contribute to weak configurations. A network-based intrusion detection system (NIDS) helps protect internal systems, but a NIDS would not be installed on the server and admins are tasked with checking the server. If root accounts are disabled, enabling them won't increase security. SSL is a **weak encryption protocol** and should **not be used on servers**
 
+6 C is correct 
+Managers within your organization want to implement a
+secure boot process for some key computers. During the
+boot process, each computer should send data to a remote
+system to check the computer’s configuration. Which of the
+following will meet this goal?
+A. Trusted Platform Module
+B. Hardware root of trust
+C. Remote attestation
+D. Tokenization
