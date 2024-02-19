@@ -528,8 +528,20 @@ C. RADIUS
 D. Agentless
 An agentless NAC system is often used on employee-owned devices and would be appropriate if an organization implemented a bring your own device policy. A permanent network access control agent is installed on the device permanently, but this might cause problems for employee-owned devices. Any NAC agent is a health agent. Remote Authentication Dial In Service (RADIUS) is used for AAA, not to inspect clients.
 
-Chapter 5
+# Chapter 5
+
 Endpoints are services such as servers, desktops, laptops, mobile devices, or IoT  devices. EDR provides continuous monitoring of endpoints.
 
 TPM - trusted platform module is a chip included with many desktops, laptops, and some mobile devices and it supports full disk encryption, a secure boot process, and supports remote attestation.
 
+Embedded systems are any device that has a dedicated function and uses a computer system to perform that function, an example of such would be a digital camera or a microwave
+
+IoT usually have embedded systems
+
+Supervisory control and data acquisition (SCADA) system controls an industrial control system (ICS)
+
+SCADA and ICS systems are typically in isolated networks without access to the Internet and are often protected by network intrusion prevention systems
+
+a system on a chip (SoC) is an integrated circuit that includes a full computing system
+
+RTOs is a real time OS that reacts within a specific time 
