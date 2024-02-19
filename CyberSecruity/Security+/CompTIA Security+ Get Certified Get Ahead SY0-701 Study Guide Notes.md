@@ -545,3 +545,12 @@ SCADA and ICS systems are typically in isolated networks without access to the I
 a system on a chip (SoC) is an integrated circuit that includes a full computing system
 
 RTOs is a real time OS that reacts within a specific time 
+
+Chapter 5 Questions
+1. D
+2. C
+3. D
+4. A
+5. D
+6. A
+7. 
