@@ -1,6 +1,6 @@
 These notes follow the CompTIA Security+ Get Certified Get Ahead SY0-701 text book which can be bought at [any online book retailer](https://www.thriftbooks.com/w/comptia-security-get-certified-get-ahead-sy0-701-study-guide_darril-gibson_joe-shelley/51506429/#edition=70312038&idiq=62261995)
 
-This is by no means a copy of the original textbook and all of the copy right goes towards the original book 
+This is by no means a copy of the original textbook and all of the copy right goes towards the original book (CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide) and the authors, Darril Gibson and Joe Shelley. These notes are in no means attempting to recreate or copy the works of the author or the textbooks. This was used in tandem with the textbook by me to help organize and understand its  contents.
 # Chapter 1
 
 Redundancy adds duplication to critical systems and provides fault tolerance. If a critical component has a fault, the redundancy's duplication allows the service to continue without interruption.
@@ -651,4 +651,8 @@ Jailbreaking is the most likely reason for this as it is possible to jailbreak a
 Nation-state attackers are hired by the govt and unskilled attackers are script kiddies.
 
 Shadow IT refers to unauthorized systems or applications used in an organization without authorization or approval.
+
+All threat actors motivations vary and common attacks include data exfiltration, revenge, monetary gain, war, activism and so on
+
+
 
