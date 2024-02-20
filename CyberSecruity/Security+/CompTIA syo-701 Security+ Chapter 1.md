@@ -528,4 +528,4 @@ Getting revocation details to the browser
 
 # Take https://www.examcompass.com/comptia-security-plus-practice-test-2-exam-sy0-701 and https://www.examcompass.com/comptia-security-plus-practice-test-5-exam-sy0-701 to practice these concepts
 
-And take chapter 1 of David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024) to practice concepts more 
+And take chapter 1 of David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024) to practice concepts more
