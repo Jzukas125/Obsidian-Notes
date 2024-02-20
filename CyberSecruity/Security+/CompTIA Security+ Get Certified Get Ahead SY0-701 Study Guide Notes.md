@@ -606,3 +606,15 @@ D. XaaS
 Platform as a Service (PaaS) provides customers with a preconfigured computing platform including the hardware and software. The cloud platform including the hardware and software. Infrastructure as a Service is a cloud computing option where the vendor provides access to a computer, but customers must install the operating system and maintain the system. Software as a Service provides access to a specific applications such as an email application. Anything as a Service (XaaS) refers to cloud services beyond Iaas, Paas, and SaaS.
 
 10 A is correct 
+Your organization has been using more cloud resources and
+Lisa, the CIO, is concerned about security. She wants to add
+a service that is logically placed between the organization’s
+network and the cloud provider. This service will monitor all
+network traffic and ensure that data sent to the cloud for
+storage is encrypted. Which of the following will BEST meet
+these requirements?
+A. CASB
+B. Storage permissions
+C. A storage encryption policy
+D. Firewall
+A cloud access security broker (CASB) is placed between a network
