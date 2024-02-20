@@ -554,7 +554,7 @@ Chapter 5 Questions
 5. D (SED stands for Self-encrypting drives)
 6. ~~A~~
 7. C
-8. C
+8. ~~C~~
 9. A
 10. D
 11. A
@@ -587,3 +587,20 @@ A. Trusted Platform Module
 B. Hardware root of trust
 C. Remote attestation
 D. Tokenization
+Remote attestation process checks a computer during the boot cycle and sends a report to a remote system. The remote system attests or confirms that the computer is secure. A Trusted Platform Module (TPM) is a hardware chip on a motherboard and provides a local secure boot process. A TPM includes an encryption key burned into the hardware, which provides a hardware root of trust.
+
+8 B is correct
+ Maggie, the new CTO at your organization, wants to reduce
+costs by utilizing more cloud services. She has directed the
+use of a cloud service instead of purchasing all the
+hardware and software needed for an upcoming project.
+She also wants to ensure that the cloud provider maintains
+all the required hardware and software as a preconfigured
+environment where you can deploy your own code. Which
+of the following BEST describes the cloud computing service
+model that will meet these requirements?
+A. IaaS
+B. PaaS
+C. SaaS
+D. XaaS
+Platform as a Service (PaaS) provides customers with a preconfigured computing platform
