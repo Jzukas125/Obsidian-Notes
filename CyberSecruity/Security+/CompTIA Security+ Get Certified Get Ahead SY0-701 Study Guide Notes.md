@@ -617,4 +617,16 @@ A. CASB
 B. Storage permissions
 C. A storage encryption policy
 D. Firewall
-A cloud access security broker (CASB) is placed between a network
+A cloud access security broker (CASB) is placed between a network and a cloud provider and would meet the chief information officer (CIO) requirements. It can monitor traffic and enforce security policies, such as ensuring all data sent to the cloud is encrypted. Permissions can't encrypt data. Storage encryption policy can be created to require encryption of data but can't monitor all traffic to and from the cloud. A firewall can't filter traffic.
+
+14 B is correct 
+Your organization is switching from a COPE model to a
+BYOD model due to the cost of replacing lost or damaged
+mobile devices. Which of the following is the BEST choice to
+protect the organization’s data when using the BYOD
+model?
+A. Full-disk encryption
+B. Containerization
+C. Remote wipe
+D. Geolocation
+Containerization is the best choice because it can ensure that organizational data is encrypted in some containers without encrypting user data. 
