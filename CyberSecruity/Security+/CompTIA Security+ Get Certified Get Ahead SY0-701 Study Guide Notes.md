@@ -1,3 +1,4 @@
+These notes follow the CompTIA Security+ Get Certified Get Ahead SY0-701 text book which can be bought at [any online book retailer](https://www.thriftbooks.com/w/comptia-security-get-certified-get-ahead-sy0-701-study-guide_darril-gibson_joe-shelley/51506429/#edition=70312038&idiq=62261995)
 # Chapter 1
 
 Redundancy adds duplication to critical systems and provides fault tolerance. If a critical component has a fault, the redundancy's duplication allows the service to continue without interruption.
@@ -629,6 +630,16 @@ A. Full-disk encryption
 B. Containerization
 C. Remote wipe
 D. Geolocation
-Containerization is the best choice because it can ensure that organizational data is encrypted in some containers without encrypting user data. 
-Containerization is the best choice. Organizations can ensure that organizational data is encrypted in some containers without encrypting user data. In a bring your own device (BYOD) model, employees own the devices, and an organization typically can’t encrypt user data with full-disk encryption. In a corporate-owned, personally enabled (COPE) model, the organization could use full-device encryption. Remote wipe sends a signal to a lost device to erase data, but it won’t erase data if the device is damaged, and an attacker may be able to recover data from a damaged device. Geolocation technologies can help locate a lost device, but they won’t protect data.
+Containerization is the best choice. Organizations can ensure that organizational data is encrypted in some containers without encrypting user data. In a BYOD model organizations typically can't encrypt user data with full-disk encryption. Remote wipe sends a signal to a lost device to erase data, but it won't erase data if the device is damaged, and an attacker may be able to recover data from a damaged device. Geolocation can't protect data.
+
+15 A is correct
+Bart is showing Wendell a new app that he downloaded
+from a third party onto his iPhone. Wendell has the same
+model of smartphone, but when he searches for the app, he
+is unable to find it. Of the following choices, what is the
+MOST likely explanation for this?
+A. Jailbreaking
+B. Tethering
+C. Sideloading
+D. Rooting
 
