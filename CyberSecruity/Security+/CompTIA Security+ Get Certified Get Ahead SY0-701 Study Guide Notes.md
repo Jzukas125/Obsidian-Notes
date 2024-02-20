@@ -642,4 +642,10 @@ A. Jailbreaking
 B. Tethering
 C. Sideloading
 D. Rooting
+Jailbreaking is the most likely reason for this as it is possible to jailbreak an iPhone to remove all Software restrictions, and install software from other places. Tethering is sharing an internet connection. Sideloading is the process of installing application packages from an APK but sideloading isn't relevant in this context. Rooting is done to android deices and provides users root-level access to the device.
 
+# Chapter 6
+
+Nation-state attackers are hired by the govt and unskilled attackers are script kiddies.
+
+Shadow IT refers to unauthorized systems or applications used in an organization without authorization or approval.

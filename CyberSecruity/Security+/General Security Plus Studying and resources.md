@@ -9,3 +9,4 @@ DOMAIN PERCENTAGE OF EXAMINATION
 
 Total 100%
 
+Online resources to help with studying can be found [here](https://drive.google.com/drive/folders/1ndN1XI3mFM2NKDdbeHR54SEXJf2ZwJj0?usp=sharing)
