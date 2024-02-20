@@ -630,3 +630,5 @@ B. Containerization
 C. Remote wipe
 D. Geolocation
 Containerization is the best choice because it can ensure that organizational data is encrypted in some containers without encrypting user data. 
+Containerization is the best choice. Organizations can ensure that organizational data is encrypted in some containers without encrypting user data. In a bring your own device (BYOD) model, employees own the devices, and an organization typically can’t encrypt user data with full-disk encryption. In a corporate-owned, personally enabled (COPE) model, the organization could use full-device encryption. Remote wipe sends a signal to a lost device to erase data, but it won’t erase data if the device is damaged, and an attacker may be able to recover data from a damaged device. Geolocation technologies can help locate a lost device, but they won’t protect data.
+
