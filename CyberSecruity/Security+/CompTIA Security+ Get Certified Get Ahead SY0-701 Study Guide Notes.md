@@ -556,12 +556,12 @@ Chapter 5 Questions
 7. C
 8. ~~C~~
 9. A
-10. D
+10. ~~D~~
 11. A
 12. A
 13. B
-14. D
-15. C
+14. ~~D~~
+15. ~~C~~
 
 Chapter 5 Questions Review
 
@@ -603,4 +603,6 @@ A. IaaS
 B. PaaS
 C. SaaS
 D. XaaS
-Platform as a Service (PaaS) provides customers with a preconfigured computing platform
+Platform as a Service (PaaS) provides customers with a preconfigured computing platform including the hardware and software. The cloud platform including the hardware and software. Infrastructure as a Service is a cloud computing option where the vendor provides access to a computer, but customers must install the operating system and maintain the system. Software as a Service provides access to a specific applications such as an email application. Anything as a Service (XaaS) refers to cloud services beyond Iaas, Paas, and SaaS.
+
+10 A is correct 
