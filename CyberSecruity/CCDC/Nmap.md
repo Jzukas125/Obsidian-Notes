@@ -27,3 +27,9 @@ nmap -Pn localhost
 ```
 This command allows you to see extra ports that won't show up on a regular scan
 
+
+```
+namp -sV localhost
+```
+This command does version detection 
+
