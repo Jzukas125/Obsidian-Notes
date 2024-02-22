@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/CCDC/Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/CCDC/Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/CCDC/Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
+                "file": "CyberSecruity/CCDC/Nmap.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "e8a130fd84c8f181",
   "lastOpenFiles": [
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+    "CyberSecruity/CCDC/Nmap.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
@@ -215,7 +216,6 @@
     "CybSec Meetings/Spring 2024",
     "CybSec Meetings/Fall 2023",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/File Inclusion.md",
-    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/IDOR.md",
     "Class/Finals Spring 2023",
     "Class",
     "CyberSecruity/CISCO/Networking Basics",
