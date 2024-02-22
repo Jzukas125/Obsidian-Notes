@@ -1,6 +1,7 @@
 Nmap stands for network map. Nmap is a port scan that sends a probe to each port on a system and returns data based on its status. Nmap can be force probed. Nmap can be run in tandem with the ping command.
 
 The ping command will find the IP address of the thing pinged such as google.com
+***You do not need an ip to nmap a website***
 
 ```
 ping google.com
@@ -32,4 +33,14 @@ This command allows you to see extra ports that won't show up on a regular scan
 namp -sV localhost
 ```
 This command does version detection 
+
+```
+nmap --traceroute localhost
+```
+This command traces a route that a packet would take to travel across the network
+
+```
+nmap -A localhost
+```
+-A performs everything which is -Pn and traceroute plus more that I can not name right now
 
