@@ -16,4 +16,14 @@ Threat intelligence's purpose is to understand the relationship between your ope
 - Strategic Intel which is high-level intel that looks into the organization's threat landscape and amps out the risk areas based on trends, patterns, and emerging threats that may impact business decisions.
 - Technical intel which looks into evidence and artefacts of attack used by an adversary. Incident Response teams can use this intel to create a baseline attack surface to analyze and develop defense mechanisms.
 - Tactical Intel which assesses adversaries' tactics, techniques, and procedures (TTPS). This intel can strengthen security controls and address vulnerabilities through real-time investigations
-- Operational Intel  looks into an adversary's specifc motive
+- Operational Intel  looks into an adversary's specific motives and intent to perform an attack. Security teams may use this intel to understand the critical assets available in the organization that may be targeted .
+
+# UrlScan.io
+
+Can be found at https://urlscan.io/
+
+UrlScan.io is a free service developed to assist in analyzing websites. It is used to automate the process of browsing through websites to record activities and interactions. When a URL is submitted, the information recorded includes the domains and IP addresses contacted, resources requested from the domains,, a snapshot of the web page, technologies utilized and other metadata about the website. The site provides two views, the first one showing the most recent scans performed and the second one showing current live scans.
+
+<h2> Scan Results </h2>
+URL scan results usually contain:
+Summary: Provides general information about the URL, ranging from the identified IP address, domain registration details, page history and a screenshot of the site
