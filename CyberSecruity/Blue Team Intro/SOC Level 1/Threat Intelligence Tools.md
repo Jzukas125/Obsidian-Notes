@@ -34,4 +34,5 @@ Behavior: Provides details of the variables and cookies found on the site. These
 Indicators: Lists all IPs, domains and hashes associated with the site. These indicators do not imply malicious activity related to the site.
 
 # Abuse.ch
-Research project hosted by the institute for cybersecurity and engineering at the Bern University of Applied Sciences in Switzerland. 
+Research project hosted by the institute for cybersecurity and engineering at the Bern University of Applied Sciences in Switzerland.  It was deployed to identify and track malware and botnets through several operational platforms developed under the project. The platforms are as follows:
+- Malware Bazaar: A 
