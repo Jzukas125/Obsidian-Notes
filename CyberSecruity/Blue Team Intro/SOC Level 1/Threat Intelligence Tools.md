@@ -27,3 +27,9 @@ UrlScan.io is a free service developed to assist in analyzing websites. It is us
 <h2> Scan Results </h2>
 URL scan results usually contain:
 Summary: Provides general information about the URL, ranging from the identified IP address, domain registration details, page history and a screenshot of the site
+HTTP: Provides information on the HTTP connections made by the scanner to the site, with details about the data fetched and the file types received
+Redirects: shows information on any identified HTTP and client-side redirects on the site
+Links: Shows all identified links outgoing from the site's homepage
+Behavior: Provides details of the variables and cookies found on the site. These may be useful in identifying the frameworks used in developing the site 
+Indicators: Lists all IPs, domains and hashes associated with the site. These indicators do not imply malicious activity related to the site.
+
