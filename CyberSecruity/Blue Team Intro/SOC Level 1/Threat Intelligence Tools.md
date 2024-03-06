@@ -33,3 +33,4 @@ Links: Shows all identified links outgoing from the site's homepage
 Behavior: Provides details of the variables and cookies found on the site. These may be useful in identifying the frameworks used in developing the site 
 Indicators: Lists all IPs, domains and hashes associated with the site. These indicators do not imply malicious activity related to the site.
 
+# Abuse.ch
