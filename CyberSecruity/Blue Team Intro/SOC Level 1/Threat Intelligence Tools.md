@@ -60,3 +60,7 @@ The analysis tab is as follows:
 - Security: Details on email security frameworks and policies such as Sender Policy Framework (SPF) , DomainKeys Identified Mail (DKIM) and Domain-based Message Authentication, Reporting and Conformance (DMARC)
 - Attachments: Lists any file attachments found in the email
 - Message URLs: Associated external URLs found in the email will be found here
+
+# Cisco Talos Intelligence
+
+IT and Cyber security companies collect massive amounts of information that could be used for threat analysis and intelligence. Being one of those companies, Cisco assemble a large team of security practitioners called Cisco Talos to provide acionable intelligence 
