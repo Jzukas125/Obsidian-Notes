@@ -40,3 +40,10 @@ Research project hosted by the institute for cybersecurity and engineering at th
 - SSL Blacklist: Identifies and detects malicious SSL connections. From these connections, SSL certificates used by the botnet C2 servers would be identified and updated on a deny list that is provided for use. The deny list is also used to identify JA3 fingerprints that would help detect and block malware botnet C2 communications on the TCP  layer. 
 - URLhaus: Shares malicious URLs used for malware distribution. As an analyst, you can search through the database for domains, URLs, hashes, and filetypes that are suspected to be malicious and validate your investigations.
 - ThreatFox: Security analysts can search for, search, and export indicators of compromise associated with malware. IOCs can be exported in various formats such as MISP events, Suricata IDS Ruleset, Domain Host files, DNS response Policy zone, JSON files and CSV files.
+
+# Phish Tool
+
+<h2> Email Phishing </h2>
+Email phishing is one of the main precursors to any cyber attack. Unsuspecting users get duped into opening and accessing malicious files and links sent to them by emails, as they appear to be legitimate. As a result, adversaries infect their victims systems, harvest credentials and personal data, and perform other actions such as financial fraud.
+
+PhishTool seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security. Through email analysis, security analysts an uncover email IOCs, prevents breaches and provide forensic reports that could be used in phishing containment and training engagements. 
