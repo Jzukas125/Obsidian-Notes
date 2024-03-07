@@ -47,3 +47,9 @@ Research project hosted by the institute for cybersecurity and engineering at th
 Email phishing is one of the main precursors to any cyber attack. Unsuspecting users get duped into opening and accessing malicious files and links sent to them by emails, as they appear to be legitimate. As a result, adversaries infect their victims systems, harvest credentials and personal data, and perform other actions such as financial fraud.
 
 PhishTool seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security. Through email analysis, security analysts an uncover email IOCs, prevents breaches and provide forensic reports that could be used in phishing containment and training engagements. 
+
+The main features of the community version of PhishTool are:
+- Performing Email Analysis - PhishTool retrieves metadata from phishing emails and provides analysts with the relevant explanations and capabilities to follow the email's actions, attachments, and URLs to triage the situation.
+- Heuristic Intelligence - OSINT is baked into the tool to provide analysts with the intelligence needed to stay ahead of persistent attacks and understand what TTPs were used to evade security controls and allow the adversary to social engineer a target.
+- Classification and reporting - Phishing email classifications are conducted to allow analysts to take action quickly. Reports can be generated to provide a forensic record that can be shared.
+
