@@ -13,4 +13,26 @@ We could write a Yara rule to search for "hello world" in every program on our o
 
 Why does Malware use strings? Malware uses strings to store textual data.
 
-# Introfuction to Yara R
+# Introduction to Yara Rules
+
+The language that Yara uses for rules is fairly trivial to pick up, but hard to master. This is because your rule is only as effective as your understanding of the patterns you want to search for.
+
+Using a Yara rule is simple. Every Yara command requires two arguments to be valid, these are:
+1) The rule file we create
+2) Name of file, directory, or process ID to use the rule for
+
+Every rule must have a name and condition. For example if we wanted to use "myrule.yar" on directory "some directory", we would use the following command: 'yara myrule.yar somedirectory'
+Note that .yar is the standard file extension for all Yara rules. We'll make one of the most basic rules below.
+1. Make a file named somefile via touch somefile
+2. Create a new file and name it "myfirstrule.yar" like below 
+```shell
+touch somefile
+touch myfirstrule.yar
+```
+
+3. Open the "myfirstrule.yar" using a text editor such as nano and input the snippet below and save the file 
+```shell
+rule examplerule {
+	condition: true
+}
+```
