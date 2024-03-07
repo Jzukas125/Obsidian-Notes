@@ -53,3 +53,10 @@ The main features of the community version of PhishTool are:
 - Heuristic Intelligence - OSINT is baked into the tool to provide analysts with the intelligence needed to stay ahead of persistent attacks and understand what TTPs were used to evade security controls and allow the adversary to social engineer a target.
 - Classification and reporting - Phishing email classifications are conducted to allow analysts to take action quickly. Reports can be generated to provide a forensic record that can be shared.
 
+The analysis tab is as follows:
+- Headers: Provides the routing information of the email, such as source and destination email addresses
+- Received Lines: Details on the email traversal process across various SMTP servers for tracing purposes
+- X-Headers: Extension headers added by the recipient mailbox to provide additional information about the email
+- Security: Details on email security frameworks and policies such as Sender Policy Framework (SPF) , DomainKeys Identified Mail (DKIM) and Domain-based Message Authentication, Reporting and Conformance (DMARC)
+- Attachments: Lists any file attachments found in the email
+- Message URLs: Associated external URLs found in the email will be found here
