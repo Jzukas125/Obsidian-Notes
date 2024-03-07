@@ -63,4 +63,12 @@ The analysis tab is as follows:
 
 # Cisco Talos Intelligence
 
-IT and Cyber security companies collect massive amounts of information that could be used for threat analysis and intelligence. Being one of those companies, Cisco assemble a large team of security practitioners called Cisco Talos to provide acionable intelligence 
+IT and Cyber security companies collect massive amounts of information that could be used for threat analysis and intelligence. Being one of those companies, Cisco assemble a large team of security practitioners called Cisco Talos to provide actionable intelligence, visibility on indicators, and protection against emerging threats through data collected from their products. 
+
+Cisco Talos encompasses their own six key terms which are as follows:
+- Threat Intelligence and Interdiction - Quick correlation and tracking of threats provide a means to turn simple IOCs into context-rich intel.
+- Detection Research - Vulnerability and malware analysis is performed to create rules and content for threat detection
+- Engineering and Development - Provides the maintenance support for the inspection engines and keeps them updated
+- Vulnerability Research and Discovery - Working with service and software vendors to develop repeatable means of identifying and reporting security vulnerabilities 
+- Communities - Maintains the image of the team and the open-source solutions
+- Global Outreach - Disseminates intelligence to customers and the security community through publications 
