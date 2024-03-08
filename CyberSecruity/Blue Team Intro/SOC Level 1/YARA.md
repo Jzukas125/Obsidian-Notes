@@ -36,3 +36,11 @@ rule examplerule {
 	condition: true
 }
 ```
+
+The name of the rule in this snippet is examplerule, where we have one condition - in this case, the condition is condition. Simply, the rule we have made checks to see if the file/directory/PID that we specify exists via condition: true. If the file does not exist, we are given the output of examplerule. Let's give this a try on the file "somefile" that we made in step one: yara myfirstrule.yar somefile
+
+If "somefile'" exists, Yara will say examplerule becasue the pattern has been met 
+```shell
+yara myfirstrule.yar somefile
+example 
+```
