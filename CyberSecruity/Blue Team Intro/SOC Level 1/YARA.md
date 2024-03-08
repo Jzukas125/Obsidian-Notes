@@ -50,3 +50,9 @@ yara myfirstrule.yar sometextfile
 error scanning sometextfile: could not open file
 ```
 
+# Yara Conditions Continued 
+
+<h2> Meta </h2>
+Reserved for descriptive information by the author, can use the desc to summarize what checks are for .
+
+<h3> Strings </h
