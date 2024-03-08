@@ -55,4 +55,24 @@ error scanning sometextfile: could not open file
 <h2> Meta </h2>
 Reserved for descriptive information by the author, can use the desc to summarize what checks are for .
 
-<h3> Strings </h
+<h2> Strings </h2>
+Can use strings to search for specific text or hexadecimal in files or programs. For example, say we wanted to search a directory for all files containing "Hello World!", we would create a rule such as below
+```shell
+rule helloworld_checker{
+	strings:
+		$hello_world = "Hello World!"
+}
+```
+
+We define the keyword Strings where the string that we want to search, i.e., "Hello World!" is stored within the variable $hello_world
+
+Of course, we need a condition here to make the rule valid. In this example, to make this string condition, we need to use the variable's name. In this case, $hello_world:
+```shell
+rule helloworld_check{
+	strings
+		$hello_world = "Hello World!"
+
+	condition:
+		$hello_world
+}
+```
