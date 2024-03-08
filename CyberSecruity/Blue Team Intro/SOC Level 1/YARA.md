@@ -42,5 +42,11 @@ The name of the rule in this snippet is examplerule, where we have one condition
 If "somefile'" exists, Yara will say examplerule becasue the pattern has been met 
 ```shell
 yara myfirstrule.yar somefile
-example 
+examplerule somefile
 ```
+If the file does not exist, Yara will output an error such as:
+```shell
+yara myfirstrule.yar sometextfile
+error scanning sometextfile: could not open file
+```
+
