@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md"
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md"
               }
             }
           },
@@ -176,9 +176,10 @@
   },
   "active": "e8a130fd84c8f181",
   "lastOpenFiles": [
+    "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
+    "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
     "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Junior Security Analyst Intro.md",
     "CyberSecruity/CCDC/Nmap.md",
@@ -213,7 +214,6 @@
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Cross-Site Scripting.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/IntroToSSRF.md",
-    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Subdomain Enumeration.md",
     "CybSec Meetings/Spring 2024",
     "CybSec Meetings/Fall 2023",
     "Class/Finals Spring 2023",
