@@ -23,7 +23,8 @@ According to OpenCTI, connectors fall under the following classes of:
 
 OpenCTI is separated into different areas along with its GUI and I will attempt to explain in these notes.
 
-![[Pasted image 20240310151417.png]]
+![[Pasted image 20240310151501.png]]
 
-- Dashboard:  Showcases various visual widgets summarising the threat data ingested into OpenCTI. Widgets on the dashboard showcase the current state of entities ingested on the platform via the total number of entities.
-- 
+- Dashboard:  Showcases various visual widgets summarizing the threat data ingested into OpenCTI. Widgets on the dashboard showcase the current state of entities ingested on the platform via the total number of entities.
+- Activities: Located on the left side panel under the Open CTI logo
+	- Analysis: contains the input entities in reports analysed and associated external references. Reports are central to OpenCTI as knowledge on threats and events are extracted and processed.
