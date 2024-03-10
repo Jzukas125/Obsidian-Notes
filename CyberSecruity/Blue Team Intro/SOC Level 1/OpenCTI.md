@@ -21,3 +21,9 @@ The highlight services include:
 According to OpenCTI, connectors fall under the following classes of:
 ![[Pasted image 20240309105901.png]]
 
+OpenCTI is separated into different areas along with its GUI and I will attempt to explain in these notes.
+
+![[Pasted image 20240310151417.png]]
+
+- Dashboard:  Showcases various visual widgets summarising the threat data ingested into OpenCTI. Widgets on the dashboard showcase the current state of entities ingested on the platform via the total number of entities.
+- 
