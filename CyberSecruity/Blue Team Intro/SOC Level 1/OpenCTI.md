@@ -28,4 +28,9 @@ OpenCTI is separated into different areas along with its GUI and I will attempt 
 - Dashboard:  Showcases various visual widgets summarizing the threat data ingested into OpenCTI. Widgets on the dashboard showcase the current state of entities ingested on the platform via the total number of entities.
 - Activities: Located on the left side panel under the Open CTI logo
 	- Analysis: contains the input entities in reports analysed and associated external references. Reports are central to OpenCTI as knowledge on threats and events are extracted and processed.
-	- Events: 
+	- Events: Security Analysts investigate and hunt for events involving suspicious and malicious activities across their organizational network.
+	- Observations: Technical elements, detection rules and artefacts identified during a cyber attack are listed under this tab: one or several identifiable makeup indicators.
+- Knowledge: Located Below the Analysis Tab
+	- Threat Actor: An individual or group of attackers seeking to propagate malicious actions against a target
+	- Intrusion Sets: An array of TTPs, tools, malware, and infrastructure used by a threat actor against targets who share some attributes. APTs and threat groups are listed under this category on the platform due their known pattern of actions.
+	- Campaigns: Series of attacks taking place within a given period and against specific victims initiated by advanced. 
