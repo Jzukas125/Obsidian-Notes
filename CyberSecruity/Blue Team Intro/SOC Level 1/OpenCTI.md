@@ -42,4 +42,3 @@ OpenCTI is separated into different areas along with its GUI and I will attempt 
 		- Tools: Lists all legitimate tools and services developed for network maintenance, monitoring, and management. Adversaries may also be able to use these tools to achieve their objectives.
 		- Vulnerabilities: Known software bugs, system weaknesses, and exposures are listed to provide enrichment for what attackers may use to exploit and gain access to systems. 
 	-  Entities: Categorizes all entities based on operational sectors, countries, organizations, and individuals. 
-
