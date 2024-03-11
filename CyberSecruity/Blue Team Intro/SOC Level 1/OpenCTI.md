@@ -37,4 +37,9 @@ OpenCTI is separated into different areas along with its GUI and I will attempt 
 		- Campaigns: Series of attacks taking place within a given period and against specific victims initiated by advanced. 
 	- Arsenal: Contains any items related to an attack and any legitimate tools 
 		- Malware: Known and active malware are listed here
-		- Attack Patterns: Adversaries 
+		- Attack Patterns: Adversaries implement and use different TTPs to target, compromise, and achieve their objectives. Here, we can look at the details of the Command-Line Interface and make decisions based on the relationships established on the platform and navigate through an investigation associated with the technique.
+		- Courses of Action: MITRE maps out  concepts and technologies that can be used to prevent an attack being employed.
+		- Tools: Lists all legitimate tools and services developed for network maintenance, monitoring, and management. Adversaries may also be able to use these tools to achieve their objectives.
+		- Vulnerabilities: Known software bugs, system weaknesses, and exposures are listed to provide enrichment for what attackers may use to exploit and gain access to systems. 
+	-  Entities: Categorizes all entities based on operational sectors, countries, organizations, and individuals. 
+
