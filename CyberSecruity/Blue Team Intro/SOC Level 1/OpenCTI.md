@@ -31,6 +31,10 @@ OpenCTI is separated into different areas along with its GUI and I will attempt 
 	- Events: Security Analysts investigate and hunt for events involving suspicious and malicious activities across their organizational network.
 	- Observations: Technical elements, detection rules and artefacts identified during a cyber attack are listed under this tab: one or several identifiable makeup indicators.
 - Knowledge: Located Below the Analysis Tab
-	- Threat Actor: An individual or group of attackers seeking to propagate malicious actions against a target
-	- Intrusion Sets: An array of TTPs, tools, malware, and infrastructure used by a threat actor against targets who share some attributes. APTs and threat groups are listed under this category on the platform due their known pattern of actions.
-	- Campaigns: Series of attacks taking place within a given period and against specific victims initiated by advanced. 
+	- Threats: 
+		- Threat Actor: An individual or group of attackers seeking to propagate malicious actions against a target
+		- Intrusion Sets: An array of TTPs, tools, malware, and infrastructure used by a threat actor against targets who share some attributes. APTs and threat groups are listed under this category on the platform due their known pattern of actions.
+		- Campaigns: Series of attacks taking place within a given period and against specific victims initiated by advanced. 
+	- Arsenal: Contains any items related to an attack and any legitimate tools 
+		- Malware: Known and active malware are listed here
+		- Attack Patterns: Adversaries 
