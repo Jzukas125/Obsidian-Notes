@@ -48,4 +48,10 @@ Taxonomies
 
 Tagging
 	Information from feeds and taxonomies, tags can be placed on events and attributes to identify them based on the indicators or threats identified correctly. Tagging allows for effective sharing of threat information between users, communities and other organizations.
-	Tagging Best Practices: Tags can be added to an event and attributes, Tags are also inheirtable when set. It is recommended to set tags on the entire event and only include tags on attributes when they are an exception from what the event indi
+	Tagging Best Practices: Tags can be added to an event and attributes, Tags are also inheritable when set. It is recommended to set tags on the entire event and only include tags on attributes when they are an exception from what the event indicates. 
+	Minimal Subset of Tags - 
+		Traffic Light Protocol: Provides a color schema to guide how intelligence can be shared
+		Confidence: Provides an indication as to whether or not the data being shared is of high quality and has been vetted so that it can be trusted to be good for immediate usage
+		Origin: Describes the source of information and whether it was from automation or manual investigation
+		Permissible Actions Protocol: An advanced classification that indicates how the data can be used to search for compromises within the organization.
+
