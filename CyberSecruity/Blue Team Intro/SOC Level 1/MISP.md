@@ -27,4 +27,7 @@ Event Management
 			Connected Communities
 			All communities
 		Attributes and Attachments
-			
+			For IDS: Allows the attribute to be used as an IDS signature when exporting the NIDS data unless it overrides the permitted list
+			Batch Import: Several Attributes of the same type to enter
+		The Analyst can also add file attachments to the event, which may include malware, report files from external analysis or simply artefacts dropped by the malware.
+		Publish Event - The organization will review and publish these event to add them to the pool of events.

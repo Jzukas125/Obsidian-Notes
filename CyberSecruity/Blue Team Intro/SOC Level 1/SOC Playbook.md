@@ -1,5 +1,7 @@
-# Analyzing potential risky URLs
+# Gathering Info
+***OpenCTI*** is a wonderful way to gather any information needed but it may not always be available so other tools such as ***MITRE*** 
 
+# Analyzing potential risky URL
 Always make sure to be in a sandbox environment 
 Use **Urlscan.io** to get a full scan of any URL and **VirusTotal** to see any malware checking
 
