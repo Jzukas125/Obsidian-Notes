@@ -42,3 +42,10 @@ Feeds
 		- Select and Import events to your instance
 		- Correlate attributes identified between events and feeds
 	Feeds are enabled and managed by the Site Admin for the analysts to obtain information on events and indicators
+
+Taxonomies
+	A means of classifying based on standard features or attributes. On MISP, taxonomies are used to categorize events, indicators, and threat actors.
+
+Tagging
+	Information from feeds and taxonomies, tags can be placed on events and attributes to identify them based on the indicators or threats identified correctly. Tagging allows for effective sharing of threat information between users, communities and other organizations.
+	Tagging Best Practices: Tags can be added to an event and attributes, Tags are also inheirtable when set. It is recommended to set tags on the entire event and only include tags on attributes when they are an exception from what the event indi
