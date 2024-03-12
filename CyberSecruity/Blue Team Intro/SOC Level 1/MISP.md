@@ -16,4 +16,15 @@ Dashboard
  - Global Actions: Access to information about Misp and this instance.
  - MISP: Simple link to your baseurl
  - Name: Name (auto-generated from mail address) f currently logged in user
- - Envelope: Link to User Dashboard to consult some of your notifit
+ - Envelope: Link to User Dashboard to consult some of your notifications and changes since the last visit. 
+ - Log out: The Log oust button to end your session immediately
+
+Event Management
+	Where you create all malware investigation correlations by providing descriptions and attributes associated with the investigation. Splitting the process into three significant phases, we have: 
+		Event Creation - General info about an incident or investigation. Add the description, time, and risk level deemed appropriate for the incident by clicking the Add Event button. The distribution options are as follows:
+			Your organization only
+			This Community only (users that are part of yout MISP community)
+			Connected Communities
+			All communities
+		Attributes and Attachments
+			
