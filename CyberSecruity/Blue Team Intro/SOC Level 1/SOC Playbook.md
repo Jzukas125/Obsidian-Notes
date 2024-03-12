@@ -1,3 +1,6 @@
+
+![[Pasted image 20240312112746.png]]
+Any bad actors tend to follow these steps and it is a good idea to understand how to stop anyone in these steps or recover any system after step 5.
 # Gathering Info
 ***OpenCTI*** is a wonderful way to gather any information needed but it may not always be available so other tools such as ***MITRE*** 
 

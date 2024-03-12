@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md"
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md"
               }
             }
           },
@@ -189,11 +189,12 @@
   },
   "active": "a635dd9cddb37573",
   "lastOpenFiles": [
+    "CyberSecruity/Blue Team Intro/SOC Level 1/Wireshark 1.md",
+    "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
+    "Pasted image 20240312112746.png",
+    "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/Untitled.md",
     "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
     "Pasted image 20240310151501.png",
     "Pasted image 20230926125410.png",
@@ -220,13 +221,11 @@
     "Pasted image 20240205211843.png",
     "Pasted image 20240205192703.png",
     "Pasted image 20240203110004.png",
-    "Pasted image 20240202124111.png",
     "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
     "CyberSecruity/CCDC/Things to study.md",
     "CybSec Meetings/Spring 2024/Meeting 2 - Spring24.md",
     "Ideas.md",
     "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
-    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
     "CybSec Meetings/Spring 2024",
     "CybSec Meetings/Fall 2023",
     "Class/Finals Spring 2023",
