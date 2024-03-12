@@ -9,4 +9,11 @@ Misp essentially gathers threat intelligences and IOCs related to malware, cyber
 
 Dashboard
  - Home button: Returns to home
- - Event Actions: 
+ - Event Actions: All the malware data entered into MISP comprises an event object described by its connected attributes.
+ - Dashboard: Allows you to create custom dashboard using widgets
+ - Galaxies: Shortcut to the list of MISP galaxies
+ - Input Filters: Alter how users enter data into this instance.
+ - Global Actions: Access to information about Misp and this instance.
+ - MISP: Simple link to your baseurl
+ - Name: Name (auto-generated from mail address) f currently logged in user
+ - Envelope: Link to User Dashboard to consult some of your notifit
