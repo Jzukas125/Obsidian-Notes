@@ -20,3 +20,8 @@ Key elements of Access Controls:
 	IAM (identity and access management) - Controls and manages the asset identities and user access to data systems and resources 
 	Load Balancing - Controls the resource usage to distribute tasks over a set of resources over the and improve overall data processing flow
 	Network Segmentation - Creates and controls encrypted communication between devices 
+	VPN - Creates and controls encrypted communication between devices
+	Zero trust model - suggests configuring and implementing the access and permissions at a minimum level
+
+Key elements of Threat Control:
+	
