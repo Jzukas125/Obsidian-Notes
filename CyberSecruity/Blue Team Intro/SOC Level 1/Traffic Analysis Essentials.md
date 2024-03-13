@@ -30,3 +30,22 @@ Key elements of Threat Control:
 	Cloud Security - Protecting cloud/online-based systems resources from threats and data leakage by applying suitable countermeasures 
 	SIEM - Technology that helps threat detection, compliance, and security incident management.
 	SOAR (Security Orchestration Automation and Response) - Technology that helps coordinate and automates tasks between various people, tools, and data
+	Network Traffic Analysis & Network Detection and Response - Inspecting network traffic or traffic capture to identify anomalies and threats 
+
+Typical Network Security Management Operation is in four categories: 
+Deployment 
+	Device and software installation
+	Initial configuration 
+Configuration
+	Feature configuration
+	Initial network access configuration
+Management 
+	Security policy implementation
+	NAT and VPN implementation
+	Threat mitigation
+Monitoring
+	System monitoring
+	User activity monitoring
+	Threat monitoring
+	Log and traffic sample capturing 
+
