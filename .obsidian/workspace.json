@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md"
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md"
               }
             }
           },
@@ -190,12 +190,12 @@
   "active": "a635dd9cddb37573",
   "lastOpenFiles": [
     "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md",
+    "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Wireshark 1.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
     "Pasted image 20240312112746.png",
     "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
     "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
     "Pasted image 20240310151501.png",
     "Pasted image 20230926125410.png",
