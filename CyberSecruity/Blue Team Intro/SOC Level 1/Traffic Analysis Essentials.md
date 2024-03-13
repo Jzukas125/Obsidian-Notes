@@ -26,3 +26,7 @@ Key elements of Access Controls:
 Key elements of Threat Control:
 	IDS/IPS - Inspects the traffic and creates alerts (IDS) or resets the connection (IPS) when detecting an anomaly 
 	DLP (Data Loss Prevention) - Inspects the traffic and blocks the extraction of sensitive data 
+	Endpoint Protection - Protecting all kinds of endpoints and appliances that connect to the network by using a multi-layered approach like encryption, antivirus, antimalware, DLP, and IDS/IPS
+	Cloud Security - Protecting cloud/online-based systems resources from threats and data leakage by applying suitable countermeasures 
+	SIEM - Technology that helps threat detection, compliance, and security incident management.
+	SOAR (Security Orchestration Automation and Response) - Technology that helps coordinate and automates tasks between various people, tools, and data
