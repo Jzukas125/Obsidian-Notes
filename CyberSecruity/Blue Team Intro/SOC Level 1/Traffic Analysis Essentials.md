@@ -24,4 +24,5 @@ Key elements of Access Controls:
 	Zero trust model - suggests configuring and implementing the access and permissions at a minimum level
 
 Key elements of Threat Control:
-	
+	IDS/IPS - Inspects the traffic and creates alerts (IDS) or resets the connection (IPS) when detecting an anomaly 
+	DLP (Data Loss Prevention) - Inspects the traffic and blocks the extraction of sensitive data 
