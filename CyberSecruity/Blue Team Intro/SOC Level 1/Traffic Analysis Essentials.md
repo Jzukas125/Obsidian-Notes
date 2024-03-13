@@ -8,4 +8,4 @@ Network Security is a set of operations for protecting data, applications, devic
 Base Network Security Control Levels:
 	Physical: Physical controls prevent unauthorized physical access to networking devices, cable boards, L components.
 	Technical: Data security controls prevent unauthorized access to network data, like installing tunnels and implementing 
-	Administrative 
+	Administrative: 
