@@ -62,4 +62,13 @@ Behavioral Analysis
 
 # Traffic Analysis / Network Traffic Analysis
 
-Traffic analysis - a method of intercepting, recording/monitoring, and analyzing network data and communication patterns to detect and respond to system health issues
+Traffic analysis - a method of intercepting, recording/monitoring, and analyzing network data and communication patterns to detect and respond to system health issues, network anomalies, and threats.
+
+Two main techniques in traffic analysis:
+Flow Analysis 
+	Collecting data/evidence from the networking devices. This type of analysis aims to provide statistical results through the data summary without applying in-depth packet level investigation. Easy to collect and analyse but it does not provide full packet details
+Packet Analysis
+	Collecting all available network data. Applying in-depth pack-level investigation to detect and block anomalous and malicious packets. Provides full packet details but requires higher skills and more time
+
+
+
