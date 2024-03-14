@@ -713,3 +713,33 @@ while ($i < 6) {
 }
 ```
 A break statement can stop the loop even if the condition is still true
+
+
+# Including PHP in HTML
+Not only can php be used in tandem with HTML it can also be used ***in*** HTML. Meaning you can put php lines in HTML statements such as:
+```php
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+    <style> 
+        h1 { 
+            color: green; 
+        } 
+    </style> 
+</head> 
+  
+<body> 
+    <center> 
+        <h1>Welcome To GFG</h1> 
+  
+        <h2> 
+            <?php  
+            echo "This is PHP code inside html"
+            ?> 
+        </h2> 
+    </center> 
+</body> 
+  
+</html> 
+```
