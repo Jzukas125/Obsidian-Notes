@@ -49,3 +49,17 @@ Monitoring
 	Threat monitoring
 	Log and traffic sample capturing 
 
+# Managed Security Services
+
+Network Pentesting
+	Assessing network security by simulating external/internal attacker techniques to breach the network
+Vulnerability Assessment
+	Assessing network security by discovering and analyzing vulnerabilities in the environment
+Incident Response 
+	An organized approach to addressing and managing a security breach. It contains a set of actions to identify, contain, and eliminate incidents.
+Behavioral Analysis 
+	An organized approach to addressing system and user behaviors, creating baselines and traffic profiles for specific patterns to detect anomalies, threats, vulnerabilities, and attacks.
+
+# Traffic Analysis / Network Traffic Analysis
+
+Traffic analysis - a method of intercepting, recording/monitoring, and analyzing network data and communication patterns to detect and respond to system health issues
