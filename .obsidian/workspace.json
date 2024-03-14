@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Traffic Analysis Essentials.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Traffic Analysis Essentials.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Traffic Analysis Essentials.md",
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Traffic Analysis Essentials.md"
+                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "a635dd9cddb37573",
   "lastOpenFiles": [
-    "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Traffic Analysis Essentials.md",
+    "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
+    "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Wireshark 1.md",
@@ -225,7 +226,6 @@
     "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
     "CyberSecruity/CCDC/Things to study.md",
     "CybSec Meetings/Spring 2024/Meeting 2 - Spring24.md",
-    "Ideas.md",
     "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
     "CybSec Meetings/Spring 2024",
     "CybSec Meetings/Fall 2023",
