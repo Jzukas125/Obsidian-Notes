@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
+                "file": "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
+                "file": "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
+                "file": "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md"
+                "file": "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md"
               }
             }
           },
@@ -187,26 +187,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9e2845922235335",
+  "active": "a635dd9cddb37573",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Intro to Cyber Threat Intel.md",
     "CyberSecruity/TryHackMe/SOC Level 1/MITRE.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Unified Kill Chain.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
     "CyberSecruity/OSINT/OSINT Play Book.md",
     "Pasted image 20240314134046.png",
     "Pasted image 20240314134040.png",
     "Pasted image 20240314134025.png",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
     "CyberSecruity/OSINT",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/Traffic Analysis Essentials.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Traffic Analysis Essentials.md",
     "CyberSecruity/TryHackMe/SOC Level 1/SOC Playbook.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Threat Intelligence Tools.md",
     "CyberSecruity/TryHackMe/SOC Level 1/OpenCTI.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/Wireshark 1.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Wireshark 1.md",
     "Pasted image 20240312112746.png",
     "CyberSecruity/TryHackMe/SOC Level 1/MISP.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/YARA.md",
     "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
     "Pasted image 20240310151501.png",
     "Pasted image 20230926125410.png",
