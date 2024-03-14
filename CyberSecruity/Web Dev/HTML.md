@@ -6,6 +6,34 @@ My first HTML Document
 <!DOCTYPE html>
 <html>
 <head>
+<title> Page Title </title>
+</head>
+<body>
 
+<h1> My First Heading </h1>
+<p> my first paragraph. </p>
+
+</body>
 </html>
 ```
+
+<html>
+<head>
+<title> Page Title </title>
+</head>
+<body>
+
+<h1> My First Heading </h1>
+<p> my first paragraph. </p>
+
+</body>
+</html>
+
+What is an HTML element? 
+an HTML element is defined by a start tag, some content, and an end tag:
+```
+<tagname> Content goes here ... </tagename>
+```
+The HTML element is everything from the start tag to the end tag:
+<h1> My first heading </h1>
+<p> My first paragraph </p>
