@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/OpenCTI.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md"
               }
             }
           },
@@ -187,16 +187,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a635dd9cddb37573",
+  "active": "e9e2845922235335",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Intro to Cyber Threat Intel.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/MITRE.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Unified Kill Chain.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
+    "CyberSecruity/OSINT/OSINT Play Book.md",
+    "Pasted image 20240314134046.png",
+    "Pasted image 20240314134040.png",
+    "Pasted image 20240314134025.png",
+    "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+    "CyberSecruity/OSINT",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Traffic Analysis Essentials.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/Snort.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/SOC Playbook.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/Threat Intelligence Tools.md",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/OpenCTI.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/SOC Playbook.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Threat Intelligence Tools.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/OpenCTI.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Wireshark 1.md",
     "Pasted image 20240312112746.png",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/MISP.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/MISP.md",
     "CyberSecruity/Blue Team Intro/SOC Level 1/YARA.md",
     "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
     "Pasted image 20240310151501.png",
@@ -218,14 +227,6 @@
     "CyberSecruity/Web Dev/file.php.md",
     "CyberSecruity/Web Dev",
     "CybSec Meetings/Spring 2024/Second Meeting with Bobby.md",
-    "CybSec Meetings/Spring 2024/Scolding from Bobby 2-2-2024.md",
-    "CybSec Meetings/Meeting Ideas.md",
-    "Pasted image 20240205211843.png",
-    "Pasted image 20240205192703.png",
-    "Pasted image 20240203110004.png",
-    "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
-    "CyberSecruity/CCDC/Things to study.md",
-    "CybSec Meetings/Spring 2024/Meeting 2 - Spring24.md",
     "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
     "CybSec Meetings/Spring 2024",
     "CybSec Meetings/Fall 2023",
@@ -233,7 +234,6 @@
     "Class",
     "CyberSecruity/CISCO/Networking Basics",
     "CyberSecruity/CISCO",
-    "CyberSecruity/TryHackMe/SOC Level 1",
-    "CyberSecruity/Security+"
+    "CyberSecruity/TryHackMe/SOC Level 1"
   ]
 }
