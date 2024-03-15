@@ -15,4 +15,8 @@ Two main Types of IDS are:
 	Host-based Intrusion Detection Systems (HIDS) - HIDs monitors the traffic flow from a single endpoint device. It aims to investigate the traffic on a particular device. If a signature is identified, an alert is created.
 
 <h3> Intrustion Prvention System (IPS) </h3>
-IPS is an active protecting solution for preventing possible malicious activities/patterns, abnormal incidents, and policy violations.
+IPS is an active protecting solution for preventing possible malicious activities/patterns, abnormal incidents, and policy violations. It is responsible for stopping/preventing/terminating the suspicious event as soon as the detection is preformed. 
+Four main types are as follows:
+	Network Intrusion Prevention System (NIPS) - Monitors the traffic flow from various areas of the network. The aim is to protect the traffic on the entire subnet.
+	Behavior-based Intrusion Prevention System (Network Based Analysis - NBA) -Monitors the traffic flow from various areas of the network. Aims to protect the traffic on the entire subnet. If a signature is identified, the connection is terminated. Requires a training period in order to function well.
+	Wireless Intrusion Prevention System (WIPS) - Monitors the traffic flow from a wireless network. Aims to protect wireless traffic and stop possible attacks that could be launched from there. If a signature is identified, the connection is terminated.
