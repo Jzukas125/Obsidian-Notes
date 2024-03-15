@@ -77,4 +77,4 @@ Sniffer mode parameters are as follows:
 -i this parameter helps to define ap specifc network interface to listen/sniff. Once you have multiple interfaces, you can choose a specifc interface to sniff
 ```
 
-
+# Logger Mode
