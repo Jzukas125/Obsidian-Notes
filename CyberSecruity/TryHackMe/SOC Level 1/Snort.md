@@ -68,3 +68,11 @@ Some important parameters are as follows:
 
 # Sniffing Mode
 
+Sniffer mode parameters are as follows:
+```
+-v Verbose, Displays TCP/IP output in the console
+-d Displays the packet data
+-e Display the link-layer
+-X Display the full pakcet details in HEX
+-I this parameter helps to define ap specifc network interface to listen/sniff. Once you have multiple interfaces, you can choose a specifc interface to sniff
+```
