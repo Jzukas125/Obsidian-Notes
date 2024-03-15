@@ -18,7 +18,7 @@ Two main Types of IDS are:
 IPS is an active protecting solution for preventing possible malicious activities/patterns, abnormal incidents, and policy violations. It is responsible for stopping/preventing/terminating the suspicious event as soon as the detection is preformed. 
 Four main types are as follows:
 	- Network Intrusion Prevention System (NIPS) - Monitors the traffic flow from various areas of the network. The aim is to protect the traffic on the entire subnet.
-	- Behavior-based Intrusion Prevention System (Network Based Analysis - NBA) -Monitors the traffic flow from various areas of the network. Aims to protect the traffic on the entire subnet. If a signature is identified, the connection is terminated. Requires a training period in order to function well.
+	- Behavior-based Intrusion Prevention System (Network Based Analysis - NBA) -Monitors the traffic flow from various areas of the network. Aims to protect the traffic on the entire subnet. If a signature is identified, the connection is terminated. Requires a training period in order to function well that is also known as baselining.
 	- Wireless Intrusion Prevention System (WIPS) - Monitors the traffic flow from a wireless network. Aims to protect wireless traffic and stop possible attacks that could be launched from there. If a signature is identified, the connection is terminated.
 	- Host-Based Intrusion Prevention System (HIPS) - Protects the traffic flow from a single endpoint device. Aims to investigate the traffic on a particular device. If a signature is identified, the connection is terminated. Similar to HIDS but stops threats instead of alerting.
 
@@ -43,3 +43,15 @@ Snort has three main use models;
 - Sniffer Mode - Read IP packets and prompt them in the console application.
 - Packet Logger Mode - Log all IP packets (inbound and outbound) that visit the network.
 - NIDS (Network Intrusion Detection System)  and NIPS (Network Intrusion Prevention System) Modes - Log/drop the packets that are deemed as malicious according to the user-defined rules.
+
+# My first Snort
+
+Verify snort is installed with 
+	snort -V
+
+As a first step we should verify that our configuration file is valid by typing
+```Shell
+sudo snort -c /etc/snort/snort.conf -T
+```
+-T is for testing configuration
+-c is identiying the configuration file 
