@@ -67,4 +67,8 @@ Example:
 	<label for="fname">First name: </label><br>
 	<input type="text" id="fname" name="fname"><br>
 	<label for="lname">Last name:</label><br>
+	<input type="text" id="lname" name="lname">
 ```
+
+# The Label Element 
+As you can tell the label element is used in the above example code. The label tag defines a label for many form elements. 
