@@ -61,4 +61,8 @@ Once a configuration file is used, snort gains more power. The config file is an
 Some important parameters are as follows:
 ```shell
 -V/- Provides snorts verison and information
+-c Identififying the configuration file 
+-T Snorts self-test parameter, you can test your setup with this parameter
+-q Setups Quiet mode
 ```
+
