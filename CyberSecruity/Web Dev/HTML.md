@@ -43,3 +43,5 @@ The HTML element is everything from the start tag to the end tag:
 
 # Skipping basic HTML as I already know it
 
+# HTML Forms
+
