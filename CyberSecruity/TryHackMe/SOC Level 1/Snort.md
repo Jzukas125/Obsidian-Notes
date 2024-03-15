@@ -74,5 +74,7 @@ Sniffer mode parameters are as follows:
 -d Displays the packet data
 -e Display the link-layer
 -X Display the full pakcet details in HEX
--I this parameter helps to define ap specifc network interface to listen/sniff. Once you have multiple interfaces, you can choose a specifc interface to sniff
+-i this parameter helps to define ap specifc network interface to listen/sniff. Once you have multiple interfaces, you can choose a specifc interface to sniff
 ```
+
+
