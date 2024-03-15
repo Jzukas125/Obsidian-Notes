@@ -41,3 +41,5 @@ The HTML element is everything from the start tag to the end tag:
 <p> My first paragraph </p>
 ```
 
+# Skipping basic HTML as I already know it
+
