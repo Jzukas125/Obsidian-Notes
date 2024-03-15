@@ -17,6 +17,11 @@ Two main Types of IDS are:
 <h3> Intrustion Prvention System (IPS) </h3>
 IPS is an active protecting solution for preventing possible malicious activities/patterns, abnormal incidents, and policy violations. It is responsible for stopping/preventing/terminating the suspicious event as soon as the detection is preformed. 
 Four main types are as follows:
-	Network Intrusion Prevention System (NIPS) - Monitors the traffic flow from various areas of the network. The aim is to protect the traffic on the entire subnet.
-	Behavior-based Intrusion Prevention System (Network Based Analysis - NBA) -Monitors the traffic flow from various areas of the network. Aims to protect the traffic on the entire subnet. If a signature is identified, the connection is terminated. Requires a training period in order to function well.
-	Wireless Intrusion Prevention System (WIPS) - Monitors the traffic flow from a wireless network. Aims to protect wireless traffic and stop possible attacks that could be launched from there. If a signature is identified, the connection is terminated.
+	- Network Intrusion Prevention System (NIPS) - Monitors the traffic flow from various areas of the network. The aim is to protect the traffic on the entire subnet.
+	- Behavior-based Intrusion Prevention System (Network Based Analysis - NBA) -Monitors the traffic flow from various areas of the network. Aims to protect the traffic on the entire subnet. If a signature is identified, the connection is terminated. Requires a training period in order to function well.
+	- Wireless Intrusion Prevention System (WIPS) - Monitors the traffic flow from a wireless network. Aims to protect wireless traffic and stop possible attacks that could be launched from there. If a signature is identified, the connection is terminated.
+	- Host-Based Intrusion Prevention System (HIPS) - Protects the traffic flow from a single endpoint device. Aims to investigate the traffic on a particular device. If a signature is identified, the connection is terminated. Similar to HIDS but stops threats instead of alerting.
+
+<h3> Detection Prevention Techniques </h3>
+Three main detection techniques:
+- Signature-Based - Relies on rules that identify the specific patterns of the known malicious behavior. Also 
