@@ -45,4 +45,15 @@ The HTML element is everything from the start tag to the end tag:
 
 # HTML Forms
 
-the <from> Element is used to 
+the form Element is used to create an HTML form for user input:
+```HTML
+<form>
+.
+form elements
+.
+</forms>
+```
+
+The form element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
+
+The input element
