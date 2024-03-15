@@ -56,4 +56,15 @@ form elements
 
 The form element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
 
-The input element
+# The Input Element 
+The HTML input element is the most used form element. An input element can be displayed in many ways, depending on the type attribute.
+
+# Text Fields
+The `<input type="text>` defines a single-line input field for text input.
+Example:
+```html
+<form>
+	<label for="fname">First name: </label><br>
+	<input type="text" id="fname" name="fname"><br>
+	<label for="lname">Last name:</label><br>
+```
