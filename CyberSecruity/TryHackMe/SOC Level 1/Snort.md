@@ -54,4 +54,11 @@ As a first step we should verify that our configuration file is valid by typing
 sudo snort -c /etc/snort/snort.conf -T
 ```
 -T is for testing configuration
--c is identiying the configuration file 
+-c is identifying the configuration file (snort.conf) 
+
+Once a configuration file is used, snort gains more power. The config file is an all-in-one management file of the snort. Rules, plugins, detection mechanisms, default actions and output settings are identified here. It is possible to have multiple configuration files for different purposes and cases but can only use one at run time. You can prevent the banned by using the -q parameter if you so need.
+
+Some important parameters are as follows:
+```shell
+-V/- Provides snorts verison and information
+```
