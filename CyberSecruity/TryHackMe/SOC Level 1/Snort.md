@@ -24,4 +24,22 @@ Four main types are as follows:
 
 <h3> Detection Prevention Techniques </h3>
 Three main detection techniques:
-- Signature-Based - Relies on rules that identify the specific patterns of the known malicious behavior. Also 
+- Signature-Based - Relies on rules that identify the specific patterns of the known malicious behavior. Also detects known threats
+- Behavior-Based - Identifies new threats with new patterns that pass through signatures. Compares the known/normal with unknown/abnormal behaviors. Detects previously unknown or new threats.
+- Policy-Based - Compares detected activities with system configuration and security policies. This model helps detect policy violations.
+
+Snort Overview 
+Capabilities of Snort;  
+- Live traffic analysis
+- Attack and probe detection
+- Packet logging
+- Protocol analysis
+- Real-time alerting
+- Modules & plugins
+- Pre-processors
+- Cross-platform support! (Linux & Windows)
+
+Snort has three main use models;  
+- Sniffer Mode - Read IP packets and prompt them in the console application.
+- Packet Logger Mode - Log all IP packets (inbound and outbound) that visit the network.
+- NIDS (Network Intrusion Detection System)  and NIPS (Network Intrusion Prevention System) Modes - Log/drop the packets that are deemed as malicious according to the user-defined rules.
