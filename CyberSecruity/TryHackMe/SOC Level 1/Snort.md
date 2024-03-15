@@ -82,4 +82,7 @@ Sniffer mode parameters are as follows:
 Snort packet logging parameters:
 ```shell
 -l Logger mode, target log and alert output directory. Default output folder is /var/log/snort. The default action is to dump as tcpdump format in /var/log/snort
+-K ASCII Log packets in ASCII format
+-r reading option, read the dumped logs in snort
+-n specify the number of packets that will process/read. Snort will stop after reading the specified number
 ```
