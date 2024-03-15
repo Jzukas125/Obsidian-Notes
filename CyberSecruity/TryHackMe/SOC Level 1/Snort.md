@@ -78,3 +78,5 @@ Sniffer mode parameters are as follows:
 ```
 
 # Logger Mode
+
+Snort packet logging parameters 
