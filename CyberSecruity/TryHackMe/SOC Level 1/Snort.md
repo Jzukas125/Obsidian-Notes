@@ -79,4 +79,7 @@ Sniffer mode parameters are as follows:
 
 # Logger Mode
 
-Snort packet logging parameters 
+Snort packet logging parameters:
+```shell
+-l Logger mode, ta
+```
