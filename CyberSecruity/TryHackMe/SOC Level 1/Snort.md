@@ -11,4 +11,8 @@ A recap of what an IDS and IPS is needed before continuing.
 <h3> IDS (Intrustion Detection System) </h3>
 IDS is a passive monitoring solution for detecting possible malicious activities/patterns, abnormal incidents, and policy violations. It is responsible for generating alerts for each suspicious event.
 Two main Types of IDS are:
-	Network Intrusion Detection System (NIDS) - 
+	Network Intrusion Detection System (NIDS) - Monitors the traffic flow from various areas of the network. It aims to investigate the traffic on the entire subnet. If a signature is identified, an alert is created.
+	Host-based Intrusion Detection Systems (HIDS) - HIDs monitors the traffic flow from a single endpoint device. It aims to investigate the traffic on a particular device. If a signature is identified, an alert is created.
+
+<h3> Intrustion Prvention System (IPS) </h3>
+IPS is an active protecting solution for preventing possible malicious activities/patterns, abnormal incidents, and policy violations.
