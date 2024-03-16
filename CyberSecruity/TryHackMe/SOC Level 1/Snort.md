@@ -89,7 +89,6 @@ Snort packet logging parameters:
 
 # IDS/IPS
 
-
 Helps manage traffic according to user-defined rules
 Parameters for IDS/IPS mode:
 ```
@@ -98,4 +97,11 @@ Parameters for IDS/IPS mode:
 -N disable logging
 -D background mode
 -A Alert modes of which include, full(all alerts with full information), fast(shows alert, timestamp, source, and destination IP, along with port numbers), console(fast alerts on the console screen), cmg(cmg style basic headers), none(dissables alerts)
+```
+
+# PCAP Investigation
+
+PCAP parameters are as follows:
+```
+-r/-pcap
 ```
