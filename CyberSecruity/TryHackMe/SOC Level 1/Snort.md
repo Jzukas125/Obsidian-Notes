@@ -107,3 +107,6 @@ PCAP parameters are as follows:
 -pcap-list="" Read pcaps provided in command
 -pcap-show Show pcap name on console during processing
 ```
+
+# Snort Rule Structure
+
