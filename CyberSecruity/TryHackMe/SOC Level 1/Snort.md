@@ -127,5 +127,6 @@ Protocol rules:
 
 <h3>  IP and Port Numbers </h3>
 Parameters to identify the source and destination IP addresses and associated port numbers filtered for the rule:
-IP Filtering - alert icmp 192.168.1.56 <> any any  This rule will create an alert for each ICMP packet orignating from the 192.168.1.56 IP address
-Filter an IP range - alert icmp 102.168.1.0/24 any <> any any  This rule will  create an alert for each ICMP pacet or
+IP Filtering - alert icmp 192.168.1.56 <> any any  This rule will create an alert for each ICMP packet originating from the 192.168.1.56 IP address
+Filter an IP range - alert icmp 102.168.1.0/24 any <> any any  This rule will  create an alert for each ICMP packet originating from the 192.168.1.0/24 subnet
+Filter multiple IP ranges - alert icmp [192.168.1.0/24, 10.1.1.0/24] any <> any any   This rule will create an alert for each ICMP packet originating from the 192.168.1.0/24 and 10.1.1.0/24 subnets.
