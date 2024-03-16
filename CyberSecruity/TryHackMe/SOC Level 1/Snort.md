@@ -125,3 +125,5 @@ Protocol rules:
 	Protocol parameter identifies the type of protocol that filtered for the rule.
 	Snort2 supports only four protocols filters in the rules. However, you can detect the application flows using port numbers and options. 
 
+<h3>  IP and Port Numbers </h3>
+Parameters to identify the source and destination IP addresses and associated port numbers filtered for the rule:
