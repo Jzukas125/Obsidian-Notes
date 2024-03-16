@@ -114,4 +114,9 @@ PCAP parameters are as follows:
 
 Each rule represents a type of actions, protocol, source, and destination IP, source and destination port and an option. Remember, Snort is in passive mode by default meaning snort is usually an IDS. You will need to put it in inline mode to turn on IPS mode. 
 
-Rules are easy to understand but difficult to produce 
+Rules are easy to understand but difficult to produce.
+Action rules:
+	There are several actions for rules. Understanding the functionality and testing it before creating rules for live systems. The most common actions are listed below. 
+	Alerts - generate an alert and log the packet
+	Logs - log the packet
+	Drop - Block the log and packet
