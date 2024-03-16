@@ -120,3 +120,8 @@ Action rules:
 	Alerts - generate an alert and log the packet
 	Logs - log the packet
 	Drop - Block the log and packet
+	Reject - Block the packet, log it, and terminate the packet session
+Protocol rules:
+	Protocol parameter identifies the type of protocol that filtered for the rule.
+	Snort2 supports only four protocols filters in the rules. However, you can detect the application flows using port numbers and options. 
+
