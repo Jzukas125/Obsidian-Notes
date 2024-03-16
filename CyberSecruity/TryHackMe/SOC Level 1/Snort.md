@@ -103,5 +103,7 @@ Parameters for IDS/IPS mode:
 
 PCAP parameters are as follows:
 ```
--r/-pcap
+-r/-pcap-single Read s ingle pcap file
+-pcap-list="" Read pcaps provided in command
+-pcap-show Show pcap name on console during processing
 ```
