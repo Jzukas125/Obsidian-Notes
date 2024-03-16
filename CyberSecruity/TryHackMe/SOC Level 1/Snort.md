@@ -86,3 +86,16 @@ Snort packet logging parameters:
 -r reading option, read the dumped logs in snort
 -n specify the number of packets that will process/read. Snort will stop after reading the specified number
 ```
+
+# IDS/IPS
+
+
+Helps manage traffic according to user-defined rules
+Parameters for IDS/IPS mode:
+```
+-c Defining the configuration file
+-T testing hte configuration file
+-N disable logging
+-D background mode
+-A Alert modes of which include, full(all alerts with full information), fast(shows alert, timestamp, source, and destination IP, along with port numbers), console(fast alerts on the console screen), cmg(cmg style basic headers), none(dissables alerts)
+```
