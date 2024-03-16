@@ -127,3 +127,4 @@ Protocol rules:
 
 <h3>  IP and Port Numbers </h3>
 Parameters to identify the source and destination IP addresses and associated port numbers filtered for the rule:
+IP Filtering - alert icmp 192.168.1.
