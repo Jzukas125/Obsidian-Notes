@@ -113,3 +113,5 @@ PCAP parameters are as follows:
 ![[Pasted image 20240316165142.png]]
 
 Each rule represents a type of actions, protocol, source, and destination IP, source and destination port and an option. Remember, Snort is in passive mode by default meaning snort is usually an IDS. You will need to put it in inline mode to turn on IPS mode. 
+
+Rules are easy to understand but difficult to produce 
