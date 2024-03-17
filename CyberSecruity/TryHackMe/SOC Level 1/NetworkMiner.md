@@ -15,4 +15,6 @@ In a nutshell:
 
 It has two operating modes:
 	Sniffer mode: Available only on windows, not as reliable as other features, don't use as a primary sniffer. 
-	Packet Parsing/Processing: 
+	Packet Parsing/Processing: NetworkMiner can parse traffic captures to have a quick overview and information capture. This operation mode is mainly suggested to grab the "low hanging fruit" before diving into a deeper investigation
+
+Pros and Cons 
