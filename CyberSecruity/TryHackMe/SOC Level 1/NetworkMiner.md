@@ -120,4 +120,16 @@ Keywords
 	- Context
 	- Source and Destination host
 	- Source and destination port
-	
+
+Messages
+	The messages menu shows extracted emails, chats, and messages from investigated pcaps. This section provides information on;
+	- Frame number
+	- Source and destination host
+	- Protocol
+	- Sender (From)
+	- Receiver (To)
+	- Timestamp
+	- Size
+
+Anomalies
+	The anomalies menu shows detected anomalies in the processed pcap. Note that NetworkMiner isn't designated as an IDS. However, developers added some detections for EternalBlue exploit and spoofing attempts.
