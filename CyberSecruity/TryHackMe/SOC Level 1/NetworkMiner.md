@@ -18,3 +18,26 @@ It has two operating modes:
 	Packet Parsing/Processing: NetworkMiner can parse traffic captures to have a quick overview and information capture. This operation mode is mainly suggested to grab the "low hanging fruit" before diving into a deeper investigation
 
 Pros and Cons 
+Pros: 
+- OS fingerprinting 
+- Easy file extraction 
+- Credential grabbing 
+- Clear test keyword parsing 
+- Overall overview 
+Cons:
+- Not useful in active sniffing
+- Not useful for large pcap investigation
+- Limited filtering 
+- Not built for manual traffic investigation 
+
+# Tool Overview 1
+
+Landing Page
+	Home page of the application
+
+File Menu 
+	File menu helps load a pcap file or receive pcap over IP. Can also drag and drop pcap files as well. NetworkMiner also can receive pcaps over IP. 
+
+Tools Menu
+	Tool menu helps clear the dashboard and remove the captured data
+
