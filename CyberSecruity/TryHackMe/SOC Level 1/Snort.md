@@ -131,4 +131,7 @@ IP Filtering - alert icmp 192.168.1.56 <> any any  This rule will create an aler
 Filter an IP range - alert icmp 102.168.1.0/24 any <> any any  This rule will  create an alert for each ICMP packet originating from the 192.168.1.0/24 subnet
 Filter multiple IP ranges - alert icmp [192.168.1.0/24, 10.1.1.0/24] any <> any any   This rule will create an alert for each ICMP packet originating from the 192.168.1.0/24 and 10.1.1.0/24 subnets.
 Exclude IP addresses/ranges - alert icmp !192.168.1.0/24 any <> any any  This rule will create an alert for each ICMP packet not originating from the 192.168.1.0/24
-Port filtering - 
+Port filtering - alert tcp any any <> any 21  This rule will create an alert for each TCP packet sent to port 21
+Exlcude a specifc port - alert tcp any any <> any !21  This rule will create an alert for each TCP packet not sent to port 21
+Exclude a port range (Type 1)- alert tcp any any <> any 1:1024  This rule will create an alert for each TCP packet
+Filter a port range (Type 2) - alert tcp any any <> any 1:1024  This rule will create an alert for each TCP packet sent to ports less than or equal to 1024
