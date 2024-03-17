@@ -86,3 +86,38 @@ Credentials
 		- SMTP
 		- MS SQL
 
+Files
+	file menu shows extracted files from investigated pcaps. This section provides information on;
+	- Frame number
+	- Filename
+	- Extension
+	- Size
+	- Source and destination address
+	- Source and destination port
+	- Protocol 
+	- Timestamp 
+	- Reconstructed path 
+	- Details 
+
+Images
+	file menu shows extracted images from investigated pcaps. The right-click menu is helpful in this part as well. 
+
+Parameters
+	File menu shows extracted parameters from investigated pcaps. This section provides information on;
+	- Parameter name 
+	- Parameter value 
+	- Frame number
+	- Source and destination host
+	- Source and destination port
+	- Timestamp
+	- Details
+
+Keywords
+	The file menu shows extracted keywords from investigated pcaps. Section provide information on;
+	- Frame number 
+	- Timestamp
+	- Keyword
+	- Context
+	- Source and Destination host
+	- Source and destination port
+	
