@@ -41,3 +41,22 @@ File Menu
 Tools Menu
 	Tool menu helps clear the dashboard and remove the captured data
 
+Help Menu
+	Provides information on updates and the current version
+
+Case Panel 
+	Shows the lit of the investigated pcap files. You can reload/refresh, view metadata details and remove loaded files from this panel.
+
+Hosts
+	Hosts menu shows the identified hosts in the pcap file. This section provides information on;
+	- IP address
+	- MAC Address 
+	- OS type 
+	- Open ports 
+	- Sent/Received packets
+	- Incoming/Outgoing sessions
+	- Host details 
+OS fingerprinting uses the satori GitHub repo and p0f, and the MAC address database uses the mac-ages GitHub repo. 
+
+Sessions
+	The session menu shows detected sessions in the pcap file. The section provides information on; 
