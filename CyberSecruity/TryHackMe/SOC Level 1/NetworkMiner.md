@@ -75,4 +75,14 @@ DNS
 	- Alexa Top 1M
 
 Credentials
-	Credentials menu shows extracted credentials and password hashes from investigated pcaps. Can use Hashcat and John the Ripper to decrypt extracted credentials. NetworkMiner can extract 
+	Credentials menu shows extracted credentials and password hashes from investigated pcaps. Can use Hashcat and John the Ripper to decrypt extracted credentials. NetworkMiner can extract credentials including;
+		- Kerberos hashes
+		- NTLM hashes
+		- RDP cookies
+		- HTTP cookies
+		- HTTP requests
+		- IMAP 
+		- FTP 
+		- SMTP
+		- MS SQL
+
