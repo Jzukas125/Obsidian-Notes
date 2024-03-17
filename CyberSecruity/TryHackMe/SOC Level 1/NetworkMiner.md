@@ -59,4 +59,20 @@ Hosts
 OS fingerprinting uses the satori GitHub repo and p0f, and the MAC address database uses the mac-ages GitHub repo. 
 
 Sessions
-	The session menu shows detected sessions in the pcap file. The section provides information on; 
+	The session menu shows detected sessions in the pcap file. The section provides information on; Frame number, Client and server address, Source and destination port, protocol, and start time.
+	Can search for keywords inside frames with the help of the filtering bar. It is possible to filter specific columns of the session menu as well. This menu accepts four types of input; "ExactPhrase", "AllWords", "AnyWord", "RegExe". 
+
+DNS
+	The DNS menu shows DNS queries with details. This section provides information on;
+	- Frame number
+	- Timestamp
+	- Client and server
+	- Source and destination port
+	- IP TTL
+	- DNS time
+	- Transaction ID and type
+	- DNS query and answer
+	- Alexa Top 1M
+
+Credentials
+	Credentials menu shows extracted credentials and password hashes from investigated pcaps. Can use Hashcat and John the Ripper to decrypt extracted credentials. NetworkMiner can extract 
