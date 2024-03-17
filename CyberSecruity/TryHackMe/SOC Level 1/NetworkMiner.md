@@ -14,4 +14,5 @@ In a nutshell:
 	Clear text keyword parsing - Can extract cleartext keywords and strings from the parsed pcap file 
 
 It has two operating modes:
-	Sniffer mode: 
+	Sniffer mode: Available only on windows, not as reliable as other features, don't use as a primary sniffer. 
+	Packet Parsing/Processing: 
