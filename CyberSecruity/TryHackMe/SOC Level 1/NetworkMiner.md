@@ -141,4 +141,13 @@ Mac Address Processing
 	workMiner after version 2 can process MAC address specific correlation. This option will help identify if there is a MAC address conflict. 
 
 Sent/Received Packet Processing 
-	workMiner versions up to version 1.6 can handle packets in much detail. These options will help you investigate the sent/received kets in a more detailed format. This feature is not ava
+	workMiner versions up to version 1.6 can handle packets in much detail. These options will help you investigate the sent/received kets in a more detailed format. This feature is not available 
+
+Frame Processing 
+	Any version after 1.6 cant handle frames 
+
+Parameter Processing
+	NetworkMiner version after version 2 can handle parameters in a more extensive form. 
+
+Cleartext Processing
+	NetworkMiner versions up to version 1.6 can handle cleartext data. This option provides all extracted cleartext data in a single tab; it is beneficial to investigate cleartext data about the traffic data. However, it 
