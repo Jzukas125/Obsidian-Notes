@@ -150,4 +150,4 @@ Parameter Processing
 	NetworkMiner version after version 2 can handle parameters in a more extensive form. 
 
 Cleartext Processing
-	NetworkMiner versions up to version 1.6 can handle cleartext data. This option provides all extracted cleartext data in a single tab; it is beneficial to investigate cleartext data about the traffic data. However, it 
+	NetworkMiner versions up to version 1.6 can handle cleartext data. This option provides all extracted cleartext data in a single tab; it is beneficial to investigate cleartext data about the traffic data. However, it is impossible to match the cleartext data and packets.
