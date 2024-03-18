@@ -133,3 +133,12 @@ Messages
 
 Anomalies
 	The anomalies menu shows detected anomalies in the processed pcap. Note that NetworkMiner isn't designated as an IDS. However, developers added some detections for EternalBlue exploit and spoofing attempts.
+
+# Version Differences
+The most significant differences between version 1.6 and 2.7 are as follows:
+
+Mac Address Processing
+	workMiner after version 2 can process MAC address specific correlation. This option will help identify if there is a MAC address conflict. 
+
+Sent/Received Packet Processing 
+	workMiner versions up to version 1.6 can handle packets in much detail. These options will help you investigate the sent/received kets in a more detailed format. This feature is not ava
