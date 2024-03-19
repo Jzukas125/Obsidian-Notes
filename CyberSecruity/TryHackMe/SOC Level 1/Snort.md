@@ -165,4 +165,5 @@ The direction operator indicates the traffic flow to be filtered by snort.
 
 Three main rule options in snort
 	- General Rule Options- Fundamental rule options in snort
-	- Payload Rule Options - Rule options that help to investigate
+	- Payload Rule Options - Rule options that help to investigate the payload data. These options are helpful to detect specific payload patterns. 
+	- Non-payload Rule Options - Rule options that focus on non-payload data. These options will help create specific patterns and identify network issues.  
