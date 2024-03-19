@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "a635dd9cddb37573",
   "lastOpenFiles": [
-    "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
     "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
     "CyberSecruity/TryHackMe/SOC Level 1/OpenCTI.md",
     "Pasted image 20240316165142.png",
     "CyberSecruity/Hack the Box/Incident Handling.md",

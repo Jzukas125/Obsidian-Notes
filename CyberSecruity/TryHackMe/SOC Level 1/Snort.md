@@ -160,3 +160,9 @@ This rule will create an alert for each TCP packet sent to port 21 and 23.
 
 Direction 
 The direction operator indicates the traffic flow to be filtered by snort. 
+-> is source to destination flow
+<> is bi-directional flow
+
+Three main rule options in snort
+	- General Rule Options- Fundamental rule options in snort
+	- Payload Rule Options - Rule options that help to investigate
