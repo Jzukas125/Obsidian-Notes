@@ -37,3 +37,24 @@ netstat /?
 ```
 
 # NET
+More information about net can be found by using the command 
+```
+net help
+```
+
+Information about what devices to use the command on can be found by running the command 
+```
+net statistics
+```
+
+The only device I could gather statistics from was called workstation prompting me to find out more by typing 
+```
+net statistics workstation
+```
+
+This command sees all servicing running on your system
+```
+net start
+```
+
+
