@@ -39,3 +39,8 @@ Zeek has two primary layers; "Event Engine" and "Policy Script Interpreter". The
 ![[Pasted image 20240320142951.png]]
 
 <h3> Zeek Frameworks </h3>
+Available Frameworks include Logging, Notice, Input, Configuration, Intelligence, Cluster, Broker Communication, Supervisor, Geolocation, File Analysis, Signature, Summary, Decontrol, Packet Analysis, TLS Decryption. 
+
+<h3> Zeek Outputs </h3>
+Zeek provides 50+ log files under seven different categories, which are helpful in various areas such as traffic monitoring, intrusion detection, threat hunting, and web analytics. 
+Logs will be covered later on. Zeek automatically begins traffic investigation or on a pcap or generating logs automatically. Once a pcap is proce
