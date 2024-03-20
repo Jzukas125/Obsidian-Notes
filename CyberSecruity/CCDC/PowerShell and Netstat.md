@@ -36,6 +36,8 @@ More information about netstat can be found by typing
 netstat /?
 ```
 
+Command that shows the name of the 
+
 # NET
 More information about net can be found by using the command 
 ```
