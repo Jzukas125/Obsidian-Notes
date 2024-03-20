@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33b91f56bcbc8710",
+        "id": "747526c02bdfa058",
         "type": "tabs",
         "children": [
           {
-            "id": "a635dd9cddb37573",
+            "id": "6a2f4d4873516936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md"
+                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md"
               }
             }
           },
@@ -174,11 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a635dd9cddb37573",
+  "active": "6a2f4d4873516936",
   "lastOpenFiles": [
+    "CyberSecruity/CCDC/PowerShell and Netstat.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "Pasted image 20240320142951.png",
     "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
     "CyberSecruity/TryHackMe/SOC Level 1/OpenCTI.md",
     "Pasted image 20240316165142.png",
@@ -209,7 +210,6 @@
     "Pasted image 20230926125410.png",
     "Pasted image 20240310151417.png",
     "Pasted image 20240310151223.png",
-    "Pasted image 20240309105901.png",
     "CyberSecruity/Blue Team Intro/SOC Level 1/Junior Security Analyst Intro.md",
     "CyberSecruity/CCDC/Nmap.md",
     "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
