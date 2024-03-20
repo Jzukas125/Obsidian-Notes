@@ -24,4 +24,15 @@ Pros
 
 Cons
 	Zeek
-		The analysis is done out of the ZEEK
+		The analysis is done out of the Zeek, manually or by automation
+	Snort
+		Hard to detect complex threats
+
+Common Use Case
+	Zeek
+		Network monitoring. In-depth traffic investigation. Intrusion detecting in chained events.
+	Snort 
+		Intrusion detection and prevention. Stop known attacks/threats. 
+
+<h3> Zeek Architecture </h3>
+Zeek has two primary layers; "Event Engine" and "Policy Script Interpreter". The event engine layer is where the packets are processed; it is called the event core and is responsible for describing the even without focusing on event details. 
