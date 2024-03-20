@@ -43,4 +43,4 @@ Available Frameworks include Logging, Notice, Input, Configuration, Intelligence
 
 <h3> Zeek Outputs </h3>
 Zeek provides 50+ log files under seven different categories, which are helpful in various areas such as traffic monitoring, intrusion detection, threat hunting, and web analytics. 
-Logs will be covered later on. Zeek automatically begins traffic investigation or on a pcap or generating logs automatically. Once a pcap is proce
+Logs will be covered later on. Zeek automatically begins traffic investigation or on a pcap or generating logs automatically. Once a pcap is processed with Zeek, it will create logs in the working directory. If zeek is run as a service, logs will be located in the default log path. The default log path for Zeek is /opt/zeek/logs
