@@ -74,4 +74,14 @@ Command to switch to a root user
 ```
 sudo su root
 ```
+to exit just type exit 
 
+Check directory using 
+```
+pwd
+```
+
+To switch to root directory that has full access to every directory simply type
+```
+sudo su -
+```
