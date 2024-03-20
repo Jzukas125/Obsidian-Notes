@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md",
+                "file": "CyberSecruity/CCDC/Netstat and Net.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md",
+                "file": "CyberSecruity/CCDC/Netstat and Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md",
+                "file": "CyberSecruity/CCDC/Netstat and Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/CCDC/PowerShell and Netstat.md"
+                "file": "CyberSecruity/CCDC/Netstat and Net.md"
               }
             }
           },
@@ -176,7 +176,8 @@
   },
   "active": "6a2f4d4873516936",
   "lastOpenFiles": [
-    "CyberSecruity/CCDC/PowerShell and Netstat.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/SOC Playbook.md",
+    "CyberSecruity/CCDC/Netstat and Net.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "Pasted image 20240320142951.png",
     "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
@@ -201,7 +202,6 @@
     "Pasted image 20240314134025.png",
     "CyberSecruity/OSINT",
     "CyberSecruity/TryHackMe/SOC Level 1/Traffic Analysis Essentials.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/SOC Playbook.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Threat Intelligence Tools.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Wireshark 1.md",
     "Pasted image 20240312112746.png",

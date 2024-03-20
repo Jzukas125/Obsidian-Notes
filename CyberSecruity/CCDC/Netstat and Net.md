@@ -41,6 +41,11 @@ Command that shows the name of the established connections
 netstat -b
 ```
 
+<h3> By Far my favorite command to run would be </h3>
+```
+netstat -o -b -a
+```
+Because this allows me to find all information, see the name of the domains and 
 # NET
 More information about net can be found by using the command 
 ```

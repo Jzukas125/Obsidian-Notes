@@ -11,7 +11,7 @@ Always make sure to be in a sandbox environment
 Use **Urlscan.io** to get a full scan of any URL and **VirusTotal** to see any malware checking
 
 # Bad Actors on emails
-**PhishTool**  and ***GoPhish** allows emails to be scanned and analyzed to find any extra information. This is used in tandem with **Cisco Talos Intelligence** which allows for IP lookup on emails. Should also be using ***VirusTotal***  to check malicious IPs
+**PhishTool**  and ***GoPhish** allows emails to be scanned and analyzed to find any extra information. This is used in tandem with **Cisco Talos Intelligence** which allows for IP lookup on emails. Should also be using ***VirusTotal*** and  ***Cisco Talos*** to check malicious IPs.
 
 # Other Resources 
 - **Malware Bazaar:**  A resource for sharing malware samples.
