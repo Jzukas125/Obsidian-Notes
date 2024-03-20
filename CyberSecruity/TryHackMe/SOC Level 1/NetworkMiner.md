@@ -151,3 +151,5 @@ Parameter Processing
 
 Cleartext Processing
 	NetworkMiner versions up to version 1.6 can handle cleartext data. This option provides all extracted cleartext data in a single tab; it is beneficial to investigate cleartext data about the traffic data. However, it is impossible to match the cleartext data and packets.
+
+Remember that this tool is usually used for a brief look at packets and should not be a main sniffer. 
