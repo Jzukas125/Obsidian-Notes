@@ -63,3 +63,15 @@ net start
 ```
 
 
+# Linux Side
+
+Command that shows all the users ids 
+```
+id
+```
+
+Command to switch to a root user 
+```
+sudo su root
+```
+
