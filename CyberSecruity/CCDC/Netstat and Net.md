@@ -45,7 +45,7 @@ netstat -b
 ```
 netstat -o -b -a
 ```
-Because this allows me to find all information, see the name of the domains and 
+Because this allows me to find all information, and see the name of the services running
 # NET
 More information about net can be found by using the command 
 ```

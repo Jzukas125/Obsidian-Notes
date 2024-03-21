@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/CCDC/Netstat and Net.md",
+                "file": "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Resilence",
+                "query": "Playbook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/CCDC/Netstat and Net.md",
+                "file": "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/CCDC/Netstat and Net.md",
+                "file": "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/CCDC/Netstat and Net.md"
+                "file": "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md"
               }
             }
           },
@@ -174,10 +175,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2f4d4873516936",
+  "active": "ef536abdb9ddfce5",
   "lastOpenFiles": [
-    "CyberSecruity/TryHackMe/SOC Level 1/SOC Playbook.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/MITRE.md",
+    "Playbooks/SOC Playbook.md",
+    "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/File Inclusion.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/IDOR.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Subdomain Enumeration.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/How Websites Work.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/HTTP in detail.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/Putting It All Together.md",
+    "CyberSecruity/TryHackMe/Security Engineer/Security Principles.md",
     "CyberSecruity/CCDC/Netstat and Net.md",
+    "Playbooks",
     "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "Pasted image 20240320142951.png",
     "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
@@ -194,33 +207,21 @@
     "CyberSecruity/Blue Team Intro/Areas of Defensive Security.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Kill Chain.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Intro to Cyber Threat Intel.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/MITRE.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Unified Kill Chain.md",
-    "CyberSecruity/OSINT/OSINT Play Book.md",
     "Pasted image 20240314134046.png",
     "Pasted image 20240314134040.png",
     "Pasted image 20240314134025.png",
     "CyberSecruity/OSINT",
-    "CyberSecruity/TryHackMe/SOC Level 1/Traffic Analysis Essentials.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Threat Intelligence Tools.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Wireshark 1.md",
     "Pasted image 20240312112746.png",
-    "CyberSecruity/TryHackMe/SOC Level 1/MISP.md",
     "Pasted image 20240310151501.png",
     "Pasted image 20230926125410.png",
     "Pasted image 20240310151417.png",
     "Pasted image 20240310151223.png",
-    "CyberSecruity/Blue Team Intro/SOC Level 1/Junior Security Analyst Intro.md",
-    "CyberSecruity/CCDC/Nmap.md",
-    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Web Dev",
     "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
     "CybSec Meetings/Spring 2024",
     "CybSec Meetings/Fall 2023",
     "Class/Finals Spring 2023",
     "Class",
-    "CyberSecruity/CISCO/Networking Basics",
-    "CyberSecruity/CISCO"
+    "CyberSecruity/CISCO/Networking Basics"
   ]
 }
