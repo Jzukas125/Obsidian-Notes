@@ -4,3 +4,4 @@ My notes on the YouTube video [Beginner Bug Bounty Course | Web Application Hack
 
 To start it is important that we have any note taking method to make sure we do not continually run through the same processes in a web page. Something similar to a playbook could be helpful.
 
+First tool being installed is g-edit 
