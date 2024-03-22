@@ -32,11 +32,16 @@ Ffuf requires a wordlist in order to function
 ffuf -w /usr/share/wordlists/example.txt -u https://www.yahoo.com/FUZZ -fl 1
 ```
 
-I had to have chatgpt ex
+I had to have chatgpt exlpain this due to me not having full understanding of how to use ffuf.
 - `-w /usr/share/wordlists/example.txt`: This flag specifies the wordlist (dictionary) to be used for fuzzing. In this case, you're using a wordlist located at `/usr/share/wordlists/example.txt`. Wordlists contain a list of words that will be used to replace the `FUZZ` placeholder in the URL.
 
 - `-u https://www.yahoo.com/FUZZ`: This flag specifies the target URL to fuzz. `FUZZ` acts as a placeholder that will be replaced by each word from the wordlist during the fuzzing process. So, `ffuf` will send requests to URLs like `https://www.yahoo.com/word1`, `https://www.yahoo.com/word2`, and so on, using the words from the wordlist.
 
 - `-fl 1`: This flag specifies the filtering level. In this case, it's set to `1`, meaning that responses with HTTP status codes less than or equal to 1xx (informational responses) will be considered valid. This helps in filtering out unwanted responses.
 
-So, in summary, this `ffuf` command is fuzzing the URL `https://www.yahoo.com/FUZZ`, replacing `FUZZ` with words from the wordlist `/usr/share/wordlists/example.txt`, and it will consider responses with HTTP status codes less than or equal to 1xx as valid.
+<h3> dirb </h3>
+The official definition of dirb from the kali website is "DIRB is a Web Content Scanner. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary based attack against a web server and analyzing the responses.
+
+DIRB comes with a set of preconfigured attack wordlists for easy usage but you can use your custom wordlists. Also DIRB sometimes can be used as a classic CGI scanner, but remember that it is a content scanner not a vulnerability scanner.
+
+DIRB’s main purpose is to help in professional web application auditing. Specially in security related testing. It covers some holes not covered by classic web vulnerability scanners. DIRB looks for specific web objects that other generic CGI scanners can’t look for. It doesn’t search vulnerabilities nor does it look for web contents that can be vulnerable." 
