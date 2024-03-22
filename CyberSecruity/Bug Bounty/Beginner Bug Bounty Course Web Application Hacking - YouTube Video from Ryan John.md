@@ -2,6 +2,9 @@ My notes on the YouTube video [Beginner Bug Bounty Course | Web Application Hack
 
 # Recon and Tools
 
+![[Pasted image 20240322154102.png]]
+Basic starting guide I found on [GitHub](https://github.com/m0chan/BugBounty/tree/master) that should be easy enough to follow
+
 To start it is important that we have any note taking method to make sure we do not continually run through the same processes in a web page. Something similar to a playbook could be helpful.
 
 First tool being installed is gedit. This will be to edit files with something other than Nano or vim.
