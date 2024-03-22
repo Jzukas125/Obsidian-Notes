@@ -18,4 +18,4 @@ This command is a simple one as it only really has one addition. We type sublist
 
 This is usually a starting point to go from as we can now brute force endpoints with.
 
-<h3> Fuff </h3>
+<h3> ffuf </h3>
