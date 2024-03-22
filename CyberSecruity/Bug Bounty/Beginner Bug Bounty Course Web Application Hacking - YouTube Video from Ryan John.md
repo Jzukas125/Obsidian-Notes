@@ -55,3 +55,5 @@ to test for any hidden items that weren't found through any other means
 <h3> Google Dorking </h3>
 Google dorking is always a good tool to use for finding new information. More information can be found [here](https://www.simplilearn.com/tutorials/cyber-security-tutorial/google-dorking)
 
+<h3> Burp Suite </h3>
+Burp Suite is incredibly important to use but requires a little bit more knowledge about it.
