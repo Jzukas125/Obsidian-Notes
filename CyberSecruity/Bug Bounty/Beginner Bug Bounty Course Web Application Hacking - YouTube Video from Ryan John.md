@@ -15,3 +15,5 @@ Usage
 sublist3r -d google.com
 ```
 This command is a simple one as it only really has one addition. We type sublist3r to simply start using the command, and then type -d to specify we're typing a websites domain and then the domain of the website we want to search.
+
+This is usually a starting point to go from as we can now brute force endpoints with.
