@@ -25,3 +25,18 @@ Type
 ```
 ffuf -help
 ```
+to learn about ffuf
+
+Ffuf requires a wordlist in order to function
+```
+ffuf -w /usr/share/wordlists/example.txt -u https://www.yahoo.com/FUZZ -fl 1
+```
+
+I had to have chatgpt ex
+- `-w /usr/share/wordlists/example.txt`: This flag specifies the wordlist (dictionary) to be used for fuzzing. In this case, you're using a wordlist located at `/usr/share/wordlists/example.txt`. Wordlists contain a list of words that will be used to replace the `FUZZ` placeholder in the URL.
+
+- `-u https://www.yahoo.com/FUZZ`: This flag specifies the target URL to fuzz. `FUZZ` acts as a placeholder that will be replaced by each word from the wordlist during the fuzzing process. So, `ffuf` will send requests to URLs like `https://www.yahoo.com/word1`, `https://www.yahoo.com/word2`, and so on, using the words from the wordlist.
+
+- `-fl 1`: This flag specifies the filtering level. In this case, it's set to `1`, meaning that responses with HTTP status codes less than or equal to 1xx (informational responses) will be considered valid. This helps in filtering out unwanted responses.
+
+So, in summary, this `ffuf` command is fuzzing the URL `https://www.yahoo.com/FUZZ`, replacing `FUZZ` with words from the wordlist `/usr/share/wordlists/example.txt`, and it will consider responses with HTTP status codes less than or equal to 1xx as valid.
