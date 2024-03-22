@@ -58,4 +58,5 @@ Google dorking is always a good tool to use for finding new information. More in
 <h3> Burp Suite </h3>
 Burp Suite is incredibly important to use but requires a little bit more knowledge about it.
 Need to change to your localhost prozy (127.0.0.1 port 8080) in order to access burp suite through the browser
-I will be taking notes on tryhackmes 
+I will be taking notes on TryHackMe's how to use burp suite soon.
+
