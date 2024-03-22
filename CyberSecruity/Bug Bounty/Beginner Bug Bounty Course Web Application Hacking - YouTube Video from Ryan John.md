@@ -19,4 +19,9 @@ This command is a simple one as it only really has one addition. We type sublist
 This is usually a starting point to go from as we can now brute force endpoints with.
 
 <h3> ffuf </h3>
-ffuff is a fast web fuzzer that allows typical directory discovery, virtual host discovery and GET and POST parameter fuzzing. This is especially useful for pentesters, ethical hackers, and forensics experts becuase it allows for the discovery of hidden files, directories or subdomains.
+ffuff is a fast web fuzzer that allows typical directory discovery, virtual host discovery and GET and POST parameter fuzzing. This is especially useful for pentesters, ethical hackers, and forensics experts because  it allows for the discovery of hidden files, directories or subdomains.
+
+Type 
+```
+ffuf -help
+```
