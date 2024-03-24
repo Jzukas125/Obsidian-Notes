@@ -70,3 +70,5 @@ Good idea to have a vpn in case your IP address gets banned from doing malicious
 Nmap is an important tool for bug hunting because it allows to enumerate and find any open ports. More can be found in the [[Nmap]] section of notes.
 
 # URL Testing
+To start of course run dirb to find any sub urls, and then inspect the html source code.
+Any hidden urls can be copy and pasted and attached to the end of the current URL.
