@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
+                "file": "CyberSecruity/Bug Bounty/Hacker101.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
+                "file": "CyberSecruity/Bug Bounty/Hacker101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
+                "file": "CyberSecruity/Bug Bounty/Hacker101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md"
+                "file": "CyberSecruity/Bug Bounty/Hacker101.md"
               }
             }
           },
@@ -176,10 +176,11 @@
   },
   "active": "6a2f4d4873516936",
   "lastOpenFiles": [
+    "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
+    "CyberSecruity/Bug Bounty/Hacker101.md",
     "Pasted image 20240322154102 1.png",
     "Pasted image 20240322154102.png",
     "CyberSecruity/CCDC/Nmap.md",
-    "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
     "CyberSecruity/PowerShell Scripting.md",
     "Pasted image 20240128110145.png",
     "Pasted image 20231108192604.png",
@@ -215,7 +216,6 @@
     "Pasted image 20240314134025.png",
     "CyberSecruity/OSINT",
     "Pasted image 20240312112746.png",
-    "Pasted image 20240310151501.png",
     "CyberSecruity/Web Dev",
     "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
     "CybSec Meetings/Spring 2024",
