@@ -6,4 +6,6 @@ Firefox
 
 Breaker mindset
 	Here to break things before anyone else can, so that vulnerabilities can be fixed before actual attackers can get to them and in order to do so we need to understand how attackers operate, what their goals are, and how they think
-	Need to understand what an application is 
+	Need to understand what an application is doing and why it's doing it
+	Attackers will always have an advantage over defenders
+	
