@@ -13,3 +13,16 @@ Breaker mindset
 Attacker Goals 	
 	When assessing an application, find every bit of functionality. Once you have a rough list of all the bits try to find an attacking goal. For example say you want credit card numbers from an e-commerce site; maybe I'd want to destroy or falsify data in a server monitoring application 
 
+Prioritization 
+	Need to rank areas of the application in terms of payoff: if I compromise area X, does that give me low-value or high-value information? What if I did Y? 
+	When possible asking developers "What keeps you up at night?" will often point to areas to check
+
+Findings 
+	Reports should be as follows
+	Title -- E.g. "Reflected Cross-Site Scripting in profiles"
+	Severity 
+	Description -- Brief description of what the vulnerability is 
+	Reproduction Steps -- Brief description of how to reproduce the bug; preferably with a small proof of concept 
+	Impact -- What can be done with the vulnerability?
+	Mitigation -- How is it fixed?
+	Affected assets -- Generally a list of affected URLs
