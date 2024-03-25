@@ -9,3 +9,5 @@ Breaker mindset
 	Need to understand what an application is doing and why it's doing it
 	Attackers will always have an advantage over defenders
 	
+Attacker Goals 	
+	When assessing an application, find every bit of functionality. Once you have a rough list of all the bits try to find an attacking goal. For example say you want credit card numbers from an e-commerce site; maybe I'd want to destroy or falsify data in a server monitoring application 
