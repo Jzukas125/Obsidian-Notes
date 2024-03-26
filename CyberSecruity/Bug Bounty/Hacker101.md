@@ -92,4 +92,12 @@ Encoding Sniffing
 	If you are able to control the way the browser decodes text, you may be to alter the passing
 	A good example is putting UTF-7 text into XSS payloads
 	Consider the payload:
-	+ADw-script+AD4-alert(1);+ADw-/script+
+	+ADw-script+AD4-alert(1);+ADw-/script+AD4-
+	This will go cleanly through HTML encoding, as there are no 'unsafe' characters
+	IE8 and below, along with a host of other older browsers, will see this in a page as UTF-7 and switch the parsing over enabling the attack to succeed.
+
+# Same-Origin Policy
+
+What is SOP?
+	Same-Origin Policy (SOP) is how the browser restricts a number of security-critical features:
+	- What domains you 
