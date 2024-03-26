@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HTTP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2f4d4873516936",
+  "active": "ef536abdb9ddfce5",
   "lastOpenFiles": [
     "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
     "CyberSecruity/Bug Bounty/Hacker101.md",

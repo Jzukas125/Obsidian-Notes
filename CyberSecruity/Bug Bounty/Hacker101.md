@@ -34,3 +34,5 @@ Severity
 	Medium - Potential to cause harm to users, but not revealing data
 	High - Potential to reveal user data or aids in exploitation of other vulnerabilities 
 	Critical - High risk of personal/confidential data exposure, general system compromise, and other severe impacts to the business.
+
+HTTP Requests 
