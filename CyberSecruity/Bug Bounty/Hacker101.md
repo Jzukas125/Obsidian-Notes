@@ -36,3 +36,17 @@ Severity
 	Critical - High risk of personal/confidential data exposure, general system compromise, and other severe impacts to the business.
 
 HTTP Requests 
+	Basic format as follows:
+``` html
+		VERB /resource/locater HTTP/1.1
+		Header1: Value1
+		Header2: Value 2
+		...
+		<Body of request>
+```
+
+Request Headers
+	Host: Indicates the desired host handling the request 
+	Accept: Indicates what MIME type(s) are accepted by the client; often used to specify JSON or XML output for webservices
+	Cookie: Passes cookie data to the server
+	
