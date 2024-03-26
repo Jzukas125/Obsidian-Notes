@@ -18,3 +18,6 @@ Exploitation Case 1
 	In that case, a simple payload like `<script>alert(1)</script>` will almost definitely work.
 	In very rare cases, a WAF or other filtering may detect the script tag and prevent execution 
 Exploitation Case 2
+	A closely related variant of the first case is when your input is being reflected in a tag attribute
+	In this case, your first priority is to break out of the attribute, but in most cases you don't need to leave the tag at all -- meaning no need for angle brackets
+	In level1's posts, you may have noticed that URLs were automatically turned into links. So the post "Check out <"
