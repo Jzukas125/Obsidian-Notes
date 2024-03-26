@@ -20,4 +20,5 @@ Exploitation Case 1
 Exploitation Case 2
 	A closely related variant of the first case is when your input is being reflected in a tag attribute
 	In this case, your first priority is to break out of the attribute, but in most cases you don't need to leave the tag at all -- meaning no need for angle brackets
-	In level1's posts, you may have noticed that URLs were automatically turned into links. So the post "Check out <"
+	In level1's posts, you may have noticed that URLs were automatically turned into links. So the post "Check out <a href="https://google.com">http://google.com<a>
+	What you may have noticed is that the double quotes were passed through without encoding, despite that angle brackets were not.
