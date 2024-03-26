@@ -108,4 +108,6 @@ Origin Matching
 	- Port numbers must match 
 	- Domain names must be an exact match -- no wildcarding or subdomain walking 
 SOP Loosening
-	It's possible for developers to loosen the grip that 
+	It's possible for developers to loosen the grip that SOP has on their communications, by changing document.domain, posting messages between windows, and by using CORS.
+	All of these open up interesting avenues for attack. 
+	Anyone can call postMessage into an Iframe -- how many pages validate messages properly?
