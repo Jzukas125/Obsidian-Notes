@@ -123,3 +123,6 @@ What is CSRF?
 Unknown Origin
 	When the server gets such a transfer request from the client, how can it tell that it actually came from the real site? Referrer headers are unreliable at best.
 	Here we can see an automatic exploit that will transfer money if the user is logged in.
+Mitigation
+	Clearly, we need a way for the server to know for sure that the request has originated on its own page
+	The best way to mitigate this bug is through t 
