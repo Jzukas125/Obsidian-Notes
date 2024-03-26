@@ -100,4 +100,10 @@ Encoding Sniffing
 
 What is SOP?
 	Same-Origin Policy (SOP) is how the browser restricts a number of security-critical features:
-	- What domains you 
+	- What domains you can contact via XMLHttpRequest
+	- Access to the DOM across separate frames/windows
+Origin Matching
+	The way origin matching for SOP works is much more strict than cookies:
+	-Protocol must match -- no crossing HTTP/HTTPS boundaries
+	- Port numbers must match 
+	- Domain names must be an exact 
