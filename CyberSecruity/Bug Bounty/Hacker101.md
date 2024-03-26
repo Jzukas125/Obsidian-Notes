@@ -63,4 +63,7 @@ Cookie Security
 	E.g. test.example.com can't set cookies on test2.example.com, but can set them on example.com and foo.test.example.com
 	Two important flags to know for cookies 
 		Secure: The cookies will only be accessible to HTTPS pages
-		HTTPOnly: The cookie 
+		HTTPOnly: The cookie cannot be read by JavaScript 
+
+HTML
+	
