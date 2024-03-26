@@ -17,3 +17,4 @@ Exploitation Case 1
 	During the special character test, you notice that angle brackets are passed through without encoding, and your input is being shown in a text node of the document
 	In that case, a simple payload like `<script>alert(1)</script>` will almost definitely work.
 	In very rare cases, a WAF or other filtering may detect the script tag and prevent execution 
+Exploitation Case 2
