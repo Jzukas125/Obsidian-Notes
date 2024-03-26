@@ -125,4 +125,8 @@ Unknown Origin
 	Here we can see an automatic exploit that will transfer money if the user is logged in.
 Mitigation
 	Clearly, we need a way for the server to know for sure that the request has originated on its own page
-	The best way to mitigate this bug is through t 
+	The best way to mitigate this bug is through the use of CSRF tokens. These are random tokens tied to a user's session, which you embed in each form that you generate.
+	When the server gets a POST request, it should check to see that the CSRF token is present and matches the token associated with the user's session.
+	Note that this will not help you with GET requests typically, but applications should not be changing state with GET requests anyway.
+How not to mitigate 
+	I've seen a number of sites implement "dynamic CSRF-proof forms". They had csrf.js file that sends back code roughly equivalent to: $csrf=
