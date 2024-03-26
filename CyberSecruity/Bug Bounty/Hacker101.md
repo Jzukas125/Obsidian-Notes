@@ -52,3 +52,6 @@ Request Headers
 	Referrer: Page loading to this request (not passed to other servers when using HTTPS on the origin)
 	Authorization: Used for 'basic auth' pages (mainly). Takes the form "Basic <base64'd username:password>"
 
+Cookies
+	Key-value pairs of data that are sent from the server and reside on the client for a fixed period of time.
+	Each cookie has a domain pattern that it applies to and they're passed with each request the client makes to matching hosts
