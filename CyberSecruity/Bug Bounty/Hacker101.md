@@ -129,4 +129,6 @@ Mitigation
 	When the server gets a POST request, it should check to see that the CSRF token is present and matches the token associated with the user's session.
 	Note that this will not help you with GET requests typically, but applications should not be changing state with GET requests anyway.
 How not to mitigate 
-	I've seen a number of sites implement "dynamic CSRF-proof forms". They had csrf.js file that sends back code roughly equivalent to: $csrf=
+	I've seen a number of sites implement "dynamic CSRF-proof forms". They had csrf.js file that sends back code roughly equivalent to: $csrf='session CSRF token'; 
+	On each page, they had `<script src="/csrf.js"`and then baked the CSRF token into the forms from there.
+	
