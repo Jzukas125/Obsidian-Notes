@@ -114,3 +114,12 @@ SOP Loosening
 CORS
 	CORS is still very new, but enables some very risky situations. In essence, you're allowed to make XMLHttpRequests to domains outside of your origin, but they have special headers to signify where the request originates, what custom headers are added, etc.
 	It's possible to even have it pass the receiving domain's cookies, allowing attackers to potentially compromise logged-in users. The security prospects here are still largely unexplored 
+
+# Cross-Site Request Forgery
+
+What is CSRF?
+	Cross-Site Request Forgery is when an attacker tricks a victim into going to a page controlled by the attacker, which then submits data to the target site as the victim.
+	It is one of the most common vulnerabilities today, and enables a whole host of others, namely rXSS
+Unknown Origin
+	When the server gets such a transfer request from the client, how can it tell that it actually came from the real site? Referrer headers are unreliable at best.
+	Here we can see an automatic exploit that will transfer money if the user is logged in.
