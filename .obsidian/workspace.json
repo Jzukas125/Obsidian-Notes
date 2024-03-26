@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HTTP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef536abdb9ddfce5",
+  "active": "6a2f4d4873516936",
   "lastOpenFiles": [
+    "Pasted image 20240325211333.png",
     "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
     "CyberSecruity/Bug Bounty/Hacker101.md",
     "Pasted image 20240322154102 1.png",
@@ -209,7 +209,6 @@
     "Pasted image 20240320142951.png",
     "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/OpenCTI.md",
     "Pasted image 20240316165142.png",
     "CyberSecruity/Hack the Box",
     "Pasted image 20240314134046.png",
