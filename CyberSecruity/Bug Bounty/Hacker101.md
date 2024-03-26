@@ -87,3 +87,9 @@ MIME Sniffing
 	If that file contains enough HTML to trigger the sniffing heuristics, an attacker could upload a picture and then link it to victims.
 	This is one of the reasons why Facebook and other sites use a separate domain to host such content.
 Encoding Sniffing
+	Similarly, the encoding used on a document will be sniffed by (mainly older) browsers.
+	If you don't specify an encoding for an HMTL document, the browser will apply heuristics to determine it.
+	If you are able to control the way the browser decodes text, you may be to alter the passing
+	A good example is putting UTF-7 text into XSS payloads
+	Consider the payload:
+	+ADw-script+AD4-alert(1);+ADw-/script+
