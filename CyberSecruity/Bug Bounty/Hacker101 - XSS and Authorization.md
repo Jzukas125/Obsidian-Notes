@@ -10,4 +10,8 @@ Recognition
 	1. Figure out where it goes: Does it get embedded in a tag attribute? Does it get embedded into a string in a script tag?
 	2. Figure out any special handling: Do URLs get turned into links like posts in level1?
 	3. Figure out how any special characters are handled: A good way is to input something like '<>;:''
-	From those
+	From those three steps, you'll know whether or not a given input is vulnerable to XSS
+	At this point, one of the differences between stored and reflected XSS becomes apparent: rXSS vulnerabilities to be exploitable, in the case of POSTs
+	If your rXSS exists just in a GET, you're fine, but your dependent on CSRF otherwise 
+Exploitation Case 1
+	
