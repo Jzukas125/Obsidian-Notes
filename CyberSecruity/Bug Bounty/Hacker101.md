@@ -106,4 +106,6 @@ Origin Matching
 	The way origin matching for SOP works is much more strict than cookies:
 	-Protocol must match -- no crossing HTTP/HTTPS boundaries
 	- Port numbers must match 
-	- Domain names must be an exact 
+	- Domain names must be an exact match -- no wildcarding or subdomain walking 
+SOP Loosening
+	It's possible for developers to loosen the grip that 
