@@ -131,4 +131,10 @@ Mitigation
 How not to mitigate 
 	I've seen a number of sites implement "dynamic CSRF-proof forms". They had csrf.js file that sends back code roughly equivalent to: $csrf='session CSRF token'; 
 	On each page, they had `<script src="/csrf.js"`and then baked the CSRF token into the forms from there.
-	
+
+# Review
+- Cookie domain Scooping is often a source of trouble 
+- Same-Origin Policy is strict, but complex enough to be a frequent source of headaches for defenders and attackers alike
+- Cross-Site Request Forgery is when an attacker tricks a victim into going to a page that triggers requests on other sites
+	- USe CSRF tokens!
+
