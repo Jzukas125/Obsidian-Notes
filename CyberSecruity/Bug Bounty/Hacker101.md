@@ -49,4 +49,6 @@ Request Headers
 	Host: Indicates the desired host handling the request 
 	Accept: Indicates what MIME type(s) are accepted by the client; often used to specify JSON or XML output for webservices
 	Cookie: Passes cookie data to the server
-	
+	Referrer: Page loading to this request (not passed to other servers when using HTTPS on the origin)
+	Authorization: Used for 'basic auth' pages (mainly). Takes the form "Basic <base64'd username:password>"
+
