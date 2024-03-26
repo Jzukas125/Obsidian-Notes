@@ -111,3 +111,6 @@ SOP Loosening
 	It's possible for developers to loosen the grip that SOP has on their communications, by changing document.domain, posting messages between windows, and by using CORS.
 	All of these open up interesting avenues for attack. 
 	Anyone can call postMessage into an Iframe -- how many pages validate messages properly?
+CORS
+	CORS is still very new, but enables some very risky situations. In essence, you're allowed to make XMLHttpRequests to domains outside of your origin, but they have special headers to signify where the request originates, what custom headers are added, etc.
+	It's possible to even have it pass the receiving domain's cookies, allowing attackers to potentially compromise logged-in users. The security prospects here are still largely unexplored 
