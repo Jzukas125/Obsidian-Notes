@@ -65,5 +65,10 @@ Cookie Security
 		Secure: The cookies will only be accessible to HTTPS pages
 		HTTPOnly: The cookie cannot be read by JavaScript 
 
-HTML
+# HTML
+
+Parsing 
+	HTML should be parsed according to the relevant spec, generally HTML5 now
+	Often not parsed by your browser but also Web-Application Firewalls and other filters.
+	Whenever there's a discrepancy in how these two items parse things, there's probably a vulnerability 
 	
