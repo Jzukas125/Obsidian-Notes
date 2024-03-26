@@ -61,3 +61,6 @@ Cookie Security
 	Cookies added for a subdomain can only be read in that subdomain and its subdomains 
 	A subdomain can set cookies for its own subdomains and parent, but it can't set cookies for sibling domains.
 	E.g. test.example.com can't set cookies on test2.example.com, but can set them on example.com and foo.test.example.com
+	Two important flags to know for cookies 
+		Secure: The cookies will only be accessible to HTTPS pages
+		HTTPOnly: The cookie 
