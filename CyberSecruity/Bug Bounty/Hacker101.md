@@ -54,4 +54,10 @@ Request Headers
 
 Cookies
 	Key-value pairs of data that are sent from the server and reside on the client for a fixed period of time.
-	Each cookie has a domain pattern that it applies to and they're passed with each request the client makes to matching hosts
+	Each cookie has a domain pattern that it applies to and they're passed with each request the client makes to matching hosts.
+
+Cookie Security
+	Cookies added for .example.com can be read by any subdomain of example.com
+	Cookies added for a subdomain can only be read in that subdomain and its subdomains 
+	A subdomain can set cookies for its own subdomains and parent, but it can't set cookies for sibling domains.
+	E.g. test.example.com can't set cookies on test2.example.com, but can set them on example.com and foo.test.example.com
