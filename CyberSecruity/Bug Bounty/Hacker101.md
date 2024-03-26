@@ -83,5 +83,7 @@ Legacy Parsing
 
 MIME Sniffing
 	The browser will often not just look at the content-type header that the server is passing, but also the contents of the page. If it looks enough like HTML, it'll be parsed as HTML which led to IE 6/7-era bugs where image and text files containing HTML tags would execute as HTML
-	Imagine a site with a file upload function for profile pictures. If that file contains enough HTML to trigger the sniffing heuristics, an attacker could upload a picture and then link it to victims.
+	Imagine a site with a file upload function for profile pictures. 
+	If that file contains enough HTML to trigger the sniffing heuristics, an attacker could upload a picture and then link it to victims.
 	This is one of the reasons why Facebook and other sites use a separate domain to host such content.
+Encoding Sniffing
