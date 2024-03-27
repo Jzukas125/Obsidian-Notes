@@ -813,3 +813,7 @@ Your email address is: <?php echo $_GET["email"]; ?>
 The code above is quite simple although it does not include any validation.
 You need to validate form data to protect your script from malicious code.
 
+<h3> GET vs. POST </h3>
+Both GET and POST request create an array. This array holds key/value pairs, where keys are the names of the form controls and values are the input data from the user. 
+
+Both Get and POST are treated as $_GET and $_POST. These are superglobals, which means that theey are always accessible, regardless of scope - and you can access them from any function, class or file without to do anything special.
