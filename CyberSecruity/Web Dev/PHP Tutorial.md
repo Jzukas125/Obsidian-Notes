@@ -743,3 +743,5 @@ Not only can php be used in tandem with HTML it can also be used ***in*** HTML. 
   
 </html> 
 ```
+
+# PHP Form Handling
