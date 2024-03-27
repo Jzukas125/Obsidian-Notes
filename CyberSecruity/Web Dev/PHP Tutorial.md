@@ -810,3 +810,6 @@ Your email address is: <?php echo $_GET["email"]; ?>
 </html>
 ```
 
+The code above is quite simple although it does not include any validation.
+You need to validate form data to protect your script from malicious code.
+
