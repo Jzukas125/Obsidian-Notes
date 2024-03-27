@@ -816,4 +816,10 @@ You need to validate form data to protect your script from malicious code.
 <h3> GET vs. POST </h3>
 Both GET and POST request create an array. This array holds key/value pairs, where keys are the names of the form controls and values are the input data from the user. 
 
-Both Get and POST are treated as $_GET and $_POST. These are superglobals, which means that theey are always accessible, regardless of scope - and you can access them from any function, class or file without to do anything special.
+Both Get and POST are treated as $_GET and $_POST. These are superglobals, which means that they are always accessible, regardless of scope - and you can access them from any function, class or file without to do anything special.
+
+***`$_GET` is array of variables passed to the current script via the URL parameters.
+`$_POST` is an array of variables passed to the current script via the HTTP POST method***
+
+<h3> When to use GET? </h3>
+Information from a form with the GET method is visible to everyone. 
