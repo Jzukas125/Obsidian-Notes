@@ -12,3 +12,11 @@ Window event logs are stored at C:\Windows\system32\winevt\logs as .evtx files
 
 The EVTX files are in a binary format and require a special application to view the content. One built in program is Windows Event Viewer.
 
+# Navigating Event Viewer
+
+Event Type
+	1. Error - Indicates a loss in data
+	2. Warning - An event that indicates possible future issues
+	3. Information - An event that indicates a successfully completed task
+	4. Audit Success - An event that indicates a successfully audited security event 
+	5. Audit Failure - An event that indicates a failed a
