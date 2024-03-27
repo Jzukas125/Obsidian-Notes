@@ -745,4 +745,19 @@ Not only can php be used in tandem with HTML it can also be used ***in*** HTML. 
 ```
 
 # PHP Form Handling
-The PHP super global $_GET and $_POSt are used to collect form-data.
+The PHP super global $_GET and $_POST are used to collect form-data.
+
+A simple HTML form example would look like 
+```html
+<html> 
+<body>
+
+<form action="welcome.php" method="POST">
+Name: <input type="test" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+</form>
+
+</body>
+</html>
+```
+When the user fills out the form above and clicks the submit button, the form data is sent for processing for a PHP file named "welcome.php". The form data is sent with the HTTP Pos
