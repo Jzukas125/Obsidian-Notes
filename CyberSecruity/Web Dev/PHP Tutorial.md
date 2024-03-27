@@ -857,3 +857,10 @@ The HMTL code of the form looks like:
 
 When the form is submitted, the form data is sent with method="post".
 
+What is the `$_SERVER["PHP_SELF"]` variable?
+The `$_SERVER["PHP_SELF"]` is a super global variable that returns the filename of the currently executing script.
+
+So, the `$_SERVER["PHP_SELF"]` sends the submitted form data to the page itself, instead of jumping to a different page. This way, the user will get error messages on the same page as the form.
+
+What is the htmlspecialchars() function?
+	The htmlspecialchars() function converts special characters into HTML entities. This means that it will replace HTML characters like < and > with &lt; and &gt;. This prevents attackers from exploiting the code by injecting HTML o
