@@ -745,3 +745,4 @@ Not only can php be used in tandem with HTML it can also be used ***in*** HTML. 
 ```
 
 # PHP Form Handling
+The PHP super global $_GET and $_POSt are used to collect form-data.
