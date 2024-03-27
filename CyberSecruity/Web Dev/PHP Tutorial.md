@@ -830,3 +830,12 @@ GET may be used for sending non-sensitive data.
 Information from a form with the POST method is invisible to others and has no limits on the amount of information to send.
 
 Moreover POST supports advanced functionality such as support for multi-part binary input while uploading files to server. However, because the variables are not displayed in the URL, it is not possible to bookmark the page.
+
+# PHP Form Validation
+The validation rules are as follows:
+Field - Validation Rules
+Name - Required. + Must only contain letters and whitespace
+E-mail - Required + Must contain a valid email address (with @ and .)
+Website - Optional. If present, it must contain a valid URL
+Comment - Optional. Multi-line input field (textarea)
+Gender - Required. M
