@@ -19,4 +19,9 @@ Event Type
 	2. Warning - An event that indicates possible future issues
 	3. Information - An event that indicates a successfully completed task
 	4. Audit Success - An event that indicates a successfully audited security event 
-	5. Audit Failure - An event that indicates a failed a
+	5. Audit Failure - An event that indicates a failed audited security event
+Most common event types for each log category 
+	System logs - Error, Warning, Information
+	Application Logs - Error, Warning, Information 
+	Security Logs - Audit Success, Audit Failure 
+
