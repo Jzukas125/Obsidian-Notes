@@ -825,3 +825,8 @@ Both Get and POST are treated as $_GET and $_POST. These are superglobals, which
 Information from a form with the GET method is visible to everyone. GET also has limits on the amounts of information to send. The limitation is about 2000 characters. However, because the variables are displayed in the URL, it is possible to bookmark the page. This can be useful in some cases.
 
 GET may be used for sending non-sensitive data.
+
+<h3> When to use POST? </h3>
+Information from a form with the POST method is invisible to others and has no limits on the amount of information to send.
+
+Moreover POST supports advanced functionality such as support for multi-part binary input while uploading files to server. However, because the variables are not displayed in the URL, it is not possible to bookmark the page.
