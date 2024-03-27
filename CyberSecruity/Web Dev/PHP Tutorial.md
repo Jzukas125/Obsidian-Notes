@@ -760,4 +760,19 @@ E-mail: <input type="text" name="email"><br>
 </body>
 </html>
 ```
-When the user fills out the form above and clicks the submit button, the form data is sent for processing for a PHP file named "welcome.php". The form data is sent with the HTTP Pos
+When the user fills out the form above and clicks the submit button, the form data is sent for processing for a PHP file named "welcome.php". The form data is sent with the HTTP POST method. 
+
+To display the submitted data you could simply echo all the variables.
+
+The "welcome.php" looks like this
+```PHP
+<html>
+<body>
+
+Welcome <?php echo $_POST["name"]; ?> <br>
+Your email address is: <?php echo $_POST["email"]; ?>
+
+</body>
+</html>
+```
+
