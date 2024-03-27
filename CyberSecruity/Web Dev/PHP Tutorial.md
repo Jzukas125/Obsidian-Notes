@@ -776,3 +776,11 @@ Your email address is: <?php echo $_POST["email"]; ?>
 </html>
 ```
 
+
+The output would look like:
+```
+Welcome John
+Your email address is john.doe@example.com
+```
+
+The same result could also be achieved using the HTTP GET method:
