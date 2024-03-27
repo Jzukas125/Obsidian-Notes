@@ -784,7 +784,7 @@ Your email address is john.doe@example.com
 ```
 
 The same result could also be achieved using the HTTP GET method:
-```
+```php
 <html>
 <body>
 
@@ -793,6 +793,18 @@ Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
+
+</body>
+</html>
+```
+
+and "welcome_get.php" looks like this:
+```php
+<html>
+<body>
+
+Welcome <?php echo $_GET["name"]; ?><br>
+Your email address is: <?php echo $_GET["email"]; ?>
 
 </body>
 </html>
