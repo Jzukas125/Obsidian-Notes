@@ -849,4 +849,11 @@ Website: <input type="text" name="website">
 Comment: <textarea name="comment" rows="5" cols="40"></textarea>
 ```
 
-<h3> T
+<h3> The Form element </h3>
+The HMTL code of the form looks like:
+```php
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+```
+
+When the form is submitted, the form data is sent with method="post".
+
