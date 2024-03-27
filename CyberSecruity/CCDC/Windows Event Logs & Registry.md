@@ -25,3 +25,9 @@ Most common event types for each log category
 	Application Logs - Error, Warning, Information 
 	Security Logs - Audit Success, Audit Failure 
 
+# Windows Registry
+
+Windows Registry Components 
+	Hives - A logical group of keys and values stored in disk files at C:\Windows\System32\Config
+	Keys - Contains subkeys or values
+	Values - stored data/configurations 
