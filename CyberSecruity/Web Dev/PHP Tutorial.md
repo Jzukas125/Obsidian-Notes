@@ -822,4 +822,6 @@ Both Get and POST are treated as $_GET and $_POST. These are superglobals, which
 `$_POST` is an array of variables passed to the current script via the HTTP POST method***
 
 <h3> When to use GET? </h3>
-Information from a form with the GET method is visible to everyone. 
+Information from a form with the GET method is visible to everyone. GET also has limits on the amounts of information to send. The limitation is about 2000 characters. However, because the variables are displayed in the URL, it is possible to bookmark the page. This can be useful in some cases.
+
+GET may be used for sending non-sensitive data.
