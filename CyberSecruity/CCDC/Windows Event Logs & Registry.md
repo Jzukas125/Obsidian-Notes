@@ -6,4 +6,9 @@ Windows Registry: A central hierarchical database that contains information that
 Types of Logs:
 	System Logs - Events logged by the operation system
 	Application Logs - Events logged by third-party applications on the system
-	Security Logs - Events logged by the system related to it's 
+	Security Logs - Events logged by the system related to it's security
+
+Window event logs are stored at C:\Windows\system32\winevt\logs as .evtx files
+
+The EVTX files are in a binary format and require a special application to view the content. One built in program is Windows Event Viewer.
+
