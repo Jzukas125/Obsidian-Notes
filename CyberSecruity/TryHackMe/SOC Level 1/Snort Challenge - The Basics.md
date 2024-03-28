@@ -1,0 +1,1 @@
+I might not be taking many notes for this room as O 

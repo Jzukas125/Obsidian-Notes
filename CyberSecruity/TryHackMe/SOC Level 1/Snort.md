@@ -189,3 +189,5 @@ Because it is a long all-in-one configuration file, editing it without causing m
 	snort.conf: Main configuration file
 	local.rules: User generated rules file
 
+A Snort cheat sheet that was made by tryhackme is quite helpful as it can highlight everything we've covered in these notes. 
+![[Snort cheat sheet PDF.pdf]]

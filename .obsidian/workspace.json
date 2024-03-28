@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md"
               }
             }
           },
@@ -176,12 +176,14 @@
   },
   "active": "6a2f4d4873516936",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
+    "Snort cheat sheet PDF.pdf",
     "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
     "CyberSecruity/Web Dev/PHP Tutorial.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/HTTP in detail.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/Putting It All Together.md",
     "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
     "Pasted image 20240327131938.png",
     "CyberSecruity/Bug Bounty/Hacker101 - XSS and Authorization.md",
     "CyberSecruity/Bug Bounty/Hacker101 - Intro and The Web in Depth.md",
@@ -208,7 +210,6 @@
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/How Websites Work.md",
     "CyberSecruity/TryHackMe/Security Engineer/Security Principles.md",
-    "CyberSecruity/CCDC/Netstat and Net.md",
     "Playbooks",
     "Pasted image 20240320142951.png",
     "Pasted image 20240316165142.png",
@@ -220,7 +221,6 @@
     "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
     "CybSec Meetings/Spring 2024",
     "CybSec Meetings/Fall 2023",
-    "Classes/Finals Spring 2023",
-    "Classes"
+    "Classes/Finals Spring 2023"
   ]
 }
