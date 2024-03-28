@@ -184,3 +184,5 @@ Three Types of rules available for snort
 	Community Rules - Free ruleset under the GPLv2. Publicly accessible, no need for registration.
 	Registered Rules - Free ruleset. This ruleset contains subscriber rules with 30 days delay
 	Subscriber Rules (Paid) - Paid ruleset. This ruleset is the main ruleset and is updated twice a week
+
+Because it is a long all-in-one configuration file, editing it without causing misconfiguration is troublesome for beginner and may even intermediate users which is why snort has several rule updating modules and integration tools. To sum up, never replace your configured Snort configuration files; you must edit your configuration files manually or update your rules with additional tools and modules to not face any fail/crash or lack of feature. 
