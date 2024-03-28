@@ -5,6 +5,7 @@ To help me with this I will be referencing the snort cheat sheet that tryhackme 
 I found this cheat sheet on https://cyvatar.ai/write-configure-snort-rules/
 ![[Pasted image 20240328160848.png]]
 ![[Pasted image 20240316165142.png]]
+![[Pasted image 20240328170209.png]]
 
 
 snort -c local.rules -A full -l . -r filename

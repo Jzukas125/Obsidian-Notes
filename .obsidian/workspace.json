@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "6a2f4d4873516936",
   "lastOpenFiles": [
-    "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
+    "Pasted image 20240328170209.png",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
     "Pasted image 20240328160848.png",
     "Pasted image 20240328160822.png",
     "Snort cheat sheet PDF.pdf",
