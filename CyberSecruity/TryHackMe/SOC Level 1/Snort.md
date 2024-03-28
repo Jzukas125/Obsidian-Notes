@@ -177,4 +177,8 @@ Points to Remember
 		Packet Decoder - Packet collector component of Snort. It collects and prepares the packets for pre-processing
 		Pre-processors - A component that arranges and modifies the packets for the detection engine
 		Detection Engine - The primary component that process, dissect and analyze the packets by applying the rules
-		Logging and Alerting - Log and alert generation componenet
+		Logging and Alerting - Log and alert generation component
+		Outputs and Plugins - Output integration modules support is done with this component
+
+Three Types of rules available for snort 
+	Community Rules - Free 
