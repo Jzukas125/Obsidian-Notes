@@ -176,4 +176,5 @@ Points to Remember
 	Main Components of Snort 
 		Packet Decoder - Packet collector component of Snort. It collects and prepares the packets for pre-processing
 		Pre-processors - A component that arranges and modifies the packets for the detection engine
-		Detection Engine - The primary compoenent that process, dissect and analyse the packets by applying the rules
+		Detection Engine - The primary component that process, dissect and analyze the packets by applying the rules
+		Logging and Alerting - Log and alert generation componenet
