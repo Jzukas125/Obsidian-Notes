@@ -181,4 +181,6 @@ Points to Remember
 		Outputs and Plugins - Output integration modules support is done with this component
 
 Three Types of rules available for snort 
-	Community Rules - Free 
+	Community Rules - Free ruleset under the GPLv2. Publicly accessible, no need for registration.
+	Registered Rules - Free ruleset. This ruleset contains subscriber rules with 30 days delay
+	Subscriber Rules (Paid) - Paid ruleset. This ruleset is the main ruleset and is updated twice a week
