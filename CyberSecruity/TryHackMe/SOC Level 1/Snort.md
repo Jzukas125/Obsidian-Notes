@@ -171,3 +171,7 @@ Three main rule options in snort
 	- Non-payload Rule Options - Rule options that focus on non-payload data. These options will help create specific patterns and identify network issues.  
 
 # Snort2 Operation Logic: Points to Remember 
+
+Points to Remember 
+	Main Components of Snort 
+		Packet 
