@@ -46,4 +46,5 @@ Zeek provides 50+ log files under seven different categories, which are helpful 
 Logs will be covered later on. Zeek automatically begins traffic investigation or on a pcap or generating logs automatically. Once a pcap is processed with Zeek, it will create logs in the working directory. If Zeek is run as a service, logs will be located in the default log path. The default log path for Zeek is /opt/zeek/logs
 
 <h3> Working with Zeek </h3>
-There are two operation options for Zeek, The first one is running it as a service, and the second option is running against zeek against pcap. Before starting working with zeek, let's check the version of the Zeek Instance with the following command: zeek -v
+There are two operation options for Zeek, The first one is running it as a service, and the second option is running against zeek against pcap. Before starting working with zeek, let's check the version of the Zeek Instance with the following command: zeek -v which checks zeeks version
+
