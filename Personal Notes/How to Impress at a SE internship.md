@@ -27,4 +27,6 @@ Be willing to stay longer to help with extra work
 	Doing this shows that your are committed and dedicated to your work while also showing that you have extra responsibility and reliability. 
 
 Make sure to revise code
-	This ensures that your work is up to standards 
+	This ensures that your work is up to standards and will work properly. Always make sure to comment on your code to ensure it is readable and maintainable. Always revising code also allows good code study habits to be set up to enable continuous improvement while preventing unstable code from being used. 
+
+I'm sure there are many other things to do to impress future full-time employers but this is what has been told to me by several managers and recruiters. 
