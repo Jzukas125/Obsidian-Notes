@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "6a2f4d4873516936",
   "lastOpenFiles": [
-    "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "Personal Notes/How to Impress at a SE internship.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "README.md",
     "Personal Notes",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
