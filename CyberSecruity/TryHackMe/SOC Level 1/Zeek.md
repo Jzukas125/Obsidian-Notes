@@ -60,3 +60,5 @@ You can use the "ZeekControl" mode with the following commands as well;
 The only way to listen to the live network traffic is using Zeek as a service. Apart from using the Zeek's as a network monitoring tool, we can also use it as a packet investigator. To do so, we need to process the pcap files with Zeek, as shown below. Once you process a pcap file, Zeek automatically creates log files according to the traffic.
 
 In pcap processing mode, logs are saved in the working directory. You can view the generated logs using the ls- l command. 
+
+Main Zeek command line parameters are as follows:
