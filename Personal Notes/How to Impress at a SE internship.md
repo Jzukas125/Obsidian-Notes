@@ -21,4 +21,10 @@ Coming to work on time
 	Needless to say being punctual is important because you come off as disciplined, polished, and organized. It is also considered professional to be consistently punctual.
 
 Having a clear agenda for meetings
-	A meeting agenda will help you and your colleagues prepare for a meeting and guide yourselves through an topic that needs to be discussed. It also shows that you are not only listening but interacting with the meeting, with this being impressive because people often love to be listened to and they will see you as someone that loves listening to them. 
+	A meeting agenda will help you and your colleagues prepare for a meeting and guide yourselves through any topic that needs to be discussed while also allowing you to write down any questions you may need to ask. It also shows that you are not only listening but interacting with the meeting, with this being impressive because people often love to be listened to and they will see you as someone that loves listening to them. 
+
+Be willing to stay longer to help with extra work
+	Doing this shows that your are committed and dedicated to your work while also showing that you have extra responsibility and reliability. 
+
+Make sure to revise code
+	This ensures that your work is up to standards 
