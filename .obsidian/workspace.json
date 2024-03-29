@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ensure syn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md"
               }
             }
           },
@@ -175,11 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef536abdb9ddfce5",
+  "active": "6a2f4d4873516936",
   "lastOpenFiles": [
+    "Personal Notes/How to Impress at a SE internship.md",
     "README.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
-    "Personal Notes/How to Impress at a SE internship.md",
     "Personal Notes",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
     "Pasted image 20240328170209.png",

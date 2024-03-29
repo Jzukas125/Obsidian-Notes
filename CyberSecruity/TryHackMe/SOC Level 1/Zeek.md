@@ -62,3 +62,5 @@ The only way to listen to the live network traffic is using Zeek as a service. A
 In pcap processing mode, logs are saved in the working directory. You can view the generated logs using the ls- l command. 
 
 Main Zeek command line parameters are as follows:
+
+Parameter 
