@@ -31,7 +31,6 @@ From what Aidan says a good way to impress everyone would be as follows:
 
 <h3> Don't stress out too much about wanting to impress </h3> 
 	Don't try to hard if they don't like you then doing these isn't going to change much, just allow yourself to do good work and be friends with others. <br>
-<br>
  Allow yourself time to focus (and a few energy drinks) and you'll be able to work hard. 
  I'm sure there are many other things to do to impress future full-time employers but this is what has been told to me by several managers and recruiters.  
  Another helpful resource is this employer advice guide from several companies, although it may not be specifically SE I still think all managers have the same general thought process. 
