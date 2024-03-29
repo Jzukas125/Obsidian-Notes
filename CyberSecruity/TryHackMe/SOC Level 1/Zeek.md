@@ -48,4 +48,4 @@ Logs will be covered later on. Zeek automatically begins traffic investigation o
 <h3> Working with Zeek </h3>
 There are two operation options for Zeek, The first one is running it as a service, and the second option is running against zeek against pcap. Before starting working with zeek, let's check the version of the Zeek Instance with the following command: zeek -v which checks zeek's version
 
-The ZeekControl module requires super permissions to use. You c
+The ZeekControl module requires super permissions to use. You can elevate the session privileges and switch to the super user account to examine the generated log files with the following commands: sudo su
