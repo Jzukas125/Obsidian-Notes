@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "Everglades - Summer Internship/How to stay hired.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "Everglades - Summer Internship/How to stay hired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "Everglades - Summer Internship/How to stay hired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md"
+                "file": "Everglades - Summer Internship/How to stay hired.md"
               }
             }
           },
@@ -174,9 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9e2845922235335",
+  "active": "6a2f4d4873516936",
   "lastOpenFiles": [
-    "Everglades",
+    "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+    "Everglades - Summer Internship/How to stay hired.md",
+    "Everglades - Summer Internship",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
     "Pasted image 20240328170209.png",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
@@ -212,7 +214,6 @@
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Subdomain Enumeration.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
-    "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/How Websites Work.md",
     "Playbooks",
     "Pasted image 20240320142951.png",
     "CyberSecruity/Hack the Box",
@@ -220,7 +221,6 @@
     "CyberSecruity/Web Dev",
     "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
     "CybSec Meetings/Spring 2024",
-    "CybSec Meetings/Fall 2023",
-    "Classes/Finals Spring 2023"
+    "CybSec Meetings/Fall 2023"
   ]
 }
