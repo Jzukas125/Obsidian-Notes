@@ -48,4 +48,14 @@ Logs will be covered later on. Zeek automatically begins traffic investigation o
 <h3> Working with Zeek </h3>
 There are two operation options for Zeek, The first one is running it as a service, and the second option is running against zeek against pcap. Before starting working with zeek, let's check the version of the Zeek Instance with the following command: zeek -v which checks zeek's version
 
-The ZeekControl module requires super permissions to use. You can elevate the session privileges and switch to the super user account to examine the generated log files with the following commands: sudo su
+The ZeekControl module requires super permissions to use. You can elevate the session privileges and switch to the super user account to examine the generated log files with the following commands: sudo 
+
+Here we can manage the Zeek service and view the status of the service. Primary management of the Zeek service is done with three commands; "status", "start", and "stop".
+
+You can use the "ZeekControl" mode with the following commands as well;
+- zeekctl status
+- zeekctl start
+- zeekctl stop
+
+The only way to listen to the live network traffic is using Zeek as a service. Apart from using the Zeek's as a network monitoring tool, we can also use it as a packet investigator. To do so, we need to process the pcap files with Zeek, as shown below. Once you process a pcap file, Zeek automatically creates log files according to the traffic.
+
