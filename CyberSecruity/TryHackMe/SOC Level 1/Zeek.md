@@ -95,3 +95,6 @@ Some log files are updated daily, and some are updated in each session. Some of 
 
 A difficulty that occurs when working with Zeek is having the required network knowledge and investigation mindset. Luckily these are attainable through continuing cybersecurity concepts and activities.
 
+Brief log usage primer table:
+- Overall Info - Protocol Based - Detection - Observation
+- 
