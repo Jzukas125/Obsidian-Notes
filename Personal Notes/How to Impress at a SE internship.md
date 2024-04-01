@@ -34,7 +34,8 @@
 	Don't try to hard if they don't like you then doing these isn't going to change much, just allow yourself to do good work and be friends with others. <br>
  
 <h3> Time management </h3>
-The google defiintion of time management is "**the process of consciously planning and controlling time spent on specific tasks to increase how efficient you are**."  Several online sources can help manage your time such as toggl or clockify, they help by setting schedules 
+The google definition of time management is "**the process of consciously planning and controlling time spent on specific tasks to increase how efficient you are**."  Several online sources can help manage your time such as toggl or clockify (free!!!!!), they help by setting schedules which is a helpful way to keep track of time. 
+A helpful technique that
 <br>Allow yourself time to focus (and a few energy drinks) and you'll be able to work hard. 
  I'm sure there are many other things to do to impress future full-time employers but this is what has been told to me by several managers and recruiters.  
  Another helpful resource is this employer advice guide from several companies, although it may not be specifically SE I still think all managers have the same general thought process. 
