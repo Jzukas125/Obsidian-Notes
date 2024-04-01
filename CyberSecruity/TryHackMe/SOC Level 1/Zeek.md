@@ -83,5 +83,13 @@ Basic of Zeek Logs:
 - Zeek diagnostic - Zeek diagnostic logs cover system messages, actions and some statistics - broker.log, capture_loss.log, cluster.log, config.log, loaded_scripts.log, packet_filter.log, print.log, prof.log, reporter.log, stats.log, stderr.log, stdout.log
 
 Some log files are updated daily, and some are updated in each session. Some of the most commonly used logs are explianed as so:
-- Update Frequency - Log name - Description
-- 
+- **Daily Logs:**
+  - `known_hosts.log`: List of hosts that completed TCP handshakes.
+  - `known_services.log`: List of services used by hosts.
+  - `known_certs.log`: List of SSL certificates.
+  - `software.log`: List of software used on the network.
+- **Per Session Logs:**
+  - `notice.log`: Anomalies detected by Zeek.
+  - `intel.log`: Traffic contains malicious patterns/indicators.
+  - `signatures.log`: List of triggered signatures.
+
