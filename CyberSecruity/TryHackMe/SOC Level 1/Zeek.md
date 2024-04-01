@@ -76,4 +76,4 @@ Each log output consists of multiple fields, and each field holds a different pa
 Basic of Zeek Logs:
 - Category - Description - Log Files
 - Files - File analysis result logs - files.log, oscp.log, pe.log, x509.log
-- NetControl - Network 
+- NetControl - Network control and flow logs - netcontrol.log, netcontrol_drop.log, netcontrol_shunt.log, netcontrol_catch_relase.log, openflow.log
