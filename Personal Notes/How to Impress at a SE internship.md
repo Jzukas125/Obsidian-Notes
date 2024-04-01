@@ -35,7 +35,8 @@
  
 <h3> Time management </h3>
 The google definition of time management is "**the process of consciously planning and controlling time spent on specific tasks to increase how efficient you are**."  Several online sources can help manage your time such as toggl or clockify (free!!!!!), they help by setting schedules which is a helpful way to keep track of time. 
-A helpful technique that
+A helpful technique is the Eisenhower matrix. The Eisenhower matrix is a popular tool that helps distinguish the severity of tasks, it helps by separating between which tasks are important, not important, urgent, and not urgent. It does so by splitting it into corresponding 4 D's of execution: Do, Defer, Delegate, and Delete with it looking a little something like this.
+![[Pasted image 20240401104257.png]]
 <br>Allow yourself time to focus (and a few energy drinks) and you'll be able to work hard. 
  I'm sure there are many other things to do to impress future full-time employers but this is what has been told to me by several managers and recruiters.  
  Another helpful resource is this employer advice guide from several companies, although it may not be specifically SE I still think all managers have the same general thought process. 
