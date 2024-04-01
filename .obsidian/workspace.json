@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "Personal Notes/Goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "Personal Notes/Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md",
+                "file": "Personal Notes/Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Notes/How to Impress at a SE internship.md"
+                "file": "Personal Notes/Goals.md"
               }
             }
           },
@@ -176,10 +176,11 @@
   },
   "active": "6a2f4d4873516936",
   "lastOpenFiles": [
+    "Personal Notes/How to Impress at a SE internship.md",
+    "Personal Notes/Goals.md",
     "Pasted image 20240401104257.png",
     "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
-    "Personal Notes/How to Impress at a SE internship.md",
     "README.md",
     "Personal Notes",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
@@ -215,7 +216,6 @@
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/IDOR.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Subdomain Enumeration.md",
     "Playbooks",
-    "Pasted image 20240320142951.png",
     "CyberSecruity/Hack the Box",
     "CyberSecruity/OSINT",
     "CyberSecruity/Web Dev",
