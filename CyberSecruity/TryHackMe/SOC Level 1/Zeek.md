@@ -75,4 +75,5 @@ Each log output consists of multiple fields, and each field holds a different pa
 
 Basic of Zeek Logs:
 - Category - Description - Log Files
-- Files - File an
+- Files - File analysis result logs - files.log, oscp.log, pe.log, x509.log
+- NetControl - Network 
