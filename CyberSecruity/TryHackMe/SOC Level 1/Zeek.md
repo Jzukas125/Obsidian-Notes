@@ -93,4 +93,4 @@ Some log files are updated daily, and some are updated in each session. Some of 
   - `intel.log`: Traffic contains malicious patterns/indicators.
   - `signatures.log`: List of triggered signatures.
 
-A difficulty that occurs when working with Zeek is having hte required network knowledge and investigatio
+A difficulty that occurs when working with Zeek is having the required network knowledge and investigation mindset. 
