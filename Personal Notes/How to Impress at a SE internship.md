@@ -7,6 +7,7 @@
 	- Be willing to stay longer if needed to help with extra work.
 	- Make sure to revise code
 	- Don't stress out too much about wanting to impress
+	- Managing Time
 
 <h3> Have good reports </h3>
 	Having good reports is important solely because a manager will be reading them and judging your work off of how will its written or what you've done. Even if you haven't done anything but you have been researching it is important to state that you have been making an effort to solve problems.
@@ -31,8 +32,10 @@
 
 <h3> Don't stress out too much about wanting to impress </h3> 
 	Don't try to hard if they don't like you then doing these isn't going to change much, just allow yourself to do good work and be friends with others. <br>
- Allow yourself time to focus (and a few energy drinks) and you'll be able to work hard. 
+ 
+<h3> Time management </h3>
+The google defiintion of time management is "**the process of consciously planning and controlling time spent on specific tasks to increase how efficient you are**."  Several online sources can help manage your time such as toggl or clockify, they help by setting schedules 
+<br>Allow yourself time to focus (and a few energy drinks) and you'll be able to work hard. 
  I'm sure there are many other things to do to impress future full-time employers but this is what has been told to me by several managers and recruiters.  
  Another helpful resource is this employer advice guide from several companies, although it may not be specifically SE I still think all managers have the same general thought process. 
 
- 
