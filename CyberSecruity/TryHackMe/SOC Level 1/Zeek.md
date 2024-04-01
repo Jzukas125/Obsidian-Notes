@@ -80,4 +80,5 @@ Basic of Zeek Logs:
 - Detection - Detection and possible indicator logs - intel.log, notice.log, notice_alarm.log, signatures.log, traceroute.log
 - Network Observations - Network flow logs - known_certs.log, known_hosts.log, known_modbus.log, known_services.log, software.log
 - Miscellaneous - Additional logs cover external alerts, inputs and failures - barnyard2.log, dpd.log, unified2.log, unknown_protocols.log, weird.log, weird_stats.log
-- Zeek diagnostic - Zeek diagnostic logs cover system messages, actions and some statistics 
+- Zeek diagnostic - Zeek diagnostic logs cover system messages, actions and some statistics - broker.log, capture_loss.log, cluster.log, config.log, loaded_scripts.log, packet_filter.log, print.log, prof.log, reporter.log, stats.log, stderr.log, stdout.log
+
