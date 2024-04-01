@@ -82,4 +82,6 @@ Basic of Zeek Logs:
 - Miscellaneous - Additional logs cover external alerts, inputs and failures - barnyard2.log, dpd.log, unified2.log, unknown_protocols.log, weird.log, weird_stats.log
 - Zeek diagnostic - Zeek diagnostic logs cover system messages, actions and some statistics - broker.log, capture_loss.log, cluster.log, config.log, loaded_scripts.log, packet_filter.log, print.log, prof.log, reporter.log, stats.log, stderr.log, stdout.log
 
-Some log files are updated daily, and some are updated in each session. Some o f
+Some log files are updated daily, and some are updated in each session. Some of the most commonly used logs are explianed as so:
+- Update Frequency - Log name - Description
+- 
