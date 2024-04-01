@@ -69,4 +69,4 @@ In pcap processing mode, logs are saved in the working directory. You can view t
 
 # Zeek Logs
 
-Zeek generates log files according to the traffic data. You will have logs for every connection in the wire, including the application level protocols and fields. 
+Zeek generates log files according to the traffic data. You will have logs for every connection in the wire, including the application level protocols and fields. Zeek is capable of ientifying 50+ logs and catgorsing them into seven categories. Zeek logs are well structured and tab-separeated ASCII files, so reaading and proces
