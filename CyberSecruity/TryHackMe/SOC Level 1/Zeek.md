@@ -103,3 +103,6 @@ Brief log usage primer table:
 - loaded_scripts.log - ssh.log - traceroute.log - weird.log
 
 Logs can be categorized before starting an investigation. Thus, finding the evidence/anomaly you are looking for will be easier. The given table is a brief example of using multiple log files. You can create your working model or customize the given one. Make sure you read each log description and understand the purpose to know what to expect from the corresponding log file. Note that these are not the only ones to focus on. Investigated logs are highly associated with the investigation case type and hypothesis, so do not just rely on the logs listed.
+
+List Explained:
+- Overall Info - The aim is to review the overall connections, shared files, loaded scripts and indic
