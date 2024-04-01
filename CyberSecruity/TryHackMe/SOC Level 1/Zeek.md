@@ -105,4 +105,9 @@ Brief log usage primer table:
 Logs can be categorized before starting an investigation. Thus, finding the evidence/anomaly you are looking for will be easier. The given table is a brief example of using multiple log files. You can create your working model or customize the given one. Make sure you read each log description and understand the purpose to know what to expect from the corresponding log file. Note that these are not the only ones to focus on. Investigated logs are highly associated with the investigation case type and hypothesis, so do not just rely on the logs listed.
 
 List Explained:
-- Overall Info - The aim is to review the overall connections, shared files, loaded scripts and indic
+- Overall Info - The aim is to review the overall connections, shared files, loaded scripts and indicators at once. This is the first step of investigations
+- Protocol Based - Once overall traffic is reviewed and suspicious indicators are found or you want to conduct a more in-depth investigations, you focus on specific protocol.
+- Detection - Use the prebuild or custom scripts and signature outcomes to support your findings by having additional indicators or linked actions
+- Observations - the summary of the hosts, services, software, and unexpected activity statistics will help you discover possible missing points and conclude the investigation<br>
+Remember, we mention the procs and cons of the Zeek logs at the start of the task. Now let's demonstrate the log viewing and identify the differences between them.
+Recall 1: Zeek logs are 
