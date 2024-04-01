@@ -97,4 +97,6 @@ A difficulty that occurs when working with Zeek is having the required network k
 
 Brief log usage primer table:
 - Overall Info - Protocol Based - Detection - Observation
+- conn.log - http.log - notice.log - known_host.log
+- files.log - dns.log - signatures.log - known_services.log
 - 
