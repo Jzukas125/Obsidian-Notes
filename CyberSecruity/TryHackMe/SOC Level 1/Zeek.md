@@ -66,3 +66,7 @@ In pcap processing mode, logs are saved in the working directory. You can view t
 	- -C: ignoring checksum errors
 	- -v: version info
 	- zeekctl: ZeekControl module
+
+# Zeek Logs
+
+Zeek generates log fi
