@@ -69,4 +69,4 @@ In pcap processing mode, logs are saved in the working directory. You can view t
 
 # Zeek Logs
 
-Zeek generates log fi
+Zeek generates log files according to the traffic data. You will have logs for every connection in the wire, including the application level protocols and fields. 
