@@ -101,4 +101,5 @@ Brief log usage primer table:
 - files.log - dns.log - signatures.log - known_services.log
 - intel.log - ftp.log - pe.log - software.log
 - loaded_scripts.log - ssh.log - traceroute.log - weird.log
-- 
+
+Logs can be categorized before starting an investigation. Thus, finding the evi
