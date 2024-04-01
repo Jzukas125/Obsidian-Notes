@@ -69,4 +69,6 @@ In pcap processing mode, logs are saved in the working directory. You can view t
 
 # Zeek Logs
 
-Zeek generates log files according to the traffic data. You will have logs for every connection in the wire, including the application level protocols and fields. Zeek is capable of identifying 50+ logs and catgorzing them into seven categories. Zeek logs are well structured and tab-separated ASCII files, so reading and processing them is easy but requires effort. You should be familiar with networking and protocols to correlate the logs in an investigation, know where to focus, and find a specific piece of evidence 
+Zeek generates log files according to the traffic data. You will have logs for every connection in the wire, including the application level protocols and fields. Zeek is capable of identifying 50+ logs and categorizing them into seven categories. Zeek logs are well structured and tab-separated ASCII files, so reading and processing them is easy but requires effort. You should be familiar with networking and protocols to correlate the logs in an investigation, know where to focus, and find a specific piece of evidence 
+
+Each log output consists of multiple fields, and each field holds a different part of the traffic data. Correlation is done through a unique value called UID. The UID represents the unique identifier assigned to each session.
