@@ -108,6 +108,8 @@ List Explained:
 - Overall Info - The aim is to review the overall connections, shared files, loaded scripts and indicators at once. This is the first step of investigations
 - Protocol Based - Once overall traffic is reviewed and suspicious indicators are found or you want to conduct a more in-depth investigations, you focus on specific protocol.
 - Detection - Use the prebuild or custom scripts and signature outcomes to support your findings by having additional indicators or linked actions
-- Observations - the summary of the hosts, services, software, and unexpected activity statistics will help you discover possible missing points and conclude the investigation<br>
+- Observations - the summary of the hosts, services, software, and unexpected activity statistics will help you discover possible missing points and conclude the investigation<br> 
 Remember, we mention the procs and cons of the Zeek logs at the start of the task. Now let's demonstrate the log viewing and identify the differences between them.
-Recall 1: Zeek logs are 
+- Recall 1: Zeek logs are well structured and tab-separated ASCII files, so reading and processing them is easy but requires effort 
+- Recall 2: Investigating the generated logs will require command-line tools and additional tools<br> 
+In addition to Linux command-line tools, one auxiliary program called zeek-cut reduces the effort of extracting specific columns from log files. Each log files provides "filed names" in the 
