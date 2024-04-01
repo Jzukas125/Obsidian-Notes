@@ -79,4 +79,5 @@ Basic of Zeek Logs:
 - NetControl - Network control and flow logs - netcontrol.log, netcontrol_drop.log, netcontrol_shunt.log, netcontrol_catch_relase.log, openflow.log
 - Detection - Detection and possible indicator logs - intel.log, notice.log, notice_alarm.log, signatures.log, traceroute.log
 - Network Observations - Network flow logs - known_certs.log, known_hosts.log, known_modbus.log, known_services.log, software.log
-- Miscellaneous - Additional log
+- Miscellaneous - Additional logs cover external alerts, inputs and failures - barnyard2.log, dpd.log, unified2.log, unknown_protocols.log, weird.log, weird_stats.log
+- Zeek diagnostic - Zeek diagnostic logs cover system messages, actions and some statistics 
