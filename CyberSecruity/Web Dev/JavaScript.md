@@ -56,3 +56,38 @@ JavaScript can Hide HTML Elements
 JavaScript can show HTML elements
 `document.getElementById("demo").style.display = "block";`
 
+# JavaScript Where to
+
+`<script>` tag
+The script tag allows Javascript code to be inserted into HTML code.
+```HTML
+<script>
+document.getElementById("demo").innerHTML = "My First JavaScript";
+</script>
+```
+
+JavaScript functions work like regular python or C++ fucntions
+
+Any number of scripts can be placed in an HTML document. Scripts can be placed in the body, or in the head section of an HTML page, or in both.
+
+JavaScript in Head
+```html
+<!DOCTYPE html>  
+<html>  
+<head>  
+<script>  
+function myFunction() {  
+  document.getElementById("demo").innerHTML = "Paragraph changed.";  
+}  
+</script>  
+</head>  
+<body>
+
+<h2>Demo JavaScript in Head</h2>  
+  
+<p id="demo">A Paragraph</p>  
+<button type="button" onclick="myFunction()">Try it</button>
+
+</body>  
+</html>
+```
