@@ -9,3 +9,8 @@ I found this cheat sheet on https://cyvatar.ai/write-configure-snort-rules/
 
 
 snort -c local.rules -A full -l . -r filename
+
+Challenge 1:
+Write rules to detect "all TCP port 80 traffic" packets in the given pcap file. 
+What is the number of detected packets?
+Answer
