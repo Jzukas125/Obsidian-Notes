@@ -115,3 +115,7 @@ function myFunction() {
 ```
 
 Both of these have the same output with it changing the paragraph in the body, they're just written differently. 
+
+Linking files
+`<script src="/js/myScript.js"></script>`
+
