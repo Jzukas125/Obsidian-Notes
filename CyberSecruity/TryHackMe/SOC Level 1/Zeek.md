@@ -132,4 +132,8 @@ The critical point is: What if there is no "function/button/feature" for what yo
 - cut -f 1 : Cut field 1
 - cut -d '.' -f 1-2 : Split the sting on every dot an print keeps the first two fields
 - grep -v 'test' : Display lines that don't match the "test" sting
-- grep -v -e 'test1' -e 'test2' : Display lines that don't mat
+- grep -v -e 'test1' -e 'test2' : Display lines that don't match one or both "test1" and "test2" strings
+- file : view file information 
+- grep -rin Testvalue1 * | column -t | less -S : Search the "Testvalue1" string everywhere, organize column spaces and view the output with less
+
+# Zeek Signatures
