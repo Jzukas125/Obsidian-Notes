@@ -123,3 +123,13 @@ The critical point is: What if there is no "function/button/feature" for what yo
 <br>   Having the power to manipulate the data at the command line is a crucial skill for ananlysts. Not only in this room but each time you deal with packets, you will need to use command-line tools, Berkley Packet Filters (BPF) and regular experssions to find/view/extract the data you are looking for. This task provides quick cheat-sheet like information to help you write CLI queries for your event of interest.
 <br> I will try to translate the table into note form
 
+![[Pasted image 20240402144702.png]]
+- Use Case : Description
+- Sort | uniq : Remove duplicate values
+- sort | uniq -c : Remove duplicates and count the number of occurrences for each value 
+- sort -nf : Sort values numerically and recursively 
+- rev : REverse string chracters
+- cut -f 1 : Cut field 1
+- cut -d '.' -f 1-2 : Split the sting on every dot an print keeps the first two fields
+- grep -v 'test' : Display lines that don't match the "test" sting
+- grep -v -e 'test1' -e 'test2' : Display lines that don't mat
