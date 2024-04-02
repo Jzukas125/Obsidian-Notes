@@ -119,3 +119,11 @@ Both of these have the same output with it changing the paragraph in the body, t
 Linking files
 `<script src="/js/myScript.js"></script>`
 
+# JavaScript Statements
+
+```javascript
+let x, y, z;    // Statement 1  
+x = 5;          // Statement 2  
+y = 6;          // Statement 3  
+z = x + y;      // Statement 4
+```
