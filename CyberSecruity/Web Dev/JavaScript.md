@@ -127,3 +127,19 @@ x = 5;          // Statement 2
 y = 6;          // Statement 3  
 z = x + y;      // Statement 4
 ```
+
+Javascript ignores whitespace
+
+# JavaScript Syntax
+
+JavaScript Syntax is as follows 
+```JavaScript
+//How to create variables:
+var x;
+let y;
+
+//How to use variables:
+x = 5;
+y = 6;
+let z = x + y;
+```
