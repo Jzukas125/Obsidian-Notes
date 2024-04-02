@@ -118,3 +118,6 @@ Let's see the "zeek-cut" in action. Let's extract the uid, protocol, source and 
 
 # CLI Kung-Fu Recall: Processing Zeek Logs
 
+GUIs are handy and good for accomplishing tasks and processing information quickly. There are multiple advantages of GUIs, especially when processing the information visually. HOWVER, when processing massive amounts of data, GUIs are not stable and as effective as the CLI tools.<br> 
+The critical point is: What if there is no "function/button/feature" for what you want to find/view/extract.
+<br>   Having the power to manipulate the data at the command line is a crucial skill for ananlysts. Not only in this room but each time you deal with packets, you will need to use com
