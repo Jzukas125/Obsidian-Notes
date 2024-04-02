@@ -47,3 +47,12 @@ onclick="doucument.getElementById('myImage').src='pic_bulboff.gif'">Turn off the
 </html>
 ```
 
+JavaScript can change HTML styles (CSS)
+`document.getElementById("demo").style.fontSize = "35px";`
+
+JavaScript can Hide HTML Elements
+`document.getElementById("demo").style.display="none"`;
+
+JavaScript can show HTML elements
+`document.getElementById("demo").style.display = "block";`
+
