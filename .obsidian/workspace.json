@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md"
               }
             }
           },
@@ -189,9 +189,9 @@
   },
   "active": "cc1466f2f9d5b6f4",
   "lastOpenFiles": [
+    "CyberSecruity/Web Dev/JavaScript.md",
     "CyberSecruity/Web Dev/PHP Tutorial.md",
     "Personal Notes/Goals.md",
-    "CyberSecruity/Web Dev/JavaScript.md",
     "Personal Notes/How to Impress at a SE internship.md",
     "Pasted image 20240401104257.png",
     "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",

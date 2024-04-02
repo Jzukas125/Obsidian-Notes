@@ -114,4 +114,7 @@ Remember, we mention the procs and cons of the Zeek logs at the start of the tas
 - Recall 2: Investigating the generated logs will require command-line tools and additional tools<br> 
 In addition to Linux command-line tools, one auxiliary program called zeek-cut reduces the effort of extracting specific columns from log files. Each log files provides "filed names" in the beginning. This information will help you while using zeek-cut. Make sure that you use the "fileds" and not the "types". 
 
-Let's see the "zeek-cut" in action. Let's extract the uid, protocol, source and destination hosts, and source and destination ports from the conn.log. We will first read the logs with the cat command and then extract the event of interest fields with zeek-cut auxiliary to compare the difference..
+Let's see the "zeek-cut" in action. Let's extract the uid, protocol, source and destination hosts, and source and destination ports from the conn.log. We will first read the logs with the cat command and then extract the event of interest fields with zeek-cut auxiliary to compare the difference. 
+
+# CLI Kung-Fu Recall: Processing Zeek Logs
+
