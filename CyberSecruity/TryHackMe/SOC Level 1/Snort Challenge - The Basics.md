@@ -28,3 +28,7 @@ Investigate the log file.
 
 What is the destination address of packet 63?
 
+no rule is needed to find this packet as it in packet sniffing mode instead we use the command <br> snort -r snort.log.1712087408 -n 63
+which we then look at the last packet to find its final IP address
+
+<h3> Challenge 3: </h3>
