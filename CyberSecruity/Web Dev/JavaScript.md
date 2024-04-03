@@ -157,3 +157,19 @@ AJAX is a developer's dream, because it can:
 - AJAX is a technique for asscessing web servers from a web page
 - AJAX stands for Asynchronous JavaScript and XML
 
+HTML Page
+```html
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<div id="demo">
+	<h2> Let AJAX change this text </h2>
+	<button type="button" onclick="loacDoc()">Change Content </button>
+</div>
+
+</body>
+</html>
+```
+
+The HTML page contains a <di
