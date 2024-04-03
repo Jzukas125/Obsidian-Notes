@@ -137,4 +137,7 @@ The critical point is: What if there is no "function/button/feature" for what yo
 - grep -rin Testvalue1 * | column -t | less -S : Search the "Testvalue1" string everywhere, organize column spaces and view the output with less
 
 # Zeek Signatures
-Zeek supports sugnatures to have rules and even correlations to find noteworthy activities on the network. Zeek signatures use low-level pattern matching and cover conditions similar to Snort rules. Unlike snort rules, Zeek rules are not the primary event description point. Zeek has a s
+Zeek supports sugnatures to have rules and even correlations to find noteworthy activities on the network. Zeek signatures use low-level pattern matching and cover conditions similar to Snort rules. Unlike snort rules, Zeek rules are not the primary event description point. Zeek has a scripting language and can claim multiple events to find an event of interest. We focus on the signatures in this task, and then we will focus on Zeek scripting in the following tasks. <br> Zeek signatures are composed of three logical paths; signature id, conditions and action. The signature breakdown is shown in the table below.
+![[Pasted image 20240403143229.png]]
+Now lets dig more into the Zeek signatures. The below table provides the most common conditions and filters for the Zeek signatures. 
+![[Pasted image 20240403143310.png]]
