@@ -35,4 +35,10 @@ Detection Methods:
 # Snort
 Good for writing rules to test them
 
-# OSSEC 
+# OSSEC HIDS/HIPS
+
+Features
+- File Integrity Checking: OSSEC keeps track of important files on your system and checks them regularly to ensure they haven't been modified
+- Rootkit detection: Rootkits are malicious programs that try to hide themselves from traditional security software
+- Alerting: If OSSEC detects something suspicious, it will send you an alert so you can investigate further
+- Active Response: You can configure OSSEC to take automated actions when an alert is triggered, such as blocking an IP address or shutting down a process 
