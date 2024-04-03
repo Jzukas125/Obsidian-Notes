@@ -148,7 +148,7 @@ Comments can be made using //
 
 I am choosing to skip a majority of the teachings of w3 school in favor of learning what is applicable to my internship. I am utilizing a "fuck it we ball" methodology where I will write about things I will explain things in more detail if I do not understand them
 
-# AJAX 
+# AJAX  Intro
 Ajax is Asynchronous JavaScript And Xml
 AJAX is a developer's dream, because it can:
 - Read data from a web server after the page has loaded
@@ -172,4 +172,20 @@ HTML Page
 </html>
 ```
 
-The HTML page contains a <di
+The HTML page contains a `<div>` section and a `<button>`
+The `<div>` section is used to display information from a server.
+The `<button>` calls a function (if it is clicked).
+The function requests data from a web server and displays it:
+
+Function loadDoc()
+```JavaScript
+function loadDoc(){
+	const xhttp = new XMLHttpRequest();
+	xhttp.onload = function() {
+	document.getElementById("demo").innerHTML = this.responseText;
+	}
+	xhttp.open("GET","ajak_info.txt",true);
+	xhttp.send();
+}
+```
+
