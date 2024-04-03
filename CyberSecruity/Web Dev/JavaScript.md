@@ -203,4 +203,5 @@ function loadDoc(){
 The Keystone of AJAX is the the XMLHttpRequest object.
 1. Create an XMLHttpRequest object
 2. Define a callback function
-3. Open the XML
+3. Open the XMLHttpRequest object
+4. Send a request to a server
