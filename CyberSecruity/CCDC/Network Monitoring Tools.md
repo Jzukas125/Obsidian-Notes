@@ -21,3 +21,9 @@ Notes taken from meeting hosted by Dallas Desimone
 	- pfSense: FOSS hardware firewall software
 	- OPNsense: FOSS hardware firewall software
 	- Windows Firewall: Built into Windows 
+
+# Types of IDPS/IPS
+
+Types:
+1. NIDS: Deployed at strategic points on your network, such as the firewall or core router.
+2. HIDS: 
