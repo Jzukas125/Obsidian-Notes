@@ -35,4 +35,13 @@ which we then look at the last packet to find its final IP address
 Investigate the log file.  
 
  What is the ACK number of packet 64?
- 
+I used the command 
+snort -r snort.log.1712165023 -n 64
+looked at the specifc Ack number on packet 64 and found the answer
+
+<h3> Challenge 4 </h3>
+Investigate the log file.  
+
+What is the SEQ number of packet 62?
+I used the command
+snort -r 
