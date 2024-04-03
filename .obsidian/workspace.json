@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "cc1466f2f9d5b6f4",
   "lastOpenFiles": [
+    "Personal Notes/Goals.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
     "CyberSecruity/Web Dev/JavaScript.md",
     "Pasted image 20240403113301.png",
-    "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
     "Personal Notes/How to Impress at a SE internship.md",
-    "Personal Notes/Goals.md",
     "CyberSecruity/Web Dev/PHP Tutorial.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Threat Intelligence Tools.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",

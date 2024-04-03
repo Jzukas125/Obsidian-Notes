@@ -137,3 +137,4 @@ The critical point is: What if there is no "function/button/feature" for what yo
 - grep -rin Testvalue1 * | column -t | less -S : Search the "Testvalue1" string everywhere, organize column spaces and view the output with less
 
 # Zeek Signatures
+Zeek supports sugnatures to have rules and even correlations to find noteworthy activities on the network. Zeek signatures use low-level pattern matching and cover conditions similar to Snort rules. Unlike snort rules, Zeek rules are not the primary event description point. Zeek has a s
