@@ -44,4 +44,20 @@ Investigate the log file.
 
 What is the SEQ number of packet 62?
 I used the command
-snort -r 
+snort -r snort.log.1712165023 -n 62
+to find the 62nd packet and find the SEQ number for the packet
+
+<h3> Challenge 5</h3>
+Investigate the log file.  
+
+What is the TTL of packet 65?
+snort -r snort.log.1712165023 -n 65
+TTL was in the packet information section
+
+<h3> Challenge 6</h3>
+Investigate the log file.  
+
+What is the source IP of packet 65?
+I used the same command that was used in the last challenge and looked at the source IP that was used to send the packet over.
+
+<h3> Challenge 7 </h3>
