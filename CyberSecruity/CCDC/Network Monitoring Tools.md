@@ -34,3 +34,5 @@ Detection Methods:
 
 # Snort
 Good for writing rules to test them
+
+# OSSEC 
