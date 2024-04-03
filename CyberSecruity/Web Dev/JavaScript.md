@@ -146,3 +146,12 @@ let z = x + y;
 
 Comments can be made using //
 
+I am choosing to skip a majority of the teachings of w3 school in favor of learning what is applicable to my internship. I am utilizing a "fuck it we ball" methodology where I will write about things I will explain things in more detail if I do not understand them
+
+# AJAX 
+Ajax is Asynchronous JavaScript And Xml
+AJAX is a developer's dream, because it can:
+- Read data from a web server after the page has loaded
+- Updated a web page without reloading the page
+- Send data to a web server in the background
+- 
