@@ -154,4 +154,6 @@ AJAX is a developer's dream, because it can:
 - Read data from a web server after the page has loaded
 - Updated a web page without reloading the page
 - Send data to a web server in the background
-- 
+- AJAX is a technique for asscessing web servers from a web page
+- AJAX stands for Asynchronous JavaScript and XML
+
