@@ -32,3 +32,7 @@ no rule is needed to find this packet as it in packet sniffing mode instead we u
 which we then look at the last packet to find its final IP address
 
 <h3> Challenge 3: </h3>
+Investigate the log file.  
+
+ What is the ACK number of packet 64?
+ 
