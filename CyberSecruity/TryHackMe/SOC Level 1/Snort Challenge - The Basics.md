@@ -61,3 +61,11 @@ What is the source IP of packet 65?
 I used the same command that was used in the last challenge and looked at the source IP that was used to send the packet over.
 
 <h3> Challenge 7 </h3>
+Investigate the log file.  
+
+What is the source port of packet 65?
+Same command as previous but I found the port in the IP section
+
+# Task 3
+
+<h3> Challenge 1 </h3>
