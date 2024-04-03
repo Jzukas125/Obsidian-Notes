@@ -26,4 +26,8 @@ Notes taken from meeting hosted by Dallas Desimone
 
 Types:
 1. NIDS: Deployed at strategic points on your network, such as the firewall or core router.
-2. HIDS: 
+2. HIDS: installed directly on individual devices, such as servers, desktops, and laptops.
+Detection Methods:
+1. Signature-Based Detection: Most common type of detection method
+2. Anomaly-Based Detection: Anomaly-based IDS/IPS system monitor network traffic or system activity for unusual patterns. Helpful for zero-day detection
+3. Policy-Based Detection: Compares detected activities with system configuration and security policies. 
