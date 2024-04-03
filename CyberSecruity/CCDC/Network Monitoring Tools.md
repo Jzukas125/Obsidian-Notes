@@ -11,3 +11,13 @@ Notes taken from meeting hosted by Dallas Desimone
 	- Network Miner
 	- Brim
 
+- Firewalls
+	- Palo Alto Networks: PA Series firewalls
+	- Fortinet: FortiGate ser4ies firewalls
+	- Cisco: Cisco Secure Firewall
+	- Check Point: Check Point Quantum Security Gateway
+	- Sophos: Sophos XG Firewall, Sophos UTM firewalls
+- Free Firewalls
+	- pfSense: FOSS hardware firewall software
+	- OPNsense: FOSS hardware firewall software
+	- Windows Firewall: Built into Windows 
