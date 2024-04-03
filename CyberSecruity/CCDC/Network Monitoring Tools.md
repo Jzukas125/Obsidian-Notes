@@ -31,3 +31,6 @@ Detection Methods:
 1. Signature-Based Detection: Most common type of detection method
 2. Anomaly-Based Detection: Anomaly-based IDS/IPS system monitor network traffic or system activity for unusual patterns. Helpful for zero-day detection
 3. Policy-Based Detection: Compares detected activities with system configuration and security policies. 
+
+# Snort
+Good for writing rules 
