@@ -33,4 +33,4 @@ Detection Methods:
 3. Policy-Based Detection: Compares detected activities with system configuration and security policies. 
 
 # Snort
-Good for writing rules 
+Good for writing rules to test them
