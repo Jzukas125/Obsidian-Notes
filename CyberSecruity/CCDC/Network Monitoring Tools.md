@@ -9,4 +9,5 @@ Notes taken from meeting hosted by Dallas Desimone
 	- Wireshark
 	- Zeek
 	- Network Miner
-	- Bri
+	- Brim
+
