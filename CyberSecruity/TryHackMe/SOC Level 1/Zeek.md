@@ -141,3 +141,6 @@ Zeek supports sugnatures to have rules and even correlations to find noteworthy 
 ![[Pasted image 20240403143229.png]]
 Now lets dig more into the Zeek signatures. The below table provides the most common conditions and filters for the Zeek signatures. 
 ![[Pasted image 20240403143310.png]]
+
+# Zeek Scripts
+Zeek has its own event-driven scripting language, which is as powerful as high-level languages 
