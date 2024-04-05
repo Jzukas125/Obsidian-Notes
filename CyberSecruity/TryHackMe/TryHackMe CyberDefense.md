@@ -14,3 +14,5 @@
 		-s get sharelist
 		-p get password policy information
 		-g get group and member list
+
+#TryHackMe

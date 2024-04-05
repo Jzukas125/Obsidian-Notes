@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a2f4d4873516936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Notes/Goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc1466f2f9d5b6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md"
               }
             }
           },
@@ -187,24 +174,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9e2845922235335",
+  "active": "cc1466f2f9d5b6f4",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Wireshark 1.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Snort Challenge - The Basics.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Snort.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/NetworkMiner.md",
+    "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
+    "Personal Notes/Goals.md",
+    "CyberSecruity/CCDC/Things to study.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
-    "Personal Notes/Goals.md",
     "CyberSecruity/CCDC/Network Monitoring Tools.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/NetworkMiner.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "Pasted image 20240403143310.png",
     "Pasted image 20240403143229.png",
-    "CyberSecruity/TryHackMe/SOC Level 1/Snort Challenge - The Basics.md",
     "CyberSecruity/Web Dev/JavaScript.md",
     "Pasted image 20240403113301.png",
     "Personal Notes/How to Impress at a SE internship.md",
     "CyberSecruity/Web Dev/PHP Tutorial.md",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI/Threat Intelligence Tools.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Snort.md",
     "Pasted image 20240402144702.png",
     "Pasted image 20240401104257.png",
     "README.md",
@@ -216,7 +207,6 @@
     "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/HTTP in detail.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/Putting It All Together.md",
-    "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
     "Pasted image 20240327131938.png",
     "CyberSecruity/Bug Bounty/Hacker101 - XSS and Authorization.md",
     "CyberSecruity/Bug Bounty/Hacker101 - Intro and The Web in Depth.md",
@@ -227,13 +217,10 @@
     "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
     "CyberSecruity/Security+/General Security Plus Studying and resources.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Bug Bounty",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "Playbooks",
     "CyberSecruity/Hack the Box",
     "CyberSecruity/OSINT",
-    "CyberSecruity/Web Dev",
-    "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf"
+    "CyberSecruity/Web Dev"
   ]
 }
