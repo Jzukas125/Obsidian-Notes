@@ -1,5 +1,5 @@
 Notes taken from meeting hosted by Dallas Desimone
-
+#CCDC 
 # Types of Network Monitoring Tools
 - Packet capture and analyzer: Capture Network Packets
 - Firewall: Controls incoming and outgoing network traffic with predetermined security rules 

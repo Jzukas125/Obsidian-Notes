@@ -1,3 +1,4 @@
+#CCDC 
 Nmap stands for network map. Nmap is a port scan that sends a probe to each port on a system and returns data based on its status. Nmap can be force probed. Nmap can be run in tandem with the ping command.
 
 The ping command will find the IP address of the thing pinged such as google.com

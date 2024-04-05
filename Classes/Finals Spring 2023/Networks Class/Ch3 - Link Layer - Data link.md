@@ -1,3 +1,4 @@
+#College 
 Link layer intro - terminology - hosts and routers : nodes, communication channels that connect adjacent nodes along communication path: links -- wired, wireless, LAN
 
 Layer 2 Packet: frame

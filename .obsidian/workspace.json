@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Ideas.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Notes/Ideas.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Notes/Ideas.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Notes/Ideas.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md"
               }
             }
           },
@@ -176,6 +176,25 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Wireshark 1.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security",
+    "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/DNS in detail.md",
+    "CyberSecruity/CCDC/Apache2.md",
+    "CyberSecruity/CCDC/Netstat and Net.md",
+    "CyberSecruity/CCDC/Network Monitoring Tools.md",
+    "CyberSecruity/CCDC/Nmap.md",
+    "CyberSecruity/CCDC/Samba part 2.md",
+    "CyberSecruity/CCDC/Things to study.md",
+    "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
+    "Classes/Finals Spring 2023/Networks Class/Network Layer (Ch4).md",
+    "Classes/Finals Spring 2023/Networks Class/Exam 1.md",
+    "Classes/Finals Spring 2023/Networks Class/Ch3 - Link Layer - Data link.md",
+    "Classes/Finals Spring 2023/Networks Class/CH5.md",
+    "Classes/Finals Spring 2023/Networks Class/CH2.md",
+    "Classes/Finals Spring 2023/Statistics.md",
+    "Classes/Finals Spring 2023/Algorithms.md",
+    "Personal Notes/Ideas.md",
     "Personal Notes/How to Impress at a SE internship.md",
     "Personal Notes/Goals.md",
     "CybSec Meetings/Fall 2023/Meeting 7.md",
@@ -184,24 +203,6 @@
     "CybSec Meetings/Fall 2023/Meeting 4.md",
     "CybSec Meetings/Fall 2023/Meeting 3.md",
     "CybSec Meetings/Fall 2023/Meeting 2.md",
-    "CybSec Meetings/Spring 2024/Second Meeting with Bobby.md",
-    "CybSec Meetings/Misc-Conferences/STEM (in)dustry - Citi bank conference.md",
-    "CybSec Meetings/Spring 2024/Scolding from Bobby 2-2-2024.md",
-    "CybSec Meetings/Spring 2024/Meeting 2 - Spring24.md",
-    "CybSec Meetings/Spring 2024/Meeting 1 - Spring24.md",
-    "CyberSecruity/PowerShell Scripting.md",
-    "CybSec Meetings/Meeting Ideas.md",
-    "CyberSecruity/Web Dev/PHP Tutorial.md",
-    "CyberSecruity/Web Dev/JavaScript.md",
-    "CyberSecruity/Web Dev/HTML.md",
-    "CyberSecruity/Security+/General Security Plus Studying and resources.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 3.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 2.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
-    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
-    "CyberSecruity/TryHackMe/Cyber Defense/Network Services.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
@@ -220,7 +221,6 @@
     "CyberSecruity/Bug Bounty",
     "Playbooks",
     "CyberSecruity/Hack the Box",
-    "CyberSecruity/OSINT",
-    "CyberSecruity/Web Dev"
+    "CyberSecruity/OSINT"
   ]
 }

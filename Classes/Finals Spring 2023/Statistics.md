@@ -1,3 +1,4 @@
+#College 
 Questions About:
 	Sampling distribution
 	No 3 On Exam 2
