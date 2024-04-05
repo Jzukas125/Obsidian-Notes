@@ -1,3 +1,4 @@
+#TryHackMe 
 These notes are on the room OpenCTI on TryHackme and it will cover the concepts and usage of OpenCTI, an open-source threat intelligence platform. The room will help us understand the answer to the following questions:
 - What is OpenCTI and how is it used?
 - How would I navigate through the platform?

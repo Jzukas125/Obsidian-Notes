@@ -1,3 +1,4 @@
+#CyberSecClub 
 ```
 - Secretary needs to do more notes and ensure they write everything down
 - Jake needs to do the discord bot for the leaderboard

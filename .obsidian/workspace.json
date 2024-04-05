@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "747526c02bdfa058",
+        "id": "0169380fed8f1dc4",
         "type": "tabs",
         "children": [
           {
-            "id": "cc1466f2f9d5b6f4",
+            "id": "589378ad90a7fe87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md",
+                "file": "Personal Notes/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md",
+                "file": "Personal Notes/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md",
+                "file": "Personal Notes/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks/Cyber Kill Chain.md"
+                "file": "Personal Notes/Ideas.md"
               }
             }
           },
@@ -174,49 +174,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc1466f2f9d5b6f4",
+  "active": "589378ad90a7fe87",
   "lastOpenFiles": [
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Wireshark 1.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Snort Challenge - The Basics.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Snort.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/NetworkMiner.md",
-    "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
+    "Personal Notes/How to Impress at a SE internship.md",
     "Personal Notes/Goals.md",
-    "CyberSecruity/CCDC/Things to study.md",
+    "CybSec Meetings/Fall 2023/Meeting 7.md",
+    "CybSec Meetings/Fall 2023/Meeting 6.md",
+    "CybSec Meetings/Fall 2023/Meeting 5.md",
+    "CybSec Meetings/Fall 2023/Meeting 4.md",
+    "CybSec Meetings/Fall 2023/Meeting 3.md",
+    "CybSec Meetings/Fall 2023/Meeting 2.md",
+    "CybSec Meetings/Spring 2024/Second Meeting with Bobby.md",
+    "CybSec Meetings/Misc-Conferences/STEM (in)dustry - Citi bank conference.md",
+    "CybSec Meetings/Spring 2024/Scolding from Bobby 2-2-2024.md",
+    "CybSec Meetings/Spring 2024/Meeting 2 - Spring24.md",
+    "CybSec Meetings/Spring 2024/Meeting 1 - Spring24.md",
+    "CyberSecruity/PowerShell Scripting.md",
+    "CybSec Meetings/Meeting Ideas.md",
+    "CyberSecruity/Web Dev/PHP Tutorial.md",
+    "CyberSecruity/Web Dev/JavaScript.md",
+    "CyberSecruity/Web Dev/HTML.md",
+    "CyberSecruity/Security+/General Security Plus Studying and resources.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 3.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 2.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
+    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+    "CyberSecruity/TryHackMe/Cyber Defense/Network Services.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
-    "CyberSecruity/CCDC/Network Monitoring Tools.md",
     "Pasted image 20240403143310.png",
     "Pasted image 20240403143229.png",
-    "CyberSecruity/Web Dev/JavaScript.md",
     "Pasted image 20240403113301.png",
-    "Personal Notes/How to Impress at a SE internship.md",
-    "CyberSecruity/Web Dev/PHP Tutorial.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/CTI/Threat Intelligence Tools.md",
     "Pasted image 20240402144702.png",
     "Pasted image 20240401104257.png",
-    "README.md",
     "Personal Notes",
     "Pasted image 20240328170209.png",
     "Pasted image 20240328160848.png",
     "Pasted image 20240328160822.png",
     "Snort cheat sheet PDF.pdf",
-    "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
-    "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/HTTP in detail.md",
-    "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/Putting It All Together.md",
     "Pasted image 20240327131938.png",
-    "CyberSecruity/Bug Bounty/Hacker101 - XSS and Authorization.md",
-    "CyberSecruity/Bug Bounty/Hacker101 - Intro and The Web in Depth.md",
     "Pasted image 20240325211333.png",
-    "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
-    "CyberSecruity/CCDC/Nmap.md",
-    "CyberSecruity/PowerShell Scripting.md",
-    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
-    "CyberSecruity/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Bug Bounty",
     "Playbooks",
     "CyberSecruity/Hack the Box",

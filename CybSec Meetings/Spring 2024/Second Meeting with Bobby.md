@@ -1,4 +1,4 @@
-
+#CyberSecClub 
 ```
 - Haven't reached out to anyone at the CTF meeting yet as they need to verify the participants
 - Prosped the ideas for an agreement, rules, having disclosures, and having an ethics meeting twice a semester

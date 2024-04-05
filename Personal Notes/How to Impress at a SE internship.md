@@ -1,3 +1,4 @@
+#Personal 
 - From what Aidan and several online resources say a good way to impress everyone would be as follows:
 	- Have good reports
 	- Be collaborative meaning you should get to know your team 

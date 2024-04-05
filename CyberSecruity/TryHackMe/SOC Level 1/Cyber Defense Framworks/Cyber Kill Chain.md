@@ -1,3 +1,4 @@
+#TryHackMe 
 <h3> Introduction </h3>
 The term kill chain derives from a military concept related to the structure that consists of target identification, decision and order to attack the target, and finally the target destruction. This framework defines all the phases an attacker needs to go through in order to succeed in an attack. 
 It is important to understand how the kill chain works because it will help you understand how to protect against ransomware attacks, security breaches as well as Advanced Persistent Threats (APTs).

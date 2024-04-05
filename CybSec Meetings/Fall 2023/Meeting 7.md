@@ -1,3 +1,4 @@
+#CyberSecClub 
 ```
 - Juan finished PR's, food should be done by next week
 - Hannah is now part of the SGA

@@ -1,5 +1,5 @@
 I realized that I need to be taking notes about half way into this so good luck
-
+#TryHackMe 
 	Zero Trust versus Trust but Verify 
 		Trust but verify - alway verify even when we trust an entity and its behaviour with an entity being a user or a system. Not feasible to verify everything and requires automated systems 
 		Zero Trust - treats trust as a vulnerability and caters to insider-related threats. Zero trust doesn't grant trust to a device based on its location or ownership. 

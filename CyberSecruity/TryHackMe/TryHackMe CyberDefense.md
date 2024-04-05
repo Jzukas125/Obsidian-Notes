@@ -1,4 +1,4 @@
-
+#TryHackMe 
 	Enumerating SMB
 		Enumeration is the process of gathering information on a target in order to find potential attack vectors and aid in exploration. The process is essential for an attack to be successful, as wasting time with exploits that either don't work or can crash the system can be a waste of energy. 
 	SMB
@@ -14,5 +14,3 @@
 		-s get sharelist
 		-p get password policy information
 		-g get group and member list
-
-#TryHackMe

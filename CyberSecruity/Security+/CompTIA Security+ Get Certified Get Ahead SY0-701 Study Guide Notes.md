@@ -1,3 +1,4 @@
+#Securityplus
 These notes follow the CompTIA Security+ Get Certified Get Ahead SY0-701 text book which can be bought at [any online book retailer](https://www.thriftbooks.com/w/comptia-security-get-certified-get-ahead-sy0-701-study-guide_darril-gibson_joe-shelley/51506429/#edition=70312038&idiq=62261995)
 
 This is by no means a copy of the original textbook and all of the copy right goes towards the original book (CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide) and the authors, Darril Gibson and Joe Shelley. These notes are in no means attempting to recreate or copy the works of the author or the textbooks. This was used in tandem with the textbook by me to help organize and understand its  contents.
