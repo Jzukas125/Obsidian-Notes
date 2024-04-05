@@ -187,11 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc1466f2f9d5b6f4",
+  "active": "e9e2845922235335",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
+    "CyberSecruity/TryHackMe/SOC Level 1/CTI",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
     "Personal Notes/Goals.md",
     "CyberSecruity/CCDC/Network Monitoring Tools.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/NetworkMiner.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/NetworkMiner.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Zeek.md",
     "Pasted image 20240403143310.png",
     "Pasted image 20240403143229.png",
@@ -200,8 +203,8 @@
     "Pasted image 20240403113301.png",
     "Personal Notes/How to Impress at a SE internship.md",
     "CyberSecruity/Web Dev/PHP Tutorial.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Threat Intelligence Tools.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Snort.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/CTI/Threat Intelligence Tools.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Snort.md",
     "Pasted image 20240402144702.png",
     "Pasted image 20240401104257.png",
     "README.md",
@@ -227,13 +230,10 @@
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Bug Bounty",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/MITRE.md",
     "Playbooks",
     "CyberSecruity/Hack the Box",
     "CyberSecruity/OSINT",
     "CyberSecruity/Web Dev",
-    "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf",
-    "CybSec Meetings/Spring 2024",
-    "CybSec Meetings/Fall 2023"
+    "David Seidl - CompTIA Security+ Practice Tests_ Exam SY0-701-Sybex (2024).pdf"
   ]
 }
