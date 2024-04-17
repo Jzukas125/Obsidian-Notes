@@ -819,3 +819,6 @@ C. Removing dead code
 D. Stored procedures
 
 Attackers commonly use the code in SQL injection attacks, and stored procedures are an effective method of preventing SQL injection attacks. Normalization techniques organize tables and columns in a database to reduce redundant data but don't block SQL injection attacks. 
+
+# Chapter 8 
+
