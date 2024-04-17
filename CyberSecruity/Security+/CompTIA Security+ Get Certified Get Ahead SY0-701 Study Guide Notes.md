@@ -665,7 +665,7 @@ Chapter 6 Questions
 1. B
 2. B
 3. A (Guess)
-4. A
+4. ~~A~~
 5. B
 6. A
 7. C
@@ -679,4 +679,33 @@ Chapter 6 Questions
 15. C
 
 Chapter 6 Questions Review 
-3.
+3 A is correct 
+Lisa is a database administrator. She received a phone call
+from someone identifying himself as a representative from a
+known hardware vendor. He said he’s calling customers to
+inform them of a problem with database servers they’ve
+sold, but he said the problem only affects servers running a
+specific operating system version. He asks Lisa what
+operating system versions the company is running on their
+database servers. Which of the following BEST describes the
+tactic used by the caller in this scenario?
+A. Pretexting
+B. Tailgating
+C. Pharming
+D. Smishing
+
+Pretexting is setting up a scenario that has a better chance of getting someone to give him information. If he just asked for the operating system versions on the servers without a prepended scenario, his chance of success would be diminished. Tailgating is the practice of one person following closely behind another to manipulate the DNS name resolution process. Smishing is a form of phishing using text messages.
+
+4 B is correct
+Moe is investigating an attack where the attacker seemed to
+have information about a computer user who was not
+available online. After examining the user’s computer, he
+found a small USB device connected between the keyboard
+and computer. What has he most likely discovered?
+A. Skimmer
+B. Keylogger
+C. Wiretap
+D. Buffer overflow
+
+A keylogger is a hardware device or software program that collects user keyboard activity and reports it back to the attacker. The device in this scenario is a key logger. A skimmer is similar but it collects credit card information, not keyboard activity. A wiretap is a connection made to a telephone or data line to collect network traffic. A buffer overflow attack sends unexpected data to a system to access system memory or cause it to crash. 
+
