@@ -756,7 +756,7 @@ Secure cookies have an attribute set that instructs web browsers to only send th
 Chapter 7 Questions 
 1. D
 2. A
-3. A
+3. ~~A~~
 4. D
 5. A
 6. B
@@ -766,4 +766,20 @@ Chapter 7 Questions
 10. C
 11. D
 12. B
-13. 
+13. C
+14. A
+15. C
+
+Chapter 7 Questions Review
+
+3 D is correct
+An administrator regularly connects to a server using SSH
+without any problems. Today, he sees a message similar to
+the following graphic when he connects to the server. Which
+of the following is the MOST likely reason for this message?
+A. Rogue access point
+B. On-path attack
+C. Cross-site scripting
+D. SQL injection
+
+A supply chain assessment evaluates all the elements used to create, sell, and distribute a product. The NIST risk management framework (RMF) provides steps for reducing supply
