@@ -836,4 +836,9 @@ Chapter 8 Questions
 9. B
 10. C
 11. C
-12. 
+12. C
+13. D
+14. D
+15. A
+
+Chapter 8 Questions Review 
