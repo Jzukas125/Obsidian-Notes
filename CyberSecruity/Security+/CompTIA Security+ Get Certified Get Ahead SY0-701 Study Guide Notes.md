@@ -822,3 +822,5 @@ Attackers commonly use the code in SQL injection attacks, and stored procedures 
 
 # Chapter 8 
 
+Credentialed scans run under an account's context and can get more detailed information on targets, such as the software versions of installed applications. They are also more accurate that non-credentialed scans, giving fewer false positives. 
+
