@@ -671,7 +671,7 @@ Chapter 6 Questions
 7. C
 8. ~~B~~
 9. A
-10. D
+10. ~~D~~
 11. C
 12. D
 13. B
@@ -722,4 +722,17 @@ B. Backdoor
 C. Spam
 D. Trojan
 
-A rootkit is typically a hidden processes and it commonly attempts to connect to computers via the Internet. The scenario doesn't address the initial infection. Although an attacker might have used a backdoor to access the user's computer
+A rootkit is typically a hidden processes and it commonly attempts to connect to computers via the Internet. The scenario doesn't address the initial infection. Although an attacker might have used a backdoor to access the user's computer and install the rootkit, backdoors don't run hidden processes. A trojan is malware that looks like it's beneficial, but it is malicious. Spam is unwanted email and is unrelated to this question.
+
+10 B is correct
+You are a security professional for the firm that owns the
+website getcertifiedgetahead.com. You recently learned that
+someone registered the similar domain names
+cetcertifiedgetahead.com, and getcertifiedahead.com. What type
+of attack should you suspect has taken place?
+A. Ransomware
+B. Typosquatting
+C. Rootkit
+D. DNS hijacking
+
+This describes a typosquatting attack where someone buys a domain name that is close to a legitimate domain name, hoping to attract visitors who mistype the orginial domain. 
