@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP Tutorial.md",
+                "file": "CyberSecruity/Web Dev/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP Tutorial.md",
+                "file": "CyberSecruity/Web Dev/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP Tutorial.md",
+                "file": "CyberSecruity/Web Dev/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Web Dev/PHP Tutorial.md"
+                "file": "CyberSecruity/Web Dev/JavaScript.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
+    "CyberSecruity/Web Dev/PHP Tutorial.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Wireshark 1.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security",
@@ -202,7 +203,6 @@
     "CybSec Meetings/Fall 2023/Meeting 5.md",
     "CybSec Meetings/Fall 2023/Meeting 4.md",
     "CybSec Meetings/Fall 2023/Meeting 3.md",
-    "CybSec Meetings/Fall 2023/Meeting 2.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",

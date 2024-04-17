@@ -166,7 +166,7 @@ HTML Page
 
 <div id="demo">
 	<h2> Let AJAX change this text </h2>
-	<button type="button" onclick="loacDoc()">Change Content </button>
+	<button type="button" onclick="loadDoc()">Change Content </button>
 </div>
 
 </body>
