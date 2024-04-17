@@ -825,7 +825,7 @@ Attackers commonly use the code in SQL injection attacks, and stored procedures 
 Credentialed scans run under an account's context and can get more detailed information on targets, such as the software versions of installed applications. They are also more accurate that non-credentialed scans, giving fewer false positives. 
 
 Chapter 8 Questions
-1. A
+1. ~~A~~
 2. B
 3. A
 4. C
@@ -842,3 +842,14 @@ Chapter 8 Questions
 15. A
 
 Chapter 8 Questions Review 
+
+1 B is correct 
+A server within your organization has suffered six hardware
+failures in the past year. IT management personnel have
+valued the server at $4,000, and each failure resulted in a
+10 percent loss. What is the ALE?
+A. $400
+B. $2,400
+C. $4,000
+D. $6,000
+Annual loss expectancy is 2,400
