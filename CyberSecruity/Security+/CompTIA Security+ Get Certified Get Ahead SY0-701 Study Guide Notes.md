@@ -674,4 +674,9 @@ Chapter 6 Questions
 10. D
 11. C
 12. D
-13. 
+13. B
+14. D
+15. C
+
+Chapter 6 Questions Review 
+3.
