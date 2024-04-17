@@ -668,4 +668,10 @@ Chapter 6 Questions
 4. A
 5. B
 6. A
-7. 
+7. C
+8. B
+9. A
+10. D
+11. C
+12. D
+13. 
