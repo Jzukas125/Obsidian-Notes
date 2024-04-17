@@ -833,7 +833,7 @@ Chapter 8 Questions
 6. D
 7. A
 8. D
-9. B
+9. ~~B~~
 10. C
 11. C
 12. C
@@ -889,4 +889,16 @@ B. IP scanner
 C. Passive reconnaissance
 D. Nmap
 
-Nmap is a network scanner, and it can detect the protocols and services running on a server. The dnsenum command will enumerate Domain Name System (DNS) records for domains. An IP scanner detects IPs active on a network but not the services running on the individual hosts. Passive reconnaissance uses open-
+Nmap is a network scanner, and it can detect the protocols and services running on a server. The dnsenum command will enumerate Domain Name System (DNS) records for domains. An IP scanner detects IPs active on a network but not the services running on the individual hosts. Passive reconnaissance uses open-source intelligence instead of active tools. 
+
+9 A is correct
+Lisa periodically runs vulnerability scans on the
+organization’s network. Lately, she has been receiving many
+false positives. Which of the following actions can help
+reduce the false positives?
+A. Run the scans credentialed scans.
+B. Run the scans as non-credentialed scans.
+C. Run the scans using passive reconnaissance.
+D. Run the scans using active reconnaissance.
+
+Running the scans as credentialed scans allows the scan to see more information and typically results in fewer false positives. A false positive indicates the scan reported a vulnerability that doesn't exist. Non-credin
