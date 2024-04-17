@@ -829,7 +829,7 @@ Chapter 8 Questions
 2. ~~B~~
 3. ~~A~~
 4. C
-5. C
+5. ~~C~~
 6. D
 7. A
 8. D
@@ -866,4 +866,27 @@ B. Quantitative risk assessment
 C. Risk register
 D. Residual risk
 
-A risk register lists all known risks for an asset, such as a database server, and it typically includes a risk score. Risk assessments might be use a risk register, but they are not risk registers. Residual risk refers to the remaining risk after applying secuirty cont
+A risk register lists all known risks for an asset, such as a database server, and it typically includes a risk score. Risk assessments might be use a risk register, but they are not risk registers. Residual risk refers to the remaining risk after applying security controls to mitigate a risk. 
+
+3 D is correct 
+Your organization hosts an e-commerce website used to sell
+digital products. You are tasked with evaluating all the
+elements used to support this website. What are you
+performing?
+A. Quantitative assessment
+B. Qualitative assessment
+C. Threat hunting
+D. Supply chain assessment
+
+A supply chain assessment evaluates all the elements used to create, sell, and distribute a product. The NIST RMF provides steps for reducing supply chain risks. Risk assessments evaluate risks, but don't evaluate the supply chain required to support an e-commerce website. Threat hunting is the process of actively looking threats within a network before an automated tool detects and reports on the threat.
+
+5 D is correct
+Maggie suspects that a server may be running unnecessary
+services. Which of the following tools is the BEST choice to
+identify the services running on the server?
+A. DNSEnum
+B. IP scanner
+C. Passive reconnaissance
+D. Nmap
+
+Nmap is a network scanner, and it can detect the protocols and services running on a server. The dnsenum command will enumerate Domain Name System (DNS) records for domains. An IP scanner detects IPs active on a network but not the services running on the individual hosts. Passive reconnaissance uses open-
