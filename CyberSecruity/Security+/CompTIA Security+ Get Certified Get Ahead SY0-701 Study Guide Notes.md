@@ -763,9 +763,9 @@ Chapter 7 Questions
 7. A
 8. A
 9. ~~B~~
-10. C
+10. ~~C~~
 11. D
-12. B
+12. ~~B~~
 13. C
 14. A
 15. C
@@ -806,4 +806,16 @@ B. Incident escalation
 C. Continuous integration and testing
 D. Vendor evaluation
 
-The common use cases for automation and scripting in security operations are user provisioning, resource provisioning, guardrails, security groups, ticket creation, incident escalation, enabling/disabling services and access, continuous integration and testing, and the use of APIs to create integrations. Vendor evaluation is typically a manual process performed by
+The common use cases for automation and scripting in security operations are user provisioning, resource provisioning, guardrails, security groups, ticket creation, incident escalation, enabling/disabling services and access, continuous integration and testing, and the use of APIs to create integrations. Vendor evaluation is typically a manual process performed by human analysts and does not commonly benefit from automation. 
+
+12 D is correct 
+Looking at logs for an online web application, you see that
+someone has entered the following phrase into several
+queries: ' or 1=1;--. Which of the following provides the BEST
+protection against this attack?
+A. Normalization
+B. Proper error handling
+C. Removing dead code
+D. Stored procedures
+
+Attackers commonly use the code in SQL injection attacks, and stored procedures are an effective method of preventing SQL injection attacks. Normalization techniques organize tables and columns in a database to reduce redundant data but don't block SQL injection attacks. 
