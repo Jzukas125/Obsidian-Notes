@@ -866,4 +866,4 @@ B. Quantitative risk assessment
 C. Risk register
 D. Residual risk
 
-A risk register lists all known risks for an asset, such as a database server, and it typically includes a risk score. 
+A risk register lists all known risks for an asset, such as a database server, and it typically includes a risk score. Risk assessments might be use a risk register, but they are not risk registers. Residual risk refers to the remaining risk after applying secuirty cont
