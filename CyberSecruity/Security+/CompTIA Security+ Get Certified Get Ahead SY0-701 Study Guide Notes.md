@@ -735,4 +735,5 @@ B. Typosquatting
 C. Rootkit
 D. DNS hijacking
 
-This describes a typosquatting attack where someone buys a domain name that is close to a legitimate domain name, hoping to attract visitors who mistype the original domain. Ransomware typically encrypts data and the attacker then demands payment as ransom, but there isn't any indication that a ransom is requested in this scenario. A rootkit is a program or group of programs that provide root-level access to a system and hides itself to evade detection. There is no evidence of a rootkit here. Finally, DNS hijacking steals traffic for a legitimate domain name by redirecting DNS records. That is not the 
+This describes a typosquatting attack where someone buys a domain name that is close to a legitimate domain name, hoping to attract visitors who mistype the original domain. Ransomware typically encrypts data and the attacker then demands payment as ransom, but there isn't any indication that a ransom is requested in this scenario. A rootkit is a program or group of programs that provide root-level access to a system and hides itself to evade detection. There is no evidence of a rootkit here. Finally, DNS hijacking steals traffic for a legitimate domain name by redirecting DNS records. That is not the case in the attack, where a different domain was used. 
+
