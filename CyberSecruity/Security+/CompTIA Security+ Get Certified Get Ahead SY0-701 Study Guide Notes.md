@@ -772,7 +772,7 @@ Chapter 7 Questions
 
 Chapter 7 Questions Review
 
-3 D is correct
+3 B is correct
 An administrator regularly connects to a server using SSH
 without any problems. Today, he sees a message similar to
 the following graphic when he connects to the server. Which
@@ -782,4 +782,5 @@ B. On-path attack
 C. Cross-site scripting
 D. SQL injection
 
-A supply chain assessment evaluates all the elements used to create, sell, and distribute a product. The NIST risk management framework (RMF) provides steps for reducing supply
+The message indicates a potential on-path attack. Specifically, it indicates that the key on the host system has changed, which may be due to the administrator connecting to the attacking system instead of their true target system. None of the other answers are related to incorrect cryptographic keys. A rogue access point is an unauthorized wireless access point. XSS and SQL injection attacks are attacks against web applications and there are no web applications in use in this scenario.
+
