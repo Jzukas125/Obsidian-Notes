@@ -669,7 +669,7 @@ Chapter 6 Questions
 5. B
 6. A
 7. C
-8. B
+8. ~~B~~
 9. A
 10. D
 11. C
@@ -709,3 +709,17 @@ D. Buffer overflow
 
 A keylogger is a hardware device or software program that collects user keyboard activity and reports it back to the attacker. The device in this scenario is a key logger. A skimmer is similar but it collects credit card information, not keyboard activity. A wiretap is a connection made to a telephone or data line to collect network traffic. A buffer overflow attack sends unexpected data to a system to access system memory or cause it to crash. 
 
+8 A is correct 
+Homer complained of abnormal activity on his workstation.
+After investigating, an administrator discovered his
+workstation connects to systems outside the organization’s
+internal network using uncommon ports. The administrator
+discovered the workstation is also running several hidden
+processes. Which of the following choices BEST describes
+this activity?
+A. Rootkit
+B. Backdoor
+C. Spam
+D. Trojan
+
+A rootkit is typically a hidden processes and it commonly attempts to connect to computers via the Internet. The scenario doesn't address the initial infection. Although an attacker might have used a backdoor to access the user's computer
