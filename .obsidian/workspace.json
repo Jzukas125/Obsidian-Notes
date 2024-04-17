@@ -11,8 +11,12 @@
             "id": "589378ad90a7fe87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md"
+              }
             }
           },
           {
@@ -168,14 +176,18 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
+    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+    "CyberSecruity/OSINT/OSINT Play Book.md",
+    "CyberSecruity/Hack the Box/Incident Handling.md",
+    "README.md",
+    "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
+    "CyberSecruity/CCDC/Things to study.md",
     "CyberSecruity/CCDC/Apache2.md",
     "CyberSecruity/CCDC/Netstat and Net.md",
     "CyberSecruity/CCDC/Network Monitoring Tools.md",
     "CyberSecruity/CCDC/Nmap.md",
     "CyberSecruity/CCDC/Samba part 2.md",
-    "CyberSecruity/CCDC/Things to study.md",
-    "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
-    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
@@ -191,10 +203,6 @@
     "Classes/Finals Spring 2023/Networks Class/CH5.md",
     "Classes/Finals Spring 2023/Networks Class/CH2.md",
     "Classes/Finals Spring 2023/Statistics.md",
-    "Classes/Finals Spring 2023/Algorithms.md",
-    "Personal Notes/Ideas.md",
-    "Personal Notes/How to Impress at a SE internship.md",
-    "Personal Notes/Goals.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
