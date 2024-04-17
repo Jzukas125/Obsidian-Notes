@@ -833,4 +833,7 @@ Chapter 8 Questions
 6. D
 7. A
 8. D
-9. 
+9. B
+10. C
+11. C
+12. 
