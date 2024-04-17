@@ -759,4 +759,5 @@ Chapter 7 Questions
 3. A
 4. D
 5. A
-6. 
+6. B
+7. 
