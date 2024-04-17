@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md",
+                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md",
+                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md",
+                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Web Dev/JavaScript.md"
+                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
               }
             }
           },
@@ -176,6 +176,10 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
+    "CyberSecruity/Security+/General Security Plus Studying and resources.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
+    "CyberSecruity/Web Dev/JavaScript.md",
     "CyberSecruity/Web Dev/PHP Tutorial.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Wireshark 1.md",
@@ -199,10 +203,6 @@
     "Personal Notes/How to Impress at a SE internship.md",
     "Personal Notes/Goals.md",
     "CybSec Meetings/Fall 2023/Meeting 7.md",
-    "CybSec Meetings/Fall 2023/Meeting 6.md",
-    "CybSec Meetings/Fall 2023/Meeting 5.md",
-    "CybSec Meetings/Fall 2023/Meeting 4.md",
-    "CybSec Meetings/Fall 2023/Meeting 3.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
