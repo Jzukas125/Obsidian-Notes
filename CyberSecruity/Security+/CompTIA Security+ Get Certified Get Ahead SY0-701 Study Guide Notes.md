@@ -660,3 +660,12 @@ A worm is self replicating that travels through networks without user interventi
 A logic bomb executes in response to an event, such as a day, time, or condition. Logic bombs can deliver payloads after the employee has left the company. 
 
 Shoulder surfing is an attempt to gain unauthorized information through casual observation, such as looking over someone's shoulder (side-eye). 
+
+Chapter 6 Questions 
+1. B
+2. B
+3. A (Guess)
+4. A
+5. B
+6. A
+7. 
