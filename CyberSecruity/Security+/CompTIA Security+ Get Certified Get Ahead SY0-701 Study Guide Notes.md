@@ -826,8 +826,8 @@ Credentialed scans run under an account's context and can get more detailed info
 
 Chapter 8 Questions
 1. ~~A~~
-2. B
-3. A
+2. ~~B~~
+3. ~~A~~
 4. C
 5. C
 6. D
@@ -852,4 +852,18 @@ A. $400
 B. $2,400
 C. $4,000
 D. $6,000
-Annual loss expectancy is 2,400
+
+Annual loss expectancy (ALE) is 2,400. It is calculated as single loss expectancy (SLE) x annual rate of occurence (ARO). Each failure has resulted in a 10 percent loss. The SLE is 10 percent of $4,000 ($400), and the ARO is 6.6 x $400 is $2400.
+
+2 C is correct 
+Maggie is performing a risk assessment on a database
+server. While doing so, she created a document showing all
+the known risks to this server, along with the risk score for
+each risk. Which of the following BEST identifies the name
+of this document?
+A. Qualitative risk assessment
+B. Quantitative risk assessment
+C. Risk register
+D. Residual risk
+
+A risk register lists all known risks for an asset, such as a database server, and it typically includes a risk score. 
