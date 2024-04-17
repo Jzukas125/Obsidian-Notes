@@ -655,5 +655,8 @@ Shadow IT refers to unauthorized systems or applications used in an organization
 
 All threat actors motivations vary and common attacks include data exfiltration, revenge, monetary gain, war, activism and so on
 
+A worm is self replicating that travels through networks without user intervention. 
 
+A logic bomb executes in response to an event, such as a day, time, or condition. Logic bombs can deliver payloads after the employee has left the company. 
 
+Shoulder surfing is an attempt to gain unauthorized information through casual observation, such as looking over someone's shoulder (side-eye). 
