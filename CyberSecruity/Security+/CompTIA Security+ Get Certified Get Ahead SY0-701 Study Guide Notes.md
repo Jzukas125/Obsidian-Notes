@@ -751,4 +751,7 @@ SSL striping converts HTTPS to HTTP
 
 Pharming attack attempts to manipulate the DNS name resolution process by storing incorrect DNS records on a client system.
 
-Secure cookies have an attribute 
+Secure cookies have an attribute set that instructs web browsers to only send them over encrypted connections, protecting from the from eavesdropping attacks.
+
+Chapter 7 Questions 
+1. 
