@@ -762,7 +762,7 @@ Chapter 7 Questions
 6. B
 7. A
 8. A
-9. B
+9. ~~B~~
 10. C
 11. D
 12. B
@@ -784,3 +784,26 @@ D. SQL injection
 
 The message indicates a potential on-path attack. Specifically, it indicates that the key on the host system has changed, which may be due to the administrator connecting to the attacking system instead of their true target system. None of the other answers are related to incorrect cryptographic keys. A rogue access point is an unauthorized wireless access point. XSS and SQL injection attacks are attacks against web applications and there are no web applications in use in this scenario.
 
+9 D is correct
+Your organization is preparing to deploy a web-based
+application, which will accept user input. Which of the
+following will BEST test the reliability of this application to
+maintain availability and data integrity?
+A. Static code analysis
+B. Input validation
+C. Error handling
+D. Dynamic code analysis
+
+Dynamic code analysis techniques test an application during its execution and are the best choice of the available answers to verify the application can maintain availability and data integrity. Static code analysis is done without executing any code, and it won't test its reliability. Input validation is the practice of checking data for validity before using it, but this is done within the application, not as a method to test the application. Error-handling techniques are also done within the application. 
+
+10 D is correct
+You are looking for examples of use cases where
+automation can improve the efficiency of your security
+operations. Which one of the following is NOT a common
+automation use case?
+A. Ticket creation
+B. Incident escalation
+C. Continuous integration and testing
+D. Vendor evaluation
+
+The common use cases for automation and scripting in security operations are user provisioning, resource provisioning, guardrails, security groups, ticket creation, incident escalation, enabling/disabling services and access, continuous integration and testing, and the use of APIs to create integrations. Vendor evaluation is typically a manual process performed by
