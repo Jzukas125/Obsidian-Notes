@@ -742,3 +742,13 @@ This describes a typosquatting attack where someone buys a domain name that is c
 DDos attacks are Dos attacks from multiple computers. 
 
 Variants of DDos attacks include reflected attacks, which involve using third-party servers to redirect traffic to the target, and amplified attacks, which combine reflection techniques with amplification to generate an even greater volume of traffic directed at the target.
+
+On-path attacks are a form of interception or active eavesdropping. 
+
+Sophisticated on-path attacks establish secure channels and users may see certificate warnings indicating an on-path attack. SSH will detect a MITM attack
+
+SSL striping converts HTTPS to HTTP
+
+Pharming attack attempts to manipulate the DNS name resolution process by storing incorrect DNS records on a client system.
+
+Secure cookies have an attribute 
