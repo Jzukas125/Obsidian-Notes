@@ -826,4 +826,8 @@ Credentialed scans run under an account's context and can get more detailed info
 
 Chapter 8 Questions
 1. A
-2. 
+2. B
+3. A
+4. C
+5. C
+6. 
