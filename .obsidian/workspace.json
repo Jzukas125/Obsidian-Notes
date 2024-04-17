@@ -11,12 +11,8 @@
             "id": "589378ad90a7fe87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,6 +168,14 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
+    "CyberSecruity/CCDC/Apache2.md",
+    "CyberSecruity/CCDC/Netstat and Net.md",
+    "CyberSecruity/CCDC/Network Monitoring Tools.md",
+    "CyberSecruity/CCDC/Nmap.md",
+    "CyberSecruity/CCDC/Samba part 2.md",
+    "CyberSecruity/CCDC/Things to study.md",
+    "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
+    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 4.md",
@@ -185,13 +185,6 @@
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Wireshark 1.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security",
     "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/DNS in detail.md",
-    "CyberSecruity/CCDC/Apache2.md",
-    "CyberSecruity/CCDC/Netstat and Net.md",
-    "CyberSecruity/CCDC/Network Monitoring Tools.md",
-    "CyberSecruity/CCDC/Nmap.md",
-    "CyberSecruity/CCDC/Samba part 2.md",
-    "CyberSecruity/CCDC/Things to study.md",
-    "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
     "Classes/Finals Spring 2023/Networks Class/Network Layer (Ch4).md",
     "Classes/Finals Spring 2023/Networks Class/Exam 1.md",
     "Classes/Finals Spring 2023/Networks Class/Ch3 - Link Layer - Data link.md",
@@ -202,7 +195,6 @@
     "Personal Notes/Ideas.md",
     "Personal Notes/How to Impress at a SE internship.md",
     "Personal Notes/Goals.md",
-    "CybSec Meetings/Fall 2023/Meeting 7.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
