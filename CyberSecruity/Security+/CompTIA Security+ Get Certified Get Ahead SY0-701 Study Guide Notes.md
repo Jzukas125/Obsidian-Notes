@@ -837,7 +837,7 @@ Chapter 8 Questions
 10. C
 11. ~~C~~
 12. C
-13. D
+13. ~~D~~
 14. D
 15. A
 
@@ -918,3 +918,15 @@ C. Scans weren’t done as credentialed scans.
 D. Rules of engagement weren’t obtained.
 
 Bart should have gotten authorization before doing any scans, and the authorization should outline the rules of engagement. Pivoting refers to an attacker accessing other systems in network through a single compromised system. While Bart is a database administrator and doing vulnerability scans is outside his normal job functions, his actions wouldn't be described as pivoting. 
+
+13 A is correct
+You are reviewing the results of a vulnerability scan and are
+having a hard time determining which vulnerabilities to
+address first. What standard tool could help you identify the
+most severe vulnerabilities?
+A. CVSS
+B. CVE
+C. SCAP
+D. MITRE
+
+The common vulnerability scoring system (CVSS) assesses vulnerabilities and assigns severity score
