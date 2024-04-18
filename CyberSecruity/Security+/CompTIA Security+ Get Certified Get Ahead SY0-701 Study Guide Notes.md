@@ -904,3 +904,17 @@ D. Run the scans using active reconnaissance.
 Running the scans as credentialed scans allows the scan to see more information and typically results in fewer false positives. A false positive indicates the scan reported a vulnerability that doesn't exist. Non-credentialed scans run without any user credentials and can be less accurate. Choosing either passive or active scans won't reduce false positives.
 
 11 D is correct 
+Bart, a database administrator in your organization, told you
+about recent attacks on the network and how they have
+been disrupting services and network connectivity. In
+response, he said he has been investigating on his own
+using Nmap to run vulnerability scans and identify
+vulnerabilities. Which of the following is wrong with this
+scenario?
+A. The database administrator was pivoting from his
+primary job.
+B. A network scan wasn’t done first.
+C. Scans weren’t done as credentialed scans.
+D. Rules of engagement weren’t obtained.
+
+Bart should have gotten authorization before doing any scans, and the authorization should outline the rules of engagement. Pivoting refers to an attacker accessing other systems in network through a single compromised system. While Bart is a database administrator and doing vulnerability scans is outside his normal job functions, his actions wouldn't be described as pivoting. 
