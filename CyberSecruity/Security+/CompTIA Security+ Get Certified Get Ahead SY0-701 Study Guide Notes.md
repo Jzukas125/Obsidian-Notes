@@ -838,7 +838,7 @@ Chapter 8 Questions
 11. ~~C~~
 12. C
 13. ~~D~~
-14. D
+14. ~~D~~
 15. A
 
 Chapter 8 Questions Review 
@@ -930,3 +930,4 @@ C. SCAP
 D. MITRE
 
 The common vulnerability scoring system (CVSS) assesses vulnerabilities and assigns severity scores in a range of 0 to 10, with 10 being the most severe. The MITRE corporation maintains the CVE list, which is a dictionary of publicly known security vulnerabilities. The Security Content Automation Protocol is designed to help facilitate communication between vulnerability scanners and other security and management tools.
+
