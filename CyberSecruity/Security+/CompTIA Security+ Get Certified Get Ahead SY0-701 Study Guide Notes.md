@@ -931,3 +931,14 @@ D. MITRE
 
 The common vulnerability scoring system (CVSS) assesses vulnerabilities and assigns severity scores in a range of 0 to 10, with 10 being the most severe. The MITRE corporation maintains the CVE list, which is a dictionary of publicly known security vulnerabilities. The Security Content Automation Protocol is designed to help facilitate communication between vulnerability scanners and other security and management tools.
 
+14 B is correct
+Your organization is setting up an e-commerce site to sell
+products online. Management wants to ensure the website
+can accept credit cards for payment. Which of the following
+standards are they MOST likely to follow?
+A. ISO 27001
+B. PCI DSS
+C. ISO 31000
+D. SSAE SOC 2 Type I
+
+When using credit cards, a company would comply with the Payment Card Industry Data Security Standard (PCI DSS). International organization for standardization (ISO) 27001 provides information on information security management systems (ISMS) requirements. ISO 31000 is a family of standards related to risk management. A statement on standards related to risk management. A statement on standards for attestation engagements system and organization's systems and covers the design effectiveness of security controls on a specific date. 
