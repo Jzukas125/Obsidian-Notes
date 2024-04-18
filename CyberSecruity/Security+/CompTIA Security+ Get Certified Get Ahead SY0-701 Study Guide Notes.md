@@ -942,3 +942,6 @@ C. ISO 31000
 D. SSAE SOC 2 Type I
 
 When using credit cards, a company would comply with the Payment Card Industry Data Security Standard (PCI DSS). International organization for standardization (ISO) 27001 provides information on information security management systems (ISMS) requirements. ISO 31000 is a family of standards related to risk management. A statement on standards related to risk management. A statement on standards for attestation engagements system and organization's systems and covers the design effectiveness of security controls on a specific date. 
+
+# Chapter 9 
+
