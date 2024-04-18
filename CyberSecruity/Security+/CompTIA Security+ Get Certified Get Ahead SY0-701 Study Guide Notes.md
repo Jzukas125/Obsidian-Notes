@@ -835,7 +835,7 @@ Chapter 8 Questions
 8. D
 9. ~~B~~
 10. C
-11. C
+11. ~~C~~
 12. C
 13. D
 14. D
@@ -901,4 +901,6 @@ B. Run the scans as non-credentialed scans.
 C. Run the scans using passive reconnaissance.
 D. Run the scans using active reconnaissance.
 
-Running the scans as credentialed scans allows the scan to see more information and typically results in fewer false positives. A false positive indicates the scan reported a vulnerability that doesn't exist. Non-credin
+Running the scans as credentialed scans allows the scan to see more information and typically results in fewer false positives. A false positive indicates the scan reported a vulnerability that doesn't exist. Non-credentialed scans run without any user credentials and can be less accurate. Choosing either passive or active scans won't reduce false positives.
+
+11 D is correct 
