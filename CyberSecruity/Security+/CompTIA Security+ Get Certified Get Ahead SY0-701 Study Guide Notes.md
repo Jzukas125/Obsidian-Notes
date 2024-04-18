@@ -945,3 +945,4 @@ When using credit cards, a company would comply with the Payment Card Industry D
 
 # Chapter 9 
 
+RAID dis subsystems provide fault tolerance and increase availability. 
