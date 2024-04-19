@@ -976,4 +976,6 @@ Chapter 9 Questions
 10. B
 11. B
 12. A
-13. 
+13. A (had to look up)
+14. B
+15. A
