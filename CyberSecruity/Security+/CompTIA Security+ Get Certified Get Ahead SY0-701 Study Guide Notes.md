@@ -998,4 +998,15 @@ C. CCTV
 D. Bollards
 E. Compensating control
 
-CCTV can monitor the entrance and record who enters and exits the area. Access list is useful if a guard can identify users and allows access based on the access list itself
+CCTV can monitor the entrance and record who enters and exits the area. Access list is useful if a guard can identify users and allows access based on the access list itself.
+
+3 B is correct
+Which one of the following backup types backs up all of the
+data that has changed since the last full backup, and only
+the data that has changed since the last full backup?
+A. Full backup
+B. Differential backup
+C. Snapshot backup
+D. Incremental backup
+
+A differential backup backs up all of the data that has changed since the last full backup. An incremental backup chang
