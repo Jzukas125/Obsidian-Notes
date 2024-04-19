@@ -971,4 +971,5 @@ Chapter 9 Questions
 5. C (guess)
 6. C
 7. D
-8. 
+8. D
+9. 
