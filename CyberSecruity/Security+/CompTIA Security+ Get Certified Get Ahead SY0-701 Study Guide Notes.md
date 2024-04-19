@@ -945,7 +945,7 @@ When using credit cards, a company would comply with the Payment Card Industry D
 
 # Chapter 9 
 
-RAID dis subsystems provide fault tolerance and increase availability. 
+RAIDUS subsystems provide fault tolerance and increase availability. 
 
 Load balancers spread the processing load between servers
 
@@ -954,3 +954,11 @@ Business impact analysis (BIA) is part of a business continuity plan (BCP)
 Recovery time objective (RTO) identifies the max amount of time it takes to restore a system
 
 Mean time between failures (MTBF) identifies the average time between failures
+
+A hot site includes everything needed to be operational within 60 minutes and is the most effective recovery solution but it is also the most expensive. 
+
+A cold site has power and connectivity requirements and little else and is the least expensive to maintain. 
+
+Warm sites are a compromise between hot sites and cold sites
+
+DRP is disaster recovery plan
