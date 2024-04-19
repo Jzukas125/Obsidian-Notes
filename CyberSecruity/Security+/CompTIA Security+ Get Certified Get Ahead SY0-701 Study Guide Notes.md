@@ -972,4 +972,8 @@ Chapter 9 Questions
 6. C
 7. D
 8. D
-9. 
+9. D
+10. B
+11. B
+12. A
+13. 
