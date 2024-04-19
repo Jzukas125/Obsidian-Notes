@@ -1046,4 +1046,4 @@ B. Monday’s incremental backup
 C. Tuesday’s incremental backup
 D. Wednesday’s incremental backup
 
-Because you are performing full and incremental backups, you will need
+Because you are performing full and incremental backups, you will need to restore all of these backups. 
