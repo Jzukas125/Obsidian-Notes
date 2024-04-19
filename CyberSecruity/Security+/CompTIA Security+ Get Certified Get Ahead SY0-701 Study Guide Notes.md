@@ -1070,3 +1070,4 @@ B. Critical systems
 C. Mission-essential functions
 D. MTBF
 
+The security consultant is identifying mission-essential functions, which is a key part of a business impact analysis (BIA). A single point of failure is a component within a system that can cause the entire system to fail if the component fails. It's common to eliminate single points of failure of critical systems, but not all single points of failure are supporting mission-essential functions.
