@@ -1046,4 +1046,27 @@ B. Monday’s incremental backup
 C. Tuesday’s incremental backup
 D. Wednesday’s incremental backup
 
-Because you are performing full and incremental backups, you will need to restore all of these backups. When restoring incremental backups, you always begin by restoring the most recent full backup. In this case, that would be Sunday's backup. You then continue by restoring each of the incremental backups that occurred since
+Because you are performing full and incremental backups, you will need to restore all of these backups. When restoring incremental backups, you always begin by restoring the most recent full backup. In this case, that would be Sunday's backup. You then continue by restoring each of the incremental backups that occurred since that backup, in order from oldest to newest. So you would first restore Sunday's full backup, followed by Monday's incremental backup, Tuesday's incremental backup and, finally, Wednesday's incremental backup.
+
+7 C is correct
+You are concerned about the potential loss of backup tapes
+while they are in transit to a remote site by a secured
+courier. What control can help you protect against the
+unauthorized disclosure of confidential information?
+A. Maintaining a second set of backup tapes
+B. Adding a second courier
+C. Encryption
+D. All of the above
+
+Encryption protects against the loss of sensitive information. Your goal is to do so here. Adding a second set of tapes or a second courier might reduce the risk of permanently losing the data but those options would not protect against the disclosure of the sensitive information lost on the first set of tables.
+
+12 C is correct 
+Your organization hired a security consultant to create a
+BIA. She is trying to identify processes that can potentially
+cause losses in revenue if they stop functioning. Which of
+the following BEST describes what she is identifying?
+A. Single points of failure
+B. Critical systems
+C. Mission-essential functions
+D. MTBF
+
