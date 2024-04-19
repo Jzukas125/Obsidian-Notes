@@ -948,3 +948,9 @@ When using credit cards, a company would comply with the Payment Card Industry D
 RAID dis subsystems provide fault tolerance and increase availability. 
 
 Load balancers spread the processing load between servers
+
+Business impact analysis (BIA) is part of a business continuity plan (BCP)
+
+Recovery time objective (RTO) identifies the max amount of time it takes to restore a system
+
+Mean time between failures (MTBF) identifies the average time between failures
