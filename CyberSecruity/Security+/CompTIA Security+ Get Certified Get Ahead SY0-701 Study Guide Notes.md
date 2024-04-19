@@ -964,18 +964,38 @@ Warm sites are a compromise between hot sites and cold sites
 DRP is disaster recovery plan
 
 Chapter 9 Questions
-1. B
+1. ~~B~~
 2. C
-3. C
-4. A, B, C
-5. C (guess)
-6. C
-7. D
+3. ~~C~~
+4. A, ~~B~~, C
+5. ~~C (guess)~~
+6. ~~C~~
+7. ~~D~~
 8. D
 9. D
 10. B
 11. B
-12. A
-13. A (had to look up)
-14. B
-15. A
+12. ~~A~~
+13. ~~A (had to look up)~~
+14. ~~B~~
+15. ~~A~~
+
+5/15 correct
+
+1 C is correct
+ Employees access the data center by entering a cipher code
+at the door. However, everyone uses the same code, so it
+does not identify individuals. After a recent security incident,
+management has decided to implement a key card system
+that will identify individuals who enter and exit this secure
+area. However, the installation might take six months or
+longer. Which of the following choices can the organization
+install immediately to identify individuals who enter or exit
+the secure area?
+A. Access control vestibule
+B. Access list
+C. CCTV
+D. Bollards
+E. Compensating control
+
+CCTV can monitor the entrance and record who enters and exits the area. Access list is useful if a guard can identify users and allows access based on the access list itself
