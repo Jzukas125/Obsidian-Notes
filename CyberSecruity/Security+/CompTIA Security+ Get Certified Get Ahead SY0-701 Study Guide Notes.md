@@ -1046,4 +1046,4 @@ B. Monday’s incremental backup
 C. Tuesday’s incremental backup
 D. Wednesday’s incremental backup
 
-Because you are performing full and incremental backups, you will need to restore all of these backups. 
+Because you are performing full and incremental backups, you will need to restore all of these backups. When restoring incremental backups, you always begin by restoring the most recent full backup. In this case, that would be Sunday's backup. You then continue by restoring each of the incremental backups that occurred since
