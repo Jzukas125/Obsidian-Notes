@@ -1010,3 +1010,27 @@ C. Snapshot backup
 D. Incremental backup
 
 A differential backup backs up all of the data that has changed since the last full backup. An incremental backup backs up all of the data that has changed since the last full backup. An incremental backup backs up all of the data that has changed since the last full or incremental backup. A snapshot backup copies all data on the volume being snapshotted. A full backup backs up all data, regardless of what other backups have been performed. 
+
+4 A,C,D 
+You need to secure access to a data center. Which of the
+following choices provides the BEST physical security to
+meet this need? (Select THREE.)
+A. Biometrics
+B. Cable locks
+C. Access control vestibule
+D. CCTV
+E. HVAC
+
+A biometric reader used for access control, an access control vestibule, and a CCTV system all provide strong physical security for accessing a data center. Cable locks are effective theft deterrents for mobile devices such as laptops, but they don't protect data centers. Heating, ventilation, and air conditioning (HVAC) systems can control the data center's environment, but they don't secure access.
+
+5 D is correct
+You need to add disk redundancy for a critical server in your
+organization’s screened subnet. Management wants to
+ensure it supports a two-drive failure. Which of the
+following is the BEST solution for this requirement?
+A. RAID-0
+B. RAID-1
+C. RAID-5
+D. RAID-6
+
+A redundant array of inexpensive disks 9 is the best solution of the available answers. It supports a two-drive failure meaning that two drives can fail in the RAID-6, and the disk subsyste
