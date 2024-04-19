@@ -945,7 +945,7 @@ When using credit cards, a company would comply with the Payment Card Industry D
 
 # Chapter 9 
 
-RAIDUS subsystems provide fault tolerance and increase availability. 
+RAIDIUS subsystems provide fault tolerance and increase availability. 
 
 Load balancers spread the processing load between servers
 
@@ -962,3 +962,8 @@ A cold site has power and connectivity requirements and little else and is the l
 Warm sites are a compromise between hot sites and cold sites
 
 DRP is disaster recovery plan
+
+Chapter 9 Questions
+1. B
+2. C
+3. 
