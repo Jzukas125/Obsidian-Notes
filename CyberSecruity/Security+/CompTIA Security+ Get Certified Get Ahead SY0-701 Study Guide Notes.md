@@ -966,4 +966,7 @@ DRP is disaster recovery plan
 Chapter 9 Questions
 1. B
 2. C
-3. 
+3. C
+4. A, B, C
+5. C (guess)
+6. 
