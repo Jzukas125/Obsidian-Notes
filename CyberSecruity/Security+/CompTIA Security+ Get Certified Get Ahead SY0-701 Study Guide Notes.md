@@ -1009,4 +1009,4 @@ B. Differential backup
 C. Snapshot backup
 D. Incremental backup
 
-A differential backup backs up all of the data that has changed since the last full backup. An incremental backup chang
+A differential backup backs up all of the data that has changed since the last full backup. An incremental backup backs up all of the data that has changed since the last full backup. An incremental backup backs up all of the data that has changed since the last full or incremental backup. A snapshot backup copies all data on the volume being snapshotted. A full backup backs up all data, regardless of what other backups have been performed. 
