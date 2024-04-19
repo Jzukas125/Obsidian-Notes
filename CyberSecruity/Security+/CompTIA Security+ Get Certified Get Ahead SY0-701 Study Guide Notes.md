@@ -969,4 +969,6 @@ Chapter 9 Questions
 3. C
 4. A, B, C
 5. C (guess)
-6. 
+6. C
+7. D
+8. 
