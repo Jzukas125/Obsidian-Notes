@@ -1033,4 +1033,17 @@ B. RAID-1
 C. RAID-5
 D. RAID-6
 
-A redundant array of inexpensive disks 9 is the best solution of the available answers. It supports a two-drive failure meaning that two drives can fail in the RAID-6, and the disk subsyste
+A redundant array of inexpensive disks 9 is the best solution of the available answers. It supports a two-drive failure meaning that two drives can fail in the RAID-6, and the disk subsystem will continue to operate. RAID-0 doesn't have any fault tolerance and will fail completely if a single drive fails. Raid-1 only uses two drives. All data is lost if both drives. RAID-5 will continue to operate if one drive fails, but all data is lost if two drives fail.
+
+6 A is correct 
+Your organization performs a series of full and incremental
+backups. You perform full backups every Sunday evening
+and then supplement those with incremental backups on
+every evening other than Sunday. Your system fails on a
+Thursday morning. What backup should you restore first?
+A. Sunday’s full backup
+B. Monday’s incremental backup
+C. Tuesday’s incremental backup
+D. Wednesday’s incremental backup
+
+Because you are performing full and incremental backups, you will need
