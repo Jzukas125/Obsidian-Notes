@@ -1071,3 +1071,17 @@ C. Mission-essential functions
 D. MTBF
 
 The security consultant is identifying mission-essential functions, which is a key part of a business impact analysis (BIA). A single point of failure is a component within a system that can cause the entire system to fail if the component fails. It's common to eliminate single points of failure of critical systems, but not all single points of failure are supporting mission-essential functions. Critical systems support mission-essential functions. Critical systems points of failure have been eliminated, a critical system can fail but the mission-essential function will continue to operate.
+
+13 B is correct
+After a recent attack causing a data breach, an executive is
+analyzing the financial losses. She determined that the
+attack is likely to result in losses of at least $1 million. She
+wants to ensure that this information is documented for
+future planning purposes. Which of the following documents
+is she MOST likely to use?
+A. DRP
+B. BIA
+C. MTTR
+D. RTO
+
+A BIA includes info on potential losses and is the most likely docment of those listed where this loss would be documentated. A disacter 
