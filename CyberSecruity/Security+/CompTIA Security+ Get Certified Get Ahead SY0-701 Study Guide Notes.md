@@ -1100,4 +1100,20 @@ C. MTBF
 D. RTO
 E. DRP
 
-The recovery time objective (RTO) identifies the maximum amount of time it can take to restore a system after an outage. Because the business impact analysis states that the website can only tolerate three hours of downtime, this also identifies the RTO. The recovery point objective (RPO) identifies a point in time where data loss is acceptable, but it doesn't refer to downtime. The mean time to repair (MTTR) metric identifies the average time it takes to restore a failed system, but 
+The recovery time objective (RTO) identifies the maximum amount of time it can take to restore a system after an outage. Because the business impact analysis states that the website can only tolerate three hours of downtime, this also identifies the RTO. The recovery point objective (RPO) identifies a point in time where data loss is acceptable, but it doesn't refer to downtime. The mean time to repair (MTTR) metric identifies the average time it takes to restore a failed system, but not a maximum amount of time a system can be down. The mean time between failures (MTBF) metric provides a measure of a system's reliability and is usually represented in hours. A disaster recovery plan (DRP) details the recovery steps to take after different types of disasters.
+
+15 B is correct
+Lisa has scheduled quarterly meetings with department
+leaders to discuss how they would respond to various
+scenarios such as natural disasters or cyberattacks. During
+the meetings, she presents a scenario and asks attendees
+to indicate their responses. Also, during the meetings, she
+injects variations on the scenario similar to what may
+happen during a live event and encourages attendees to
+discuss their responses. What does this describe?
+A. Simulation
+B. Tabletop exercise
+C. Incident response
+D. Testing site resiliency
+
+This is a tabletop exercise. A tabletop exercise is discussion-based, a
