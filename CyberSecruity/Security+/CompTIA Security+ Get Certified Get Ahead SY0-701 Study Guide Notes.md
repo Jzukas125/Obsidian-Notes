@@ -1084,4 +1084,20 @@ B. BIA
 C. MTTR
 D. RTO
 
-A BIA includes info on potential losses and is the most likely document of those listed where this loss would be documented. A disaster 
+A BIA includes info on potential losses and is the most likely document of those listed where this loss would be documented. A disaster recovery plan includes methods used to recover from an outage.
+
+14 D is correct 
+A project manager is reviewing a business impact analysis.
+It indicates that a key website can tolerate a maximum of
+three hours of downtime. Administrators have identified
+several systems that require redundancy additions to meet
+this maximum downtime requirement. Of the following
+choices, what term refers to the maximum of three hours of
+downtime?
+A. RPO
+B. MTTR
+C. MTBF
+D. RTO
+E. DRP
+
+The recovery time objective (RTO) identifies the maximum amount of time it can take to restore a system after an outage. Because the business impact analysis states that the website can only tolerate three hours of downtime, this also identifies the RTO. The recovery point objective (RPO) identifies a point in time where data loss is acceptable, but it doesn't refer to downtime. The mean time to repair (MTTR) metric identifies the average time it takes to restore a failed system, but 
