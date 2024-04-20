@@ -1084,4 +1084,4 @@ B. BIA
 C. MTTR
 D. RTO
 
-A BIA includes info on potential losses and is the most likely docment of those listed where this loss would be documentated. A disacter 
+A BIA includes info on potential losses and is the most likely document of those listed where this loss would be documented. A disaster 
