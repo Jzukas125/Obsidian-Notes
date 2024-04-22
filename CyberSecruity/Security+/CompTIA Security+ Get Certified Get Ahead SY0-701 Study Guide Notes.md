@@ -1117,3 +1117,6 @@ C. Incident response
 D. Testing site resiliency
 
 This is a tabletop exercise. A tabletop exercise is discussion-based, and participants discuss their responses to various scenarios. A simulation is a hands-on exercise, not a meeting. 
+
+# Chapter 10 
+
