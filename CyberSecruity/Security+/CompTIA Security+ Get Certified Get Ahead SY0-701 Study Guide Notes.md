@@ -1122,4 +1122,14 @@ This is a tabletop exercise. A tabletop exercise is discussion-based, and partic
 
 Hashing retains integrity 
 
-Spraying attack attempts to by pass cccount lockout policies. 
+Spraying attack attempts to by pass account lockout policies. An automated program starts with a large list of targeted user accounts.
+
+Pass the hash attack can allow attackers to log in using the hash of the password without knowing the password
+
+Block ciphers encrypt data in fixed-size blocks. Advanced Encryption Standard (AES) encrypts data in 128-bit blocks and 3DES encrypts data in 64-bit blocks
+
+Stream ciphers encrypt data 1 bit or 1 byte at a time
+
+PKI is public key infrastructure 
+
+CRL is certificate revocat
