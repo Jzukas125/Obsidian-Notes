@@ -1122,3 +1122,4 @@ This is a tabletop exercise. A tabletop exercise is discussion-based, and partic
 
 Hashing retains integrity 
 
+Spraying attack attempts to by pass cccount lockout policies. 
