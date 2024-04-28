@@ -1120,3 +1120,5 @@ This is a tabletop exercise. A tabletop exercise is discussion-based, and partic
 
 # Chapter 10 
 
+Hashing retains integrity 
+
