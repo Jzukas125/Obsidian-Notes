@@ -1147,4 +1147,5 @@ Chapter 10 Questions
 10. B
 11. B
 12. A
-13. 
+13. D
+14. B
