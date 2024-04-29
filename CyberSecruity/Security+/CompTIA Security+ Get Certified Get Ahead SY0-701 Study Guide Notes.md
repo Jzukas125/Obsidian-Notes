@@ -1215,3 +1215,15 @@ C. RA
 D. OCSP
 
 The Online Certificate Status Protocol (OCSP) provides real-time responses to validate certificates issued by a certificate authority (CA). A certificate revocation list (CRL) includes a list of revoked certificates, but it is only downloaded once a week, it can quickly be out of data. None of the other answers validates certificates. In the context of certificates, a subject alternative name (SAN) certificate is used for multiple domains that have different names but are owned by the same organization. A certificate signing request (CSR) is used to request a certificate. A registration authority (RA) accepts CSRs for a CA.
+
+10 C is correct.
+An organization hosts several web servers in a web farm
+used for e-commerce. Due to recent attacks, management
+is concerned that attackers might try to redirect website
+traffic, allowing the attackers to impersonate their ecommerce site. Which of the following methods will address
+this issue?
+A. Stapling
+A. Perfect forward secrecy
+A. Pinning
+A. Key stretching
+
