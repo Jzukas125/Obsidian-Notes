@@ -1189,3 +1189,14 @@ D. OCSP
 You would request a certificate by creating a certificate signing request (CSR). It uses a specific format to request a certificate. You submit the CSR to a certificate authority (CA), but the request needs to be in the CSR format. A certificate revocation list (CRL) is a lost of revoked certificates. The Online Certificate Status Protocol (OCSP) is an alternate method of validating certificates and indicates if a certificate is good, revoked, or unknown.
 
 8 B is correct
+ Users within an organization frequently access public web
+servers using HTTPS. Management wants to ensure that
+users can verify that certificates are valid even if the public
+CAs are temporarily unavailable. Which of the following
+should be implemented to meet this need?
+A. OCSP
+B. CRL
+C. Private CA
+D. CSR
+
+A certificate revocation list (CRL) can meet this need because CRLs are not cached. If the public certificate authority (CA) is not reachable due to any type of connection outage or CA outage, the cached CRL can be used if the cache time has not expired. The online certificate status protocol works in real-time where the client queries the CA
