@@ -1136,7 +1136,7 @@ CRL is certificate revocation list
 
 Chapter 10 Questions
 1. B
-2. D
+2. ~~D~~
 3. D
 4. B
 5. A
@@ -1151,3 +1151,13 @@ Chapter 10 Questions
 14. B
 15. D
 
+2 A is correct
+Users in your organization sign their emails with digital
+signatures. Which of the following provides integrity for
+these digital signatures?
+A. Hashing
+B. Encryption
+C. Non-repudiation
+D. Private key
+
+Hashing provides integrity for digital signatures and other data. A digital signature is a hash of the message encrypted with the sender's private key, but the encryption doesn't provide integrity.
