@@ -1140,4 +1140,7 @@ Chapter 10 Questions
 3. D
 4. B
 5. A
-6. 
+6. D
+7. A
+8. A
+9. A
