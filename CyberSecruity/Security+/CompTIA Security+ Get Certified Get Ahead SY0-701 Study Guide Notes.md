@@ -1203,3 +1203,15 @@ D. CSR
 A certificate revocation list (CRL) can meet this need because CRLs are not cached. If the public certificate authority (CA) is not reachable due to any type of connection outage or CA outage, the cached CRL can be used if the cache time has not expired. The online certificate status protocol works in real-time where the client queries the CA with the serial number of the certificate. If the CA is unreachable, the certificate cannot be validated. A private CA is used within an organization and cannot validate certificates from a public CA. You request a certificate with a certificate signing request (CSR), but the CSR doesn't validate an issued certificate. 
 
 9 D is correct 
+Your organization hosts an internal website used only by
+employees. The website uses a certificate issued by a
+private CA and the network downloads a CRL from the CA
+once a week. However, after a recent compromise, security
+administrators want to use a real-time alternative to the
+CRL. Which of the following will BEST meet this need?
+A. SAN
+B. CSR
+C. RA
+D. OCSP
+
+The Online Certificate Status Protocol (OCSP) provides real-time responses to validate certificates issued by a certificate authority (CA). A certificate revocation list (CRL) includes a list of revoked certificates, but it is only downloaded once a week, it can quickly be out of data. None of the other answers validates certificates. In the context of certificates, a subject alternative name (SAN) certificate is used for multiple domains that have different names but are owned by the same organization. A certificate signing request (CSR) is used to request a certificate. A registration authority (RA) accepts CSRs for a CA.
