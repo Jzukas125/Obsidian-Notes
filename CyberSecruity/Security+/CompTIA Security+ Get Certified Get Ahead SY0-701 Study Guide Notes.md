@@ -1143,13 +1143,14 @@ Chapter 10 Questions
 6. ~~D~~
 7. ~~A~~
 8. ~~A~~
-9. A
-10. B
-11. B
-12. A
+9. ~~A~~
+10. ~~B~~
+11. ~~B~~
+12. ~~A~~
 13. D
-14. B
-15. D
+14. ~~B~~
+15. ~~D~~~~
+5/15
 
 2 A is correct
 Users in your organization sign their emails with digital
@@ -1199,4 +1200,6 @@ B. CRL
 C. Private CA
 D. CSR
 
-A certificate revocation list (CRL) can meet this need because CRLs are not cached. If the public certificate authority (CA) is not reachable due to any type of connection outage or CA outage, the cached CRL can be used if the cache time has not expired. The online certificate status protocol works in real-time where the client queries the CA with the serial number of the certificate. If the CA is unreachable, the certificate cannot be validated. A private CA is used within an organization and cannot validate certificates from a public CA. You request a certificate with a certificate signining request (CSR), but the CSR doesn't validate an issued certificate. 
+A certificate revocation list (CRL) can meet this need because CRLs are not cached. If the public certificate authority (CA) is not reachable due to any type of connection outage or CA outage, the cached CRL can be used if the cache time has not expired. The online certificate status protocol works in real-time where the client queries the CA with the serial number of the certificate. If the CA is unreachable, the certificate cannot be validated. A private CA is used within an organization and cannot validate certificates from a public CA. You request a certificate with a certificate signing request (CSR), but the CSR doesn't validate an issued certificate. 
+
+9 D is correct 
