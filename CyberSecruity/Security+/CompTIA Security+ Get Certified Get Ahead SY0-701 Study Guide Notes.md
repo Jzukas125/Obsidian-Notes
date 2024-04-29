@@ -1174,3 +1174,16 @@ C. Salting
 D. Digital signatures
 
 Elliptic curve cryptography has minimal over head and is often used with mobile devices for encryption. Perfect forward secrecy refers to session keys and provides assurances that session keys will not be compromised even if a private key is later compromised. Digital signatures provide integrity, authentication, and non-repudiation, not encryption.
+
+7 C is correct
+You are configuring a web server that will be used by
+salespeople via the Internet. Data transferred to and from
+the server needs to be encrypted, so you are tasked with
+requesting a certificate for the server. Which of the following
+would you MOST likely create to request the certificate?
+A. CA
+B. CRL
+C. CSR
+D. OCSP
+
+You would request a certificate by creating a certificate signing request (CSR). It uses a specific format to request a certificate.
