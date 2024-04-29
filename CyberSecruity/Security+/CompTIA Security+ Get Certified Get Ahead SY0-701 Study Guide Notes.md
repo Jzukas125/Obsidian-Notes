@@ -1132,4 +1132,6 @@ Stream ciphers encrypt data 1 bit or 1 byte at a time
 
 PKI is public key infrastructure 
 
-CRL is certificate revocat
+CRL is certificate revocation list
+
+Chapter 10 Questions
