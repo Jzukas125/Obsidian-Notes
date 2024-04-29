@@ -1140,9 +1140,9 @@ Chapter 10 Questions
 3. D
 4. B
 5. A
-6. D
-7. A
-8. A
+6. ~~D~~
+7. ~~A~~
+8. ~~A~~
 9. A
 10. B
 11. B
@@ -1160,4 +1160,17 @@ B. Encryption
 C. Non-repudiation
 D. Private key
 
-Hashing provides integrity for digital signatures and other data. A digital signature is a hash of the message encrypted with the sender's private key, but the encryption doesn't provide integrity. The digital signature is
+Hashing provides integrity for digital signatures and other data. A digital signature is a hash of the message encrypted with the sender's private key, but the encryption doesn't provide integrity. The digital signature provides non-repudiation, but non-repudiation does not provide integrity. The private and public key are both needed, but the private key does no provide integrity.
+
+6 A is correct 
+A developer is creating an application that will encrypt and
+decrypt data on mobile devices. These devices don’t have a
+lot of processing power. Which of the following
+cryptographic methods has the LEAST overhead and can
+provide encryption for these mobile devices?
+A. Elliptic curve cryptography
+B. Perfect forward secrecy
+C. Salting
+D. Digital signatures
+
+Elliptic curve cryptography has minimal over head and is often used with mobile devices for encryption. 
