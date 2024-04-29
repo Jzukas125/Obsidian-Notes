@@ -1135,3 +1135,8 @@ PKI is public key infrastructure
 CRL is certificate revocation list
 
 Chapter 10 Questions
+1. B
+2. D
+3. D
+4. B
+5. 
