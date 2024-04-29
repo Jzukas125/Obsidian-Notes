@@ -1160,4 +1160,4 @@ B. Encryption
 C. Non-repudiation
 D. Private key
 
-Hashing provides integrity for digital signatures and other data. A digital signature is a hash of the message encrypted with the sender's private key, but the encryption doesn't provide integrity.
+Hashing provides integrity for digital signatures and other data. A digital signature is a hash of the message encrypted with the sender's private key, but the encryption doesn't provide integrity. The digital signature is
