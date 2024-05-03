@@ -1281,3 +1281,9 @@ Copies of private keys are typically stored in a key escrow so that data encrypt
 # Chapter 11
 
 Tabletop exercises are a type of scenario-based training where participants discuss and analyze a hypothetical incident in a non-threatening environment. 
+
+When collecting evidence ensure that it is admissible in court. 
+
+Chain of custody provides assurances that personnel controlled and handled evidence properly after collecting it.
+
+Legal hold refers to a legal obligation to maintain different types of data as evidence. Electronic discovery, or eDiscovery, is the identification and collection of electronically stored information. A legal hold requires an organization to protect existing data as evidence.
