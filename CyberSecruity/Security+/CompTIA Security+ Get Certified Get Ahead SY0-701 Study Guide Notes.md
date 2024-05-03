@@ -1293,3 +1293,7 @@ Investigators provide a report on their findings. They typically include tactics
 Security governance is the set of responsibilities and processes established by an organization's top-level management to direct, evaluate, and control the organization's security efforts.
 
 Centralized governance structures concentrate decision-making authority at the top of the organization. Decentralized structures allow different parts of the organization to make their own security decisions. 
+
+Service Level Agreement (SLA) is an agreement between a company and a vendor that stipulates performance expectations, such as minimum uptime and maximum downtime levels
+
+Memorandum of understandings (MOUs) expresses an understanding between two or more parties, indicating their intention to work together toward a common goa
