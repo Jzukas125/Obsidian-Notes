@@ -1290,4 +1290,6 @@ Legal hold refers to a legal obligation to maintain different types of data as e
 
 Investigators provide a report on their findings. They typically include tactics, techniques, and procedures used by attackers and recommendations based on the results
 
-Security goverance is the set of responibilities and processes established by an organization's top-level management to direct, evaluate, and control the organization's security efforts.
+Security governance is the set of responsibilities and processes established by an organization's top-level management to direct, evaluate, and control the organization's security efforts.
+
+Centralized governance structures concentrate decision-making authority at the top of the organization. Decentralized structures allow different parts of the organization to make their own security decisions. 
