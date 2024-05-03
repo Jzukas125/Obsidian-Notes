@@ -1229,8 +1229,16 @@ D. Key stretching
 
 Certificate pinning provides clients with a list of public key hashes that clients can use to detect website impersonation attempts. Stapling reduces Online Certificate Status Protocol (OCSP) traffic by appending a timestamped, digitally signed OCSP response to a certificate. Perfect forward secret ensures that the compromise of one session key does not compromise other session keys used in the past. Key stretching techniques add additional bits to passwords, make them harder to crack. 
 
+11 D is correct 
+Management has mandated the use of digital signatures by
+all personnel within your organization. Which of the
+following use cases does this support?
+A. Supporting confidentiality
+B. Supporting availability
+C. Supporting obfuscation
+D. Supporting non-repudiation
 
-
+Digital signatures will support a use case of supporitng non-repudiation. Digital signatures also provide integrity
 
 
 
