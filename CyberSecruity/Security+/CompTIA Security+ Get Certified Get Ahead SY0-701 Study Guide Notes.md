@@ -1223,8 +1223,26 @@ is concerned that attackers might try to redirect website
 traffic, allowing the attackers to impersonate their ecommerce site. Which of the following methods will address
 this issue?
 A. Stapling
-A. Perfect forward secrecy
-A. Pinning
-A. Key stretching
+B. Perfect forward secrecy
+C. Pinning
+D. Key stretching
 
-Certificate pinning provides clients with a list of public key hashes that clients can use to detect website impersonation attempts. Stapling reduces Online Certificate Status Protocol (OCSP) traffic by appending a timestamped, digitally signed OCSP response to a certificate. Perfect forward secret ensures that the compromise of the 
+Certificate pinning provides clients with a list of public key hashes that clients can use to detect website impersonation attempts. Stapling reduces Online Certificate Status Protocol (OCSP) traffic by appending a timestamped, digitally signed OCSP response to a certificate. Perfect forward secret ensures that the compromise of one session key does not compromise other session keys used in the past. Key stretching techniques add additional bits to passwords, make them harder to crack. 
+
+
+
+
+
+
+
+12 D is Correct 
+A DLP system detected confidential data being sent out via
+email from Bart’s account. However, he denied sending the
+email. Management wants to implement a method that
+would prevent Bart from denying accountability in the
+future. Which of the following are they trying to enforce?
+A. Confidentiality
+B. Encryption
+C. Access control
+D. Non-repudiation
+
