@@ -1288,3 +1288,6 @@ Chain of custody provides assurances that personnel controlled and handled evide
 
 Legal hold refers to a legal obligation to maintain different types of data as evidence. Electronic discovery, or eDiscovery, is the identification and collection of electronically stored information. A legal hold requires an organization to protect existing data as evidence.
 
+Investigators provide a report on their findings. They typically include tactics, techniques, and procedures used by attackers and recommendations based on the results
+
+Security goverance is the set of responibilities and processes established by an organization's top-level management to direct, evaluate, and control the organization's security efforts.
