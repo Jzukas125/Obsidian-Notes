@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "Personal Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "Personal Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "Personal Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
+                "file": "Personal Notes/Untitled.md"
               }
             }
           },
@@ -176,9 +176,10 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
+    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+    "Personal Notes/Untitled.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
-    "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/OSINT/OSINT Play Book.md",
     "CyberSecruity/Hack the Box/Incident Handling.md",
     "README.md",
@@ -202,7 +203,6 @@
     "Classes/Finals Spring 2023/Networks Class/Exam 1.md",
     "Classes/Finals Spring 2023/Networks Class/Ch3 - Link Layer - Data link.md",
     "Classes/Finals Spring 2023/Networks Class/CH5.md",
-    "Classes/Finals Spring 2023/Networks Class/CH2.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
