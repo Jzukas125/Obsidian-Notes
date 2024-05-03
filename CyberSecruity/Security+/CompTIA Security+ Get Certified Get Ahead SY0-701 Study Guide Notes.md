@@ -1279,3 +1279,5 @@ D. Session
 Copies of private keys are typically stored in a key escrow so that data encrypted with a private key can be retrieved if the original private key is no longer accessible. 
 
 # Chapter 11
+
+Tabletop exercises are a type of scenario-based training where participants discuss and analyze a hypothetical incident in a non-threatening environment. 
