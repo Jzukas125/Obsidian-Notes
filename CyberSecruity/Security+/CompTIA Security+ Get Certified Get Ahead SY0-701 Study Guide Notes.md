@@ -1227,4 +1227,4 @@ A. Perfect forward secrecy
 A. Pinning
 A. Key stretching
 
-Certificate pinning provides clients with a list of public key hashes that clients can use to detect website impersonation attempts. Stapling reduces Onlince Certificate Status Protocol (OCSP) traffic 
+Certificate pinning provides clients with a list of public key hashes that clients can use to detect website impersonation attempts. Stapling reduces Online Certificate Status Protocol (OCSP) traffic 
