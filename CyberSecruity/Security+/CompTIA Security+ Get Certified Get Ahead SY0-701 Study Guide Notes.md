@@ -1238,10 +1238,7 @@ B. Supporting availability
 C. Supporting obfuscation
 D. Supporting non-repudiation
 
-Digital signatures will support a use case of supporitng non-repudiation. Digital signatures also provide integrity
-
-
-
+Digital signatures will support a use case of supporting non-repudiation. Digital signatures also provide integrity and authentication, but these weren't available answers. Digital signatures don't encrypt, so they do not support a use case of supporting confidentiality. Redundancy and fault tolerance solutions will increase availability. 
 
 12 D is Correct 
 A DLP system detected confidential data being sent out via
@@ -1254,3 +1251,9 @@ B. Encryption
 C. Access control
 D. Non-repudiation
 
+Non-repudiation methods such as digital signatures prevent users from denying they took action. If a data loss prevention (DLP) system detected the outgoing email and it was signed with Bart's account using a digital signature, he couldn't believable deny sending it. 
+
+
+14
+
+15
