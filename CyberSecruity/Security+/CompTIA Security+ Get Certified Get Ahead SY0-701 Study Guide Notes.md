@@ -1253,7 +1253,29 @@ D. Non-repudiation
 
 Non-repudiation methods such as digital signatures prevent users from denying they took action. If a data loss prevention (DLP) system detected the outgoing email and it was signed with Bart's account using a digital signature, he couldn't believable deny sending it. 
 
+14 A is correct 
+You are tasked with getting prices for certificates. You need
+to find a source that will provide a certificate that can be
+used for multiple domains that have different names. Which
+of the following certificates is the BEST choice?
+A. SAN
+B. Domain validation
+C. Extended validation
+D. Wildcard
 
-14
+A subject alternative name (SAN) certificate is used for multiple domains that have different names but are owned by the same organization. A domain-validated certificate indicates that the certificate requestor has some control over a Domain Name System domain. Extended validation certificates use additional steps beyond domain validation. 
 
-15
+15 B is correct
+Your organization recently lost access to some decryption
+keys, resulting in the loss of some encrypted data. The chief
+information officer (CIO) mandated the creation of a key
+escrow. Which of the following cryptographic keys are MOST
+likely to be stored in key escrow?
+A. Public
+B. Private
+C. Ephemeral
+D. Session
+
+Copies of private keys are typically stored in a key escrow so that data encrypted with a private key can be retrieved if the original private key is no longer accessible. 
+
+# Chapter 11
