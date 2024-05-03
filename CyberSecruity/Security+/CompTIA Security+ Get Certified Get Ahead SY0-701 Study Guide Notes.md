@@ -1300,3 +1300,9 @@ Memorandum of understandings (MOUs) expresses an understanding between two or mo
 
 A business partners agreement (BPA) is a written agreement that details the relationship between business partners, including their obligations toward the partnership 
 
+Chapter 11 Practice Questions
+1. D
+2. A
+3. A
+4. A
+5. 
