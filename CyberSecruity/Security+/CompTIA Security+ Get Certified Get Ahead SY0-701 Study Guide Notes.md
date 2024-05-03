@@ -1296,4 +1296,7 @@ Centralized governance structures concentrate decision-making authority at the t
 
 Service Level Agreement (SLA) is an agreement between a company and a vendor that stipulates performance expectations, such as minimum uptime and maximum downtime levels
 
-Memorandum of understandings (MOUs) expresses an understanding between two or more parties, indicating their intention to work together toward a common goa
+Memorandum of understandings (MOUs) expresses an understanding between two or more parties, indicating their intention to work together toward a common goal
+
+A business partners agreement (BPA) is a written agreement that details the relationship between business partners, including their obligations toward the partnership 
+
