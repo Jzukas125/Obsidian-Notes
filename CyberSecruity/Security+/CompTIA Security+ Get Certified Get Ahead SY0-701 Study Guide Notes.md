@@ -1311,5 +1311,8 @@ Chapter 11 Practice Questions
 8. A
 9. A, B
 10. D
-11. B
-12. 
+11. D
+12. A
+13. D
+14. B
+15. 
