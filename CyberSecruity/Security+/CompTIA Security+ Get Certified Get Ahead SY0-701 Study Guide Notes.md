@@ -1308,4 +1308,6 @@ Chapter 11 Practice Questions
 5. A
 6. D
 7. C
-8. 
+8. A
+9. A, B
+10. 
