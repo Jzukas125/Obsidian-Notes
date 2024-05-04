@@ -1328,4 +1328,31 @@ B. NDA
 C. SLA
 D. MSA
 
-An acceptable use policy (AUP) informs users of company expectations when they use computer systems and networks, and it defines acceptable rules of behavior. A non-disclosure agreement (NDA) ensures that individuals do not share proprietary data with others. A service level agreement (SLA) is an agreement between a company and a vendor that stipulates performance expectations, such as minimum uptime and maximum downtime levels. A master 
+An acceptable use policy (AUP) informs users of company expectations when they use computer systems and networks, and it defines acceptable rules of behavior. A non-disclosure agreement (NDA) ensures that individuals do not share proprietary data with others. A service level agreement (SLA) is an agreement between a company and a vendor that stipulates performance expectations, such as minimum uptime and maximum downtime levels. A master services agreement (MSA) provides general terms and conditions for a vendor relationship. 
+
+4 C is correct
+Nelson is reviewing the types of information maintained by
+his organization. He discovers that a server contains
+sensitive product plans that have not been shared widely.
+What term best describes this information?
+A. Intellectual property
+B. Financial information
+C. Trade secrets
+D. Legal information
+
+The information is definitely intellectual property, but it is also a trade secret, which is a specific type of intellectual property. Since trade secret is a more specific answer, it is the better choice.
+
+9 B and E are correct
+Homer called the help desk complaining his computer is
+giving random errors. Cybersecurity professionals suspect
+his system is infected with malware and decide to use
+digital forensic methods to acquire data on his system.
+Which of the following should be collected before turning
+the system off? (Choose TWO.)
+A. Image of disk
+B. RAM
+C. OS
+D. ROM
+E. Cache
+
+RAM and cache are the most violatile of the items listed and should be colelcted before the system is turned of
