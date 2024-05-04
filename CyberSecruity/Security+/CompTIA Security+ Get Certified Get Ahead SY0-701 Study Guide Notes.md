@@ -1392,4 +1392,11 @@ I have now finished the Chapters Section of the CompTIA Security+: Get Certified
 2. 7/15
 3. 7/15
 4. 8/15
-5. 
+5. 9/15
+6. 12/15
+7. 11/15
+8. 7/15
+9. 5/15
+10. 5/15
+11. 10/15
+
