@@ -57,6 +57,8 @@ Chapter 1 Practice Questions
 13. B
 14. ~~D~~
 15. D
+11/15
+
 
 Chapter 1 questions review
 4 A is correct, Elasticity is the best choice because it allows the server to dynamically scale as needed in response to changes in demand. Scalability isn't the best answer because it is done manually; in this case, the high resource usage is random and manually adding resources can't respond to the random spikes quickly enough. Normalization refers to organization tables and columns in a database to reduce redundant data and improve overall database performance. Stored procedures are a group of SQL statements that execute as a whole and help prevent SQL injection attacks.
@@ -115,6 +117,7 @@ Chapter 2 Questions
 13. D
 14. B
 15. C
+7/15
 
 Chapter 2 Questions review
 
@@ -266,6 +269,7 @@ Chapter 3 Questions
 13. ~~B~~
 14. ~~C~~
 15. ~~A, E~~
+7/15
 
 Chapter 3 Questions Review 
 
@@ -454,6 +458,7 @@ Chapter 4 Questions
 13. B
 14. B
 15. ~~A~~
+8/15
 
 Chapter 4 Question Review
 
@@ -566,6 +571,7 @@ Chapter 5 Questions
 13. B
 14. ~~D~~
 15. ~~C~~
+9/15
 
 Chapter 5 Questions Review
 
@@ -677,6 +683,7 @@ Chapter 6 Questions
 13. B
 14. D
 15. C
+12/15
 
 Chapter 6 Questions Review 
 3 A is correct 
@@ -769,6 +776,7 @@ Chapter 7 Questions
 13. C
 14. A
 15. C
+11/15
 
 Chapter 7 Questions Review
 
@@ -840,6 +848,7 @@ Chapter 8 Questions
 13. ~~D~~
 14. ~~D~~
 15. A
+7/15
 
 Chapter 8 Questions Review 
 
@@ -979,7 +988,6 @@ Chapter 9 Questions
 13. ~~A (had to look up)~~
 14. ~~B~~
 15. ~~A~~
-
 5/15 correct
 
 1 C is correct
@@ -1316,6 +1324,7 @@ Chapter 11 Practice Questions
 13. ~~D~~
 14. B
 15. A, B, D
+10/15
 
 1 A is correct 
  Management within your organization wants to ensure that
@@ -1378,4 +1387,9 @@ D. When it engages in any business activity
 
 Organizations must issue a legal hold and preserve evidence when they believe that a lawsuit is likely. They are not permitted to wait until they actually are served with lawsuit or receive a court order. There is no obligation to issue a legal hold simply because they are engaging in business activity.
 
-I have now finished the Chapters Section of the 
+I have now finished the Chapters Section of the CompTIA Security+: Get Certified Get Ahead Study Guide. My scores for the sections are as follows
+1. 11/15
+2. 7/15
+3. 7/15
+4. 8/15
+5. 
