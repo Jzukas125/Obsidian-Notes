@@ -1301,19 +1301,31 @@ Memorandum of understandings (MOUs) expresses an understanding between two or mo
 A business partners agreement (BPA) is a written agreement that details the relationship between business partners, including their obligations toward the partnership 
 
 Chapter 11 Practice Questions
-1. D
+1. ~~D~~
 2. A
 3. A
-4. A
+4. ~~A~~
 5. A
 6. D
 7. C
 8. A
-9. A, B
-10. D
+9. ~~A, B~~
+10. ~~D~~
 11. D
 12. A
-13. D
+13. ~~D~~
 14. B
-15. A
+15. A, B, D
 
+1 A is correct 
+ Management within your organization wants to ensure that
+users understand the rules of behavior when they access
+the organization’s computer systems and networks. Which
+of the following BEST describes what they would implement
+to meet this requirement?
+A. AUP
+B. NDA
+C. SLA
+D. MSA
+
+An acceptable use policy (AUP) informs users of company expectations when they use computer systems and networks, and it defines acceptable rules of behavior. A non-disclosure agreement (NDA) ensures that individuals do not share proprietary data with others. A service level agreement (SLA) is an agreement between a company and a vendor that stipulates performance expectations, such as minimum uptime and maximum downtime levels. A master 
