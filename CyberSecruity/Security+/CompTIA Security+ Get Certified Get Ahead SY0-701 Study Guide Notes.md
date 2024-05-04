@@ -1366,3 +1366,16 @@ B. Take hashes for provenance.
 C. Review the logs on the disks.
 D. Create a chain of custody document.
 
+Forensic analysts take hashes to prove provenance of the copy. The hash provides proof that the copy is the same as the original and has not lost integrity. A drive image shouldn't be captured before creating a hash, and just having a drive image doesn't provide integrity or prove that it is the same as the original. 
+
+13 C is correct 
+When is the earliest time that an organization is required to
+issue a legal hold?
+A. When it receives a lawsuit
+B. When it is ordered to do so by a court
+C. When it believes a lawsuit is likely
+D. When it engages in any business activity
+
+Organizations must issue a legal hold and preserve evidence when they believe that a lawsuit is likely. They are not permitted to wait until they actually are served with lawsuit or receive a court order. There is no obligation to issue a legal hold simply because they are engaging in business activity.
+
+I have now finished the Chapters Section of the 
