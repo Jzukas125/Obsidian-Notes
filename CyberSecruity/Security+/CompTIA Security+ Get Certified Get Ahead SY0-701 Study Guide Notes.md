@@ -1355,4 +1355,14 @@ C. OS
 D. ROM
 E. Cache
 
-RAM and cache are the most violatile of the items listed and should be colelcted before the system is turned of
+RAM and cache are the most volatile of the items listed and should be collected before the system is turned off. You can collect an image of the disk and OS after it is powered off. ROM is retained even if the system is off and power is removed. If the system is turned off and then back on the swap/pagefile will be overwritten.
+
+10 B is correct
+ After a recent incident, a forensic analyst was given several
+hard drives to analyze. Which of the following actions
+should she take FIRST?
+A. Capture drive images for integrity.
+B. Take hashes for provenance.
+C. Review the logs on the disks.
+D. Create a chain of custody document.
+
