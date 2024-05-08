@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
+                "file": "CyberSecruity/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md"
               }
             }
           },
@@ -176,8 +176,11 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
-    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "CyberSecruity/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 1.md",
+    "CyberSecruity/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+    "CyberSecruity/Security+/CompTIA Security+ Practice Tests",
+    "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 3.md",
     "CyberSecruity/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Security+/CompTIA syo-701 Security+ Chapter 2.md",
@@ -201,8 +204,6 @@
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Wireshark 1.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security",
     "CyberSecruity/TryHackMe/Web Fundamentals/How the Web Works/DNS in detail.md",
-    "Classes/Finals Spring 2023/Networks Class/Network Layer (Ch4).md",
-    "Classes/Finals Spring 2023/Networks Class/Exam 1.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
@@ -220,7 +221,6 @@
     "Pasted image 20240325211333.png",
     "CyberSecruity/Bug Bounty",
     "Playbooks",
-    "CyberSecruity/Hack the Box",
-    "CyberSecruity/OSINT"
+    "CyberSecruity/Hack the Box"
   ]
 }

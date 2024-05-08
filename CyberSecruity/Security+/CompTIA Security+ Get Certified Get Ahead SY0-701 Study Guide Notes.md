@@ -1402,4 +1402,5 @@ I have now finished the Chapters Section of the CompTIA Security+: Get Certified
 
 Average is a 56%
 
-Will do the assessment 
+Will do the assessment after some of the other study guides and studying these questions some more.
+
