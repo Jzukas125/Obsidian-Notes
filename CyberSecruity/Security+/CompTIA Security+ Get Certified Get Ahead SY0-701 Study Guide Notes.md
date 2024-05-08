@@ -1400,3 +1400,6 @@ I have now finished the Chapters Section of the CompTIA Security+: Get Certified
 10. 5/15
 11. 10/15
 
+Average is a 56%
+
+Will do the assessment 
