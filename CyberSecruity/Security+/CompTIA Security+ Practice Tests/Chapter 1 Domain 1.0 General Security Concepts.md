@@ -50,4 +50,4 @@ B. A backout plan
 C. A regression test
 D. A maintenance window
 
-Backout plans document what to do to return to a state prior to the change being made and are designed to be implemented if the change fails. They may involve undoing hcanges, restoring from backups, or taking other steps and they must contain an appropraite level of detail to ensure that the change can be undone. An impact analysis looks at the potential impac
+Backout plans document what to do to return to a state prior to the change being made and are designed to be implemented if the change fails. They may involve undoing changes, restoring from backups, or taking other steps and they must contain an appropriate level of detail to ensure that the change can be undone. An impact analysis looks at the potential impact of a change, regression testing ensures that old issues are not introduced in new updates, and maintenance windows are scheduled to allow for downtime or other maintenance activities with appropriate communications, staffing, and other needed elements.
