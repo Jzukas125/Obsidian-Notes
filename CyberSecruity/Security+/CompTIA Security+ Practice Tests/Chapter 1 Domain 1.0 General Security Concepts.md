@@ -100,4 +100,5 @@ Zero trust designs implement continuous verification, which is an effective cont
 22. A
 23. B
 24. B
-25. 
+25. C
+26. 
