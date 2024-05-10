@@ -96,4 +96,5 @@ D. Multifactor authentication (MFA)
 Zero trust designs implement continuous verification, which is an effective control used to limit the threat scope of compromised credentials While MFA can be a useful control in this circumstance, a fully implemented zero-trust design will provide a greater control than just MFA alone. 
 
 # 21-30
-21. 
+21. A
+22. 
