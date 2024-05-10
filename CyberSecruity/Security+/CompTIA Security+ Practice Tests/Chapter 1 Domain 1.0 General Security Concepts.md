@@ -54,12 +54,23 @@ Backout plans document what to do to return to a state prior to the change being
 
 11. D
 12. C
-13. B
-14. D
+13. ~~B~~
+14. ~~D~~
 15. D
-16. D
+16. ~~D~~
 17. A
 18. A
 19. C
 20. A
+7/10
 
+13 D is correct
+Ben has deployed a data loss prevention (DLP) tool that inspects data and flags specific data
+types for review before emails containing it are sent outside the organization. What control
+type best describes this type of solution?
+A. Managerial
+B. Detective
+C. Corrective
+D. Preventive
+
+This is a preventive control that is inteded to prevent sensitive data from being sent outside the organization
