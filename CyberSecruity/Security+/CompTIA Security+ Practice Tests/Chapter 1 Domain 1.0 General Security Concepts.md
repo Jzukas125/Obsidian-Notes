@@ -56,4 +56,10 @@ Backout plans document what to do to return to a state prior to the change being
 12. C
 13. B
 14. D
-15. 
+15. D
+16. D
+17. A
+18. A
+19. C
+20. A
+
