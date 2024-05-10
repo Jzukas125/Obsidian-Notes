@@ -73,4 +73,22 @@ B. Detective
 C. Corrective
 D. Preventive
 
-This is a preventive control that is inteded to prevent sensitive data from being sent outside the organization
+This is a preventive control that is intended to prevent sensitive data from being sent outside the organization. Managerial controls are procedural mechanisms, corrective controls remediate security issues that have already occurred, and detective controls identify security events that have already occurred. 
+
+14 A is correct 
+What type of control is a policy or procedure?
+A. Directive
+B. Corrective
+C. Detective
+D. Preventive
+
+Policies and procedures are examples of directive control that inform employees and others of what they should do to achieve security objectives. Corrective controls remediate already existing security issues, detective controls identify security events that have already happened, and preventive controls attempt to stop a security issue before it occurs.
+
+16 C is correct 
+Charles wants to reduce the threat scope of compromised credentials. What type of the following security controls is best suited to meeting this need?
+A. Single sign-on
+B. Federation
+C. Zero trust
+D. Multifactor authentication (MFA)
+
+Zero trust designs implement continous verification, which is an effective control used to limit the threat scope of comprommised cr
