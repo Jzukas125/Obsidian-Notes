@@ -1,4 +1,5 @@
 #Securityplus 
+# 1- 10
 1. B
 2. ~~B~~
 3. A
@@ -52,6 +53,7 @@ D. A maintenance window
 
 Backout plans document what to do to return to a state prior to the change being made and are designed to be implemented if the change fails. They may involve undoing changes, restoring from backups, or taking other steps and they must contain an appropriate level of detail to ensure that the change can be undone. An impact analysis looks at the potential impact of a change, regression testing ensures that old issues are not introduced in new updates, and maintenance windows are scheduled to allow for downtime or other maintenance activities with appropriate communications, staffing, and other needed elements.
 
+# 11-20
 11. D
 12. C
 13. ~~B~~
@@ -91,4 +93,7 @@ B. Federation
 C. Zero trust
 D. Multifactor authentication (MFA)
 
-Zero trust designs implement continous verification, which is an effective control used to limit the threat scope of comprommised cr
+Zero trust designs implement continuous verification, which is an effective control used to limit the threat scope of compromised credentials While MFA can be a useful control in this circumstance, a fully implemented zero-trust design will provide a greater control than just MFA alone. 
+
+# 21-30
+21. 
