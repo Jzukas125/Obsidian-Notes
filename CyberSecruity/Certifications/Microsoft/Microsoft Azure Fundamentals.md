@@ -7,4 +7,4 @@ Describe Azure management and governance
 	- Describe the Microsoft Cost Management Tool
 	- Describe the purpose of tags'
 
-# Describe the Facors tha
+# Describe the Factors that can affect costs in Azure 
