@@ -8,3 +8,4 @@ Describe Azure management and governance
 	- Describe the purpose of tags'
 
 # Describe the Factors that can affect costs in Azure 
+Azure shifts development costs from the capital expense of building out and maintaining infrastructure and facilities to an operational expense of renting onfrastructure as you need
