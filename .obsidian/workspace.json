@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md"
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
               }
             }
           },
@@ -176,16 +176,17 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
-    "CyberSecruity/Certifications/Microsoft/Microsoft Azure Fundamentals.md",
+    "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 1.md",
+    "CyberSecruity/Certifications/Security+/General Security Plus Studying and resources.md",
+    "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+    "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 4.md",
+    "CyberSecruity/Certifications/Microsoft/Microsoft Azure Fundamentals.md",
     "CyberSecruity/Certifications/Microsoft",
     "CyberSecruity/Certifications",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
-    "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests",
-    "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 3.md",
-    "CyberSecruity/Certifications/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 2.md",
     "Personal Notes/Projects.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
@@ -200,7 +201,6 @@
     "CyberSecruity/CCDC/Network Monitoring Tools.md",
     "CyberSecruity/CCDC/Nmap.md",
     "CyberSecruity/CCDC/Samba part 2.md",
-    "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 4.md",
     "CyberSecruity/Web Dev/JavaScript.md",
     "CyberSecruity/Web Dev/PHP Tutorial.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
