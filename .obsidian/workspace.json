@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "589378ad90a7fe87",
   "lastOpenFiles": [
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Certifications/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 5.md",
@@ -184,7 +185,6 @@
     "CyberSecruity/Certifications/Microsoft/Microsoft Azure Fundamentals.md",
     "CyberSecruity/Certifications/Microsoft",
     "CyberSecruity/Certifications",
-    "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 3.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 2.md",
