@@ -18,3 +18,6 @@ Task provides some of the core windows processes running in the background such 
 - winlogon.exe
 - explorer.exe
 
+# Sysinternals
+
+With the prior knowledge of Core windows processes, we can now proceed to discuss the available toolset for analysing running artifacts in the backend of a windows machine.
