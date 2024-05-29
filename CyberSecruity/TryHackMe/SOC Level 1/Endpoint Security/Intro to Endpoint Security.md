@@ -33,4 +33,4 @@ We will introduce two of the most used sysinternals tools for endpoint investiga
 - Process Explorer - Process Utility tool 
 
 # TCP view
-	
+	TCP view is a windows program that will show a detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections. On window server 2008, Vista, and XP, TCP
