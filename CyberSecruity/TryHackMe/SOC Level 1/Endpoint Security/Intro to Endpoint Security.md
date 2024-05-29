@@ -20,4 +20,17 @@ Task provides some of the core windows processes running in the background such 
 
 # Sysinternals
 
-With the prior knowledge of Core windows processes, we can now proceed to discuss the available toolset for analysing running artifacts in the backend of a windows machine.
+With the prior knowledge of Core windows processes, we can now proceed to discuss the available toolset for analyzing running artifacts in the backend of a windows machine. The sysinternals tools are a compilation of over 70+ windows-based tools. Each of the tools falls into one of the following categories:
+- File and Disk Utilities
+- Networking Utilities
+- Process Utilities
+- Security Utilities
+- System Information
+- Miscellaneous
+
+We will introduce two of the most used sysinternals tools for endpoint investigation for this task. 
+- TCP view - Networking Utility tool
+- Process Explorer - Process Utility tool 
+
+# TCP view
+	
