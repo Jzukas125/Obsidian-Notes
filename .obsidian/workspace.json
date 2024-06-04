@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0169380fed8f1dc4",
+        "id": "5f21b765d1c37729",
         "type": "tabs",
         "children": [
           {
-            "id": "589378ad90a7fe87",
+            "id": "61e2aad2184bffe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,8 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "589378ad90a7fe87",
+  "active": "61e2aad2184bffe4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
     "CyberSecruity/Bug Bounty/Hacker101 - Intro and The Web in Depth.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
@@ -184,7 +186,6 @@
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 1.md",
     "CyberSecruity/Certifications/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 5.md",
-    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 4.md",
     "CyberSecruity/Certifications/Microsoft/Microsoft Azure Fundamentals.md",
     "CyberSecruity/Certifications/Microsoft",
@@ -205,7 +206,6 @@
     "CyberSecruity/CCDC/Network Monitoring Tools.md",
     "CyberSecruity/CCDC/Nmap.md",
     "CyberSecruity/CCDC/Samba part 2.md",
-    "CyberSecruity/Web Dev/JavaScript.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
