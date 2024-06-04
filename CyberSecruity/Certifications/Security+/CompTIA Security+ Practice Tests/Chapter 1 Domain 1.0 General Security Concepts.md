@@ -145,3 +145,7 @@ A. A secure initiation manager
 B. A root of trust
 C. A boot hash
 D. A cryptographic boot manager
+
+A root of trust-based secure boot process validates each signed component as it starts and ensures that the entrusted components are all loaded as part of the boot process. Secure initiation manager, boot hash, cryptographic boot manager were made up for this question.
+
+# 31 - 40
