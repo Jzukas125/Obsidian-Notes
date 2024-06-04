@@ -98,7 +98,7 @@ Zero trust designs implement continuous verification, which is an effective cont
 # 21-30
 21. A
 22. ~~A~~
-23. ~~B~~
+23. B
 24. B
 25. C
 26. B
@@ -106,7 +106,7 @@ Zero trust designs implement continuous verification, which is an effective cont
 28. ~~A~~
 29. ~~A~~
 30. B
-5/10
+6/10
 
 22 C is correct 
 Greg wants to implement a version control system to ensure that changes are made in ways
@@ -117,4 +117,7 @@ B. File locking
 C. Regression testing
 D. Tagging and labeling
 
-Version control systems track versions but don't do testing themselves. Atomic operati 
+Version control systems track versions but don't do testing themselves. Atomic operations ensure that actions like commits don't overwrite other commits in progress. File locking allows a developer to check out a file while it is being worked on, and tagging and labeling helps developers track files and versions. 
+
+27 C is correct 
+A TPM stands for a trusted platform module, and it is a cryptographic processor that is used to generate, store, and manage cryptographic keys 
