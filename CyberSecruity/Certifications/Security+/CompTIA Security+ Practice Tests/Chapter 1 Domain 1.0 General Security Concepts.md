@@ -150,4 +150,5 @@ A root of trust-based secure boot process validates each signed component as it 
 
 # 31 - 40
 31. A
-32. 
+32. B
+33. 
