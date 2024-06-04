@@ -120,4 +120,28 @@ D. Tagging and labeling
 Version control systems track versions but don't do testing themselves. Atomic operations ensure that actions like commits don't overwrite other commits in progress. File locking allows a developer to check out a file while it is being worked on, and tagging and labeling helps developers track files and versions. 
 
 27 C is correct 
-A TPM stands for a trusted platform module, and it is a cryptographic processor that is used to generate, store, and manage cryptographic keys 
+What hardware component is used to generate, store, and manage cryptographic keys?
+A. A CPU
+B. A NSA
+C. A TPM
+D. A CCA
+A TPM stands for a trusted platform module, and it is a cryptographic processor that is used to generate, store, and manage cryptographic keys. CPU is a CPU, NSA is national security agency, and a CCA is a chosen ciphertext attack.
+
+28 D is correct
+Chris wants to check to see if a certificate has been revoked. What protocol can he use to
+validate the current status of a certificate?
+A. TLS
+B. OCRS
+C. SSL
+D. OCSP
+The online certificate status protocol (OCSP) is used to validate certificate status, including checking to see if the certificate is on a certificate revocation list (CRL). TLS is Transport layer security, SSL is outdated and is often used to refer TLS of which both are incorrect. 
+
+29 B is correct
+Brian’s organization uses a process where a secure module boots systems, then monitors them
+as each boot stage proceeds. It validates each signed boot stage and reports on whether the
+boot process was correct or not when complete. What is the secure module used to verify
+these stages called?
+A. A secure initiation manager
+B. A root of trust
+C. A boot hash
+D. A cryptographic boot manager
