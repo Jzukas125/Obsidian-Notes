@@ -160,3 +160,11 @@ A root of trust-based secure boot process validates each signed component as it 
 39. C
 40. ~~B~~
 
+31 C is correct
+Jason knows that his Apple system uses a separate portion of its SoC (system on chip) to
+store keys and biometric information. What is this specialized component called?
+A. A TPM
+B. A HSM
+C. A secure enclave
+D. A screened subnet
+The device it uses is called a security enclave. This is distincint from a TPM or HSM, and a screened subnet is a networking concept for 
