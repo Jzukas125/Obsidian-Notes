@@ -167,4 +167,13 @@ A. A TPM
 B. A HSM
 C. A secure enclave
 D. A screened subnet
-The device it uses is called a security enclave. This is distincint from a TPM or HSM, and a screened subnet is a networking concept for 
+The device it uses is called a security enclave. This is distinct from a TPM or HSM, and a screened subnet is a networking concept.
+
+32 A is correct
+What change management term is used to describe the processes that an organization uses
+for each change that is made to ensure that a consistent process is used?
+A. Standard operating procedures
+B. A change plan
+C. Fixed operating procedures
+D. A backout plan
+Standard Operating Procedures (SOP) is an organizations normal processes that it uses.

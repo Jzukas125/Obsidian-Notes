@@ -74,8 +74,4 @@ To start of course run dirb to find any sub urls, and then inspect the html sour
 Any hidden urls can be copy and pasted and attached to the end of the current URL.
 Hacker101 CTF has a lot of practice resources to help learn how to fully analyze a site.
 
-# Hacker101 ctf 
 
-"A little something to get you started" - I inspected the page source and found the "backgroundimage.png". I realized I could do application walking to gain the flag. I pasted the /backgroundimage.png to the web URL and then the flag appeared.
-
-"Micro-CMS v1" - 

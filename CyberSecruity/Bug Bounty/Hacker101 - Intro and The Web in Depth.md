@@ -136,5 +136,5 @@ How not to mitigate
 - Cookie domain Scooping is often a source of trouble 
 - Same-Origin Policy is strict, but complex enough to be a frequent source of headaches for defenders and attackers alike
 - Cross-Site Request Forgery is when an attacker tricks a victim into going to a page that triggers requests on other sites
-	- USe CSRF tokens!
+	- Use CSRF tokens!
 
