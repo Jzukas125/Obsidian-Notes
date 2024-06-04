@@ -97,12 +97,24 @@ Zero trust designs implement continuous verification, which is an effective cont
 
 # 21-30
 21. A
-22. A
-23. B
+22. ~~A~~
+23. ~~B~~
 24. B
 25. C
 26. B
-27. B
-28. A
-29. A
-30. 
+27. ~~B~~
+28. ~~A~~
+29. ~~A~~
+30. B
+5/10
+
+22 C is correct 
+Greg wants to implement a version control system to ensure that changes are made in ways
+that will not cause problems for his organization’s critical software. Which of the following is
+not a common feature of version control systems designed for software source code?
+A. Atomic operations
+B. File locking
+C. Regression testing
+D. Tagging and labeling
+
+Version control systems track versions but don't do testing themselves. Atomic operati 
