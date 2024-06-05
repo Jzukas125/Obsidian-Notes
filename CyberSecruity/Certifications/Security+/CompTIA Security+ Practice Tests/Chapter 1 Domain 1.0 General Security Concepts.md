@@ -178,3 +178,12 @@ B. A change plan
 C. Fixed operating procedures
 D. A backout plan
 Standard Operating Procedures (SOP) is an organizations normal processes that it uses.
+
+37 B is correct
+Renee wants to ensure that her logs support nonrepudiation. What should she do to
+ensure this?
+A. Encrypt, then hash the logs.
+B. Hash the logs and then digitally sign them.
+C. Digitally sign the log file, then encrypt it.
+D. Hash, then encrypt the logs.
+Calculating a cryptographic hash allows the log's hash to be compared aganist copies to validate that they match. Digitally signing the hash ensures that it can be verified to be the original. Encrypting does not allow verifcation. Without
