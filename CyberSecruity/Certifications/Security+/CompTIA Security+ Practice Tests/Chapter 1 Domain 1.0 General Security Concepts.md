@@ -219,4 +219,18 @@ Database and network connectivity, authentication system access, and network tim
 48. ~~B~~
 49. C
 50. D
+5/10
 
+41 B is correct
+What role does the policy engine play in a zero-trust environment?
+A. It creates new administrative policies based on user behavior.
+B. It grants access based on policies created by administrators and based on security systems data.
+C. It enforces policies by monitoring connections between clients and servers.
+D. It suggests new administrative policies based on usage patterns for adoption by the
+organization.
+Policy engines decide whether to grant access to resources based on policies created by administrators and based on the data provided by tools like endpoint detection and response tools, threat intelligence feeds, and security information and event management tools. It does not create or suggest administrative policies, and it does not directly enforce policies - that occurs at a policy enforcement point, typically through a 
+
+43
+45
+47
+48
