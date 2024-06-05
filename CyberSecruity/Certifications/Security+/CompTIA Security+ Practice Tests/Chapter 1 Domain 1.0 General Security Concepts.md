@@ -231,7 +231,25 @@ organization.
 Policy engines decide whether to grant access to resources based on policies created by administrators and based on the data provided by tools like endpoint detection and response tools, threat intelligence feeds, and security information and event management tools. It does not create or suggest administrative policies, and it does not directly enforce policies - that occurs at a policy enforcement point, typically through a zero-trust agent on the client and at the resource or service side.
 
 43 B is correct
+Which of the following activities should Alaina not restrict as part of her preparation for a
+change window?
+A. Patching
+B. Scaling clustered systems up or down
+C. Changing hostnames
+D. Modifying database configurations
+Change windows rely on the documented change being able to be made. Patching and other technical changes may lead to unexpected interactions or dependency changes that are not accounted for in the original change window.
 
-45
+45 A is correct
+Damian issues the following command on his Linux server:
+openssl req -new -newkey rsa:2048 -nodes -keyout exampleserver.
+key -out exampleserver.csr
+What has he done?
+A. Created a certificate signing request
+B. Created a certificate revocation request
+C. Signed a certificate signing request
+D. Updated the OCSP record for a certificate
+Damian has created the certificate signing request, which he can submit to a certificate authority.
+
 47
+
 48
