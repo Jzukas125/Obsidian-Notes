@@ -198,5 +198,15 @@ C. Microwave
 D. Ultrasonic
 Infrared sensors are commonly used in open spaces. They are well suited to detecting individuals and are less likely to be overly sensitive.
 
-40 
-What are considerations like database and network connectivity, authentication system access, and network time availability considered in the context of change management processes? A. Allowed services B. Standard operating procedures C. Denied services D. Dependencies
+40 D is correct
+What are considerations like database and network connectivity, authentication system
+access, and network time availability considered in the context of change management
+processes?
+A. Allowed services
+B. Standard operating procedures
+C. Denied services
+D. Dependencies
+Database and network connectivity, authentication system access, and network time availability are all common dependencies that must be considered when making changes. Applications and services may fail to start properly if these dependencies are not available when they attempt to start.
+
+# 41 - 50
+41. 
