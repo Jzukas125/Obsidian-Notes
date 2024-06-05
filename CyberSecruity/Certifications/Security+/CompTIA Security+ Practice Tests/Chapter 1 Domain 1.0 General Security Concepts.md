@@ -196,4 +196,7 @@ A. Infrared
 B. Pressure
 C. Microwave
 D. Ultrasonic
-I
+Infrared sensors are commonly used in open spaces. They are well suited to detecting individuals and are less likely to be overly sensitive.
+
+40 
+What are considerations like database and network connectivity, authentication system access, and network time availability considered in the context of change management processes? A. Allowed services B. Standard operating procedures C. Denied services D. Dependencies
