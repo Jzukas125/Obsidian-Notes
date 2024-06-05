@@ -211,4 +211,5 @@ Database and network connectivity, authentication system access, and network tim
 # 41 - 50
 41. C
 42. D
-43. 
+43. C
+44. D
