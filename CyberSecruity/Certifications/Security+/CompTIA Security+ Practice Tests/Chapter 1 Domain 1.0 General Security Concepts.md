@@ -159,6 +159,7 @@ A root of trust-based secure boot process validates each signed component as it 
 38. ~~B~~
 39. C
 40. ~~B~~
+5/10
 
 31 C is correct
 Jason knows that his Apple system uses a separate portion of its SoC (system on chip) to
