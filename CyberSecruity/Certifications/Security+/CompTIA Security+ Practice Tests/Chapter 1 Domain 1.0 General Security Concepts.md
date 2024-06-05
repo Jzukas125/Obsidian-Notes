@@ -209,4 +209,6 @@ D. Dependencies
 Database and network connectivity, authentication system access, and network time availability are all common dependencies that must be considered when making changes. Applications and services may fail to start properly if these dependencies are not available when they attempt to start.
 
 # 41 - 50
-41. 
+41. C
+42. D
+43. 
