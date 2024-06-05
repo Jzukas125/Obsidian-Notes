@@ -228,9 +228,10 @@ B. It grants access based on policies created by administrators and based on sec
 C. It enforces policies by monitoring connections between clients and servers.
 D. It suggests new administrative policies based on usage patterns for adoption by the
 organization.
-Policy engines decide whether to grant access to resources based on policies created by administrators and based on the data provided by tools like endpoint detection and response tools, threat intelligence feeds, and security information and event management tools. It does not create or suggest administrative policies, and it does not directly enforce policies - that occurs at a policy enforcement point, typically through a 
+Policy engines decide whether to grant access to resources based on policies created by administrators and based on the data provided by tools like endpoint detection and response tools, threat intelligence feeds, and security information and event management tools. It does not create or suggest administrative policies, and it does not directly enforce policies - that occurs at a policy enforcement point, typically through a zero-trust agent on the client and at the resource or service side.
 
-43
+43 B is correct
+
 45
 47
 48
