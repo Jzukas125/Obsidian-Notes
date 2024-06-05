@@ -186,4 +186,14 @@ A. Encrypt, then hash the logs.
 B. Hash the logs and then digitally sign them.
 C. Digitally sign the log file, then encrypt it.
 D. Hash, then encrypt the logs.
-Calculating a cryptographic hash allows the log's hash to be compared aganist copies to validate that they match. Digitally signing the hash ensures that it can be verified to be the original. Encrypting does not allow verifcation. Without
+Calculating a cryptographic hash allows the log's hash to be compared against copies to validate that they match. Digitally signing the hash ensures that it can be verified to be the original. Encrypting does not allow verification. Without verification nonrepudiation is not satisfied. 
+
+38 A is correct
+Isaac wants to deploy sensors to detect intruders in a facility, but he is concerned about the
+sensors being overly sensitive. What type of sensor is best suited to detecting intruders in an
+open office environment without significant expense or issues with sensitivity?
+A. Infrared
+B. Pressure
+C. Microwave
+D. Ultrasonic
+I
