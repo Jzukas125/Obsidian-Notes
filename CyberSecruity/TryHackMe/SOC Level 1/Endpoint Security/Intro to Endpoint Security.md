@@ -46,4 +46,9 @@ Allows us to see
 Endpoint logging allows us to collect and aggregate them for searching capabilities, and better automate the detection of anomalies. 
 
 <h3> Windows Event Logs </h3>
-Windows event logs are not text files can be viewed using a text editor.  However the raw data can be translated into XML using the Windows API. The events in these log files are stored in proprietary binary format with a .evt or .evtx extension. The log files with .evtx file extension typi
+Windows event logs are not text files can be viewed using a text editor.  However the raw data can be translated into XML using the Windows API. The events in these log files are stored in proprietary binary format with a .evt or .evtx extension. The log files with .evtx file extension typically reside in C:\Windows\System32\winevt\Logs.
+
+3 main ways of accessing event logs within a Windows system:
+1. Event Viewer
+2. Wevtutil.exe
+3. Get-WinEvent
