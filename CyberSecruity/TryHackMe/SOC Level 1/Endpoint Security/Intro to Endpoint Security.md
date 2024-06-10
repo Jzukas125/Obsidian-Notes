@@ -52,3 +52,11 @@ Windows event logs are not text files can be viewed using a text editor.  Howeve
 1. Event Viewer
 2. Wevtutil.exe
 3. Get-WinEvent
+
+<h3> Sysmon </h3>
+Sysmon is a tool used to monitor and log events on Windows, commonly used by enterprises as part of their monitoring and logging solutions. Sysmon is similar to windows event logs with further detail and granular control.
+
+Gathers very detailed information, commonly used with a SIEM.
+
+<h3> OSQuery </h3>
+Open-source tool created b
