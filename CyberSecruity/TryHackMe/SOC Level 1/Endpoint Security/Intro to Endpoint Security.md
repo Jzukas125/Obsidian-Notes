@@ -18,8 +18,7 @@ Task provides some of the core windows processes running in the background such 
 - winlogon.exe
 - explorer.exe
 
-# Sysinternals
-
+<h3> Sysinternals </h3>
 With the prior knowledge of Core windows processes, we can now proceed to discuss the available toolset for analyzing running artifacts in the backend of a windows machine. The sysinternals tools are a compilation of over 70+ windows-based tools. Each of the tools falls into one of the following categories:
 - File and Disk Utilities
 - Networking Utilities
@@ -32,10 +31,13 @@ We will introduce two of the most used sysinternals tools for endpoint investiga
 - TCP view - Networking Utility tool
 - Process Explorer - Process Utility tool 
 
-# TCP view
+<h3> TCP view </h3>
 TCP view is a windows program that will show a detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections. On window server 2008, Vista, and XP, TCPView also reports the name of the process that owns the endpoint. TCPView provides a more informative and conveniently presented subset of the Netstat program that ships with Windows. The TCPView download includes Tcpvcon, a command-line version with the same functionality.
 
-# Process Explorer
+Process Explorer
 Allows us to see 
 - Associated services
-- 
+- Invoked network traffic
+- Handles such as files or directories opened
+- DLLs and memory-mapped files loaded
+
