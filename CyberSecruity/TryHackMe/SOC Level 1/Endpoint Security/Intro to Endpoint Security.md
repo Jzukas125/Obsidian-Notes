@@ -41,3 +41,5 @@ Allows us to see
 - Handles such as files or directories opened
 - DLLs and memory-mapped files loaded
 
+# Endpoint Logging and Monitoring
+
