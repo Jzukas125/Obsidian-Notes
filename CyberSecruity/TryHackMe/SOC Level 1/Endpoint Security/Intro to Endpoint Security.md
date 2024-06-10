@@ -59,4 +59,4 @@ Sysmon is a tool used to monitor and log events on Windows, commonly used by ent
 Gathers very detailed information, commonly used with a SIEM.
 
 <h3> OSQuery </h3>
-Open-source tool created b
+Open-source tool created by Facebook. Can query an endpoint using SQL syntax. Osquery can be installed on various platforms.
