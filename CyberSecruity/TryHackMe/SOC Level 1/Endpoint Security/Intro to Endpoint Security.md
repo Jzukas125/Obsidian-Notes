@@ -43,3 +43,7 @@ Allows us to see
 
 # Endpoint Logging and Monitoring
 
+Endpoint logging allows us to collect and aggregate them for searching capabilities, and better automate the detection of anomalies. 
+
+<h3> Windows Event Logs </h3>
+Windows event logs are not text files can be viewed using a text editor.  However the raw data can be translated into XML using the Windows API. The events in these log files are stored in proprietary binary format with a .evt or .evtx extension. The log files with .evtx file extension typi
