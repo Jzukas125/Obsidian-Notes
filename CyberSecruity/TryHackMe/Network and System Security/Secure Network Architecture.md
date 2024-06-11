@@ -11,4 +11,7 @@ Throughout this room, we will break down these scenarios or objectives and under
 
 # Network Segmentation
 
-The need for secure segmentation
+<h3> The need for secure segmentation </h3>
+Subnets seem to solve all problems a network may face; why would we use another solution? To answer this question, let’s consider a scenario where a client brings in their own device, a common practice known as BYOD (Bring Your Own Device). The client’s device was infected with a Remote Access Trojan (RAT) that will attempt to traverse the network the device is connected to and exfiltrate any sensitive information. With subnetting in place, there is no restriction in place as to where the infected device could connect as long as the proper routes are in place, leaving sensitive information and servers open to the unknown device. How do we fix this problem? VLANs! 
+
+VLANs are used to segment portions of a network at layer two and differentiate devices. 
