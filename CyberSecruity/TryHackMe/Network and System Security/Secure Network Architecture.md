@@ -85,3 +85,17 @@ But are they really isolated? Physically, they are isolated, but because routes 
 # Common Secure Network Architecture
 
 With the introduction of VLANs, there is a shift in network architecture design to include security as a key consideration. **Security**, **optimization**, and **redundancy** should all be considered when designing a network, ideally without compromising one component.
+
+**Security zones** define **what** or **who** is in a VLAN and how traffic can travel **in** and **out**.  
+
+Depending on whom you speak to, every network architect may have a different approach/opinion to the language or requirements surrounding security zones. In this task, we will immerse you in the most commonly accepted security zone standards, keeping a minimalist approach to segmentation.
+
+|                          |                                                                                                                                                  |                                           |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| **Zone  <br>**           | **Explanation  <br>**                                                                                                                            | **Examples**                              |
+| External                 | All devices and entities outside of our network or asset control.                                                                                | Devices connecting to a web server        |
+| DMZ (demilitarized zone) | Separates untrusted networks or devices from internal resources.                                                                                 | BYOD, remote users/guests, public servers |
+| Trusted                  | Internal networks or devices. A device may be placed in the trusted zone if there is no confidential or sensitive information.                   | Workstations, B2B                         |
+| Restricted               | Any high-risk servers or databases.                                                                                                              | Domain controllers, client information    |
+| Management               | Any devices or services dedicated to network or other device management. This zone is less commonly seen and can be grouped with the audit zone. | Virtualization management, backup servers |
+| Audit                    | Any devices or services dedicated to security or monitoring. This zone is less commonly seen and can be grouped with management.                 | SIEM, telemetry                           |
