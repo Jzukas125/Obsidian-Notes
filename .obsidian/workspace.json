@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
+                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
+                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
+                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md"
+                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md"
               }
             }
           },
@@ -189,6 +189,10 @@
   },
   "active": "b5338a876983ef45",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
+    "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
+    "CyberSecruity/TryHackMe/Network and System Security",
+    "CyberSecruity/TryHackMe/Untitled.md",
     "CyberSecruity/CCDC/Nmap.md",
     "CyberSecruity/CCDC/Netstat and Net.md",
     "CyberSecruity/Bug Bounty/Hacker101 - Intro and The Web in Depth.md",
@@ -205,7 +209,6 @@
     "CyberSecruity/CTF/Hacker101 ctf.md",
     "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
     "CyberSecruity/CTF",
-    "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
     "CyberSecruity/Certifications/Security+/General Security Plus Studying and resources.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 5.md",
     "CyberSecruity/Certifications/Security+/CompTIA syo-701 Security+ Chapter 4.md",
@@ -219,7 +222,6 @@
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Walking an Application.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/What is content discovery.md",
     "CyberSecruity/OSINT/OSINT Play Book.md",
-    "CyberSecruity/Hack the Box/Incident Handling.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
@@ -233,7 +235,6 @@
     "Pasted image 20240328170209.png",
     "Pasted image 20240328160848.png",
     "Pasted image 20240328160822.png",
-    "Snort cheat sheet PDF.pdf",
     "Pasted image 20240327131938.png"
   ]
 }
