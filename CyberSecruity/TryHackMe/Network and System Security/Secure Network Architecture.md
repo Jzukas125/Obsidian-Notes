@@ -17,3 +17,18 @@ Subnets seem to solve all problems a network may face; why would we use another 
 VLANs are used to segment portions of a network at layer two and differentiate devices. 
 
 VLANs are configured on a switch by adding a "tag" to a frame. The 802.1q or dot1q tag will designate the VLAN that the traffic originated from.
+
+Let's first look at the default configuration of the switch.
+
+```
+$ ovs-vsctl show
+```
+
+To add a VLAN and tags to a sub-interface, we need to modify the configuration through `ovs-vsctl`
+
+```
+$ ovs-vsctl set port <interface> tag=<0-99>
+```
+
+The tag should now be listed under the sub-interface in the configuration.
+
