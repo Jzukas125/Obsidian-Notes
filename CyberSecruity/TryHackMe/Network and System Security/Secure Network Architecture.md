@@ -1,0 +1,1 @@
+A properly designed network permits not only internet usage and device communication but also redundancy, optimization, and security.
