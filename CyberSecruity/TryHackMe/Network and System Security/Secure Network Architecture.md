@@ -82,3 +82,6 @@ If all went well and was appropriately configured, we should be able to route tr
 
 But are they really isolated? Physically, they are isolated, but because routes exist between them, there is no security boundary, and they are not necessarily isolated. As long as a route exists between two VLANs, any device can communicate between the two.
 
+# Common Secure Network Architecture
+
+With the introduction of VLANs, there is a shift in network architecture design to include security as a key consideration. **Security**, **optimization**, and **redundancy** should all be considered when designing a network, ideally without compromising one component.
