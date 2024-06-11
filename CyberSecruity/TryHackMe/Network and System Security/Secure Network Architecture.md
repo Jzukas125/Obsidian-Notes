@@ -42,8 +42,12 @@ $ ovs-vsctl set port eth0 tag=10 vlan_mode=native-untagged
 Now all traffic should be tagged, even with unknown origins.
 
 <h3> Routing between VLANs </h3>
-VLANs can connect to the internet using routers. Before modern solutions were introduced, network engineers would physically connect a switch and router separately for each VLAN present. Nowadays, that problem is solved through the **ROAS** (**R**outer **o**n **a S**tick) design. VLANs can now talk to routers using a switch port. 
-The connection between the switch and router is known as a **trunk**. VLANs are routed through the switch port, requiring only one trunk/connection between the switch and router, hence, "_on a stick_."
+VLANs can connect to the internet using routers. Before modern solutions were introduced, network engineers would physically connect a switch and router separately for each VLAN present. 
+Nowadays, that problem is solved through the **ROAS** (**R**outer **o**n **a S**tick) design. VLANs can now talk to routers using a switch port. 
+
+The connection between the switch and router is known as a **trunk**.
+
+VLANs are routed through the switch port, requiring only one trunk/connection between the switch and router, hence, "_on a stick_."
 
 Before configuring the router, we must configure a trunk on a pre-existing connection. In our demonstration lab environment, trunks are configured by default as **bridges**. Each vendor configures their trunks and switch ports differently, some even with propriety protocols.
 
