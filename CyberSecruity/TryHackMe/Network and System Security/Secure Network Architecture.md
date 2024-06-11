@@ -1,1 +1,1 @@
-A properly designed network permits not only internet usage and device communication but also redundancy, optimization, and security.
+A properly designed network permits not only internet usage and device communication but also redundancy, optimization, and security. In a well designed network, if a switch goes down, then packets can be redistributed through another route with no loss in uptime. If a web server is compromised, it cannot traverse the network and access important information
