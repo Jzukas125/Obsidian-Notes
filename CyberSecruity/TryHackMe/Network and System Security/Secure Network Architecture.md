@@ -10,3 +10,5 @@ Throughout this room, we will break down these scenarios or objectives and under
 3. Understand a network’s environment and potential threats
 
 # Network Segmentation
+
+The need for secure segmentation
