@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md"
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "b5338a876983ef45",
   "lastOpenFiles": [
-    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Authentication Bypass.md",
     "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
+    "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Authentication Bypass.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
     "CyberSecruity/TryHackMe/Network and System Security",
     "CyberSecruity/TryHackMe/Untitled.md",
