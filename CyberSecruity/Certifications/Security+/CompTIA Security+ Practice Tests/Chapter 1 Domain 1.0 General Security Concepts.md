@@ -250,6 +250,13 @@ C. Signed a certificate signing request
 D. Updated the OCSP record for a certificate
 Damian has created the certificate signing request, which he can submit to a certificate authority.
 
-47
+47 B is correct
+Megan wants to assess the impact of a change as part of her change management process.
+Which of the following is most likely to help her assess impact?
+A. A backout plan
+B. An estimate of the downtime expected
+C. A list of stakeholders
+D. A list of dependencies for impacted systems
+An estimate of the downtime expected as part of the change will help Megan to assess the impact of the change on her organization's business operations. A backout plan is useful if something goes wrong and can help estimate impact if that happens, but it does 
 
 48
