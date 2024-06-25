@@ -257,6 +257,11 @@ A. A backout plan
 B. An estimate of the downtime expected
 C. A list of stakeholders
 D. A list of dependencies for impacted systems
-An estimate of the downtime expected as part of the change will help Megan to assess the impact of the change on her organization's business operations. A backout plan is useful if something goes wrong and can help estimate impact if that happens, but it does 
+An estimate of the downtime expected as part of the change will help Megan to assess the impact of the change on her organization's business operations. A backout plan is useful if something goes wrong and can help estimate impact if that happens, but it does not identify impact under normal circumstances. A list of stakeholders can help when communicating with stakeholders to notify them of what will occur, but without the estimate of downtime, Megan will not be able to ask them what the impact would be. Finally, a list of dependencies is helpful to ensure that the change does not have unexpected issues and can help with the impact assessment to determine if other systems may impacted, but the downtime expected remains the most important item.
 
-48
+48 C is correct
+Jared wants to estimate the downtime that will result as part of a planned change. Which of the following methods will most effectively help him estimate downtime?
+A. Average the downtime from other recent changes.
+B. Contact the vendor for time estimates for the change.
+C. Perform the change in a test environment.
+D. Use a fixed maintenance window.
