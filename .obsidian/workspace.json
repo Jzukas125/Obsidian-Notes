@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2a4b2f24d6d8793",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5338a876983ef45",
+  "active": "e2a4b2f24d6d8793",
   "lastOpenFiles": [
     "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Authentication Bypass.md",
