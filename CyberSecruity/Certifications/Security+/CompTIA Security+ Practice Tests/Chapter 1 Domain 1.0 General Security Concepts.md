@@ -268,4 +268,8 @@ D. Use a fixed maintenance window.
 Organizations often perform changes in a test environment to allow accurate time estimates and to determine if there are issues with the change like an undocumented dependencies or problems with patches. Average downtime is a poor indicator of what a specific change may require, a fixed maintenance window does not ensure the change will take that amount of time, and vendors rarely have a full understanding of the environment an organization is operating in.
 
 # 51 - 60
-51. 
+51. A
+52. A
+53. C
+54. ~~C~~
+55. 
