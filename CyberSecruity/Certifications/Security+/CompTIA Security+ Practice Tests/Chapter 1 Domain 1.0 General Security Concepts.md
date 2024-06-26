@@ -277,4 +277,14 @@ Organizations often perform changes in a test environment to allow accurate time
 57. C
 58. B
 59. C
-60. 
+60. C
+8/10
+
+54 B is correct
+What technology is record-level encryption most commonly associated with?
+A. Stored audio files
+B. Databases
+C. Physical disks
+D. Removable storage
+Record level encryption is commonly associated with databases, where it is used to encrypt each record with a unique encryption key, allowing it to be more secure than database-level encryption.
+
