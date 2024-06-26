@@ -288,3 +288,15 @@ C. Physical disks
 D. Removable storage
 Record level encryption is commonly associated with databases, where it is used to encrypt each record with a unique encryption key, allowing it to be more secure than database-level encryption.
 
+56 B is correct
+Valerie wants to authenticate her systems using her AAA system. Which of the following
+options is best suited to system authentication?
+A. Asymmetric authentication
+B. Certificate-based authentication
+C. Symmetric authentication
+D. PIN-based authentication
+Certificates are commonly used for system authentication in AAA systems. While asymmetric and symmetric are forms of encryption, they are not authentication schemes, and PIN based authentication is not commonly used for system authentication. 
+
+# 61-70
+61. ~~A~~
+62. 
