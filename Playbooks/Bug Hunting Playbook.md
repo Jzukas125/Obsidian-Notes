@@ -5,7 +5,7 @@ It's important to have a setup guide to stop yourself from
 
 <h5> Virtual Private Server </h5>
 Good to use for testing. Stops your firewall from blocking requests.
-- Good Vps's include
+- Good VPS's include
 	- AWS
 	- OVJ
 	- a2hosting
