@@ -12,3 +12,5 @@ Good to use for testing. Stops your firewall from blocking requests.
 
 <h5> Virtualization </h5>
 A virtual machine with a kali Linux image is absolutely important to have 
+
+# Pre-Game - Organization 
