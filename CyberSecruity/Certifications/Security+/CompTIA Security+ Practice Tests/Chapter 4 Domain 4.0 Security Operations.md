@@ -57,11 +57,23 @@ A screened subnet designs use a firewall with three interfaces, one for the inte
 # 11-20
 11. C
 12. C
-13. D
+13. ~~D~~
 14. C
 15. C
 16. D
-17. D
-18. B
+17. ~~D~~
+18. ~~B~~
 19. C
-20. 
+20. C
+7/10
+
+13 B is correct
+Angela reviews bulletins and advisories to determine what threats her organization is likely
+to face. What type of activity is this associated with?
+A. Incident response
+B. Threat hunting
+C. Penetration testing
+D. Vulnerability scanning
+
+Threat hunting can also include reviewing advisories and bulletins to remain aware of the threat environment. Vulnerability scanning seeks to identify vulnerabilities using testing through technical means like connecting to services or checking local version information.
+
