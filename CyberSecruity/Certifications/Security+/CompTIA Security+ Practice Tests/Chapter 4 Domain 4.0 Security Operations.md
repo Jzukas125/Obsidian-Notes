@@ -77,3 +77,22 @@ D. Vulnerability scanning
 
 Threat hunting can also include reviewing advisories and bulletins to remain aware of the threat environment. Vulnerability scanning seeks to identify vulnerabilities using testing through technical means like connecting to services or checking local version information.
 
+17 C is correct
+Carolyn runs a vulnerability scan of a network device and discovers that the device is
+running services on TCP ports 22 and 443. What services has she most likely discovered?
+A. Telnet and a web server
+B. FTP and a Windows file share
+C. SSH and a web server
+D. SSH and a Windows file share
+
+A network device running SSH on port 22 and a web server on TCP port 443 is a very typical discovery when running a vulnerability scan. Without any demonstrated issues, Carolyn should simply note that she saw those services. Telnet runs on port 21, an unencrypted web server will run on TCP 80 in most cases, and Windows file shares use a variety of ports, including TCP ports 135–139 and 445.
+
+18 C is correct
+Susan is responsible for application development in her company. She wants to have all web
+applications tested before they are deployed live. She wants to use a test system that is identical to the live server. What is this called?
+A. A production server
+B. A development server
+C. A test server
+D. A predeployment server
+
+A test server should be identical to the production server. This can be used
