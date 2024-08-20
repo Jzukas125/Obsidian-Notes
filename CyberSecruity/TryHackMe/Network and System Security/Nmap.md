@@ -5,4 +5,4 @@ Nmap is an important network reconnaissance tool that is used to map out network
 
 Network connections are made between two ports, an open port and a randomly selected port on your own device. Every computer has a total of 65535 available ports; however, many of these are registered as standard ports. 
 
-It is crucial we perform a scan on networks to find any open ports and with nmap being our tool of choice.
+It is crucial we perform a scan on networks to find any open ports and with Nmap being our tool of choice. 
