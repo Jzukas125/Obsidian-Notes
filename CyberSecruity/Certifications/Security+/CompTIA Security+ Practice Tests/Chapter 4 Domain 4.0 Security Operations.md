@@ -1,4 +1,5 @@
-#Securityplus 
+#Securityplus
+# 1-10
 1. ~~B~~
 2. ~~C~~
 3. A
@@ -28,4 +29,30 @@ B. Threat hunting
 C. Root cause analysis
 D. Eradication
 
-Threat hunting is the process of searching for threats, often using IoCs. Root cause analysis looks for the underlying cause of an issue or event, and eradication is the complete removal of a threat or artifacts of malicious activit
+Threat hunting is the process of searching for threats, often using IoCs. Root cause analysis looks for the underlying cause of an issue or event, and eradication is the complete removal of a threat or artifacts of malicious activity.
+
+4 C is correct
+Greg wants to gain admission to a network which is protected by a network access control
+(NAC) system that recognized the hardware address of systems. How can he bypass this
+protection?
+A. Spoof a legitimate IP address.
+B. Conduct a denial-of-service attack against the NAC system.
+C. Use MAC cloning to clone a legitimate MAC address.
+D. None of the above.
+
+Greg can clone a mac address. Greg can do this by checking for a MAC label on some devices or by capturing traffic on the network if he can physically access it.
+
+5 B is correct
+Melissa’s organization has deployed a firewall that uses three interfaces to provide services.
+The first interface connects to the Internet, the second to a network where the organization’s
+web servers reside, and the third to a secured network where the organization’s workstations
+are connected. What type of firewall architecture has Melissa’s organization deployed?
+A. An ACL
+B. A screened subnet
+C. A binary firewall
+D. A multihomed, multiroute NGFW
+
+A screened subnet designs use a firewall with three interfaces, one for the internet or an untrusted network, one for a protected but front-facing network, and for one for a shielded or protected network. ACL (access control list) use rules to control access. NGFW can be multihomed but not multirouted.
+
+# 11-20
+11. 
