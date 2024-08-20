@@ -4,9 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e36e25a89cdceeff",
+        "id": "6b4289a1f432ccf0",
         "type": "tabs",
         "children": [
+          {
+            "id": "a185e8ce4a215c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "fdfaf5b5c7b641e7",
             "type": "leaf",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
