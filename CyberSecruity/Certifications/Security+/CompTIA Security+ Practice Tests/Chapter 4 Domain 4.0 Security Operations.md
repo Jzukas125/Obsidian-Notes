@@ -55,4 +55,13 @@ D. A multihomed, multiroute NGFW
 A screened subnet designs use a firewall with three interfaces, one for the internet or an untrusted network, one for a protected but front-facing network, and for one for a shielded or protected network. ACL (access control list) use rules to control access. NGFW can be multihomed but not multirouted.
 
 # 11-20
-11. 
+11. C
+12. C
+13. D
+14. C
+15. C
+16. D
+17. D
+18. B
+19. C
+20. 
