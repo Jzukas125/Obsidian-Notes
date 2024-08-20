@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Nmap.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Nmap.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Nmap.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/Network and System Security/Nmap.md"
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "fdfaf5b5c7b641e7",
   "lastOpenFiles": [
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
     "CyberSecruity/TryHackMe/Network and System Security/Nmap.md",
     "Playbooks/Bug Hunting Playbook.md",
     "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Authentication Bypass.md",
@@ -188,7 +190,6 @@
     "Personal Notes/Ideas.md",
     "Personal Notes/How to Impress at a SE internship.md",
     "Playbooks/SOC Playbook.md",
-    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
     "CyberSecruity/TryHackMe/Network and System Security",
@@ -204,7 +205,6 @@
     "CyberSecruity/CCDC/Samba part 2.md",
     "CyberSecruity/CCDC/Things to study.md",
     "CyberSecruity/CCDC/Windows Event Logs & Registry.md",
-    "CyberSecruity/Bug Bounty/Beginner Bug Bounty Course Web Application Hacking - YouTube Video from Ryan John.md",
     "CyberSecruity/CTF",
     "CyberSecruity/Certifications/Microsoft",
     "CyberSecruity/Certifications",
