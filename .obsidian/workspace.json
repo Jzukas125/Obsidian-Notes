@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Bug Hunting Playbook.md",
+                "file": "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Authentication Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playbooks/Bug Hunting Playbook.md",
+                "file": "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Authentication Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playbooks/Bug Hunting Playbook.md"
+                "file": "CyberSecruity/TryHackMe/Web Fundamentals/Intro to Web Hacking/Authentication Bypass.md"
               }
             }
           },
@@ -187,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5338a876983ef45",
+  "active": "61e2aad2184bffe4",
   "lastOpenFiles": [
-    "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
     "Playbooks/Bug Hunting Playbook.md",
+    "CyberSecruity/TryHackMe/TryHackMe CyberDefense.md",
     "CyberSecruity/OSINT/OSINT Play Book.md",
     "CyberSecruity/TryHackMe/Untitled.md",
     "CyberSecruity/CTF/Hacker101 ctf.md",
