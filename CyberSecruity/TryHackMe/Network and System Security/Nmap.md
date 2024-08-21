@@ -7,4 +7,13 @@ Network connections are made between two ports, an open port and a randomly sele
 
 It is crucial we perform a scan on networks to find any open ports and with Nmap being our tool of choice. 
 
-# 
+# Overview
+When port scanning Nmap, there are three basic scan types. These are:
+- TCP connect scans (-sT)
+- SYN "Half-open" scans (-sS)
+- UDP Scans (-su)
+
+Additionally there are several less common port scan types, some of which we will also cover. These are:
+- TCP null scans (-sN)
+- TCP FIN scans (-sF)
+- TCP Xmas Scans (-sX)
