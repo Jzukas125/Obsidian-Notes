@@ -91,4 +91,25 @@ B. Seek an exception.
 C. Document the risk.
 D. Mitigate the risk.
 
-Risk exceptions are granted when a risk is accepted by the organization, despite not following typical organizational policies or processes. This is not a transfer or mitigation, and simply documenting the risk does not cause it to
+Risk exceptions are granted when a risk is accepted by the organization, despite not following typical organizational policies or processes. This is not a transfer or mitigation, and simply documenting the risk does not cause it to be accepted.
+
+19 C is correct
+Jake’s team has begun handling new data related to customers, including their personally
+identifiable information. Jake takes on a new role that has responsibilities including classifying each data element gathered about customers. What is Jake’s role in the data handling
+process?
+A. Controller
+B. Custodian
+C. Owner
+D. Processor
+
+Data owners classify, protect, oversee the use of, and ensure the quality of data. Controllers are responsible for the procedures and purposes of data use, often described as the why and how.
+
+20 C is correct
+Which of the following measures is not commonly used as part of a business impact analysis?
+A. RTO
+B. MTTR
+C. ARO
+D. MTBF
+
+Recovery Time Objectives (RTO), Recovery Point objectives (RPO), Mean time to repair (MTTR), and mean time between failures (MTBF). ARO, annual rate of occurrence, is associated with risk management, not Business impact analysis (BIA). 
+
