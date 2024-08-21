@@ -43,8 +43,23 @@ Qualitative risk assessment uses knowledge and expertise to assess risk rather t
 
 # 11-20
 11. A
-12. B
+12. ~~B~~
 13. C
 14. B
-15. D
-16. 
+15. ~~D~~
+16. ~~B~~
+17. A
+18. ~~A~~
+19. ~~B~~
+20. ~~B~~
+
+12 C is correct
+Marissa has been recruited to a group that provides oversight for an organization but that
+doesn’t engage in the day-to-day operations of the organization. The group focuses on
+strategy and direction for the organization and meets a few times a year. What type of governance group is Marissa part of?
+A. An activist investor’s group
+B. A committee
+C. A board
+D. A regulator
+
+Boards may form sub-committees to accomplish specifc tasks or to provide oversight over specifc 
