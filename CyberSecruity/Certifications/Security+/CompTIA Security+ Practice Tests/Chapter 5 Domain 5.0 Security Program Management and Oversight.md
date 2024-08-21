@@ -52,6 +52,7 @@ Qualitative risk assessment uses knowledge and expertise to assess risk rather t
 18. ~~A~~
 19. ~~B~~
 20. ~~B~~
+4/10
 
 12 C is correct
 Marissa has been recruited to a group that provides oversight for an organization but that
@@ -62,4 +63,32 @@ B. A committee
 C. A board
 D. A regulator
 
-Boards may form sub-committees to accomplish specifc tasks or to provide oversight over specifc 
+Boards may form sub-committees to accomplish specific tasks or to provide oversight over specific tasks.
+
+15 C is correct 
+What term describes a third party that takes actions on behalf of a data controller?
+A. Data subject
+B. Data owner
+C. Data processor
+D. Data administrator
+
+Data processors process data on behalf of controllers. 
+
+16 D is correct
+Which of the following will provide a customer the opportunity to engage a third party to
+deliver an SOC 2, Type 1 report created by third-party assessors?
+A. A penetration testing agreement
+B. A risk assessment agreement
+C. A vulnerability scan clause
+D. A right-to-audit clause
+
+A right to audit clauses provide customers with the right to have an audit of their vendor like an SOC 2, Type 1 assessment performed. SOC 2, type 1 reports are not penetration testing reports, vulnerability scan reports, or risk assessment reports.
+
+18 B is correct
+Pedro’s organization uses industrial machinery, which runs an RTOS that is no longer supported. His organization’s policies require systems to be removed from service if they cannot be patched for security issues, and the RTOS has a known vulnerability. The machines are very expensive and are a core part of the organization’s industrial processes. What risk process would Pedro follow if he wanted to retain the devices, despite the risk?
+A. Transfer the risk.
+B. Seek an exception.
+C. Document the risk.
+D. Mitigate the risk.
+
+Risk exceptions are granted when a risk is accepted by the organization, despite not following typical organizational policies or processes. This is not a transfer or mitigation, and simply documenting the risk does not cause it to
