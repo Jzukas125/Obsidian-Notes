@@ -44,4 +44,7 @@ Qualitative risk assessment uses knowledge and expertise to assess risk rather t
 # 11-20
 11. A
 12. B
-13. 
+13. C
+14. B
+15. D
+16. 
