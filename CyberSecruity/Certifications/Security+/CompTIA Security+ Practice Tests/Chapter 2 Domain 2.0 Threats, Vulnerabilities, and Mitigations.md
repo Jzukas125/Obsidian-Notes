@@ -53,4 +53,5 @@ WPA-3 is the most modern, most secure option from the list. WPA-4 does not exist
 
 # 11-20
 11. A
-12. 
+12. B
+13. 
