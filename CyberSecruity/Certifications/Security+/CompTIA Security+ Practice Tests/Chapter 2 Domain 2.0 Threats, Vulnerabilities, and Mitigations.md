@@ -49,4 +49,7 @@ B. WPA-3
 C. WPA-2 Enterprise
 D. WPA-4
 
-WPA-3 is the most modern, most secure option from the list. WPA-4 
+WPA-3 is the most modern, most secure option from the list. WPA-4 does not exist and WPA-2 is less secure.
+
+# 11-20
+11. 
