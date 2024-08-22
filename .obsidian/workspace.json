@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "Classes/Fall 2024/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "Classes/Fall 2024/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "Classes/Fall 2024/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md"
+                "file": "Classes/Fall 2024/Untitled.md"
               }
             }
           },
@@ -174,10 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdfaf5b5c7b641e7",
+  "active": "e9e2845922235335",
   "lastOpenFiles": [
-    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
+    "Classes/Fall 2024/Untitled",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+    "Classes/Fall 2024/Untitled.md",
+    "Classes/Fall 2024",
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/TryHackMe/Network and System Security/Nmap.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 5 Domain 5.0 Security Program Management and Oversight.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
@@ -203,8 +206,6 @@
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Get Certified Get Ahead SY0-701 Study Guide Notes.md",
     "Untitled.canvas",
     "Pasted image 20230918170051.png",
-    "CyberSecruity/CCDC/Network Monitoring Tools.md",
-    "CyberSecruity/CCDC/Samba part 2.md",
     "CyberSecruity/CTF",
     "CyberSecruity/Certifications/Microsoft",
     "CyberSecruity/Certifications",
@@ -218,7 +219,6 @@
     "Pasted image 20240403113301.png",
     "Pasted image 20240402144702.png",
     "Pasted image 20240401104257.png",
-    "Personal Notes",
     "Pasted image 20240328170209.png",
     "Pasted image 20240328160848.png",
     "Pasted image 20240328160822.png",
