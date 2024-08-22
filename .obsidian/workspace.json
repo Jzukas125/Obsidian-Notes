@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fall 2024/Untitled.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Fall 2024/Untitled.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Fall 2024/Untitled.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Fall 2024/Untitled.md"
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md"
               }
             }
           },
@@ -174,11 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9e2845922235335",
+  "active": "fdfaf5b5c7b641e7",
   "lastOpenFiles": [
-    "Classes/Fall 2024/Untitled",
+    "Classes/Fall 2024/Operating System Concepts/Class 8-22-2024.md",
+    "Classes/Fall 2024/Operating System Concepts",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
-    "Classes/Fall 2024/Untitled.md",
     "Classes/Fall 2024",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/TryHackMe/Network and System Security/Nmap.md",
@@ -213,7 +213,6 @@
     "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security",
     "CyberSecruity/TryHackMe/SOC Level 1/Cyber Defense Framworks",
     "CyberSecruity/TryHackMe/SOC Level 1/CTI",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis",
     "Pasted image 20240403143310.png",
     "Pasted image 20240403143229.png",
     "Pasted image 20240403113301.png",
