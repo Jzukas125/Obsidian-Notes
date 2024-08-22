@@ -54,11 +54,32 @@ WPA-3 is the most modern, most secure option from the list. WPA-4 does not exist
 # 11-20
 11. A
 12. B
-13. A
-14. A
+13. ~~A~~
+14. ~~A~~
 15. B
 16. B
 17. C
 18. D
 19. B
-20. 
+20. B
+8/10
+
+13 C is correct
+Which of the following is not a common concern related to the hardware vendor
+supply chain?
+A. Malware preinstalled on hardware
+B. Lack of availability of hardware
+C. Third-party hardware modifications
+D. Malicious firmware modifications
+
+While malware, modified firmware, and a lack of availability are common concerns with the hardware supply chain, hardware modifications remain relatively uncommon.
+
+14 B is correct
+Ben wants to conduct a credential replay attack. What should he do first to enable
+the attack?
+A. Create a phishing email.
+B. Conduct an on-path attack.
+C. Use a brute-force password attack.
+D. Conduct an injection attack.
+
+On-path attacks are used to capture, then replay valid credentials for attackers to use. Phishing emails and brute forcing can help obtain credintials but do not involve credential replay.
