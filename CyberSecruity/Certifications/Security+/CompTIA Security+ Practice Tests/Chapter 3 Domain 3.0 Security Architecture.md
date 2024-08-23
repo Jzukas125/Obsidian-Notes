@@ -52,3 +52,22 @@ SDN (software defined networking) makes the network very scalable, making it ver
 4/10
 
 11 A is correct
+Derek has been asked to implement his organization’s service-oriented architecture as a set of microservices. What does he need to implement?
+A. A set of loosely coupled services with specific purposes
+B. A set of services that run on very small systems
+C. A set of tightly coupled services with custom-designed protocols to ensure continuous
+operation
+D. A set of services using third-party applications in a connected network enabled with
+industry standard protocols
+
+A microservice architecture builds applications as a set of loosely coupled services that provide specific functions using lightweight protocols. It does not define the size of the systems, but it is not a tightly coupled environment. Protocol choice is often open standards-based, but the emphasis is on lightweight protocols. There is not a requirement that services be in-house or third party exclusively. 
+
+12 C is correct
+Abigail is responsible for datacenters in a large, multinational company. She has to support multiple datacenters in diverse geographic regions. What would be the most effective way for her to manage these centers consistently across the enterprise?
+A. Hire datacenter managers for each center.
+B. Implement enterprise-wide SDN.
+C. Implement infrastructure as code (IaC).
+D. Automate provisioning and deprovisioning.
+
+The correct answer is to implement IaC. Infrastructure as code is the process of managing and provisioning computer datacenters through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools. Datacenter managers won't necessarily provide consistent management.
+
