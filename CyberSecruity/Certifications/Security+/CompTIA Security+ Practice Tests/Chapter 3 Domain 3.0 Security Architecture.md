@@ -39,4 +39,7 @@ D. It will prevent session hijacking.
 SDN (software defined networking) makes the network very scalable, making it very easy to add or remove resources.
 
 # 11-20
-11. 
+11. D
+12. A
+13. B
+14. 
