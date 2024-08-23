@@ -109,6 +109,3 @@ C. A warm site
 D. A MOU site
 
 A cold site is a location that can be brought online but does not have systems, cold sites typically have access to power and bandwidth, but they need to be fully equipped to operate after a disaster since they are just rented space.
-
-# 21-30 
-21. 
