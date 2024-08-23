@@ -88,4 +88,27 @@ B. A full backup
 C. An incremental backup
 D. A differential
 
-Differential backups back up all of the changes since the last full backup. An incremental backup backs up
+Differential backups back up all of the changes since the last full backup. An incremental backup backs up all changes since the last incremental backup. An incremental backup only copies modified data since the last backup.
+
+19 D is correct
+Mia is a network administrator for a bank. She is responsible for secure communications
+with her company’s customer website. Which of the following would be the best for her to
+implement?
+A. SSL
+B. PPTP
+C. IPSec
+D. TLS
+
+Transport Layer Security (TLS) provides a reliable method of encrypting web traffic. TLS is the successor to SSL.
+
+20 B is correct
+Nora has rented a building with access to bandwidth and power in case her organization ever experiences a disaster. What type of site has she established?
+A. A hot site
+B. A cold site
+C. A warm site
+D. A MOU site
+
+A cold site is a location that can be brought online but does not have systems, cold sites typically have access to power and bandwidth, but they need to be fully equipped to operate after a disaster since they are just rented space.
+
+# 21-30 
+21. 
