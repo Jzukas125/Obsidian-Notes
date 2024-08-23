@@ -42,4 +42,7 @@ SDN (software defined networking) makes the network very scalable, making it ver
 11. D
 12. A
 13. B
-14. 
+14. D
+15. C
+16. B
+17. 
