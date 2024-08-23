@@ -36,4 +36,7 @@ B. It provides scalability.
 C. It will detect intrusions.
 D. It will prevent session hijacking.
 
-SDN (s)
+SDN (software defined networking) makes the network very scalable, making it very easy to add or remove resources.
+
+# 11-20
+11. 
