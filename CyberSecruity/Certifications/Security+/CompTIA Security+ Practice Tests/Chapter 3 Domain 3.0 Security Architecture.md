@@ -71,3 +71,21 @@ D. Automate provisioning and deprovisioning.
 
 The correct answer is to implement IaC. Infrastructure as code is the process of managing and provisioning computer datacenters through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools. Datacenter managers won't necessarily provide consistent management.
 
+13 C is correct
+Naomi wants to secure a real-time operating system (RTOS). Which of the following
+techniques is best suited to providing RTOS security?
+A. Disable the web browser.
+B. Install a host firewall.
+C. Use secure firmware.
+D. Install antimalware software.
+
+Using secure firmware, as well as using an RTOs with time and space partitioning, are both common methods to help ensure RTOs security. Unlike traditional operating systems, real-time operating systems are used in applications where they need to deal with inputs immediately. 
+
+15 D is correct
+Madhuri has configured a backup that will back up all of the changes to a system since the last time that a full backup occurred. What type of backup has she set up?
+A. A snapshot
+B. A full backup
+C. An incremental backup
+D. A differential
+
+Differential backups back up all of the changes since the last full backup. An incremental backup backs up
