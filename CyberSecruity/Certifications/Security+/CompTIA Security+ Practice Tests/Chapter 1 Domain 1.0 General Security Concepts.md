@@ -332,4 +332,9 @@ A KMS, or key management system, is a solution that allows you to safely store a
 71. A
 72. D
 73. B
-74. 
+74. A
+75. A
+76. C
+77. B
+78. A
+79. 
