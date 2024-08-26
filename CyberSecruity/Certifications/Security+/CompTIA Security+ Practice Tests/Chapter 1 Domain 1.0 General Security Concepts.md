@@ -370,3 +370,15 @@ C. They provide control over cryptographic security for the customer.
 D. They allow more flexibility in TLS version selection.
 
 Third party certificates allow customers to have full control over the certificate, including the private key and certificate signing request. By bringing your own certificate, encrypted traffic cannot be decrypted by the cloud provider. Using provider-provided, or -created certificates leads to a potential risk if the provider is malicious or compromised and private keys managed by the provider are compromised. Bringing your own certificate does not necessarily reduce costs. Providers typically allow certificate signing requests for customer domains and subdomains as needed and supported by the service.
+
+80 B is correct
+Jill needs to explain the concept of open public ledgers to her organization as management wants to adopt a blockchain-based system. What should she tell them about access to the ledger?
+A. Members must be added by a vote of all current members.
+B. Anyone can join at any time.
+C. Members must be added by a vote of more than 51 percent of current members.
+D. Ledgers are public but membership is private and controlled by the creator of the ledger
+
+Open public ledgers are open and public - anyone can join at any time. No vote is required, and creators do not control the ledger once it is made public.
+
+# 81-90 
+81. 
