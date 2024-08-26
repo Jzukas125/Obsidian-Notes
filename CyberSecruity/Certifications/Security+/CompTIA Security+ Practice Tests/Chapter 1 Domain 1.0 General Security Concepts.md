@@ -306,5 +306,16 @@ Certificates are commonly used for system authentication in AAA systems. While a
 66. A
 67. A
 68. C
-69. A
-70. 
+69. ~~A~~
+70. B
+8/10
+
+61 B is correct
+Joanna’s organization has a policy that requires a user’s password to be immediately reset to lock accounts if the account is determined to have been successfully phished. What type of control is this?
+A. A detective control
+B. A directive control
+C. A compensating control
+D. A preventive control
+
+Policies are examples of directive controls. This could be considered a corrective control, but that is not one of the options listed. Detective controls identify security events that have already occurred, and this does not detect the compromised account -it directs what must happen afterward. A compensating control mitigates risks due to exceptions in the security policy like a violation of policy due to an instability to implement a specific technical control like patching. 
+
