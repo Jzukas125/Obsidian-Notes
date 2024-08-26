@@ -381,12 +381,23 @@ D. Ledgers are public but membership is private and controlled by the creator of
 Open public ledgers are open and public - anyone can join at any time. No vote is required, and creators do not control the ledger once it is made public.
 
 # 81-90 
-81. D
+81. ~~D~~
 82. C
 83. B
 84. A
 85. D
 86. B
-87. C
+87. ~~C~~
 88. D
-89. 
+89. C
+90. B
+8/10
+
+81 A is correct
+Olivia wants to use a self-signed certificate in her test environment for her organization’s services to save money on commercial certificates. What warning should her team give her about the use of self-signed certificates in a test environment?
+A. Certificate root of trust validation attempts will fail if implemented.
+B. Self-signed certificates cannot be used for external users to support SSL.
+C. Self-signed certificates cannot be used for internal users to support SSL.
+D. Browsers will not allow self-signed certificates to be used when browsing sites
+
+Some software may attempt to validate the certificates in use and could fail. This may also lead to unexpected differences between production certificates and test certificates, which is undesirable in a test environment intended to mirror production. 
