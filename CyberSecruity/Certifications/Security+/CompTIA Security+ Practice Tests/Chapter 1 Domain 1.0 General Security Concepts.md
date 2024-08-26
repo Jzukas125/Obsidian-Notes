@@ -319,3 +319,11 @@ D. A preventive control
 
 Policies are examples of directive controls. This could be considered a corrective control, but that is not one of the options listed. Detective controls identify security events that have already occurred, and this does not detect the compromised account -it directs what must happen afterward. A compensating control mitigates risks due to exceptions in the security policy like a violation of policy due to an instability to implement a specific technical control like patching. 
 
+69 C is correct
+Theresa wants to use a cloud-hosted security solution that will allow her to safely store and manage secrets. What type of solution should she select?
+A. A TPM
+B. A CA
+C. A KMS
+D. A CSR
+
+A KMS, or key management system, is a solution that allows you to safely store and manage secrets like keys and certificates. Centralizing a KMS allow organizations to effectively manage their secrets, including tracking their life cycle and rotation. A TPM is used for hardware security on physical systems, a CA is a certificate authority used to create
