@@ -352,3 +352,20 @@ D. Subordinate CAs review certificate signing requests before forwarding them to
 root CA.
 
 Subordinate CAs avoid the cost of maintaining a root CA while providing control over certificates that are issued and allowing specialized support for different types of certificates like SSL and S/MIME
+
+74 D is correct
+Which of the following is not a managerial control?
+A. Risk assessments
+B. Including security in change management processes
+C. Security planning exercises
+D. Implementing firewalls
+
+Firewalls are technical control, not a managerial control that focuses on the mechanics of the risk management process
+
+75 C is correct
+What purpose do third-party certificates serve for customers of cloud services?
+A. They reduce costs by using bring-your-own certificates.
+B. They allow certificates for domains other than the service provider’s domain.
+C. They provide control over cryptographic security for the customer.
+D. They allow more flexibility in TLS version selection.
+
