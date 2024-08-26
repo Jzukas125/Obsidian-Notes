@@ -401,3 +401,6 @@ C. Self-signed certificates cannot be used for internal users to support SSL.
 D. Browsers will not allow self-signed certificates to be used when browsing sites
 
 Some software may attempt to validate the certificates in use and could fail. This may also lead to unexpected differences between production certificates and test certificates, which is undesirable in a test environment intended to mirror production. 
+
+87 D is correct
+Certificates expire, but expiration does not place them on a CRL. 
