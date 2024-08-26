@@ -369,3 +369,4 @@ B. They allow certificates for domains other than the service provider’s domai
 C. They provide control over cryptographic security for the customer.
 D. They allow more flexibility in TLS version selection.
 
+Third party certificates allow customers to have full control over the certificate, including the private key and certificate signing request. By bringing your own certificate, encrypted traffic cannot be decrypted by the cloud provider. Using provider-provided, or -created certificates leads to a potential risk if the provider is malicious or compromised and private keys managed by the provider are compromised. Bringing your own certificate does not necessarily reduce costs. Providers typically allow certificate signing requests for customer domains and subdomains as needed and supported by the service.
