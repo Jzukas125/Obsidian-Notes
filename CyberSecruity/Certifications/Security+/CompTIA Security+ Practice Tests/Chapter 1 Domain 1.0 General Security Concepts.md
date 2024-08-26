@@ -330,11 +330,25 @@ A KMS, or key management system, is a solution that allows you to safely store a
 
 # 71-80
 71. A
-72. D
+72. ~~D~~
 73. B
-74. A
-75. A
+74. ~~A~~
+75. ~~A~~
 76. C
 77. B
 78. A
-79. 
+79. C
+80. ~~D~~
+6/10\
+
+
+72 B is correct
+What role does a subordinate CA have in a CA hierarchy?
+A. Subordinate CAs issue certificates based on subdomains.
+B. Subordinate CAs provide control over certificate issuance while avoiding the cost of
+being a root CA.
+C. Subordinate CAs validate root CA activities to ensure auditability.
+D. Subordinate CAs review certificate signing requests before forwarding them to the
+root CA.
+
+Subordinate CAs avoid the cost of maintaining a root CA while providing control over certificates that are issued and allowing specialized support for different types of certificates like SSL and S/MIME
