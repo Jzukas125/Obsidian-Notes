@@ -326,4 +326,10 @@ B. A CA
 C. A KMS
 D. A CSR
 
-A KMS, or key management system, is a solution that allows you to safely store and manage secrets like keys and certificates. Centralizing a KMS allow organizations to effectively manage their secrets, including tracking their life cycle and rotation. A TPM is used for hardware security on physical systems, a CA is a certificate authority used to create
+A KMS, or key management system, is a solution that allows you to safely store and manage secrets like keys and certificates. Centralizing a KMS allow organizations to effectively manage their secrets, including tracking their life cycle and rotation. A TPM is used for hardware security on physical systems, a CA is a certificate authority used to create and sign certificates, and a CSR is a certificate signing request.
+
+# 71-80
+71. A
+72. D
+73. B
+74. 
