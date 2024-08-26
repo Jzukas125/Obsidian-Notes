@@ -384,4 +384,9 @@ Open public ledgers are open and public - anyone can join at any time. No vote i
 81. D
 82. C
 83. B
-84. 
+84. A
+85. D
+86. B
+87. C
+88. D
+89. 
