@@ -381,4 +381,7 @@ D. Ledgers are public but membership is private and controlled by the creator of
 Open public ledgers are open and public - anyone can join at any time. No vote is required, and creators do not control the ledger once it is made public.
 
 # 81-90 
-81. 
+81. D
+82. C
+83. B
+84. 
