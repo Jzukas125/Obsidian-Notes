@@ -144,4 +144,7 @@ Now lets dig more into the Zeek signatures. The below table provides the most co
 ![[Pasted image 20240403143310.png]]
 
 # Zeek Scripts
-Zeek has its own event-driven scripting language, which is as powerful as high-level languages. Zeek scripts have the .zeek extension. 
+Zeek has its own event-driven scripting language, which is as powerful as high-level languages. Zeek scripts have the .zeek extension. Scripts should be in the zeek/site directory. 
+
+### GUI vs Scripts
+Able to automate wireshark, tshark, and tcpdump via scripts. 
