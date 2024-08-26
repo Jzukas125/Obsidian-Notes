@@ -301,4 +301,10 @@ Certificates are commonly used for system authentication in AAA systems. While a
 61. ~~A~~
 62. C
 63. C
-64. 
+64. A
+65. B
+66. A
+67. A
+68. C
+69. A
+70. 
