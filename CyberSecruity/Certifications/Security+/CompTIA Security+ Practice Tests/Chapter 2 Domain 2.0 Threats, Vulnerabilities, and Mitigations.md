@@ -144,11 +144,29 @@ His machines are a part of a Ddos attack. This scenario describes a generic ddos
 # 31-40
 31. A
 32. D
-33. C
-34. C
+33. ~~C~~
+34. ~~C~~
 35. B
-36. B
-37. C
+36. ~~B~~
+37. ~~C~~
 38. B
-39. A
-40. 
+39. ~~A~~
+40. A
+5/10
+
+33 A is correct
+You have noticed that when in a crowded area, you sometimes get a stream of unwanted text messages. The messages end when you leave the area. What describes this attack?
+A. Bluejacking
+B. Bluesnarfing
+C. Evil twin
+D. Rogue access point
+
+Bluejacking involves sending unsolicited messages to Bluetooth devices when they are in range. An evil twin uses a rogue access point whose name is similar or identical to that of a legitimate access point. Bluesnarfing is stealing data via Bluetooth.
+
+34 A is correct
+Dennis uses an on-path attack to cause a system to send traffic to his system and then forwards it to the actual server the traffic is intended for. What information will be visible from his system as it passed through it?
+A. All traffic meant for remote systems
+B. All traffic meant for local systems
+C. Only unencrypted traffic
+D. Only unencrypted traffic meant for his system
+
