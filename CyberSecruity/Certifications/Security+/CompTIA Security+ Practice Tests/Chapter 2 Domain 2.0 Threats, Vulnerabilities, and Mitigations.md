@@ -86,10 +86,14 @@ On-path attacks are used to capture, then replay valid credentials for attackers
 
 # 21-30
 21. A
-22. A
-23. A
-24. B
+22. ~~A~~
+23. ~~A~~
+24. ~~B~~
 25. D
 26. D
 27. B
-28. 
+28. B
+29. ~~C~~
+30. B
+6/10
+
