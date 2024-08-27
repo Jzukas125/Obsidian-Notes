@@ -83,3 +83,6 @@ C. Use a brute-force password attack.
 D. Conduct an injection attack.
 
 On-path attacks are used to capture, then replay valid credentials for attackers to use. Phishing emails and brute forcing can help obtain credentials but do not involve credential replay.
+
+# 21-30
+21. 
