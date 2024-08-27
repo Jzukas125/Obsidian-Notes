@@ -208,13 +208,14 @@ This is an example of least privilege implementation where only the privileges r
 
 # 41-50
 41. ~~D~~
-42. A
+42. ~~A~~
 43. C
 44. B
 45. B
 46. D
-47. C
+47. ~~C~~
 48. C
 49. A
 50. B
+7/10
 
