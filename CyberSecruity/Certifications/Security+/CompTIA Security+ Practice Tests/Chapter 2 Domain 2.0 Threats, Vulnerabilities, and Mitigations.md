@@ -170,3 +170,28 @@ B. All traffic meant for local systems
 C. Only unencrypted traffic
 D. Only unencrypted traffic meant for his system
 
+An on-path attack redirects all traffic through an attacker's system that would normally pass through a network gateway. Dennis will be able to see all traffic bound for remote systems, but some of it may be encrypted.
+
+36 A is correct
+Jake’s vulnerability scanner reports that the software his organization is running is vulnerable to a cryptographic downgrade attack. What concern should Jake have about this potential issue?
+A. Attackers may be able to force use of a weaker encryption algorithm, making data easier
+to access.
+B. Attackers may be able to force use of weaker hashing, making it easier to recover
+passwords.
+C. Attackers may be able to force use of older versions of the software, including previously
+patched vulnerabilities.
+D. Attackers may be able to force encryption to be turned off, causing information to be
+sent in plain text.
+
+Cryptographic downgrade attacks like POODLE, FREAK, and Logjam all rely on flaws that cause software to use weaker encryption options. This could allow attackers to capture traffic encrypted with weaker encryption, potentially allowing them to decrypt the traffic and read it. They do not allow hashing changes to recover passwords, reversion to old versions of software, or encryption to be entirely turned off
+
+37 D is correct
+Rick has three major categories of data and applications in use in his virtualization environment: highly sensitive; business sensitive; and unclassified, or public information. He wants
+to ensure that data and applications of different sensitivity are not compromised in the event
+of a breach. What mitigation technique is best suited to this type of requirement?
+A. Application allow lists
+B. Monitoring
+C. Least privilege
+D. Segmentation
+
+Segmentation can be used to separeate systems of different sensitivity
