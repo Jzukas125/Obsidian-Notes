@@ -108,3 +108,24 @@ C. Domain hijacking
 D. A zero-day attack
 
 Domain hijacking or domain theft occurs when the registration or other information for the domain is changed without the original registrant's permission. DNs hijacking inserts false information into a DNS server.
+
+23 C is correct
+Lucia’s organization has adopted open source software provided by a third-party vendor
+as part of their web application. What concern should she express about her software
+supply chain?
+A. Lack of vendor support
+B. Lack of code auditability
+C. Lack of control over open source dependencies
+D. Lack of updates
+
+Open source software dependencies are a primary challenge when considering open source supply chain concerns. In this case, Lucia is using a 3rd party vendor who can provide supports, open source code is auditable, and updates are likely to occur with a vendor involved.
+
+24 A is correct
+Alice wants to prevent server-side request forgery (SSRF) attacks. Which of the following will
+not be helpful for preventing them?
+A. Removing all SQL code from submitted HTTP queries
+B. Blocking hostnames like 127.0.01 and localhost
+C. Blocking sensitive URLs like /admin
+D. Applying allow list–based input filters
+
+Server side request forgery attempts typically to get HTTP data passed through and will not include SQL injection. Blocking sensitive hostnames, IP addresses, and 
