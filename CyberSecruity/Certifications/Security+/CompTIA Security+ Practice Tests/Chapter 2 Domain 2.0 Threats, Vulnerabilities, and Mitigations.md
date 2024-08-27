@@ -194,4 +194,17 @@ B. Monitoring
 C. Least privilege
 D. Segmentation
 
-Segmentation can be used to separeate systems of different sensitivity
+Segmentation can be used to separeate systems of different sensitivity. Least privilege is an effective practice to ensure only the rights required are in place, but does not meet the goal.
+
+39 C is correct
+As part of a zero-trust environment, Quentin is given rights that he needs only when he needs
+them through a checkout process and they are then removed when he is done. What mitigation technique best describes this solution?
+A. Segmentation
+B. Isolation
+C. Least privilege
+D. Configuration enforcement
+
+This is an example of least privilege implementation where only the privileges required are issued. Segmentation is used to separate systems or environments.
+
+# 41-50
+41. 
