@@ -139,3 +139,10 @@ B. DDoS
 C. Botnet
 D. Backdoor
 
+His machines are a part of a Ddos attack. This scenario describes a generic ddos attack. These machines could be part of a botnet or they may just have a trigger that causes them to launch the attack at a specific time. The real key in this scenario is the DDoS attack.
+
+# 31-40
+31. A
+32. D
+33. C
+34. 
