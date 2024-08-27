@@ -207,11 +207,14 @@ D. Configuration enforcement
 This is an example of least privilege implementation where only the privileges required are issued. Segmentation is used to separate systems or environments.
 
 # 41-50
-41. D
+41. ~~D~~
 42. A
 43. C
 44. B
 45. B
 46. D
 47. C
-48. 
+48. C
+49. A
+50. B
+
