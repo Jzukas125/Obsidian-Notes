@@ -147,4 +147,8 @@ His machines are a part of a Ddos attack. This scenario describes a generic ddos
 33. C
 34. C
 35. B
-36. 
+36. B
+37. C
+38. B
+39. A
+40. 
