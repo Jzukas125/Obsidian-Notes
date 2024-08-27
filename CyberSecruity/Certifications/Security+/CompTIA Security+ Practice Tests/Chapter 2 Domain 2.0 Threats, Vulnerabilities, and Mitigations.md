@@ -128,4 +128,14 @@ B. Blocking hostnames like 127.0.01 and localhost
 C. Blocking sensitive URLs like /admin
 D. Applying allow list–based input filters
 
-Server side request forgery attempts typically to get HTTP data passed through and will not include SQL injection. Blocking sensitive hostnames, IP addresses, and 
+Server side request forgery attempts typically to get HTTP data passed through and will not include SQL injection. Blocking sensitive hostnames, IP addresses, and URLs are all valid to prevent SSRF, as is the use of allow list-based input filters.
+
+29 B is correct
+Frank is a network administrator for a small college. He discovers that several machines
+on his network are infected with malware. That malware is sending a flood of packets to a
+target external to the network. What best describes this attack?
+A. SYN flood
+B. DDoS
+C. Botnet
+D. Backdoor
+
