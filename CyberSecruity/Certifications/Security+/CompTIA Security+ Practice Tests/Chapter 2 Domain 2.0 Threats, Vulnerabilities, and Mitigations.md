@@ -97,3 +97,14 @@ On-path attacks are used to capture, then replay valid credentials for attackers
 30. B
 6/10
 
+22 C is correct
+The organization that Mike works in finds that one of their domains is directing traffic
+to a competitor’s website. When Mike checks, the domain information has been changed,
+including the contact and other administrative details for the domain. If the domain had not
+expired, what has most likely occurred?
+A. DNS hijacking
+B. An on-path attack
+C. Domain hijacking
+D. A zero-day attack
+
+Domain hijacking or domain theft occurs when the registration or other information for the domain is changed without the original registrant's permission. DNs hijacking inserts false information into a DNS server.
