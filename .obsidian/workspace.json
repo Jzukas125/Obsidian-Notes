@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md"
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md"
               }
             }
           },
@@ -174,13 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa70b324ec6a76a9",
+  "active": "fdfaf5b5c7b641e7",
   "lastOpenFiles": [
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md",
     "Personal Notes/Goals.md",
-    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
     "Classes/Fall 2024/Operating System Concepts/Class 8-22-2024.md",
     "Pasted image 20240822132149.png",
     "Pasted image 20240822131925.png",
