@@ -119,4 +119,6 @@ A cold site is a location that can be brought online but does not have systems, 
 26. A
 27. A
 28. A
-29. 
+29. C
+30. D
+
