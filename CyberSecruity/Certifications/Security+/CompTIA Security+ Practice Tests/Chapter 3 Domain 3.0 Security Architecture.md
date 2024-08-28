@@ -113,12 +113,34 @@ A cold site is a location that can be brought online but does not have systems, 
 # 21-30
 21. C
 22. A
-23. D
+23. ~~D~~
 24. D
 25. B
-26. A
-27. A
-28. A
-29. C
+26. ~~A~~
+27. ~~A~~
+28. ~~A~~
+29. ~~C~~
 30. D
+5/10
 
+23 A is correct
+Elaine wants to adopt appropriate response and recovery controls for natural disasters.
+What type of control should she use to prepare for a multi-hour power outage caused by a
+tornado?
+A. A hot site
+B. A generator
+C. A PDU
+D. A UPS
+
+A generator is the most appropriate answer to a multi-home outage. Although a hot site would allow her to do as she wished, it would cost significantly more. UPS systems are not typically designed to handle long outages. 
+
+26 B is correct
+Chris is preparing to implement an 802.1X-enabled wireless infrastructure. He knows that
+he wants to use an Extensible Authentication Protocol (EAP)-based protocol that does not
+require client-side certificates. Which of the following options should he choose?
+A. EAP-MD5
+B. PEAP
+C. LEAP
+D. EAP-TLS
+
+PEAP, the protected extensible authentication protocol relies on server-side certificates and on tunneling to ensure communications security. 
