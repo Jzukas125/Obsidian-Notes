@@ -213,4 +213,14 @@ B. An RDP (Remote Desktop Protocol) VPN
 C. An Internet Control Message Protocol (ICMP) VPN
 D. An IPSec VPN
 
-A TLS VPN is frequently chosen when ease of use is important, and web applications are the primary usage mode. RDP is a remote access tool, not a VPN tool, and ICMP is used for
+A TLS VPN is frequently chosen when ease of use is important, and web applications are the primary usage mode. RDP is a remote access tool, not a VPN tool, and ICMP is used for things like ping, not for VPN. IPSec VPNs are used for site-to-site VPNs and for purposes where other protocols may be needed, because they make the end-point system 
+
+35 D is correct
+What IP address does a load balancer provide for external connections to connect to web
+servers in a load-balanced group?
+A. The IP address for each server, in a prioritized order
+B. The load balancer’s IP address
+C. The IP address for each server in a round-robin order
+D. A virtual IP address
+
+Load balancers provide a virtual IP, or VIP. Traffic sent to the VIP is directed to servers in the pool based on the load-balancing scheme that that pool is using - often a round-robin scheme, but other versions that include priority order and capacity tracking or ratings are also common
