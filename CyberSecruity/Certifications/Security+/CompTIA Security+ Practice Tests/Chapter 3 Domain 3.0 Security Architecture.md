@@ -182,13 +182,25 @@ D. At all points in the infrastructure
 All cases are correct due to TLS's overhead being minimal
 
 # 31-40
-31. A
+31. ~~A~~
 32. C
-33. D
+33. ~~D~~
 34. A
-35. A
-36. B
-37. A
-38. C
-39. C
-40. 
+35. ~~A~~
+36. ~~B~~
+37. ~~A~~
+38. ~~C~~
+39. ~~C~~
+40. ~~B~~
+2/10
+
+31 D is correct
+Charles wants to use IPSec and needs to be able to determine the IPSec policy for traffic
+based on the port it is being sent to on the remote system. Which IPSec mode should he use?
+A. IPSec tunnel mode
+B. IPSec PSK mode
+C. IPSec IKE mode
+D. IPSec transport mode
+
+
+IPsec transport mode allows different policies per port.
