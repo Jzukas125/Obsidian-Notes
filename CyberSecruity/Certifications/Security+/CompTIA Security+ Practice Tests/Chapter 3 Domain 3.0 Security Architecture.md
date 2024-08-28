@@ -202,5 +202,15 @@ B. IPSec PSK mode
 C. IPSec IKE mode
 D. IPSec transport mode
 
+IPsec transport mode allows different policies per port. IPSec doesn't have a PSK mode, but WPA2 does. IKE is used to set up security associations in IPSec but doesn't allow this type of mode setting.
 
-IPsec transport mode allows different policies per port. 
+33 D is correct
+Jason wants to implement a remote access virtual private network (VPN) for users in his
+organization who primarily rely on hosted web applications. What common VPN type is best
+suited to this if he wants to avoid deploying client software to his end-user systems?
+A. A TLS VPN
+B. An RDP (Remote Desktop Protocol) VPN
+C. An Internet Control Message Protocol (ICMP) VPN
+D. An IPSec VPN
+
+A TLS VPN is frequently chosen when ease of use is important, and web applications are the primary usage mode. RDP is a remote access tool, not a VPN tool, and ICMP is used for
