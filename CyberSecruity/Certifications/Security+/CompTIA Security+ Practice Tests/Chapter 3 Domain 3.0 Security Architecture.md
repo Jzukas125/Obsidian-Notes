@@ -186,4 +186,6 @@ All cases are correct due to TLS's overhead being minimal
 32. C
 33. D
 34. A
-35. 
+35. A
+36. B
+37. 
