@@ -143,4 +143,26 @@ B. PEAP
 C. LEAP
 D. EAP-TLS
 
-PEAP, the protected extensible authentication protocol relies on server-side certificates and on tunneling to ensure communications security. 
+PEAP, the protected extensible authentication protocol relies on server-side certificates and on tunneling to ensure communications security. EAP-MD5 is not recommended for wireless networks and  does not support mutual authentication. LEAP, the Lightweight Extensible Authentication Protocol, uses WEP keys for its encryption and is not recommended due to security issues. Finally, EAP-TLS, or EAP Transport Layer Security, requires certificates on both the client and server, consuming more management overhead.
+
+27 C is correct
+Olivia is implementing a load-balanced web application cluster. Her organization already
+has a redundant pair of load balancers, but each unit is not rated to handle the maximum
+designed throughput of the cluster by itself. Olivia has recommended that the load balancers
+be implemented in an active/active design. What concern should she raise as part of this
+recommendation?
+A. The load balancer cluster cannot be patched without a service outage.
+B. The load balancer cluster is vulnerable to a denial-of-service attack.
+C. If one of the load balancers fails, it could lead to service degradation.
+D. The load balancer cannot handle the throughput due to having two active nodes.
+
+Olivia should make her organization aware that a failure in one of the active nodes would result in less maximum throughput and a potential for service degradation. Since services are rarely run at maximum capacity, and many can have maintenance windows scheduled, this does not mean that the load balancers cannot be patched.
+
+28 C is correct
+Mark is responsible for managing his company’s load balancer and wants to use a loadbalancing scheduling technique that will take into account the current server load and active
+sessions. Which of the following techniques should he choose?
+A. Round-robin
+B. Weighted response time
+C. Least connection
+D. Source IP hashing
+
