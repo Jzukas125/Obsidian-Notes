@@ -182,4 +182,7 @@ D. At all points in the infrastructure
 All cases are correct due to TLS's overhead being minimal
 
 # 31-40
-31. 
+31. A
+32. C
+33. D
+34. 
