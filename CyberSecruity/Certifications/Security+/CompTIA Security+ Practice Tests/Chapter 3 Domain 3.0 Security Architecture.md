@@ -166,3 +166,20 @@ B. Weighted response time
 C. Least connection
 D. Source IP hashing
 
+29 D is correct
+Ramon is building a new web service and is considering which parts of the service should use
+Transport Layer Security (TLS). Components of the application include:
+1. Authentication
+2. A payment form
+3. User data, including address and shopping cart
+4. A user comments and reviews section
+Where should he implement TLS?
+A. At points 1 and 2, and 4
+B. At points 2 and 3, and 4
+C. At points 1, 2, and 3
+D. At all points in the infrastructure
+
+All cases are correct due to TLS's overhead being minimal
+
+# 31-40
+31. 
