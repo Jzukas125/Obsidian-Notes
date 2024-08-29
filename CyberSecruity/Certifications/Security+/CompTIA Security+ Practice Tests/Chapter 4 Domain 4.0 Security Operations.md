@@ -150,4 +150,26 @@ B. AAA
 C. Privilege creep
 D. Identity and access management
 
-Social login is an example of a federated approach to using identities. The combination of identities is a key part of federation. IAM is a broader set of identity and access management 
+Social login is an example of a federated approach to using identities. The combination of identities is a key part of federation. IAM is a broader set of identity and access management practices. Although it may be involved it IAM is not directly described in this.
+
+28 A is correct
+Charles has configured his multifactor system to require both a PIN and a password. How
+many effective factors does he have in place once he presents both of these and his username?
+A. One
+B. Two
+C. Three
+D. Four
+
+Although it may seem like two factors, in fact he has only presented two types of things he knows along with his identity. To truly involve multifactor, he should use more than one of something you have, something you know, and something you are.
+
+29 B is correct
+Naomi is designing her organization’s wireless network and wants to ensure that the design
+places access points in areas where they will provide optimum coverage. She also wants to
+plan for any sources of RF interference as part of her design. What should Naomi do first?
+A. Contact the FCC for a wireless map.
+B. Conduct a site survey.
+C. Disable all existing access points.
+D. Conduct a port scan to find all existing access points
+
+A site survey would be most appropriate as it identifies where access points should be located for best coverage and identifying existing sources of RF interference. 
+
