@@ -195,4 +195,24 @@ Mobile device management suites often provide the ability to manage content on d
 40. B
 5/10
 
+31 C is correct
+Denny wants to deploy antivirus for his organization and wants to ensure that it will stop the
+most malware. What deployment model should Denny select?
+A. Install antivirus from the same vendor on individual PCs and servers to best balance visibility, support, and security.
+B. Install antivirus from more than one vendor on all PCs and servers to maximize
+coverage.
+C. Install antivirus from one vendor on PCs and from another vendor on the server to provide a greater chance of catching malware.
+D. Install antivirus only on workstations to avoid potential issues with server performance
+
+Diversity is the best way to catch the most malware and installing different on servers and pcs will catch the most, while installing different ones on the same system is rarely recommended.
+
+32 C is correct
+Madhuri’s web application converts numbers that are input into fields by specifically typing
+them and then applies strict exception handling. It also sets a minimum and maximum length
+for the inputs that it allows and uses predefined arrays of allowed values for inputs like
+months or dates. What term describes the actions that Madhuri’s application is performing?
+A. Buffer overflow prevention
+B. String injection
+C. Input validation
+D. Schema validation
 
