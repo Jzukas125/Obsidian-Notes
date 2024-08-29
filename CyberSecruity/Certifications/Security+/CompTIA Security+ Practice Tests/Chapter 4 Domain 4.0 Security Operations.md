@@ -98,4 +98,9 @@ D. A predeployment server
 A test server should be identical to the production server. This can be used for functional testing as well as security testing.
 
 # 21-30
-21. 
+21. A
+22. C
+23. D
+24. A
+25. A
+26. 
