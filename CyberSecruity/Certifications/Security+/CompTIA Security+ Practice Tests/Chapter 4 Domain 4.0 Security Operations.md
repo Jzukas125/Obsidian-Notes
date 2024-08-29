@@ -129,3 +129,15 @@ B. Collisions
 C. Theft
 D. Clock mismatch
 
+Static codes are typically recorded in a secure location, but if they are not properly secured, or are otherwise exposed, they can be stolen. Brute-force attempts should be detected and prevented by backoff algorithms and other techniques that prevent attacks and other techniques that prevent attacks against multifactor authentication systems.
+
+26 C is correct
+Nadine’s organization stores and uses sensitive information, including Social Security numbers. After a recent compromise, she has been asked to implement technology that can help
+prevent this sensitive data from leaving the company’s systems and networks. What type of
+technology should Nadine implement?
+A. Stateful firewalls
+B. OEM
+C. DLP
+D. SIEM
+
+The best answer from this list is DLP, or data loss prevention technology. 
