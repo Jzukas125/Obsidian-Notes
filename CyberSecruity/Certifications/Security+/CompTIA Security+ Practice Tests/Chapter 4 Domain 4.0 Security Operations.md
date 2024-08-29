@@ -173,3 +173,14 @@ D. Conduct a port scan to find all existing access points
 
 A site survey would be most appropriate as it identifies where access points should be located for best coverage and identifying existing sources of RF interference. 
 
+30 C is correct
+Charlene wants to provision her organization’s standard set of marketing information to mobile devices throughout her organization. What MDM feature is best suited to this task?
+A. Application management
+B. Remote wipe
+C. Content management
+D. Push notifications
+
+Mobile device management suites often provide the ability to manage content on devices as well as applications. Using content management tools can allow Charlene to provision files, documents, and media to the devices that staff members in her organization are issued.
+
+# 31-40
+31. 
