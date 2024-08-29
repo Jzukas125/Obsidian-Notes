@@ -99,12 +99,33 @@ A test server should be identical to the production server. This can be used for
 
 # 21-30
 21. A
-22. C
+22. ~~C~~
 23. D
 24. A
-25. A
-26. D
-27. D
-28. B
-29. C
-30. 
+25. ~~A~~
+26. ~~D~~
+27. ~~D~~
+28. ~~B~~
+29. ~~C~~
+30. ~~D~~
+3/10
+
+22 A is correct
+Chris is following the CIS Windows Server 2022 benchmark and notices that it recommends
+that Computer Configuration\Policies\Administrative Templates\Windows Components\
+Search\Allow indexing of encrypted files is set to disabled. What potential issue would this
+help to prevent?
+A. Data leakage
+B. Denial of service
+C. Insecure service
+D. Dark web access
+
+Indexing encrypted files will mean that an unencrypted index is stored, potentially exposing the content of encrypted files. Disabling the indexing service for encrypted files helps to prevent them. The service is not exposed via the network, thus it is not insecure.
+
+25 C is correct
+What is the primary threat model against static codes used for multifactor authentication?
+A. Brute force
+B. Collisions
+C. Theft
+D. Clock mismatch
+
