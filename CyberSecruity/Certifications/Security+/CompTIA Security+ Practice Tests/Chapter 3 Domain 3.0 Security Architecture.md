@@ -236,3 +236,7 @@ Network taps copy all traffic to another destination, allowing traffic visibilit
 
 39 B is correct
 Internet Key exchange IKE, is used to set up security associations on each end of the tunnel. 
+
+40 A is correct
+Port mirroring allows the traffic segment to be copied to the segment were the nips is installed.
+
