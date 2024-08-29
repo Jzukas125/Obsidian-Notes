@@ -224,3 +224,12 @@ C. The IP address for each server in a round-robin order
 D. A virtual IP address
 
 Load balancers provide a virtual IP, or VIP. Traffic sent to the VIP is directed to servers in the pool based on the load-balancing scheme that that pool is using - often a round-robin scheme, but other versions that include priority order and capacity tracking or ratings are also common
+
+36 A is correct
+Port security filters by mac address.
+
+37 C is correct
+Authentication headers provide complete packet integrity, authenticating the packet and the header.
+
+38 A is correct
+Network taps copy all traffic to another destination, allowing traffic visibility without a device inline.
