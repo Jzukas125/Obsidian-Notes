@@ -103,4 +103,7 @@ A test server should be identical to the production server. This can be used for
 23. D
 24. A
 25. A
-26. 
+26. D
+27. D
+28. B
+29. 
