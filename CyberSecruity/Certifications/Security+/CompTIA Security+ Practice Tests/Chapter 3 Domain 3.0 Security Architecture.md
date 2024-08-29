@@ -233,3 +233,6 @@ Authentication headers provide complete packet integrity, authenticating the pac
 
 38 A is correct
 Network taps copy all traffic to another destination, allowing traffic visibility without a device inline.
+
+39 B is correct
+Internet Key exchange IKE, is used to set up security associations on each end of the tunnel. 
