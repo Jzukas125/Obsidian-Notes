@@ -140,4 +140,14 @@ B. OEM
 C. DLP
 D. SIEM
 
-The best answer from this list is DLP, or data loss prevention technology. 
+The best answer from this list is DLP, or data loss prevention technology. DLP is used to protect data from being exposed or leaking from a network using a variety of techniques and technology. Stateful firewalls are used to control traffic and will not detect sensitive data. SIEMs do not protect data directly. 
+
+27 A is correct
+Social login, the ability to use an existing identity from a site like Google, Facebook, or a
+Microsoft account, is an example of which of the following concepts?
+A. Federation
+B. AAA
+C. Privilege creep
+D. Identity and access management
+
+Social login is an example of a federated approach to using identities. The combination of identities is a key part of federation. IAM is a broader set of identity and access management 
