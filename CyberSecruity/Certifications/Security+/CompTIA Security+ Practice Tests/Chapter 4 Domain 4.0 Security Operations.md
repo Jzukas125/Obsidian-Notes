@@ -184,4 +184,6 @@ Mobile device management suites often provide the ability to manage content on d
 
 # 31-40
 31. A
-32. 
+32. B
+33. C
+34. 
