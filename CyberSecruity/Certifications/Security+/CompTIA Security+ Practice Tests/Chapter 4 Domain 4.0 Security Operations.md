@@ -183,4 +183,5 @@ D. Push notifications
 Mobile device management suites often provide the ability to manage content on devices as well as applications. Using content management tools can allow Charlene to provision files, documents, and media to the devices that staff members in her organization are issued.
 
 # 31-40
-31. 
+31. A
+32. 
