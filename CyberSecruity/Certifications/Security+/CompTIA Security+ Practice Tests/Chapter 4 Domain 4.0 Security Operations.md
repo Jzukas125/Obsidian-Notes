@@ -184,7 +184,7 @@ Mobile device management suites often provide the ability to manage content on d
 
 # 31- 40
 31. ~~A~~
-32. ~~B~~
+32. C
 33. ~~C~~
 34. B
 35. D
@@ -193,7 +193,7 @@ Mobile device management suites often provide the ability to manage content on d
 38. ~~D~~
 39. ~~D~~
 40. B
-5/10
+6/10
 
 31 C is correct
 Denny wants to deploy antivirus for his organization and wants to ensure that it will stop the
@@ -206,13 +206,18 @@ D. Install antivirus only on workstations to avoid potential issues with server 
 
 Diversity is the best way to catch the most malware and installing different on servers and pcs will catch the most, while installing different ones on the same system is rarely recommended.
 
-32 C is correct
-Madhuri’s web application converts numbers that are input into fields by specifically typing
-them and then applies strict exception handling. It also sets a minimum and maximum length
-for the inputs that it allows and uses predefined arrays of allowed values for inputs like
-months or dates. What term describes the actions that Madhuri’s application is performing?
-A. Buffer overflow prevention
-B. String injection
-C. Input validation
-D. Schema validation
+33 A is correct
+You’re outlining your plans for implementing a wireless network to upper management.
+What wireless security standard should you adopt if you don’t want to use enterprise authentication but want to provide secure authentication for users that doesn’t require a shared
+password or passphrase?
+A. WPA3
+B. WPA
+C. WPA2
+D. WEP
 
+WPA3 supports SAE or simultaneous authentication of equals, providing a more secure way to authenticate that limits the potential for brute forcing. WPA is not as secure as WPA2, and WEP is the oldest and least secure.
+
+38 B is correct
+
+
+EDRs do not do malware analysis
