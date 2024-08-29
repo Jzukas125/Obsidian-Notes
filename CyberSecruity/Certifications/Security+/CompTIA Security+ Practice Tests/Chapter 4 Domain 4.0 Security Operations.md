@@ -218,6 +218,22 @@ D. WEP
 WPA3 supports SAE or simultaneous authentication of equals, providing a more secure way to authenticate that limits the potential for brute forcing. WPA is not as secure as WPA2, and WEP is the oldest and least secure.
 
 38 B is correct
-
+Endpoint detection and response has three major components that make up its ability to
+provide visibility into endpoints. Which of the following is not one of those three parts?
+A. Data search
+B. Malware analysis
+C. Data exploration
+D. Suspicious activity detection
 
 EDRs do not do malware analysis
+
+39 A is correct
+Carl has been asked to set up access control for a server. The requirements state that users
+at a lower privilege level should not be able to see or access files or data at a higher privilege
+level. What access control model would best fit these requirements?
+A. MAC
+B. DAC
+C. RBAC
+D. SAML
+
+Mandatory Access control MAC, is the correct answer. It will not allow lower privileged users to even see the data at a higher privilege. 
