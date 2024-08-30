@@ -181,4 +181,7 @@ Avoidance seeks to prevent the risk while mitigation seeks to limit the impact.
 31. A
 32. A
 33. C
-34. 
+34. D
+35. B
+36. A
+37. 
