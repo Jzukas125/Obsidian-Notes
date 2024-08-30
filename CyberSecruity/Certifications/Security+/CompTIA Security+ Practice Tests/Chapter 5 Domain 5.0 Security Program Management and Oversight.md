@@ -127,3 +127,22 @@ Recovery Time Objectives (RTO), Recovery Point objectives (RPO), Mean time to re
 30. B
 5/10
 
+22 D is correct
+Neil’s organization has signed a contract that includes guarantees of 99.9 percent uptime.
+What type of agreement has Neil’s organization created?
+A. An MSA
+B. An NDA
+C. A MTBF
+D. An SLA
+
+Service Level Agreement, SLA, set forth the expected service level as well as penalties for nonperformance. A master service agreement is a broad agreement that additional work may be performed under.
+
+24 B is correct
+As part of his role, Augie is responsible for implementation of business rules related to data,
+as well as for storage, and use of data and datasets. What data-related role does Augie hold?
+A. Data owner
+B. Data custodian
+C. Data processor
+D. Data subject
+
+Data custodian is the appropriate role 
