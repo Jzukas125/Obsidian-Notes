@@ -146,3 +146,36 @@ C. Data processor
 D. Data subject
 
 Data custodian is the appropriate role, they are responsible for for data's use in the business including storing and properly handling data.
+
+27 B is correct
+What does a data steward do?
+A. Create data.
+B. Carry out data use and security policies.
+C. Explain compliance requirements for data.
+D. Oversee data throughout its life cycle.
+
+Data stewards are responsible for the data in their charge. Meaning they carry out data usage and security policies and ensure that data is handled appropriately.
+
+28 A is correct
+Marcus determines what organizationally owned data is used for a given purpose and how it
+is processed. What data role does he have in his organization?
+A. He is a data controller.
+B. He is a supervisory authority.
+C. He is a data protection officer.
+D. He is a data processor.
+
+Data controllers determine what data is used and how it is processed.
+
+29 C is correct
+Colleen’s organization has deployed web application firewalls (WAFs) to protect their web
+services from being impacted by a known SQL injection attack. What risk management
+strategy has the organization adopted?
+A. Transfer
+B. Accept
+C. Avoid
+D. Mitigate
+
+Avoidance seeks to prevent the risk while mitigation seeks to limit the impact.
+
+# 31 - 40
+31. 
