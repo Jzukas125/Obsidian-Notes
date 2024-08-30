@@ -145,4 +145,4 @@ B. Data custodian
 C. Data processor
 D. Data subject
 
-Data custodian is the appropriate role 
+Data custodian is the appropriate role, they are responsible for for data's use in the business including storing and properly handling data.
