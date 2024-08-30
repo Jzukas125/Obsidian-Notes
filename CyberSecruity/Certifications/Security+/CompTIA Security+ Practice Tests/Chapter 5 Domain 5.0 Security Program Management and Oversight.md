@@ -1,3 +1,4 @@
+#Securityplus
 # 1-10
 1. C
 2. D
@@ -113,3 +114,7 @@ D. MTBF
 
 Recovery Time Objectives (RTO), Recovery Point objectives (RPO), Mean time to repair (MTTR), and mean time between failures (MTBF). ARO, annual rate of occurrence, is associated with risk management, not Business impact analysis (BIA). 
 
+# 21-30
+21. B
+22. A
+23. 
