@@ -236,4 +236,5 @@ B. DAC
 C. RBAC
 D. SAML
 
-Mandatory Access control MAC, is the correct answer. It will not allow lower privileged users to even see the data at a higher privilege. 
+Mandatory Access control MAC, is the correct answer. It will not allow lower privileged users to even see the data at a higher privilege. Discretionary Access control DAC, has each data owner configure their own security. Role based access control RBAC, could be configured to meet the needs, but its not the best solution. Security assertion markup language is not an access control model.
+
