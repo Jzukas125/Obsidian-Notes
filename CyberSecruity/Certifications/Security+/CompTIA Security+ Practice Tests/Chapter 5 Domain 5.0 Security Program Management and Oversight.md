@@ -116,5 +116,14 @@ Recovery Time Objectives (RTO), Recovery Point objectives (RPO), Mean time to re
 
 # 21-30
 21. B
-22. A
-23. 
+22. ~~A~~
+23. D
+24. ~~A~~
+25. C
+26. A
+27. ~~C~~
+28. ~~D~~
+29. ~~D~~
+30. B
+5/10
+
