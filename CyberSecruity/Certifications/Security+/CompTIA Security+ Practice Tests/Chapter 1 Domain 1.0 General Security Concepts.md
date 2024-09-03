@@ -408,4 +408,8 @@ Certificates expire, but expiration does not place them on a CRL.
 # 91-100
 91. A
 92. C
-93. 
+93. A
+94. B
+95. C
+96. C
+97. 
