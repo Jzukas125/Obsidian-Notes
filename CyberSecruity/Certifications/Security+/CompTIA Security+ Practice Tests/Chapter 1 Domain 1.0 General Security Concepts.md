@@ -445,4 +445,14 @@ B. Whether the user has logged in recently from another device
 C. What device the user is logging in from
 D. If the device is configured correctly
 
-Adaptive authentication looks at 
+Adaptive authentication looks at the context of a login, including where they're logging in from - both geographically, and from a network trust perspective, what device they're logging in from, and if the device is configured correctly. In modern usage whether the user has logged in recently from a another device isn't as likely to be considered, but if the devices were in different countries it would likely raise a flag.
+
+100 A is correct
+Juan’s organization is designing their zero-trust model. Which of the following statements is true for network security zones?
+A. All communication is secured, regardless of the network security zone it occurs in.
+B. Communication receives additional security in low-trust zones.
+C. Communication receives less security in high-trust zones.
+D. All zero-trust networks are considered secured zones.
+
+One of the basic tenets of zero-trust architecture is that all communication is secured, regardless of the security zone or trust zone that it occurs in. All zero trust networks are considered potential risk areas - thus the zero in zero trust.
+
