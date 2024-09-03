@@ -459,6 +459,22 @@ One of the basic tenets of zero-trust architecture is that all communication is 
 # 101-110
 101. C
 102. C
-103. A
+103. ~~A~~
 104. B
-105. 
+105. D
+106. B
+107. ~~C~~
+108. B
+109. ~~D~~
+110. C
+7/10
+
+103 B is correct
+Rachel wants to select an obfuscation method that will allow her customer service representatives to validate customer identities without providing full access to customer data. What
+should she select?
+A. Tokenization
+B. Data masking
+C. Steganography
+D. Hashing
+
+Data masking reveals only part of a field and is often used with details like credit card numbers or social security numbers where only the
