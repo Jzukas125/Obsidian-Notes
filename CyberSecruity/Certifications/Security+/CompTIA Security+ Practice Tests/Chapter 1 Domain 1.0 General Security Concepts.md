@@ -404,3 +404,7 @@ Some software may attempt to validate the certificates in use and could fail. Th
 
 87 D is correct
 Certificates expire, but expiration does not place them on a CRL. 
+
+# 91-100
+91. A
+92. 
