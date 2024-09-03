@@ -182,9 +182,32 @@ Avoidance seeks to prevent the risk while mitigation seeks to limit the impact.
 32. A
 33. C
 34. D
-35. B
-36. A
+35. ~~B~~
+36. ~~A~~
 37. C
 38. A
 39. C
-40. 
+40. B
+8/10
+
+35 C is correct
+Megan’s organization wants to create a change management policy. Which of the following is
+not a typical change type found in a change policy?
+A. Preauthorized changes
+B. Emergency changes
+C. Legislated changes
+D. Standard changes
+
+Change management practices often include options for preapproved changes, emergency changes, and standard changes.
+
+36 B is correct
+Liz wants to assess the critical functions of her business and ensure that the systems that are
+part of those functions are assessed to determine how often they are likely to fail, how long
+it would take to restore them, and what recovery objectives will be. What process should she
+engage in?
+A. A quantitative risk assessment
+B. A business impact analysis
+C. A qualitative risk assessment
+D. A penetration test
+
+A business impact analysis (BIA) is a formal process used to identify mission-critical functions and to ensure that critical systems that support those functions are identified and assessed.
