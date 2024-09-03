@@ -457,4 +457,8 @@ D. All zero-trust networks are considered secured zones.
 One of the basic tenets of zero-trust architecture is that all communication is secured, regardless of the security zone or trust zone that it occurs in. All zero trust networks are considered potential risk areas - thus the zero in zero trust.
 
 # 101-110
-101. 
+101. C
+102. C
+103. A
+104. B
+105. 
