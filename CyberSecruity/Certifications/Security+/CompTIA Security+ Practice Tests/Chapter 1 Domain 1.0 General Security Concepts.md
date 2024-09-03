@@ -407,12 +407,42 @@ Certificates expire, but expiration does not place them on a CRL.
 
 # 91-100
 91. A
-92. C
+92. ~~C~~
 93. A
 94. B
-95. C
+95. ~~C~~
 96. C
 97. B
 98. B
-99. D
-100. 
+99. ~~D~~
+100. ~~D~~
+6/10
+
+92 D is correct
+Mikayla’s zero-trust system has received a request for access with an identity, and the basic
+criteria for access have been met. What should the system do next before providing access to
+the resource requested?
+A. Check the remote system’s security status.
+B. Require reauthentication using MFA.
+C. Check the user’s rights to ensure they can access the resource.
+D. Determine its level of confidence in the request.
+
+A zero trust system should validate its level of confidence in a request that it receives once the basic criteria have been met. This may involve checking the access against known patterns of access by the user, validating current threat feed information, or checking other details that will help ensure the security and authenticity of the request.
+
+95 B is correct
+What operating system is commonly associated with secure enclaves?
+A. Windows
+B. iOS
+C. Linux
+D. Android
+
+Secure enclaves are used by apple and require iOS machines.
+
+99 B is correct
+Which of the following is not a common factor in adaptive authentication for zero trust?
+A. Where the user is logging in from
+B. Whether the user has logged in recently from another device
+C. What device the user is logging in from
+D. If the device is configured correctly
+
+Adaptive authentication looks at 
