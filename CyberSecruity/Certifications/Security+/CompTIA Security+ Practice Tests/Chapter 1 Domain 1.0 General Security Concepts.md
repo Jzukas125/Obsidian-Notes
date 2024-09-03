@@ -477,4 +477,25 @@ B. Data masking
 C. Steganography
 D. Hashing
 
-Data masking reveals only part of a field and is often used with details like credit card numbers or social security numbers where only the
+Data masking reveals only part of a field and is often used with details like credit card numbers or social security numbers where only the last four digits will be revealed for validation purposes.
+
+107 D is correct
+Michelle wants to store secrets for her organization in a cloud service. She wants to ensure
+the greatest level of security for her organization, and she is willing to spend more money
+to provide that security. What solution should she look for?
+A. A shared cloud TPM
+B. A shared cloud HSM
+C. A dedicated hardware cloud TPM
+D. A dedicated hardware cloud HSM
+
+A dedicated hardware cloud hardware security module HSM would be the correct choice as it is better than cloud while a TPM is used for secure booting and related services, not for security.
+
+109 C is correct
+What information is necessary for a certificate to be identified properly in an OCSP
+request?
+A. The domain name
+B. The original requestor’s name
+C. The certificate’s serial number
+D. The identifier for the open public ledger entry
+
+OCSP requests must include the certificate's serial number to allow the ocsp responder to check the CA database for the certificate and its status. It does not require the domain name or requestor's name. 
