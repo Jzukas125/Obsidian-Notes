@@ -330,4 +330,38 @@ B. Install EDR software.
 C. Remove unnecessary software.
 D. Change any default passwords.
 
-Removing unnecessary software reduces a system's attack surface and also m
+Removing unnecessary software reduces a system's attack surface and also means that he wont have to patch and maintain the software he removes. 
+
+66 C is correct
+Mary has discovered that a web application used by her company does not always handle
+multithreading properly, particularly when multiple threads access the same variable. This
+could allow an attacker who discovered this vulnerability to exploit it and crash the server.
+What type of error has Mary discovered?
+A. Buffer overflow
+B. Logic bomb
+C. Race conditions
+D. Improper error handling
+
+A race condition can occur when multiple threads in an application are using the same variable and the situation is not properly handled. A buffer overflow is putting more information into a buffer than it can handle.
+
+67 C is correct
+Allan wants to detect brute-force physical attacks. What should he do if he wants to detect
+the broadest range of physical attacks?
+A. Deploy a monitored security camera system.
+B. Hire a guard to patrol the facility.
+C. Conduct regular inspections of the facility.
+D. Set up an alarm system
+
+A monitored camera system will detect the broadest range of attacks. An alarm system won't detect attacks by insiders, who may access spaces they have access to in order to perform malicious attacks.
+
+69 B is correct
+During a regular review of logs, Jennifer notices that a regularly scheduled script that copies
+files to another server every hour has run multiple times within the last hour. What indicator
+of compromise should she categorize this as?
+A. Concurrent session use
+B. Out-of-cycle logging
+C. Missing logs
+D. Impossible travel
+
+This is out of cycle logging. It could simply indicate a flaw in the script or another innocuous issue.
+
