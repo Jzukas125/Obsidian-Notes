@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md"
+                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md"
               }
             }
           },
@@ -176,12 +176,12 @@
   },
   "active": "fdfaf5b5c7b641e7",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 5 Domain 5.0 Security Program Management and Oversight.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Zeek.md",
     "Personal Notes/Goals.md",
     "Classes/Fall 2024/Operating System Concepts/Class 8-22-2024.md",
     "Pasted image 20240822132149.png",
