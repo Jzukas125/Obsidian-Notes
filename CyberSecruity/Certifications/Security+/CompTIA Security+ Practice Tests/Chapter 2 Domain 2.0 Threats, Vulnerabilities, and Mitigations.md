@@ -223,4 +223,8 @@ This is an example of least privilege implementation where only the privileges r
 # 51 - 60
 51. D
 52. C
-53. 
+53. B
+54. D
+55. D
+56. A
+57. 
