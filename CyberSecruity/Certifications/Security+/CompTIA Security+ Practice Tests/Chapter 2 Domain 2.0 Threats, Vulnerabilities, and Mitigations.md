@@ -275,7 +275,7 @@ C. He needs to ensure that the file length and creation date match for both a co
 D. He needs to prepare both a correct and a malicious document, then find ways to modify
 the malicious document until its hash matches the hash of the correct document.
 
-A birthday attack requires that hashes match for both an original document and a malicious document.He will modify the malicious document until he finds a way to convey the changes he needs while retaining the matching hash. This type of attack is why hashing algorithms needs to be resistant to birthday attacks.
+A birthday attack requires that hashes match for both an original document and a malicious document. He will modify the malicious document until he finds a way to convey the changes he needs while retaining the matching hash. This type of attack is why hashing algorithms needs to be resistant to birthday attacks.
 
 58 A is correct
 Ashley’s organization has recently come under attack and has suffered a DNS outage. As she investigated, she found that requests to her DNS servers were sent to open DNS resolvers using spoofed IP addresses with requests that would result in very large responses from the DNS resolvers to the IP addresses that appeared to be making the request. What type of attack targeted Ashley’s organization?
@@ -298,7 +298,14 @@ D. Code review processes for firmware
 Firmware is typically not encrypted, but it is commonly digitally signed. Using input validation and code review both help to keep it secure.
 
 # 61-70
-61. A
+61. ~~A~~
 62. B
 63. C
-64. 
+64. A
+65. ~~A~~
+66. ~~A~~
+67. ~~D~~
+68. C
+69. ~~A~~
+70. B
+
