@@ -245,6 +245,43 @@ D. An EDR
 A SIEM is designed to ingest and analyze large volumes of logs and alerts. EDR's are not used for log management
 
 54 C is correct
+The following graphic shows a network connection between two systems, and then a
+network-based attack. What type of attack is shown?
+![[Pasted image 20240904122004.png]]
+A. A denial-of-service attack
+B. A SQL injection attack
+C. An on-path attack
+D. A directory traversal attack
 
+An on-path attack redirects traffic to allow an attacker to see and potentially modify the traffic.  Directory traversal is just in browser manipulation.
 
-An on-path attack redirects traffic to allow an attacker to see and potentially modify the traffic. 
+55 D is correct
+Which of the following protocols is most commonly associated with credential relaying
+attacks?
+A. RDP
+B. NTLM
+C. SQL
+D. TLS
+
+NTLM while dated is historically of the most common targets of credential relay attacks. RDP,SQL, and TLS are less commonly associated with credential relay attacks.
+
+57 D is correct
+Derek wants to conduct a birthday attack against a digital signature. Which of the following
+best describes the process he would need to take to achieve his goal?
+A. He needs to prepare both a correct and a malicious document and find ways to modify
+the correct document until its encryption matches the malicious document.
+B. He needs to make sure all dates match in both a correct and a malicious document.
+C. He needs to ensure that the file length and creation date match for both a correct document and a malicious document.
+D. He needs to prepare both a correct and a malicious document, then find ways to modify
+the malicious document until its hash matches the hash of the correct document.
+
+A birthday attack requires that hashes match for both an original document and a malicious document.He will modify the malicious document until he finds a way to convey the changes he needs while retaining the matching hash. This type of attack is why hashing algorithms needs to be resistant to birthday attacks.
+
+58 A is correct
+Ashley’s organization has recently come under attack and has suffered a DNS outage. As she investigated, she found that requests to her DNS servers were sent to open DNS resolvers using spoofed IP addresses with requests that would result in very large responses from the DNS resolvers to the IP addresses that appeared to be making the request. What type of attack targeted Ashley’s organization?
+A. A reflected DDoS
+B. A DNS flood
+C. A mirrored DDoS
+D. A supersized query attack
+
+Ashleys company is 
