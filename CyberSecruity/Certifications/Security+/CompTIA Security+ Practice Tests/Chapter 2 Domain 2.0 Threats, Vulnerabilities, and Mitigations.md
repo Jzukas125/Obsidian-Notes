@@ -221,13 +221,30 @@ This is an example of least privilege implementation where only the privileges r
 7/10
 
 # 51 - 60
-51. D
+51. ~~D~~
 52. C
 53. B
-54. D
-55. D
+54. ~~D~~
+55. ~~D~~
 56. A
-57. C
-58. B
+57. ~~C~~
+58. ~~B~~
 59. B
-60. 
+60. ~~D~~
+4/10
+
+51 B is correct
+Renee has a large number of workstations and servers in her corporate environment and
+wants to more effectively monitor logs for them. What solution from the following list is best
+suited to identifying and alerting on issues in a large-scale environment?
+A. Centralized logging
+B. A SIEM
+C. An IPS
+D. An EDR
+
+A SIEM is designed to ingest and analyze large volumes of logs and alerts. EDR's are not used for log management
+
+54 C is correct
+
+
+An on-path attack redirects traffic to allow an attacker to see and potentially modify the traffic. 
