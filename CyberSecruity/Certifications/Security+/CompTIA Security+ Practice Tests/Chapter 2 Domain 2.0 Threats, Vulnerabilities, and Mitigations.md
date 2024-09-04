@@ -284,4 +284,21 @@ B. A DNS flood
 C. A mirrored DDoS
 D. A supersized query attack
 
-Ashleys company is 
+Ashley's company is victim to a reflected DDoS attack where attackers took advantage of DNS queries to make a small amounts off spoofed traffic into very large amounts of data sent to her servers.
+
+60 C is correct
+Kara wants to protect against the most common means of firmware-based exploits. Which of
+the following is not a common firmware defense mechanism for the vendors of devices that
+use firmware?
+A. Using signed firmware updates
+B. Using input validation for user input
+C. Encrypting firmware
+D. Code review processes for firmware
+
+Firmware is typically not encrypted, but it is commonly digitally signed. Using input validation and code review both help to keep it secure.
+
+# 61-70
+61. A
+62. B
+63. C
+64. 
