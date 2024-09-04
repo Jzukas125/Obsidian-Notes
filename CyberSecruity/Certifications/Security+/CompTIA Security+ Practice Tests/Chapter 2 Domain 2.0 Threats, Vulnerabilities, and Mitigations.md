@@ -308,4 +308,26 @@ Firmware is typically not encrypted, but it is commonly digitally signed. Using 
 68. C
 69. ~~A~~
 70. B
+5/10
 
+61 D is correct
+Annie’s organization has been facing negative social media campaigns for months and is
+struggling to address them. Numerous bot posts about the company are providing incorrect
+information about the company. What type of attack is Annie’s company facing?
+A. A misinformation campaign
+B. A pretexting campaign
+C. An impersonation campaign
+D. A disinformation campaign
+
+Annie's company is facing a disinformation campaign. If users were getting facts wrong than that would be misinformation, but since wrong information is being intentionally spread it is disinformation.
+
+65 C is correct
+Raj wants to reduce the attack surface for a newly purchased laptop. What hardening
+technique will help him reduce the possibility of remote exploits while also decreasing the
+amount of ongoing patch management he needs to do for the system?
+A. Encrypt the system’s boot drive.
+B. Install EDR software.
+C. Remove unnecessary software.
+D. Change any default passwords.
+
+Removing unnecessary software reduces a system's attack surface and also m
