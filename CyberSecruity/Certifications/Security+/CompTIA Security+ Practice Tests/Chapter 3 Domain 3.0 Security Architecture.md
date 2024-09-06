@@ -241,3 +241,5 @@ Internet Key exchange IKE, is used to set up security associations on each end o
 40 A is correct
 Port mirroring allows the traffic segment to be copied to the segment were the nips is installed.
 
+# 41-50
+41. 
