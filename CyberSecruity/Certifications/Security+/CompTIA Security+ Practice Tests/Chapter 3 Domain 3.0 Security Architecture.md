@@ -289,4 +289,8 @@ Although NGFWs provide may defensive capabilities, SQL injection is an attack in
 51. A
 52. B
 53. A
-54. 
+54. D
+55. D
+56. A
+57. B
+58. 
