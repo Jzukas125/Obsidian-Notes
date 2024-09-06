@@ -283,4 +283,8 @@ B. IPS and/or IDS
 C. Sandboxing
 D. SQL injection
 
-Although NGFWs provide may defensive capa
+Although NGFWs provide may defensive capabilities, SQL injection is an attack instead of a defense. 
+
+# 51-60
+51. A
+52. 
