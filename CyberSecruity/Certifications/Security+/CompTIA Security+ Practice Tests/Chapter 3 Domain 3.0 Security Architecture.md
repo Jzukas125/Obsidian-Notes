@@ -274,4 +274,13 @@ B. Manually update the application code after reverse-engineering it.
 C. Deploy a fix via her WAF.
 D. Install the vendor-provided patch.
 
-Claire's best option is to fix it via WAF that will detect SQL injections. 
+Claire's best option is to fix it via WAF that will detect SQL injections. Vendor patches for zero days typically take some time to come out.
+
+45 D is correct
+Next-generation firewalls include many cutting-edge features. Which of the following is not a common next-generation firewall capability?
+A. Geolocation
+B. IPS and/or IDS
+C. Sandboxing
+D. SQL injection
+
+Although NGFWs provide may defensive capa
