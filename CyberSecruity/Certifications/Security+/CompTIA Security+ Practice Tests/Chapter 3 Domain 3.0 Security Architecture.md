@@ -298,4 +298,24 @@ Although NGFWs provide may defensive capabilities, SQL injection is an attack in
 60. ~~C~~
 6/10
 
-5
+51 D is correct
+Jason is considering deploying a network intrusion prevention system (IPS) and wants to be
+able to detect advanced persistent threats (APTs). What type of IPS detection method is most
+likely to detect the behaviors of an APT after it has gathered baseline information about
+normal operations?
+A. Signature-based IPS detections
+B. Heuristic-based IPS detections
+C. Malicious tool hash IPS detections
+D. Anomaly-based IPS detections
+
+Anomaly-based detection systems build a behavioral baseline for networks and then assess differences from those baselines. Signature and hash based look for known threats.
+
+52 A is correct
+Mila wants to generate a unique digital fingerprint for a file, and needs to choose between a
+checksum and a hash. Which option should she choose and why should she choose it?
+A. A hash, because it is unique to the file
+B. A checksum, because it verifies the contents of the file
+C. A hash, because it can be reversed to validate the file
+D. A checksum, because it is less prone to collisions than a hash
+
+Mila should select a hash because is designed to be unique to each input. That means that multiple files could have the same checksum 
