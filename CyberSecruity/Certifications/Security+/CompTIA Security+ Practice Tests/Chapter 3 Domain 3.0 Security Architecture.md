@@ -327,3 +327,14 @@ B. Simulate what would occur during a datacenter outage.
 C. Force a fail over using his network or other systems.
 D. Cause an outage of a critical system.
 
+Datacenters have a fail over process that can be manually executed in case of emergency. Mateo should use that process to fail over to his organization's fail over site. Simulation is not a fail over test, and creating an outage of a critical system typically will not cause an entire datacenter to fail over.
+
+60 B is correct
+Brandon deploys a server in a VLAN used for IoT devices. He then creates firewall rules that
+allow users in a system administration network to SSH to that server so that they can manage systems in the protected network segment. What type of solution has Brandon deployed?
+A. A UTM
+B. A jump server
+C. An ICS server
+D. A VPN
+
+Jump servers 
