@@ -243,12 +243,35 @@ Port mirroring allows the traffic segment to be copied to the segment were the n
 
 # 41-50
 41. D
-42. A
-43. D
+42. ~~A~~
+43. ~~D~~
 44. A
-45. C
+45. ~~C~~
 46. C
 47. A
 48. C
 49. A
-50. 
+50. D
+7/10
+
+42 B is correct
+Ryan is concerned about the security of his company’s web application. Since the application
+processes confidential data, he is most concerned about data exposure. Which of the following would be the most important for him to implement?
+A. WAF
+B. TLS
+C. NIPS
+D. NIDS
+
+The correct answer is to encrypt everything using TLS. A WAF is a good idea but it is not the most important thing to implement.
+
+43 C is correct
+Claire has been notified of a zero-day flaw in a web application. She has the exploit code,
+including a SQL injection attack that is being actively exploited. How can she quickly react
+to prevent this issue from impacting her environment if she needs the application to continue
+to function?
+A. Deploy a detection rule to her IDS.
+B. Manually update the application code after reverse-engineering it.
+C. Deploy a fix via her WAF.
+D. Install the vendor-provided patch.
+
+Claire's best option is to fix it via WAF that will detect SQL injections. 
