@@ -318,4 +318,12 @@ B. A checksum, because it verifies the contents of the file
 C. A hash, because it can be reversed to validate the file
 D. A checksum, because it is less prone to collisions than a hash
 
-Mila should select a hash because is designed to be unique to each input. That means that multiple files could have the same checksum 
+Mila should select a hash because is designed to be unique to each input. That means that multiple files could have the same checksum value.
+
+57 C is correct
+Mateo wants to conduct a fail over test for his datacenter. What will he need to do to accomplish this?
+A. Turn off all systems in his datacenter.
+B. Simulate what would occur during a datacenter outage.
+C. Force a fail over using his network or other systems.
+D. Cause an outage of a critical system.
+
