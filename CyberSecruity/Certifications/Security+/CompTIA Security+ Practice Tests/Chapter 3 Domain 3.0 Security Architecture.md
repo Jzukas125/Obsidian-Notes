@@ -246,4 +246,7 @@ Port mirroring allows the traffic segment to be copied to the segment were the n
 42. A
 43. D
 44. A
-45. 
+45. C
+46. C
+47. A
+48. 
