@@ -302,7 +302,13 @@ D. Discretionary access control
 Both the windows and Linux filesystems work based on a discretionary access control scheme where file and dictionary owners can determine who can access, change, or otherwise work with files under their control. 
 
 # 51-60
-51. C
-52. D
-53. C
-54. 
+51. ~~C~~
+52. ~~D~~
+53. ~~C~~
+54. ~~A~~
+55. B
+56. ~~C~~
+57. B
+58. B
+59. D
+60. A
