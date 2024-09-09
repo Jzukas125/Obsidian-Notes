@@ -290,7 +290,7 @@ B. Discretionary access control (DAC)
 C. Role-based access control
 D. Rule-based access control
 
-Rule based access control applies a set of rules to an access request. 
+Rule based access control applies a set of rules to an access request. Based on the application of the rules, the user may be given access to a specific resource that they were not explicitly granted permission to.
 
 48 D is correct
 Oliver needs to explain the access control scheme used by both the Windows and Linux filesystems. What access control scheme do they implement by default?
@@ -299,3 +299,7 @@ B. Mandatory access control
 C. Rule-based access control
 D. Discretionary access control
 
+Both the windows and Linux filesystems work based on a discretionary access control scheme where file and dictionary owners can determine who can access, change, or otherwise work with files under their control. 
+
+# 51-60
+51. 
