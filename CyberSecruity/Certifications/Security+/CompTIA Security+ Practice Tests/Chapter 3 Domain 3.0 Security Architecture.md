@@ -337,4 +337,4 @@ B. A jump server
 C. An ICS server
 D. A VPN
 
-Jump servers 
+Jump servers are used to access secured zones and are typically carefully controlled and monitored because they are the single point of entry from untrusted environments.
