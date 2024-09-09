@@ -243,4 +243,9 @@ Mandatory Access control MAC, is the correct answer. It will not allow lower pri
 42. A
 43. B
 44. C
-45. 
+45. C
+46. B
+47. C
+48. A
+49. A
+50. 
