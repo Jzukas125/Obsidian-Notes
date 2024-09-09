@@ -240,12 +240,25 @@ Mandatory Access control MAC, is the correct answer. It will not allow lower pri
 
 # 41 - 50
 41. C
-42. A
+42. ~~A~~
 43. B
-44. C
-45. C
+44. ~~C~~
+45. ~~C~~
 46. B
-47. C
-48. A
+47. ~~C~~
+48. ~~A~~
 49. A
-50. 
+50. C
+5/10
+
+42 C is correct
+Claire is concerned about an attacker getting information regarding network devices and
+their configuration in her company. Which protocol should she implement that would be
+most helpful in mitigating this risk while providing management and reporting about
+network devices?
+A. RADIUS
+B. TLS
+C. SNMPv3
+D. SFTP
+
+If Claire is using SNMP (simple network management protocol) to manage and monitor her network devices, she should make sure she is using SNMPv3 and that it is properly configured. SNMPv3 can provide information about the status and configuration of her network devices. Remote Authentication Dial in user service (RADIUS) might be used to authenticate 
