@@ -322,7 +322,7 @@ B. MAC
 C. DAC
 D. BAC
 
-Mandatory Access Control (MAC) is based on documented security levels associated with the information being accessed. Role baed (RBAC) is based on the role, Discretionary (DAC) lets the data owner set control. BAC is not an access control model
+Mandatory Access Control (MAC) is based on documented security levels associated with the information being accessed. Role based (RBAC) is based on the role, Discretionary (DAC) lets the data owner set control. BAC is not an access control model
 
 52 A is correct
 Users in your network are able to assign permissions to their own shared resources. Which of
@@ -332,3 +332,36 @@ B. RBAC
 C. MAC
 D. ABAC
 
+DAC allows data owners to assign permissions.
+
+53 A is correct
+Cynthia is preparing a new server for deployment, and her process includes turning off
+unnecessary services, setting security settings to match her organization’s baseline configurations, and installing patches and updates. What is this process known as?
+A. OS hardening
+B. Security uplift
+C. Configuration management
+D. Endpoint lockdown
+
+OS hardening is the process of securing an operating system by patching. 
+
+54 D is correct
+John is performing a port scan of a network as part of a security audit. He notices that the
+domain controller is using secure LDAP. Which of the following ports would lead him to that
+conclusion?
+A. 53
+B. 389
+C. 443
+D. 636
+
+Secure Lightweight Directory Access Protocol (LDAPS) uses port 636 by default. DNS uses port 53, LDAP uses 389, and secure HTTP uses port 443.
+
+56 A is correct
+Gary is designing his cloud infrastructure and needs to provide a firewall-like capability for
+the virtual systems he is running. Which of the following cloud capabilities acts like a virtual
+firewall?
+A. Security groups
+B. Dynamic resource allocation
+C. VPC endpoints
+D. Instance awareness
+
+Security gaps are a virtual firewall 
