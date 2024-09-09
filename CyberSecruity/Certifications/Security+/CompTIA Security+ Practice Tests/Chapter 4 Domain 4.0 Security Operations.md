@@ -281,4 +281,21 @@ B. Wrong password.
 C. Remote access is not allowed by ABAC.
 D. Firewalls usually block ABAC.
 
-Attribute-based access control looks at a group of attributes, in addition to the login username and password, to make decisions about whether or not to grant access. 
+Attribute-based access control (ABAC) looks at a group of attributes, in addition to the login username and password, to make decisions about whether or not to grant access. One of the attributes examined is the location making geo location the answer.
+
+47 D is correct
+Frank is a security administrator for a large company. Occasionally, a user needs to access a specific resource that they don’t have permission to access. Which access control methodology would be most helpful in this situation?
+A. Mandatory access control (MAC)
+B. Discretionary access control (DAC)
+C. Role-based access control
+D. Rule-based access control
+
+Rule based access control applies a set of rules to an access request. 
+
+48 D is correct
+Oliver needs to explain the access control scheme used by both the Windows and Linux filesystems. What access control scheme do they implement by default?
+A. Role-based access control
+B. Mandatory access control
+C. Rule-based access control
+D. Discretionary access control
+
