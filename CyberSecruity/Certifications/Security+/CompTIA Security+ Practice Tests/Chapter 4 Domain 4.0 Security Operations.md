@@ -261,4 +261,24 @@ B. TLS
 C. SNMPv3
 D. SFTP
 
-If Claire is using SNMP (simple network management protocol) to manage and monitor her network devices, she should make sure she is using SNMPv3 and that it is properly configured. SNMPv3 can provide information about the status and configuration of her network devices. Remote Authentication Dial in user service (RADIUS) might be used to authenticate 
+If Claire is using SNMP (simple network management protocol) to manage and monitor her network devices, she should make sure she is using SNMPv3 and that it is properly configured. SNMPv3 can provide information about the status and configuration of her network devices. Remote Authentication Dial in user service (RADIUS) might be used to authenticate to the network, but Transport layer security and SSH File Transfer Protocol are not specifically used for the purposes described.
+
+44 B is correct
+Tara is concerned about staff in her organization sending email with sensitive information
+like customer Social Security numbers (SSNs) included in it. What type of solution can she
+implement to help prevent inadvertent exposures of this type of sensitive data?
+A. FDE
+B. DLP
+C. S/MIME
+D. POP3S
+
+Data loss prevention tools allow sensitive data to be tagged and monitored so that if a user attempts to send it, they will be notified, administrators will be informed, and if necessary, the data can be protected using encryption or other protection methods before it is sent. S/MIME and POP3S would protect mail being retrieved from a server but would not prevent the SSNs from being sent.
+
+45 A is correct
+Mason is responsible for security at a company that has traveling salespeople. The company has been using ABAC for access control to the network. Which of the following is an issue that is specific to ABAC and might cause it to incorrectly reject logins?
+A. Geographic location.
+B. Wrong password.
+C. Remote access is not allowed by ABAC.
+D. Firewalls usually block ABAC.
+
+Attribute-based access control looks at a group of attributes, in addition to the login username and password, to make decisions about whether or not to grant access. 
