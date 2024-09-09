@@ -309,6 +309,26 @@ Both the windows and Linux filesystems work based on a discretionary access cont
 55. B
 56. ~~C~~
 57. B
-58. B
-59. D
+58. ~~B~~
+59. ~~D~~
 60. A
+3/10
+
+51 B is correct
+A companywide policy is being created to define various security levels. Which of the following systems of access control would use documented security levels like Confidential or Secret
+for information?
+A. RBAC
+B. MAC
+C. DAC
+D. BAC
+
+Mandatory Access Control (MAC) is based on documented security levels associated with the information being accessed. Role baed (RBAC) is based on the role, Discretionary (DAC) lets the data owner set control. BAC is not an access control model
+
+52 A is correct
+Users in your network are able to assign permissions to their own shared resources. Which of
+the following access control models is used in your network?
+A. DAC
+B. RBAC
+C. MAC
+D. ABAC
+
