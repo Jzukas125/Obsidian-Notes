@@ -252,4 +252,6 @@ NDAs are used to protect sensitive data. SLA determine service levels and penalt
 53. B
 54. C
 55. C
-56. 
+56. A
+57. B
+58. 
