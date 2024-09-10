@@ -211,3 +211,6 @@ C. A qualitative risk assessment
 D. A penetration test
 
 A business impact analysis (BIA) is a formal process used to identify mission-critical functions and to ensure that critical systems that support those functions are identified and assessed.
+
+# 41 - 50
+41. 
