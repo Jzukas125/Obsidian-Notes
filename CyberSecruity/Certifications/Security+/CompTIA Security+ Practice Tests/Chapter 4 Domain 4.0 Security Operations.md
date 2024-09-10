@@ -364,4 +364,14 @@ B. Dynamic resource allocation
 C. VPC endpoints
 D. Instance awareness
 
-Security gaps are a virtual firewall 
+Security gaps are a virtual firewall for instances, allowing rules to be applied to traffic between instances. Dynamic resource allocation is a concept that allows resources to be applied as they are needed, including scaling up and down infrastructure and systems on the fly. 
+
+59 A is correct
+Lucas is looking for an XML-based open standard for exchanging authentication
+information. Which of the following would best meet his needs?
+A. SAML
+B. OAuth
+C. RADIUS
+D. NTLM
+
+Security Assertion markup language (SAML) is an XML based open standard format for exchanging authentication and authorization data between parties. 
