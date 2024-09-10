@@ -234,4 +234,14 @@ B. Conservative
 C. Authoritarian
 D. Legislative
 
-Organizations that focus on reducing risks and that have significant compliance requirements are likely to adopt a conservative risk apetite. 
+Organizations that focus on reducing risks and that have significant compliance requirements are likely to adopt a conservative risk appetite. Authoritarian and legislative are not usually used to describe risk appetite.
+
+49 B is correct
+What type of agreement is used by organizations that want to protect their proprietary data
+while working with third parties or individuals who will have access to the data?
+A. SLAs
+B. NDAs
+C. MSAs
+D. BPAs
+
+NDAs are used to protect sensitive data. SLA determine service levels and penalties if they are not met.
