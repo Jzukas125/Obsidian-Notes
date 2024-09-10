@@ -298,3 +298,4 @@ B. Exception
 C. Avoidance
 D. Mitigate
 
+Risk exception recognizes risk areas where an organization may not be in compliance with policies or regulations, and may be acknowledged because they cannot be addresses in a timely manner.
