@@ -250,10 +250,22 @@ NDAs are used to protect sensitive data. SLA determine service levels and penalt
 51. A
 52. B
 53. B
-54. C
+54. ~~C~~
 55. C
-56. A
+56. ~~A~~
 57. B
 58. B
-59. B
-60. 
+59. ~~B~~
+60. ~~D~~
+6/10
+
+54 D is correct
+Daryl wants to ensure that his organization balances risks and its goals. What risk appetite
+model should he suggest the organization adopts?
+A. Conservative
+B. Expansionary
+C. Reactionary
+D. Neutral
+
+Neutral risk appetites balance organizational goals against risk. Conservative tries to reduce risk. Expansionary will accept and reactionary isn't real.
+
