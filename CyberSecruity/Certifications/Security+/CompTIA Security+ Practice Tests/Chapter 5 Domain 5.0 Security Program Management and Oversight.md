@@ -217,9 +217,21 @@ A business impact analysis (BIA) is a formal process used to identify mission-cr
 42. B
 43. D
 44. A
-45. D
+45. ~~D~~
 46. C
 47. D
 48. A
-49. A
-50. 
+49. ~~A~~
+50. C
+8/10
+
+45 B is correct
+Anastasia works for a government entity that requires very strong risk controls and that has
+significant regulatory requirements it must meet. What risk appetite model should she expect
+her organization to adopt?
+A. Expansionary
+B. Conservative
+C. Authoritarian
+D. Legislative
+
+Organizations that focus on reducing risks and that have significant compliance requirements are likely to adopt a conservative risk apetite. 
