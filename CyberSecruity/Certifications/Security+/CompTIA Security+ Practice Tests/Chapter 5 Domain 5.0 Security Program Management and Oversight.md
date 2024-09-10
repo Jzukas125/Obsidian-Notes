@@ -247,4 +247,5 @@ D. BPAs
 NDAs are used to protect sensitive data. SLA determine service levels and penalties if they are not met.
 
 # 51-60
-51. 
+51. A
+52. 
