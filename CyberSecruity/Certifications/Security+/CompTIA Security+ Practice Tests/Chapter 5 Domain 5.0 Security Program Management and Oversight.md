@@ -217,4 +217,9 @@ A business impact analysis (BIA) is a formal process used to identify mission-cr
 42. B
 43. D
 44. A
-45. 
+45. D
+46. C
+47. D
+48. A
+49. A
+50. 
