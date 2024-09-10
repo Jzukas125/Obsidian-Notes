@@ -269,3 +269,32 @@ D. Neutral
 
 Neutral risk appetites balance organizational goals against risk. Conservative tries to reduce risk. Expansionary will accept and reactionary isn't real.
 
+56 D is correct
+The company that Omar works for wants to co-develop a mobile application with a thirdparty company. What type of agreement should they both sign as part of this?
+A. An SLA
+B. An NDA
+C. An MSA
+D. A BPA
+
+BPAs or business partner agreements are used when two organizations want to do business as a partnership. SLAs determine service levels and penalties.
+
+59 C is correct
+Killian’s organization wants to perform a penetration test that will provide the maximum
+amount of information about his organization and that will optimize penetration testers’
+time. What type of test should he have conducted?
+A. A partially known environment test
+B. An unknown environment test
+C. A known environment test
+D. A third-party test
+
+Known environment tests provide full information to testers, allowing them to use information about the environment without having to discover it.\
+
+60 B is correct
+Justin’s organization has recently undergone a third-party audit that determined that their
+data-handling processes don’t comply with the GDPR. Changes to become compliant will
+take almost a year due to existing systems and software. What risk management strategy is Justin’s organization choosing if they continue to operate knowing they are noncompliant?
+A. Transfer
+B. Exception
+C. Avoidance
+D. Mitigate
+
