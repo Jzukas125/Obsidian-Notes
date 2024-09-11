@@ -499,3 +499,7 @@ C. The certificate’s serial number
 D. The identifier for the open public ledger entry
 
 OCSP requests must include the certificate's serial number to allow the ocsp responder to check the CA database for the certificate and its status. It does not require the domain name or requestor's name. 
+
+# 111-120
+111. A
+112. 
