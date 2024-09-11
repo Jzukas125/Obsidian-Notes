@@ -545,10 +545,31 @@ Access control lists are best described as technical controls. Managerial contro
 # 121-130
 121. D
 122. B
-123. D
+123. ~~D~~
 124. D
-125. A
+125. ~~A~~
 126. C
 127. A
 128. B
-129. 
+129. C
+130. ~~C~~
+7/10
+
+123 C is correct
+What challenge drives the need for key exchange mechanisms?
+A. The number of keys required for symmetric encryption
+B. The need to determine if a key is public
+C. The need to exchange keys in a way that prevents others from obtaining a copy
+D. The need to securely return keys to their owner after they are traded
+
+Key exchange algorithms focus on how to securely exchange keys so that others cannot obtain a copy of the key. 
+
+125 D is correct
+Ilya wants to create a certificate signing request. Which of the following is not a typical part
+of a CSR?
+A. The common name of the server
+B. The organization’s legal name
+C. A contact email address
+D. The organization’s phone number
+
+Certificate requests incl
