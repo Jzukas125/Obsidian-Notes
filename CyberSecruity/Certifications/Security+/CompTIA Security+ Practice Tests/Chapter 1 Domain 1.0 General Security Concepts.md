@@ -511,3 +511,33 @@ OCSP requests must include the certificate's serial number to allow the ocsp res
 118. B
 119. ~~D~~
 120. B
+7/10
+
+113 A is correct
+Jim wants to implement an authentication framework for his wireless network. Which of
+the following is most commonly used for wireless network authentication?
+A. EAP
+B. MS-CHAP
+C. Kerberos
+D. LDAP
+
+EAP is commonly used for authentication to wireless networks. Kerberos is used for organization wide authentication, LDAP is used as part of authentication in Microsoft active director domains, MS-CHAP is sued with PPTP-based VPNs.
+
+114 A is correct
+Gary is preparing change management documentation for an application restart after
+patching. What step should immediately follow the application restart?
+A. Validation testing
+B. Documenting the change occurred
+C. Updating version control
+D. Vulnerability scanning
+
+Validation testing should follow application restarts to ensure the application is working as expected. Updating can come after validating. 
+
+119 C is correct
+Frank configures an access control list to ensure that only specific IP addresses are able to connect to a service. What type of control has he deployed?
+A. Managerial
+B. Physical
+C. Technical
+D. Operational
+
+Access control lists are best described as technical controls. Managerial controls are procedural mechanisms; physical controls are controls that impact the physical world, like locks or fences. 
