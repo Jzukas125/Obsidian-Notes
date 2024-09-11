@@ -540,4 +540,10 @@ B. Physical
 C. Technical
 D. Operational
 
-Access control lists are best described as technical controls. Managerial controls are procedural mechanisms; physical controls are controls that impact the physical world, like locks or fences. 
+Access control lists are best described as technical controls. Managerial controls are procedural mechanisms; physical controls are controls that impact the physical world, like locks or fences. Operational controls are processes used to manage technology in a secure manner, like the change management process Frank will likely follow to make changes to the access control list.
+
+# 121-130
+121. D
+122. B
+123. D
+124. 
