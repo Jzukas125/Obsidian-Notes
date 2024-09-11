@@ -546,4 +546,9 @@ Access control lists are best described as technical controls. Managerial contro
 121. D
 122. B
 123. D
-124. 
+124. D
+125. A
+126. C
+127. A
+128. B
+129. 
