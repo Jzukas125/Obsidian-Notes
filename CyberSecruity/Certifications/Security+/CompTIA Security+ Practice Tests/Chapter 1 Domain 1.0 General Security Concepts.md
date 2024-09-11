@@ -503,9 +503,11 @@ OCSP requests must include the certificate's serial number to allow the ocsp res
 # 111-120
 111. A
 112. A
-113. C
-114. C
+113. ~~C~~
+114. ~~C~~
 115. A
 116. C
 117. A
-118. 
+118. B
+119. ~~D~~
+120. B
