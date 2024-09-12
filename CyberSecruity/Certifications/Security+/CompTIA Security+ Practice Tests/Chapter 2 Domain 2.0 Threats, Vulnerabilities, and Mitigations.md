@@ -413,7 +413,7 @@ D. Report an incident and start the incident response process.
 Until more is known the best route for security is to review the authentication logs in order to gather more information that can indicate whether an issue or security event has occurred. 
 
 78 C is correct
-. Grayson’s organization is concerned about environmental attacks against their datacenter.
+Grayson’s organization is concerned about environmental attacks against their datacenter.
 What type of monitoring is best suited to detecting environmental attacks in a scenario
 like this?
 A. Video cameras
@@ -421,4 +421,17 @@ B. Intrusion alarm systems
 C. Temperature monitoring sensors
 D. Log analysis
 
-Environmental monitoring invlovles things like temperature, water or flood sensors, and other dete
+Environmental monitoring involves things like temperature, water or flood sensors, and other detection capabilities that help organizations know if a natural disaster or other environmental issue has occurred.
+
+80 B is correct
+Amanda is assessing the potential for issues with her organization’s recently adopted IaaS
+vendor. What cloud vulnerability should she worry about if her system administrators do not
+effectively manage security groups in AWS?
+A. Insecure APIs
+B. Misconfigurations
+C. Malicious insiders
+D. MFA-based attacks
+
+Security groups are used like firewall rules in AWS and since Amanda's system administrators are not effectively managing security groups, this is most likely to create a misconfiguration. APIs are provided by the vendor and thus their security is typically a vendor issue.
+
+# 81 - 90
