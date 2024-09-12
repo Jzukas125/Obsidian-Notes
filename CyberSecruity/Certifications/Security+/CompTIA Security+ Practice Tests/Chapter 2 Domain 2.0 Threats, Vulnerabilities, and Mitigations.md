@@ -366,11 +366,16 @@ D. Impossible travel
 This is out of cycle logging. It could simply indicate a flaw in the script or another innocuous issue.
 
 # 71-80
-71. C
+71. B
 72. D
 73. B
-74. C
+74. ~~C~~
 75. B
-76. B
-77. C
-78. 
+76. ~~B~~
+77. ~~C~~
+78. ~~A~~
+79. A
+80. ~~A~~
+5/10
+
+74 A is correct
