@@ -369,4 +369,8 @@ This is out of cycle logging. It could simply indicate a flaw in the script or a
 71. C
 72. D
 73. B
-74. 
+74. C
+75. B
+76. B
+77. C
+78. 
