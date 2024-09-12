@@ -435,12 +435,14 @@ D. MFA-based attacks
 Security groups are used like firewall rules in AWS and since Amanda's system administrators are not effectively managing security groups, this is most likely to create a misconfiguration. APIs are provided by the vendor and thus their security is typically a vendor issue.
 
 # 81 - 90
-81. B
-82. B
+81. ~~B~~
+82. ~~B~~
 83. C
-84. D
+84. ~~D~~
 85. C
 86. C
 87. B
 88. B
-89. 
+89. A
+90. D
+
