@@ -443,6 +443,43 @@ Security groups are used like firewall rules in AWS and since Amanda's system ad
 86. C
 87. B
 88. B
-89. A
-90. D
+89. ~~A~~
+90. ~~D~~
+5/10
+
+81 D is correct
+Jared’s organization runs Linux servers, and recent vulnerability scans show that the servers
+are vulnerable to an issue that is described as follows:
+CVE-2018-5703: tcp_v6_syn_recv_sock function in net/ipv6/tcp_ipv6.c in
+the Linux kernel through 4.14.11 allows attackers to cause a denial of
+service (slab out-of-bounds write)
+What is Jared’s best option to remediate a kernel vulnerability like this?
+A. Patch the application.
+B. Install a HIPS with appropriate rules.
+C. Segment the systems away from the Internet to reduce risk.
+D. Patch the operating system.
+
+The Linux kernel is part of the operating system and needs to be handled with an OS patch. 
+
+82 C is correct
+it used the word encryption when the correct answer was hash
+
+84 B is correct
+What technique most effectively prevents resource reuse concerns for storage in a virtual
+environment?
+A. Firmware updates
+B. Volume encryption
+C. Minimizing cluster size
+D. Reformatting drives
+
+Ensuring that any volume that is used in a virtual environment is encrypted when created will prevent reuse concerns because data will be unrecoverable even if encrypted data was accessible. Firmware updates, cluster sizes, and reformatting do not properly address this issue.
+
+89 B is correct
+Which of the following threat actors is most likely to be associated with an advanced persistent threat (APT)?
+A. Hacktivists
+B. Nation-state actors
+C. Unskilled attacker
+D. Insider 
+
+Nation state actors often have greater resources and skills, making them more of a significant threat.
 
