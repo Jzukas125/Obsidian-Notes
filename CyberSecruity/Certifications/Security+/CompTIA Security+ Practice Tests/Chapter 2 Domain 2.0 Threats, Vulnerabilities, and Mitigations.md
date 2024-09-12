@@ -441,4 +441,6 @@ Security groups are used like firewall rules in AWS and since Amanda's system ad
 84. D
 85. C
 86. C
-87. 
+87. B
+88. B
+89. 
