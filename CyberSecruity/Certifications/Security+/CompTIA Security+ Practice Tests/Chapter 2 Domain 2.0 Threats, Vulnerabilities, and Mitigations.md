@@ -365,3 +365,8 @@ D. Impossible travel
 
 This is out of cycle logging. It could simply indicate a flaw in the script or another innocuous issue.
 
+# 71-80
+71. C
+72. D
+73. B
+74. 
