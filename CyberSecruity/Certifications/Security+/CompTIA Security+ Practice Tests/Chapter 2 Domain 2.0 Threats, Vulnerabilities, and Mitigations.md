@@ -388,3 +388,37 @@ D. An IP reputation feed
 
 Both commercial and private threat feeds can be used by security tools like SIEM, EDR, and XDR systems to provide them with current information. 
 
+76 D is correct
+You are responsible for software testing at Acme Corporation. You want to check all software for bugs that might be used by an attacker to gain entrance into the software or your
+network. You have discovered a web application that would allow a user to attempt to put a
+64-bit value into a 4-byte integer variable. What is this type of flaw?
+A. Memory overflow
+B. Buffer overflow
+C. Variable overflow
+D. Integer overflow
+
+Placing a larger integer into a smaller integer is integer overflow. Memory and variable overflow are not real terms.
+
+77 A is correct
+The company that Keith works for uses a backoff algorithm that increases the time between
+when login attempts are allowed after each failed login. Keith has recently attempted to log
+in and found that his account is not able to log in again for 15 minutes. What should the
+security administrators at Keith’s organization do to find potential indicators of malicious
+activity?
+A. Review authentication logs.
+B. Interview Keith about his recent logins.
+C. Change Keith’s password and check error logs.
+D. Report an incident and start the incident response process.
+
+Until more is known the best route for security is to review the authentication logs in order to gather more information that can indicate whether an issue or security event has occurred. 
+
+78 C is correct
+. Grayson’s organization is concerned about environmental attacks against their datacenter.
+What type of monitoring is best suited to detecting environmental attacks in a scenario
+like this?
+A. Video cameras
+B. Intrusion alarm systems
+C. Temperature monitoring sensors
+D. Log analysis
+
+Environmental monitoring invlovles things like temperature, water or flood sensors, and other dete
