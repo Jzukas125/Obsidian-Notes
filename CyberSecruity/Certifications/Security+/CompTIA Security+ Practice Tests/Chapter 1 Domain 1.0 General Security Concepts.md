@@ -572,4 +572,18 @@ B. The organization’s legal name
 C. A contact email address
 D. The organization’s phone number
 
-Certificate requests incl
+Certificate requests include the common name. CN); organization (O); organization
+unit in the organization (OU); city or locality (L); the state, county, or region (S); country
+(C); and organizational contact email address.
+
+130 A is correct
+Elaine wants to document the technical concerns that dependencies create as part of her
+change management process. Which of the following concerns is the most common when
+dependencies are encountered as part of change management?
+A. Documenting the dependencies to ensure they are addressed
+B. Removing the dependencies as part of the change
+C. Patching the dependencies in addition to the main application
+D. Updating diagrams related to the dependencies
+
+Change management process typically focus on documenting dependencies and ensuring they are met. That may involve ensuring that the appropriate version is installed or that applications are restarted in a specific order, or that a service is available that is needed for a system to successfully function. Removing dependencies is unlikely. patching may or may not be required, and updating diagrams is less important than ensuring the dependencies are understood and met.
+
