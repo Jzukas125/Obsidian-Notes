@@ -379,3 +379,12 @@ This is out of cycle logging. It could simply indicate a flaw in the script or a
 5/10
 
 74 A is correct
+Dana wants to use documented and published IoCs as part of her threat-hunting activities.
+What should she look for to integrate with her SIEM or other security tools?
+A. Threat feeds
+B. A real-time blackhole list
+C. A vulnerability feed
+D. An IP reputation feed
+
+Both commercial and private threat feeds can be used by security tools like SIEM, EDR, and XDR systems to provide them with current information. 
+
