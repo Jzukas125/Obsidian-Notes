@@ -27,5 +27,12 @@ RBAC assigns permissions to users based on their job responsibilities within an 
 
 # Another Set of questions 
 1. B
-2. 
-3. 
+2. C
+3. A
+4. B
+5. A
+6. C
+7. C
+8. B
+9. ~~A~~
+10. 
