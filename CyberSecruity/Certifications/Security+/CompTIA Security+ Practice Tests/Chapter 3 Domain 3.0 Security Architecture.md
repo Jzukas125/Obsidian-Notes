@@ -370,4 +370,26 @@ B. An FWSM
 C. A WAF
 D. An ELB
 
-A unified threat management device combines multiple security services including firewall, IDS, or IPS, antivirus/antimalware, email filtering, WAF, and similar services into a single solution
+A unified threat management device combines multiple security services including firewall, IDS, or IPS, antivirus/antimalware, email filtering, WAF, and similar services into a single solution.
+
+64 A is correct
+Ramon wants to conduct an exercise for his organization with the least potential to cause
+disruption. Which of the following testing methodologies is least likely to cause potential
+issues with service delivery?
+A. Tabletop exercises
+B. Fail over exercises
+C. Simulation exercises
+D. Parallel processing exercises
+
+Tabletop exercises do not involve an actual technical system and instead are gamed out in a room. This means they're least likely to cause disruptions. Simulation exercises require care because simulated calls and actions may inadvertently become real if staff are not fully aware of the scenario being an exercise or accidentally execute a command that can cause actual impact.
+
+68 C is correct
+Selah’s organization is conducting a simulation exercise. Which of the following is not a
+common element of a simulation?
+A. Testing of notification processes
+B. Testing of procedures
+C. Testing of fail over capabilities
+D. Testing of communication systems
+
+Simulations try to avoid causing potential outages and work to simulate a scenario. They may validate that notification processes communication systems and procedures all work.
+
