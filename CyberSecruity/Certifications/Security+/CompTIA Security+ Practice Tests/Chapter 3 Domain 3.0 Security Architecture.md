@@ -361,3 +361,13 @@ C. IPSec
 D. RSA
 
 IPSec virtual private networks are commonly established to tunnel through public or untrusted networks. RTOs or real time operating system, is used embedded systems. 
+
+63 A is correct
+Eva wants to deploy a network security device that will provide firewall services as well as
+IPS and email filtering. Which device should she deploy?
+A. A UTM
+B. An FWSM
+C. A WAF
+D. An ELB
+
+A unified threat management device combines multiple security services including firewall, IDS, or IPS, antivirus/antimalware, email filtering, WAF, and similar services into a single solution
