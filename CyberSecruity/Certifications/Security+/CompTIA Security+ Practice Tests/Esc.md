@@ -24,3 +24,8 @@ What is RBAC based on?
 A user’s job function within the organization
 
 RBAC assigns permissions to users based on their job responsibilities within an organization. Rather than setting permissions for each individual user, RBAC allows administrators to define roles with specific privilege's, streamlining access management by grouping users with similar functions under the same role.
+
+# Another Set of questions 
+1. B
+2. 
+3. 
