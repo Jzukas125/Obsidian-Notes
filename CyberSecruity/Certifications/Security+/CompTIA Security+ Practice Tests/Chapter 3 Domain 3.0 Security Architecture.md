@@ -340,13 +340,24 @@ D. A VPN
 Jump servers are used to access secured zones and are typically carefully controlled and monitored because they are the single point of entry from untrusted environments.
 
 # 61 - 70
-61. D
+61. ~~D~~
 62. B
-63. C
-64. C
+63. ~~C~~
+64. ~~C~~
 65. B
 66. D
 67. B
-68. A
+68. ~~A~~
 69. C
-70. 
+70. B
+6/10
+
+61 C is correct
+What protocol is commonly used to allow for secured tunnels between corporate networks
+through untrusted networks?
+A. RTOS
+B. SHA-1
+C. IPSec
+D. RSA
+
+IPSec virtual private networks are commonly established to tunnel through public or untrusted networks. RTOs or real time operating system, is used embedded systems. 
