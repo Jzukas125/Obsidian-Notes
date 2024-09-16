@@ -345,4 +345,7 @@ Jump servers are used to access secured zones and are typically carefully contro
 63. C
 64. C
 65. B
-66. 
+66. B
+67. B
+68. A
+69. 
