@@ -503,4 +503,23 @@ B. Enable a network firewall.
 C. Use SIEM logs.
 D. Perform a forensic drive copy.
 
-A packet capture will show attempts to connect to the service an
+A packet capture will show attempts to connect to the service and will Maria determine if there is unexpected traffic to the system. Logs may be helpful but packet captures are more helpful.
+
+88 B is correct
+Tools like PRTG and Cacti that monitor SNMP information are used to provide what type of information for an incident investigation?
+A. Authentication logs
+B. Bandwidth monitoring
+C. System log information
+D. Email metadata
+
+PRTG and Cacti are both network monitoring tools that can provide bandwidth monitoring information. 
+
+89 A is correct
+The company Charles works for has recently had a stolen company cell phone result in a
+data breach. Charles wants to prevent future incidents of a similar nature. Which of the following mitigation techniques would be the most effective?
+A. Enable FDE via MDM.
+B. A firewall change.
+C. A DLP rule.
+D. A new URL filter rule
+
+A variety of configuration changes could be pushed to mobile devices to help: setting passcodes, enabling full disk encryption on MDMs, or even preventing some sensitive files from being downloaded or kept on those devices could all help. Firewall rules, data loss prevention rules, and urls will not prevent a stolen device from accessed and the data being exposed.
