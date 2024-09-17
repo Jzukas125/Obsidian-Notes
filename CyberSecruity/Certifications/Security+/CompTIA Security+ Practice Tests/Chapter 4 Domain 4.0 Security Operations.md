@@ -407,3 +407,27 @@ B. Paper trail
 C. Chain of custody
 D. Digital footprint
 
+The chain of forensic activities tracks who has a device, data ,or other forensic artifact at any time, when transfer occurs, who performed analysis, and where the item, system, or device goes when the forensic process is done. Paper trail and digital footprint are not technical terms used for digital forensics. Evidence logs may be maintained by law enforcement to track evidence that is gathered.
+
+66 B is correct
+Nathan needs to know how many times an event occurred and wants to check a log file for
+that event. Which of the following grep commands will tell him how many times the event
+happened if each occurrence is logged independently in the logfile.txt log file, and uses
+a unique event ID, event101?
+A. grep logfile.txt -n 'event101'
+B. grep -c 'event101' logfile.txt
+C. grep logfile.txt -c 'event101'
+D. grep -c event101 -i logfile.txt
+
+The -c flag is the count or number of occurrences for a given string in a file. The -n flag shows the matched lines and line numbers. The pattern comes before the file name.
+
+67 B is correct
+Eric wants to determine how much bandwidth was used during a compromise and where the
+traffic was directed to. What technology can he implement before the event to help him see
+this detail and allow him to have an effective bandwidth monitoring solution?
+A. A firewall
+B. NetFlow
+C. Packetflow
+D. A DLP
+
+Network flows using NetFlow or sFlow would provide the information that Eric wants, with details of how much traffic was used, when, and where traffic was directed. 
