@@ -471,3 +471,17 @@ B. The organization’s backup policy
 C. The organization’s retention policy
 D. The organization’s legal hold policy
 
+Organizations define retention policies for different types and systems. Many organizations use 30-, 45-, 90-, 180-, or 365-day retention policies, with some information required to be kept longer due to law or compliance reasons. 
+
+79 B is correct
+Charles wants to ensure that the forensic work that he is doing cannot be repudiated. How
+can he validate his attestations and documentation to ensure nonrepudiation?
+A. Encrypt all forensic output.
+B. Digitally sign the records.
+C. Create a MD5 checksum of all images.
+D. All of the above.
+
+The most important action Charles can take while working with his forensic artifacts to provide nonrepudiation is to digitally sign the artifacts and information that he is creating in his evidence records. Encryption does not provide nonrepudiation by itself.
+
+# 81 - 90
+81. 
