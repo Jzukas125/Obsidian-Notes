@@ -422,12 +422,23 @@ D. grep -c event101 -i logfile.txt
 The -c flag is the count or number of occurrences for a given string in a file. The -n flag shows the matched lines and line numbers. The pattern comes before the file name.
 
 67 B is correct
-Eric wants to determine how much bandwidth was used during a compromise and where the
-traffic was directed to. What technology can he implement before the event to help him see
-this detail and allow him to have an effective bandwidth monitoring solution?
+Eric wants to determine how much bandwidth was used during a compromise and where the traffic was directed to. What technology can he implement before the event to help him see this detail and allow him to have an effective bandwidth monitoring solution?
 A. A firewall
 B. NetFlow
 C. Packetflow
 D. A DLP
 
-Network flows using NetFlow or sFlow would provide the information that Eric wants, with details of how much traffic was used, when, and where traffic was directed. 
+Network flows using NetFlow or sFlow would provide the information that Eric wants, with details of how much traffic was used, when, and where traffic was directed. Data loss prevention (DLP) would not show the bandwidth detail, although a firewall may show the connection information for events.
+
+70 D is correct
+Michelle wants to check for authentication failures on a RedHat Linux–based system. Where should she look for these event logs?
+A. /var/log/auth.log
+B. /var/log/fail
+C. /var/log/events
+D. /var/log/secure
+
+Red Hat stores authentication log information in /var/log/secure instead of/var/log/auth.log. This is purely memorization.
+
+# 71 - 80
+71. C
+72. 
