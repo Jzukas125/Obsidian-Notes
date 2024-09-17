@@ -484,4 +484,5 @@ D. All of the above.
 The most important action Charles can take while working with his forensic artifacts to provide nonrepudiation is to digitally sign the artifacts and information that he is creating in his evidence records. Encryption does not provide nonrepudiation by itself.
 
 # 81 - 90
-81. 
+81. A
+82. 
