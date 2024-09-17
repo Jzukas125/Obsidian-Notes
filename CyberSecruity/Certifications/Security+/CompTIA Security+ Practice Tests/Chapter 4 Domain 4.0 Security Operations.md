@@ -398,3 +398,4 @@ B. The network log
 C. The security log
 D. None of the above
 
+Windows does not log network traffic at a level of granularity that will show if a file has been uploaded.
