@@ -486,8 +486,21 @@ The most important action Charles can take while working with his forensic artif
 # 81 - 90
 81. A
 82. A
-83. C
+83. ~~C~~
 84. A
 85. D
 86. D
-87. 
+87. B
+88. ~~D~~
+89. ~~C~~
+90. B
+7/10
+
+83 A is correct
+A Windows system that Maria is responsible for has been experiencing service outages. The outages correspond to processes run on another system in the datacenter, and Maria believes that unexpected traffic may be sent to the Windows system. Which of the following data sources should Maria use to best understand what is happening?
+A. Perform a packet capture.
+B. Enable a network firewall.
+C. Use SIEM logs.
+D. Perform a forensic drive copy.
+
+A packet capture will show attempts to connect to the service an
