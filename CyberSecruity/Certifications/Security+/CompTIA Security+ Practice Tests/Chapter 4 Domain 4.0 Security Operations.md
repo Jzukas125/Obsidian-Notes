@@ -398,4 +398,12 @@ B. The network log
 C. The security log
 D. None of the above
 
-Windows does not log network traffic at a level of granularity that will show if a file has been uploaded.
+Windows does not log network traffic at a level of granularity that will show if a file has been uploaded that allows for Jessica to determine if the files are sent from a windows system.
+
+65 C is correct
+What term is used to describe the documentation trail for control, analysis, transfer, and final disposition of evidence for digital forensic work?
+A. Evidence log
+B. Paper trail
+C. Chain of custody
+D. Digital footprint
+
