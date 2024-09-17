@@ -377,5 +377,7 @@ D. NTLM
 Security Assertion markup language (SAML) is an XML based open standard format for exchanging authentication and authorization data between parties. 
 
 # 61 - 70
-61. C
-62. 
+61. B
+62. C
+63. D
+64. 
