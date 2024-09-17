@@ -380,10 +380,21 @@ Security Assertion markup language (SAML) is an XML based open standard format f
 61. C
 62. C
 63. D
-64. B
-65. D
-66. C
-67. D
+64. ~~B~~
+65. ~~D~~
+66. ~~C~~
+67. ~~D~~
 68. D
 69. B
-70. 
+70. ~~A~~
+5/10
+
+64 D is correct
+Jessica wants to review the network traffic that her Windows system has sent to determine if
+a file containing sensitive data was uploaded from the system. What Windows log file can she
+use to find this information?
+A. The application log
+B. The network log
+C. The security log
+D. None of the above
+
