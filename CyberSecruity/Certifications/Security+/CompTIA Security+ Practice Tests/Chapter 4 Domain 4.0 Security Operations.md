@@ -446,4 +446,7 @@ Red Hat stores authentication log information in /var/log/secure instead of/var/
 74. D
 75. C
 76. B
-77. 
+77. C
+78. C
+79. D
+80. 
