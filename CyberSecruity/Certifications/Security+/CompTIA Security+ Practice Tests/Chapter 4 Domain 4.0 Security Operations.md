@@ -486,4 +486,8 @@ The most important action Charles can take while working with his forensic artif
 # 81 - 90
 81. A
 82. A
-83. 
+83. C
+84. A
+85. D
+86. D
+87. 
