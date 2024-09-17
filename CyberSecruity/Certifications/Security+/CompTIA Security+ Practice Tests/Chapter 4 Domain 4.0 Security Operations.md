@@ -442,11 +442,32 @@ Red Hat stores authentication log information in /var/log/secure instead of/var/
 # 71 - 80
 71. C
 72. C
-73. A
+73. ~~A~~
 74. D
 75. C
-76. B
+76. ~~B~~
 77. C
 78. C
-79. D
-80. 
+79. ~~D~~
+80. A
+7/10
+
+73 B is correct
+Jason is conducting a forensic investigation and has retrieved artifacts in addition to drives
+and files. What should he do to document the artifacts he has acquired?
+A. Image them using dd and ensure that a valid MD5sum is generated.
+B. Take a picture of them, label them, and add them to the chain-of-custody
+documentation.
+C. Contact law enforcement to properly handle the artifacts.
+D. Engage legal counsel to advise him how to handle artifacts in an investigation
+
+When artifacts are acquired as part of an investigation, they should be logged and documented as part of the evidence related to the investigation. 
+
+76 C is correct
+Susan has discovered evidence of a compromise that occurred approximately five months
+ago. She wants to conduct an incident investigation but is concerned about whether the data will exist. What policy guides how long logs and other data are kept in most organizations?
+A. The organization’s data classification policy
+B. The organization’s backup policy
+C. The organization’s retention policy
+D. The organization’s legal hold policy
+
