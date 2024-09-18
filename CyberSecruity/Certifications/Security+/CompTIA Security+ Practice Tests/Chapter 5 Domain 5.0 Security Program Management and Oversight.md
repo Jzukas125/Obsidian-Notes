@@ -330,3 +330,16 @@ C. Defensive
 D. Integrated
 
 Integrated penetration testing combines both offensive and defensive pentation testing, and testing guards as well as attempting to make it through access controls is an example of an integrated test.
+
+70 B is correct
+Joshua’s organization is required to comply with the EU’s GDPR. As part of their annual
+assessments, they conduct a GDPR compliance review and receive a report from their auditors. What type of assessment is this?
+A. A penetration test
+B. A regulatory assessment
+C. An internal audit
+D. An attestation-based assessment
+
+The GDPR is a regulation, making this a regulatory assessment or audit.
+
+# 71 - 80
+71. 
