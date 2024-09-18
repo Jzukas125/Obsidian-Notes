@@ -344,4 +344,11 @@ The GDPR is a regulation, making this a regulatory assessment or audit.
 # 71 - 80
 71. C
 72. A
-73. 
+73. B
+74. D
+75. B
+76. A
+77. D
+78. C
+79. C
+80. 
