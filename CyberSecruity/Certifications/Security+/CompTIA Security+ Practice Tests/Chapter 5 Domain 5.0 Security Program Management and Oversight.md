@@ -306,7 +306,9 @@ Risk exception recognizes risk areas where an organization may not be in complia
 63. B
 64. A
 65. A
-66. A
+66. ~~A~~
 67. C
-68. A
-69. 
+68. ~~A~~
+69. B
+70. ~~C~~
+7/10
