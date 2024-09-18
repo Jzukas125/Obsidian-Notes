@@ -361,3 +361,23 @@ B. Purchase cybersecurity insurance.
 C. Use secure, ransomware-resistant backups.
 D. Continue to operate as usual.
 
+EDRs are better than backups.
+
+72 B is correct
+Shane’s organization has determined that they can accept up to $10,000,000 a year in riskrelated loss in support of their strategic plans. What term best describes this?
+A. Risk acceptance
+B. Risk appetite
+C. Ad hoc risk
+D. A conservative risk tolerance
+
+Shane's organization has determined their risk appetite. They are willing to accept some risk, but may also choose to mitigate, transfer, or otherwise deal with their risk to match their appetite. 
+
+73 C is correct
+Eric manages his organization’s internal security team and wants to leverage a penetration
+test as part of his team’s testing that allows them to respond to simulated attacks. What type of model best describes this?
+A. Physical
+B. Offensive
+C. Defensive
+D. Integrated
+
+Defensive penetration testing seeks to allow the organization to learn as defenders. Offensive pen testing involves acting like attackers, including 
