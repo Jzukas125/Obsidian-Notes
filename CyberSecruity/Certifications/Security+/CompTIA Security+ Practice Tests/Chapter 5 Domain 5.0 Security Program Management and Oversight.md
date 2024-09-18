@@ -342,4 +342,6 @@ D. An attestation-based assessment
 The GDPR is a regulation, making this a regulatory assessment or audit.
 
 # 71 - 80
-71. 
+71. C
+72. A
+73. 
