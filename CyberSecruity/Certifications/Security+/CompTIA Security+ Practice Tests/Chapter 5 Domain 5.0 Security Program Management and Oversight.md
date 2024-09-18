@@ -390,4 +390,15 @@ B. Audit sign-off
 C. Regulatory defense
 D. Attestation
 
-Auditors provide a statement about an organization's posture as part of an attestation process. This provides assurance that the auditors have reviewed a
+Auditors provide a statement about an organization's posture as part of an attestation process. This provides assurance that the auditors have reviewed the organization's practices and have found them suitable or that decencies have been identified. 
+
+78 B is correct
+Anton’s organization processes credit cards but is a small organization. As part of their
+annual requirements related to PCI DSS, Anton fills out a form about their PCI DSS compliance and submits it to their acquiring bank. What type of assessment has his organization
+conducted?
+A. An internal regulatory audit
+B. A self-assessment
+C. An independent, third-party audit
+D. An external compliance audit
+
+Filling out forms attesting to your own organization's compliance status is an example of self-assessment. This is not an audit activity, PCI DSS is not a regulation, and no third parties were involved to make it external or independent and third party.
