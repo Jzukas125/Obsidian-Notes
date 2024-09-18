@@ -342,13 +342,22 @@ D. An attestation-based assessment
 The GDPR is a regulation, making this a regulatory assessment or audit.
 
 # 71 - 80
-71. C
-72. A
-73. B
+71. ~~C~~
+72. ~~A~~
+73. ~~B~~
 74. D
-75. B
+75. ~~B~~
 76. A
 77. D
-78. C
+78. ~~C~~
 79. C
-80. 
+80. D
+
+71 A is correct
+Alexandria wants to mitigate the risk of ransomware during its initial infection stages. Which
+of the following strategies should she employ?
+A. Deploy an EDR tool.
+B. Purchase cybersecurity insurance.
+C. Use secure, ransomware-resistant backups.
+D. Continue to operate as usual.
+
