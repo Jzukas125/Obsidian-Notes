@@ -380,4 +380,14 @@ B. Offensive
 C. Defensive
 D. Integrated
 
-Defensive penetration testing seeks to allow the organization to learn as defenders. Offensive pen testing involves acting like attackers, including 
+Defensive penetration testing seeks to allow the organization to learn as defenders. Offensive pen testing involves acting like attackers, including nation-state actors with advanced capabilities like those described in this question. 
+
+75 D is correct
+Jackie is an auditor and has completed an SOC 2, Type 2 audit. Her firm then provides a
+statement about the organization’s audit results and posture. What is this process known as?
+A. Penetration testing
+B. Audit sign-off
+C. Regulatory defense
+D. Attestation
+
+Auditors provide a statement about an organization's posture as part of an attestation process. This provides assurance that the auditors have reviewed a
