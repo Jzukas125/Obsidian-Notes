@@ -312,3 +312,21 @@ Risk exception recognizes risk areas where an organization may not be in complia
 69. B
 70. ~~C~~
 7/10
+
+66 C is correct
+How is exposure factor (EF) expressed for risk calculations?
+A. As a calculation of the ALE multiplied by the ARO
+B. As the likelihood of loss
+C. As a potential percentage of loss
+D. As a calculation of the SLE multiplied by the ARO
+
+Exposure factors are the percentage of value of an asset that would be lost due to an incident. ALE is the annual loss expectancy, and the ARO is the annual rate of occurrence. SLE is the single loss expectancy. Calculating those gives the cost of an incident.
+
+68 D is correct
+Valerie’s organization wants to ensure that their access control vestibule, ID card system, and guards are effective in stopping unwanted entrance. What type of penetration test should she use to validate this?
+A. Physical
+B. Offensive
+C. Defensive
+D. Integrated
+
+Integrated penetration testing combines both offensive and defensive pentation testing, and testing guards as well as attempting to make it through access controls is an example of an integrated test.
