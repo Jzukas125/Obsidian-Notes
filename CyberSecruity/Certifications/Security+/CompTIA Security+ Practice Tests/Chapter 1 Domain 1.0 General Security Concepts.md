@@ -644,4 +644,9 @@ Microwave sensors are not commonly used to detect intruders. Infrared and ultras
 142. C
 143. B
 144. B
-145. 
+145. B
+146. C
+147. C
+148. B
+149. B
+150. 
