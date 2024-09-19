@@ -600,3 +600,43 @@ Change management process typically focus on documenting dependencies and ensuri
 140. ~~D~~
 6/10
 
+131 A is correct
+Gary has implemented record-level encryption for his database. How many keys will he use in a typical implementation of record-level encryption?
+A. One key per record
+B. One key per column
+C. One key per table
+D. One key per database
+
+Record level encryption relies on a unique key for each record, keeping records private to a user or account in typical usage.
+
+135 D is correct
+Which of the following is not a common reason to implement key escrow?
+A. Regulatory compliance
+B. Providing access to encrypted data for administrative reasons
+C. Providing access to encrypted data in emergencies
+D. Preventing the need for key rotation after a user leaves
+
+Key rotation should occur when a user leaves, even if the key is escrowed. Regulatory compliance as well as providing access for administrative or emergency access to organizational data are common reasons to implement key escrow.
+
+137 B is correct
+What happens if a mistake is made and an incorrect transaction is entered into the open
+public ledger in a blockchain?
+A. The transaction is reversed once it is discovered, and the original transaction is
+removed from the record.
+B. A new transaction must be processed, and both transactions remain in the record.
+C. The original transaction is updated and becomes the new record.
+D. An error block must be mined and labeled with the transaction number and error
+details.
+
+Since blockchains are not changed after transactions are recorded, a new transaction must be recorded and both transactions remain in the record as part of the ledger.
+
+140 C is correct
+Julia wants to detect if an intruder enters a space using a sensor system. Which of the following is not typically used to detect intruders?
+A. Infrared sensors
+B. Pressure sensors
+C. Microwave sensors
+D. Ultrasonic sensors
+
+Microwave sensors are not commonly used to detect intruders. Infrared and ultrasonic sensors are commonly used, and pressure sensors may be using in special circumstances.
+
+# 141 - 160
