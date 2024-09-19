@@ -591,4 +591,6 @@ Change management process typically focus on documenting dependencies and ensuri
 131. B
 132. A
 133. C
-134. 
+134. B
+135. B
+136. 
