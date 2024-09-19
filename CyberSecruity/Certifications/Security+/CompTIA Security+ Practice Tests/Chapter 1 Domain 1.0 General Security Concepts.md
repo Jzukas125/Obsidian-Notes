@@ -639,4 +639,9 @@ D. Ultrasonic sensors
 
 Microwave sensors are not commonly used to detect intruders. Infrared and ultrasonic sensors are commonly used, and pressure sensors may be using in special circumstances.
 
-# 141 - 160
+# 141 - 150 
+141. C
+142. C
+143. B
+144. B
+145. 
