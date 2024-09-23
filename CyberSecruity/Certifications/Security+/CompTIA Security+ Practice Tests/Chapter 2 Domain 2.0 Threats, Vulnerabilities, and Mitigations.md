@@ -503,4 +503,4 @@ Amplification attacks typically use spoofed user Datagram Protocol UDP, queries 
 97. A
 98. D
 99. B
-100. 
+100. B
