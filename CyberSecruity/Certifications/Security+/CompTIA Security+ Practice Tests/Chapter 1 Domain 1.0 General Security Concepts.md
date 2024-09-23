@@ -646,7 +646,18 @@ Microwave sensors are not commonly used to detect intruders. Infrared and ultras
 144. B
 145. B
 146. C
-147. C
+147. ~~C~~
 148. B
 149. B
-150. 
+150. D
+9/10
+
+147 B is correct
+Bob conducts a periodic risk assessment of his organization. What category of security
+control is this?
+A. Technical
+B. Managerial
+C. Operational
+D. Physical
+
+Risk assessments are managerial control, which includes procedural mechanisms related to the risk management process.
