@@ -494,4 +494,7 @@ D. Spoofing responses from the amplification system to the target
 Amplification attacks typically use spoofed user Datagram Protocol UDP, queries sent to increase the volume of traffic sent in response to the target.
 
 # 91 - 100
-91. 
+91. D
+92. B
+93. A
+94. 
