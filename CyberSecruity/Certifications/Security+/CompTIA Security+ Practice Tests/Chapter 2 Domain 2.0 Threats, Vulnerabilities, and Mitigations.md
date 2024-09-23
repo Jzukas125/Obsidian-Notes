@@ -562,3 +562,23 @@ In order to deliver a malicious update that uses a signing certificate, Eric wil
 110. ~~B~~
 7/10
 
+101 C is correct
+Your company is instituting a new security awareness program. You are responsible for
+educating end users on a variety of threats, including social engineering. Which of the following best defines social engineering?
+A. Illegal copying of software
+B. Gathering information from discarded manuals and printouts
+C. Using people skills to obtain proprietary information
+D. Phishing emails
+
+Social engineering is about using people skills to get information you would not otherwise have access to. Illagal copying of software isn't oscial engineering, nor is gathering of discarded manuals and printouts, which describes dumpster diving. Phishing emails use some social engineering, but that is just an example not a defintion.
+
+106 A is correct
+Susan performs a vulnerability scan of a small business network and discovers that the
+organization’s consumer-grade wireless router has a vulnerability in its web server. What
+issue should she address in her findings?
+A. Firmware patch management
+B. Default configuration issues
+C. An unsecured administrative account
+D. Weak encryption settings
+
+Software updates for consumer grade wireless route
