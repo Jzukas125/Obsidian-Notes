@@ -526,4 +526,24 @@ B. Password spraying
 C. Limited login attacks
 D. Account spinning
 
-Passwor
+Password spraying is a specific type of brute force attack that uses a smaller list of common passwords for many accounts to attempt to log in. 
+
+97 C is correct
+You have discovered that there are entries in your network’s domain name server that point
+legitimate domains to unknown and potentially harmful IP addresses. What best describes
+this type of attack?
+A. A backdoor
+B. An APT
+C. DNS poisoning
+D. A Trojan horse
+
+DNS poisoning occurs when false DNS information is inserted into legitimate DNS servers, resulting in traffic being redirected to unwanted or malicious sites.
+
+99 A is true
+Eric is conducting a penetration test and wants to release a malicious update for an organization’s application. The organization uses public key encryption to sign updates. What
+does Eric need to deliver an update that systems will accept?
+A. The private key for the signing certificate
+B. A collision with the hashed value of a legitimate update
+C. The public key for the signing certificate
+D. A collision with the hashed value of a malicious update
+
