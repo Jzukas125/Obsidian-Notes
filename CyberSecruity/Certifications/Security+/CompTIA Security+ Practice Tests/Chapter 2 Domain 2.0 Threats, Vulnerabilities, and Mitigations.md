@@ -555,3 +555,7 @@ In order to deliver a malicious update that uses a signing certificate, Eric wil
 103. D
 104. D
 105. B
+106. D
+107. B
+108. A
+109. 
