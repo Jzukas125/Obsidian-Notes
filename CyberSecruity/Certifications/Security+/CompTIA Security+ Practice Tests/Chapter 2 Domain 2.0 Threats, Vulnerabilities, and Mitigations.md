@@ -547,3 +547,4 @@ B. A collision with the hashed value of a legitimate update
 C. The public key for the signing certificate
 D. A collision with the hashed value of a malicious update
 
+In order to deliver a malicious update that uses a signing certificate, Eric will need to gain access to the private key for the signing certificate.
