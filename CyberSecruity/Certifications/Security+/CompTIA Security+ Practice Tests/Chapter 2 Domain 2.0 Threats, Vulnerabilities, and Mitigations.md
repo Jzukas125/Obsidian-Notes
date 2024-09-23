@@ -496,11 +496,34 @@ Amplification attacks typically use spoofed user Datagram Protocol UDP, queries 
 # 91 - 100
 91. D
 92. B
-93. A
-94. D
+93. ~~A~~
+94. ~~D~~
 95. B
 96. A
-97. A
+97. ~~A~~
 98. D
-99. B
+99. ~~B~~
 100. B
+6/10
+
+93 C is correct
+What is the primary difference in threat vectors between agent client-based and agentless
+software deployments?
+A. Agentless software does not consume resources and thus cannot result in a resource
+consumption-based denial-of-service condition.
+B. Client-based software provides a better view of system resources and is able to manage
+its resource consumption better to avoid issues.
+C. Agentless software does not have an agent that may be potentially vulnerable to attack.
+D. Client-based software allows for greater security because it can be patched.
+
+Agentless software does not have an agent installed that can be targeted. That means that the server or control system is the only target for attackers. Agentless software can still consume resources as queries and actions are taken by the server or control plane.
+
+94 B is correct
+Angela reviews the authentication logs for her website and sees attempts from many different
+accounts using the same set of passwords. What is this attack technique called?
+A. Brute forcing
+B. Password spraying
+C. Limited login attacks
+D. Account spinning
+
+Passwor
