@@ -570,7 +570,7 @@ B. Gathering information from discarded manuals and printouts
 C. Using people skills to obtain proprietary information
 D. Phishing emails
 
-Social engineering is about using people skills to get information you would not otherwise have access to. Illagal copying of software isn't oscial engineering, nor is gathering of discarded manuals and printouts, which describes dumpster diving. Phishing emails use some social engineering, but that is just an example not a defintion.
+Social engineering is about using people skills to get information you would not otherwise have access to. Illegal copying of software isn't social engineering, nor is gathering of discarded manuals and printouts, which describes dumpster diving. Phishing emails use some social engineering, but that is just an example not a definition.
 
 106 A is correct
 Susan performs a vulnerability scan of a small business network and discovers that the
@@ -581,4 +581,14 @@ B. Default configuration issues
 C. An unsecured administrative account
 D. Weak encryption settings
 
-Software updates for consumer grade wireless route
+Software updates for consumer grade wireless routers are typically applied as firmware updates, and Susan should recommend that the business owner regularly upgrade their wireless router firmware. 
+
+110 C is correct
+What two files are commonly attacked using offline brute-force attacks?
+A. The Windows Registry and the Linux /etc/passwd file
+B. The Windows SAM and the Linux /etc/passwd file
+C. The Windows SAM and the Linux /etc/shadow file
+D. The Windows Registry and the Linux /etc/shadow file
+
+The Windows security account manager file and the /etc/shadow file for Linux systems both contain passwords and are popular targets for offline brute-force attacks.
+
