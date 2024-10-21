@@ -594,4 +594,8 @@ The Windows security account manager file and the /etc/shadow file for Linux sys
 
 # 111 - 120
 111. A
-112. 
+112. B
+113. C
+114. B
+115. A
+116. 
