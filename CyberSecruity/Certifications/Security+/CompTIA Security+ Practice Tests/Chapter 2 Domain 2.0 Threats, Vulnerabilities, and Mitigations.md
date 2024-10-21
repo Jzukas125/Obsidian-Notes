@@ -603,3 +603,16 @@ The Windows security account manager file and the /etc/shadow file for Linux sys
 118. C
 119. C
 120. ~~A~~
+
+11 B is correct
+You have noticed that when in a crowded area, data from your cell phone is stolen. Later
+investigation shows a Bluetooth connection to your phone, one that you cannot explain.
+What describes this attack?
+A. Bluejacking
+B. Bluesnarfing
+C. An evil twin attack
+D. A remote-access Trojan
+
+Bluesnarfing involves accessing data from a Bluetooth device when it is in range. Bluejacking involves sending unsolicited messages to Bluetooth devices when they are in range.
+
+116 C is correct
