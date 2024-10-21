@@ -593,13 +593,13 @@ D. The Windows Registry and the Linux /etc/shadow file
 The Windows security account manager file and the /etc/shadow file for Linux systems both contain passwords and are popular targets for offline brute-force attacks.
 
 # 111 - 120
-111. A
+111. ~~A~~
 112. B
 113. C
 114. B
 115. A
-116. B
+116. ~~B~~
 117. A
 118. C
 119. C
-120. A
+120. ~~A~~
