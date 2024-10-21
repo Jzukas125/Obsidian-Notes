@@ -616,3 +616,10 @@ D. A remote-access Trojan
 Bluesnarfing involves accessing data from a Bluetooth device when it is in range. Bluejacking involves sending unsolicited messages to Bluetooth devices when they are in range.
 
 116 C is correct
+Under what circumstances are concurrent sessions most commonly considered indicators of
+compromise?
+A. When they occur on the same system
+B. When they occur on two different systems issued to the same user
+C. When they occur in two different locations at the same time
+D. When they occur in the same location at the same time
+
