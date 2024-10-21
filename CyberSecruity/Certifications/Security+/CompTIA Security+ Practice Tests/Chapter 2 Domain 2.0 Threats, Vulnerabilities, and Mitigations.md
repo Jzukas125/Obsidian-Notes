@@ -623,3 +623,12 @@ B. When they occur on two different systems issued to the same user
 C. When they occur in two different locations at the same time
 D. When they occur in the same location at the same time
 
+120 B is correct
+Ryan needs to verify that no unnecessary ports and services are available on his systems,
+but he cannot run a vulnerability scanner. What is his best option?
+A. Passive network traffic capture to detect services
+B. A configuration review
+C. Active network traffic capture to detect services
+D. Log review
+
+Configuration reviews, either using automated tool or manual validation, can be used proactive way to ensure that unnecessary ports and services are not accessible. Configuration management tools can also help ensure that expected configurations are in place. Neither passive nor active network packet capture will show services that are not accessed, meaning that open ports could missed, and log review won't 
