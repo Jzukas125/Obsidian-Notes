@@ -631,4 +631,4 @@ B. A configuration review
 C. Active network traffic capture to detect services
 D. Log review
 
-Configuration reviews, either using automated tool or manual validation, can be used proactive way to ensure that unnecessary ports and services are not accessible. Configuration management tools can also help ensure that expected configurations are in place. Neither passive nor active network packet capture will show services that are not accessed, meaning that open ports could missed, and log review won't 
+Configuration reviews, either using automated tool or manual validation, can be used proactive way to ensure that unnecessary ports and services are not accessible. Configuration management tools can also help ensure that expected configurations are in place. Neither passive nor active network packet capture will show services that are not accessed, meaning that open ports could missed, and log review won't show all open ports either.
