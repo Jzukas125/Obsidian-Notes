@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations"
+              "title": "Brim"
             }
           },
           {
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations"
+              "title": "Backlinks for Brim"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations"
+              "title": "Outgoing links from Brim"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations"
+              "title": "Outline of Brim"
             }
           },
           {
@@ -212,9 +212,10 @@
   },
   "active": "fdfaf5b5c7b641e7",
   "lastOpenFiles": [
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Esc.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
-    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 1 Domain 1.0 General Security Concepts.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 5 Domain 5.0 Security Program Management and Oversight.md",
@@ -244,7 +245,6 @@
     "CyberSecruity/TryHackMe/Network and System Security",
     "CyberSecruity/CCDC/Nmap.md",
     "CyberSecruity/CCDC/Netstat and Net.md",
-    "CyberSecruity/Bug Bounty/Hacker101 - Intro and The Web in Depth.md",
     "Untitled.canvas",
     "Pasted image 20230918170051.png",
     "CyberSecruity/CTF",
