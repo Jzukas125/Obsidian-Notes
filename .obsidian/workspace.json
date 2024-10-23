@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brim"
+              "title": "Intro to Endpoint Security"
             }
           },
           {
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brim"
+              "title": "Backlinks for Intro to Endpoint Security"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brim"
+              "title": "Outgoing links from Intro to Endpoint Security"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md"
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Brim"
+              "title": "Outline of Intro to Endpoint Security"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "fdfaf5b5c7b641e7",
   "lastOpenFiles": [
-    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
+    "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Esc.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 4 Domain 4.0 Security Operations.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 3 Domain 3.0 Security Architecture.md",
