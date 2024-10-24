@@ -67,4 +67,7 @@ Wazuh is an open source, freely available, and extensive EDR solution, which sec
 # Endpoint Log Analysis 
 
 <h3> Event Correlation </h3>
-Each correlation identifies significant relationships from multiple log sources such as application logs, endpoint logs, and network logs. Event coorelation deals with identifying significant artefacts co-existing from different log sources a
+Each correlation identifies significant relationships from multiple log sources such as application logs, endpoint logs, and network logs. Event correlation deals with identifying significant artefacts co-existing from different log sources and connecting each related artefact. 
+
+<h3> Baselining </h3>
+Baselining is the process of knowing what is expected to be normal. In terms of endpoint security monitoring, it requires a vast amount of data gathering to establish the standard behavior of user activities, network traffic across infrastructure, and processes running on all machines owned by the organization. 
