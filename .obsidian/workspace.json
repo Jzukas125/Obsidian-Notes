@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
+                "file": "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Core Windows Processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to Endpoint Security"
+              "title": "Core Windows Processes"
             }
           },
           {
@@ -212,6 +212,8 @@
   },
   "active": "fdfaf5b5c7b641e7",
   "lastOpenFiles": [
+    "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
+    "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Core Windows Processes.md",
     "CyberSecruity/TryHackMe/SOC Level 1/Network Security and Traffic Analysis/Brim.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Chapter 2 Domain 2.0 Threats, Vulnerabilities, and Mitigations.md",
     "CyberSecruity/Certifications/Security+/CompTIA Security+ Practice Tests/Esc.md",
@@ -241,10 +243,8 @@
     "Personal Notes/How to Impress at a SE internship.md",
     "Playbooks/SOC Playbook.md",
     "CyberSecruity/TryHackMe/Network and System Security/Secure Network Architecture.md",
-    "CyberSecruity/TryHackMe/SOC Level 1/Endpoint Security/Intro to Endpoint Security.md",
     "CyberSecruity/TryHackMe/Network and System Security",
     "CyberSecruity/CCDC/Nmap.md",
-    "CyberSecruity/CCDC/Netstat and Net.md",
     "Untitled.canvas",
     "Pasted image 20230918170051.png",
     "CyberSecruity/CTF",
