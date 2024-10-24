@@ -60,3 +60,11 @@ Gathers very detailed information, commonly used with a SIEM.
 
 <h3> OSQuery </h3>
 Open-source tool created by Facebook. Can query an endpoint using SQL syntax. Osquery can be installed on various platforms.
+
+<h3> Wazuh </h3>
+Wazuh is an open source, freely available, and extensive EDR solution, which security engineers can deploy in all scales of environments. 
+
+# Endpoint Log Analysis 
+
+<h3> Event Correlation </h3>
+Each correlation identifies significant relationships from multiple log sources such as application logs, endpoint logs, and network logs. Event coorelation deals with identifying significant artefacts co-existing from different log sources a
